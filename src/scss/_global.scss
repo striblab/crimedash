@@ -1,0 +1,178 @@
+html, body {
+	position: relative;
+	width: 100%;
+	height: 100%;
+}
+
+body {
+	color: #333;
+	margin: 0;
+	/*padding: 8px;*/
+	box-sizing: border-box;
+	font-family: "Benton Sans", sans-serif;
+}
+
+a {
+    color: #228B22; /* Forest Green */
+    text-decoration: none; /* Optional: removes underline from links */
+}
+
+.download a {
+    color: steelblue;
+    text-decoration: none;
+}
+
+.download a:hover{
+    color: steelblue;
+    text-decoration: underline;
+}
+
+a:hover, a:focus {
+    color: #006400; /* Darker shade of green for hover/focus states */
+    text-decoration: underline; /* Optional: adds underline on hover/focus */
+}
+
+.article-byline a {
+	color: #006400;
+}
+
+label {
+	display: block;
+}
+
+input, button, select, textarea {
+	font-family: inherit;
+	font-size: inherit;
+	padding: 0.4em;
+	margin: 0 0 0 0;
+	box-sizing: border-box;
+	border: 1px solid #ccc;
+	border-radius: 2px;
+}
+
+input:disabled {
+	color: #ccc;
+}
+
+input[type="range"] {
+	height: 0;
+}
+
+button {
+	background-color: #f4f4f4;
+	outline: none;
+}
+
+button:active {
+	background-color: #ddd;
+}
+
+button:focus {
+	border-color: #666;
+}
+
+// No JS module
+#no-js {
+	max-width: 600px;
+	margin: 2rem auto;
+	padding: 1.2rem;
+	border: 1px solid #999;
+	border-radius: .5rem;
+	background-color: #f5f5f5;
+
+	h3 {
+		font-family:'Benton Sans',Helvetica,sans-serif;
+		font-style: normal;
+		font-weight:bold;
+		font-size: 1.4rem;
+	}
+
+	p {
+		font-family:'Benton Sans',Helvetica,sans-serif;
+		font-style: normal;
+		font-weight:normal;
+
+		&:last-child {
+			margin-bottom: 0 !important;
+		}
+	}
+}
+
+/*CHORUS OVERRIDE STYLING*/
+
+.series-article .l-article-body .article-body {
+    width: 100% !important;
+    margin: auto !important;
+}
+
+.series-article div.text-wrapper {
+	width: 85%;
+	margin: 0 auto;
+	max-width: 600px;
+}
+
+.series-article .l-article-body .article-author-contact {
+	width: 85%;
+	margin: 0 auto;
+	max-width: 600px;
+	margin-top: 50px;
+}
+
+.series-article .l-article-body .comments-section {
+	width: 85%;
+	margin: 0 auto;
+	max-width: 600px;
+	margin-top: 50px;
+}
+
+.series-article #proj-container p {
+	line-height: 140%;
+    margin-bottom: 14px;
+    font-size: 16px !important;
+    margin-bottom: 25px !important;
+}
+
+.series-article div.text-wrapper.methodology p {
+	font-family: "Benton Sans" !important;
+}
+
+.m-controls {
+	display: none;
+	@media only screen and (max-width: 520px) {
+		display: block;
+	}
+}
+
+h1 {
+    font-size: 2.5em; /* 40px if the base size is 16px */
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+}
+
+h2 {
+    font-size: 2em; /* 32px if the base size is 16px */
+    margin-top: 0.75em;
+    margin-bottom: 0.75em;
+}
+
+h3 {
+    font-size: 1.75em; /* 28px if the base size is 16px */
+    margin-top: 1em;
+    margin-bottom: 1em;
+	font-family: 'Roboto', Arial, Helvetica, sans-serif !important;
+}
+
+h4 {
+    font-size: 1.5em; /* 24px if the base size is 16px */
+    margin-top: 1.25em;
+    margin-bottom: 1.25em;
+	font-family: 'Roboto', Arial, Helvetica, sans-serif !important;
+}
+
+hr {
+    border: none;  /* Removes the default border */
+    height: 2px;   /* Sets the height of the horizontal line */
+    background: linear-gradient(to right, #aaaaaa, #aaaaaa); /* Gradient from blue to purple */
+    margin: 20px 0; /* Adds space above and below the line */
+}
+

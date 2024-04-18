@@ -1,0 +1,676 @@
+---
+title: "Star Tribune public safety dashboard"
+author: "by Jeff Hargarten"
+output:
+  html_document: 
+    toc: true
+    to_depth: 1
+    toc_float: true
+    theme: flatly
+---
+
+```{r, include=FALSE}
+###LIBRARIES###
+library(tidyverse)
+library(sf)
+library(patchwork)
+library(RMySQL)
+library(dplyr)
+library(ggplot2)
+library(lubridate)
+library(readr) #importing csv files
+library(tidyr)
+library(janitor) #use this for doing crosstabs
+library(readxl)
+library(scales)
+library(ggthemes)
+library(stringr)
+library(DT)
+library(knitr) #needed for making tables in markdown page
+library(htmltools)#this is needed for Rstudio to display kable and other html code
+library(rmarkdown)
+library(kableExtra)
+library(formattable)
+library(ggalt)
+library(jsonlite)
+library(httr)
+library(purrr)
+
+```
+
+```{r, include=FALSE}
+#REMOVE OLD FILES
+cleanup <- function(filename, crime){
+directory_path <- "/Users/hargaja/Desktop/workspace/redboard/20240428-crimedash/scripts"
+csv_files <- list.files(path = directory_path, pattern = "\\.csv$", full.names = TRUE)
+svg_files <- list.files(path = directory_path, pattern = "\\.svg$", full.names = TRUE)
+geo_files <- list.files(path = directory_path, pattern = "_neighborhoods.geojson$", full.names = TRUE)
+file_removed <- file.remove(csv_files)
+print(file_removed)
+
+file_removed <- file.remove(geo_files)
+print(file_removed)
+
+file_removed <- file.remove(svg_files)
+print(file_removed)
+}
+
+cleanup()
+```
+
+```{r, include=FALSE}
+# DOWNLOAD NEW CRIME DATA
+# Specify the URL of the file you want to download
+file_url <- "https://opendata.arcgis.com/api/v3/datasets/441d4c0410854e3da692b24347ab6b0d_0/downloads/data?format=csv&spatialRefId=4326&where=1%3D1"
+
+# Specify the local destination where you want to save the file
+local_destination <- "/Users/hargaja/Desktop/workspace/redboard/20240428-crimedash/scripts/Crime_Data.csv"
+
+# Download the file
+download.file(url = file_url, destfile = local_destination, method = "auto")
+```
+
+```{r, include=FALSE}
+###BASIC DATA FORMATTING###
+
+# Read the CSV file using read_csv from tidyverse
+data <- read_csv(local_destination)
+
+# DATE FORMATTING
+# Use separate to split the 6th column into two columns
+data <- data %>%
+  separate(col = Reported_Date, into = c("Date", "Timestamp"), sep = " ")
+
+# Convert the "Date" column to a Date format
+data$Date <- as.Date(data$Date)
+
+# Extract year and month from the "Date" column
+data <- data %>%
+  mutate(Year = lubridate::year(Date),
+         Month = lubridate::month(Date))
+
+# Determine the most recent month and year in your dataset
+current_year <- max(data$Year)
+most_recent_month <- max(data$Month[data$Year == current_year])
+```
+
+```{r, include=FALSE}
+# GROUP DATA BY OFFENSE
+# Group by Year, Month, and Offense, then calculate the number of incidents
+result <- data %>%
+  group_by(Year, Offense) %>%
+  summarise(IncidentCount = n())
+
+```
+
+# CSV FILE COPIER
+```{r}
+csvcopy <- function(filename, crime){
+  # Get the current working directory (where your R script is)
+  current_working_dir <- getwd()
+  
+  # Build the source path using the current working directory
+  source_path <- file.path(current_working_dir, filename)
+  
+  # Build the destination path using the current working directory and the crime subfolder
+  destination_path <- file.path(current_working_dir, "..", "public", crime, filename)
+  
+  # Copy the file and overwrite if it exists
+  file.copy(from = source_path, to = destination_path, overwrite = TRUE)
+}
+```
+
+# CORE DATA SPLICING FUNCTIONS
+```{r}
+# Specify the list of offenses
+categories <- c('Motor Vehicle Theft', 'Aggravated Assault', 'Arson', 
+                'Carjacking - Subset of Robbery', 'Robbery', 'Sex Offenses', 
+                'Murder and Nonnegligent Manslaughter', 'Shooting (PFE)', 
+                'Shooting Report Only (P)', 'ShotSpotter Activation (P)',  'Sound of Shots Fired (P)')
+
+#BREAKDOWN OFFENSES BY TYPE
+rawplot <- function(categories, crime){
+  
+  raw_file <- paste0(crime, "_raw.csv")
+  
+   # Initialize an empty data frame to store the results
+  all_years_data <- data.frame()
+
+  # Loop through each category in the provided list of categories
+  for (category in categories) {
+    # Summarize data by Year for the current category
+  category_data <- data %>%
+      filter(Offense == category)
+
+    # Bind the data for the current category to the overall data frame
+    all_years_data <- rbind(all_years_data, category_data)
+  }
+
+  # Write the combined data to a CSV file
+  write.csv(all_years_data, raw_file, row.names = FALSE)
+  
+  csvcopy(raw_file, crime)
+}
+rawplot(categories,'')
+```
+
+```{r}
+#BREAKDOWN OFFENSES BY YEAR
+ycatplot <- function(categories, crime){
+  
+  yearly_count_file <- paste0(crime, "_yearly_incident_counts.csv")
+  
+   # Initialize an empty data frame to store the results
+  all_years_data <- data.frame()
+
+  # Loop through each category in the provided list of categories
+  for (category in categories) {
+    # Summarize data by Year for the current category
+    category_data <- data %>%
+      filter(Offense == category) %>%
+      group_by(Year) %>%
+      summarise(OffenseCount = sum(Crime_Count, na.rm = TRUE), .groups = 'drop')
+
+    # Bind the data for the current category to the overall data frame
+    all_years_data <- rbind(all_years_data, category_data)
+  }
+
+  # Write the combined data to a CSV file
+  write.csv(all_years_data, yearly_count_file, row.names = FALSE)
+  
+  csvcopy(yearly_count_file, crime)
+}
+ycatplot(categories,'')
+```
+
+```{r}
+#BREAKDOWN OFFENSES BY MONTH
+mocatplot <- function(categories, crime){
+  monthly_file <- paste0(crime, "_monthly_comparison.csv") 
+  
+    for (category in categories) {
+      specific_offense_data <- data %>%
+        filter(Offense == category) %>%
+        group_by(Year, Month, Offense) %>%
+        summarise(IncidentCount = sum(Crime_Count, na.rm = TRUE), .groups = 'drop') %>%
+        mutate(Date = as.Date(paste(Year, Month, "1", sep = "-"))) %>%
+        arrange(Date)
+      
+      write.table(specific_offense_data, monthly_file, sep = ",", row.names = FALSE, col.names = !file.exists(monthly_file), append = TRUE)
+      
+    }
+  
+  csvcopy(monthly_file, crime)
+}
+mocatplot(categories,'')
+```
+
+```{r}
+# BREAKDOWN OFFENSES BY YTD INCLUDING ALL YEARS SINCE 2019 TO DATE
+ytdcatplot <- function(categories, crime) {
+  ytd_file <- paste0(crime, "_ytd_comparison.csv")
+
+  # Determine the most recent full date in the dataset
+  max_date <- max(data$Date)
+  most_recent_year <- as.integer(format(max_date, "%Y"))
+  most_recent_month <- as.integer(format(max_date, "%m"))
+  most_recent_day <- as.integer(format(max_date, "%d"))
+  
+  # Initialize an empty data frame to store the results
+  all_years_comparison <- data.frame(Year = integer(), Offense = character(), YTDCount = numeric(), PrevYTDCount = numeric(), YTDPercentageChange = numeric())
+
+  # Loop through each category
+  for (category in categories) {
+    
+    # Loop through each year from 2019 to the most recent year
+    for (year in 2019:most_recent_year) {
+      # Get data for the current year up to the most recent full date
+      current_year_data <- data %>%
+        filter(Date >= as.Date(paste(year, "01", "01", sep="-")), Date <= as.Date(paste(year, most_recent_month, most_recent_day, sep="-")), Offense == category) %>%
+        summarise(YTDCount = sum(Crime_Count, na.rm = TRUE)) %>%
+        mutate(Year = year, Offense = category, PrevYTDCount = NA_real_, YTDPercentageChange = NA_real_) # Add missing columns as NA
+
+      # Get data for the previous year up to the same day
+      if (year > 2019) { # Ensure there is a previous year to compare to
+        previous_year_data <- data %>%
+          filter(Date >= as.Date(paste(year - 1, "01", "01", sep="-")), Date <= as.Date(paste(year - 1, most_recent_month, most_recent_day, sep="-")), Offense == category) %>%
+          summarise(PrevYTDCount = sum(Crime_Count, na.rm = TRUE))
+
+        # Calculate percentage change if previous year data exists
+        if (nrow(previous_year_data) > 0 && !is.na(previous_year_data$PrevYTDCount) && previous_year_data$PrevYTDCount != 0) {
+          current_year_data$PrevYTDCount <- previous_year_data$PrevYTDCount
+          current_year_data$YTDPercentageChange <- (current_year_data$YTDCount / previous_year_data$PrevYTDCount - 1) * 100
+        }
+      }
+
+      # Bind the yearly comparison to the all years comparison
+      all_years_comparison <- rbind(all_years_comparison, current_year_data)
+    }
+  }
+  
+  # Write or append the data to the CSV file, make sure column names do not repeat
+  write.table(all_years_comparison, ytd_file, sep = ",", row.names = FALSE, col.names = !file.exists(ytd_file), append = TRUE)
+
+  csvcopy(ytd_file, crime)
+}
+
+ytdcatplot(categories,'')
+```
+```{r}
+# BREAKDOWN OFFENSES BY POLICE PRECINCT AND YEAR
+precinctcount <- function(categories, crime) {
+  # Generate a unique filename for output to avoid overwriting
+  file_name <- paste0(crime, "_precinct.csv")
+  
+  # Initialize an empty data frame to store the results
+  all_years_precincts <- data.frame()
+
+  # Loop through each category in the provided list of categories
+  for (category in categories) {
+    # Summarize data by Year and Precinct for the current category
+    category_data <- data %>%
+      filter(Offense == category) %>%
+      group_by(Year, Precinct) %>%
+      summarise(OffenseCount = sum(Crime_Count, na.rm = TRUE), .groups = 'drop')
+
+    # Bind the data for the current category to the overall data frame
+    all_years_precincts <- rbind(all_years_precincts, category_data)
+  }
+
+  # Write the combined data to a CSV file
+  write.csv(all_years_precincts, file_name, row.names = FALSE)
+
+  csvcopy(file_name, crime)
+}
+
+precinctcount(categories,'')
+
+```
+
+```{r}
+#MAP OFFENSES BY NEIGHBORHOOD
+geocatplot <- function(categories, crime){
+    geo_file <- paste0(crime, "_geo.csv") 
+    
+    # Read the GeoJSON file using st_read from the sf package
+    minneapolis_neighborhoods <- st_read("minneapolis.geojson")
+
+  for (category in categories) {
+      # Group data by Year and Neighborhood, then summarize incidents
+    offenses_by_year_neighborhood <- data %>%
+      filter(Offense == category) %>%
+      group_by(Year, Neighborhood, Offense) %>%
+      summarise(IncidentCount = sum(Crime_Count, na.rm = TRUE), .groups = 'drop')
+    
+    # Pivot the data so each year becomes a column
+    offenses_pivoted <- offenses_by_year_neighborhood %>%
+     pivot_wider(names_from = Year, values_from = IncidentCount, values_fill = list(IncidentCount = 0))
+
+    print(offenses_pivoted)
+
+    #merge with geojson
+     merged_data <- minneapolis_neighborhoods %>%
+  left_join(offenses_pivoted, by = c("BDNAME" = "Neighborhood"))
+  }
+    
+    # Write the combined data to a CSV file
+    write.csv(offenses_pivoted, geo_file, row.names = FALSE)
+    csvcopy(geo_file, crime)
+    
+    # Write the merged data to a new GeoJSON file
+    new_geojson_file <- paste0(crime, "_neighborhoods.geojson")
+    st_write(merged_data, new_geojson_file)
+    csvcopy(new_geojson_file, crime)
+}
+
+geocatplot(categories,'')
+```
+
+```{r}
+#GENERATE SVG MAPS
+generate_svg_maps <- function(crime) {
+  
+  geo_data <- st_read(paste0(crime,"_neighborhoods.geojson"))
+  
+  # Get the list of years from the data
+  years <- names(geo_data)[grepl("X[0-9]{4}", names(geo_data))]  # Assumes years are prefixed with 'X' due to naming conventions in R, like 'X2020'
+
+  # Loop through each year and generate a map
+  for (year in years) {
+    # Prepare the title for the map
+    map_title <- paste(crime, substr(year, 2, 5))
+    
+    # Plot using ggplot
+    p <- ggplot() +
+      geom_sf(data = geo_data, aes(fill = !!sym(year)), color = "black", size = 0.2) +
+     scale_fill_gradient(
+        name = "Incident Count", 
+        low = "#fee0d2", 
+        high = "#de2d26", 
+        na.value = "white",
+        breaks = pretty(range(geo_data[[year]], na.rm = TRUE), n = 5),  # Adjust number of breaks as needed
+        labels = as.integer,  # Ensure labels are formatted as integers
+        limits = c(1, max(geo_data[[year]], na.rm = TRUE))  # Set limits to exclude zero
+      ) +
+      labs(title = map_title, fill = "Incident Count") +
+      theme_minimal() +
+      theme(axis.title = element_blank(),
+            axis.text = element_blank(),
+            axis.ticks = element_blank(),
+            plot.title = element_text(hjust = 0.5))
+    
+    # Define the file name for the SVG output
+    svg_file_name <- paste0(crime, "_map_", substr(year, 2, 5), ".svg")
+    
+    # Save the plot as an SVG
+    ggsave(svg_file_name, plot = p, width = 10, height = 8, units = "in", device = 'svg')
+    csvcopy(svg_file_name, crime)
+  }
+}
+
+# Example usage
+generate_svg_maps('')
+
+```
+
+# Murders
+```{r}
+categories <- c('Murder and Nonnegligent Manslaughter')
+
+rawplot(categories,'murder')
+ycatplot(categories,'murder')
+mocatplot(categories,'murder')
+ytdcatplot(categories,'murder')
+precinctcount(categories,'murder')
+geocatplot(categories,'murder')
+generate_svg_maps('murder')
+
+```
+
+# Aggravated Assaults
+```{r}
+
+categories <- c('Aggravated Assault')
+
+rawplot(categories,'assault')
+ycatplot(categories,'assault')
+mocatplot(categories,'assault')
+ytdcatplot(categories,'assault')
+precinctcount(categories,'assault')
+geocatplot(categories,'assault')
+generate_svg_maps('assault')
+
+```
+
+# Gunfire and Shootings
+```{r}
+categories <- c('Gunshot Wound Victims', 'Shooting (PFE)', 
+                'Shooting Report Only (P)', 'ShotSpotter Activation (P)',  'Sound of Shots Fired (P)')
+
+rawplot(categories,'gunfire')
+ycatplot(categories,'gunfire')
+mocatplot(categories,'gunfire')
+ytdcatplot(categories,'gunfire')
+precinctcount(categories,'gunfire')
+geocatplot(categories,'gunfire')
+generate_svg_maps('gunfire')
+
+```
+
+# Sexual Assaults
+```{r}
+categories <- c('Sex Offenses')
+
+rawplot(categories,'rape')
+ycatplot(categories,'rape')
+mocatplot(categories,'rape')
+ytdcatplot(categories,'rape')
+precinctcount(categories,'rape')
+geocatplot(categories,'rape')
+generate_svg_maps('rape')
+
+```
+
+# Robberies
+```{r}
+categories <- c('Robbery')
+
+rawplot(categories,'robbery')
+ycatplot(categories,'robbery')
+mocatplot(categories,'robbery')
+ytdcatplot(categories,'robbery')
+precinctcount(categories,'robbery')
+geocatplot(categories,'robbery')
+generate_svg_maps('robbery')
+
+```
+
+# Carjackings
+```{r}
+categories <- c('Carjacking - Subset of Robbery')
+
+rawplot(categories,'carjack')
+ycatplot(categories,'carjack')
+mocatplot(categories,'carjack')
+ytdcatplot(categories,'carjack')
+precinctcount(categories,'carjack')
+geocatplot(categories,'carjack')
+generate_svg_maps('carjack')
+
+```
+
+# Motor Vehicle Thefts
+```{r}
+categories <- c('Motor Vehicle Theft')
+
+rawplot(categories,'autotheft')
+ycatplot(categories,'autotheft')
+mocatplot(categories,'autotheft')
+ytdcatplot(categories,'autotheft')
+precinctcount(categories,'autotheft')
+geocatplot(categories,'autotheft')
+generate_svg_maps('autotheft')
+
+```
+
+# Larcenies
+```{r}
+categories <- c('All Other Larceny', 'Theft From Motor Vehicle', 'Pocket-picking', 'Purse-snatching', 'Shoplifting', 'Theft From Building', 'Theft From Coin-Operated Machine or Device', 'Theft of Motor Vehicle Parts or Accessories')
+
+rawplot(categories,'larceny')
+ycatplot(categories,'larceny')
+mocatplot(categories,'larceny')
+ytdcatplot(categories,'larceny')
+precinctcount(categories,'larceny')
+geocatplot(categories,'larceny')
+generate_svg_maps('larceny')
+
+```
+
+# Burglaries
+```{r}
+categories <- c('Burglary/Breaking & Entering')
+
+rawplot(categories,'burglary')
+ycatplot(categories,'burglary')
+mocatplot(categories,'burglary')
+ytdcatplot(categories,'burglary')
+precinctcount(categories,'burglary')
+geocatplot(categories,'burglary')
+generate_svg_maps('burglary')
+
+```
+
+# Arsons
+```{r}
+categories <- c('Arson')
+
+rawplot(categories,'arson')
+ycatplot(categories,'arson')
+mocatplot(categories,'arson')
+ytdcatplot(categories,'arson')
+precinctcount(categories,'arson')
+geocatplot(categories,'arson')
+generate_svg_maps('arson')
+
+```
+
+# Drugs
+```{r}
+categories <- c('Drug/Narcotic Violations')
+
+rawplot(categories,'drugs')
+ycatplot(categories,'drugs')
+mocatplot(categories,'drugs')
+ytdcatplot(categories,'drugs')
+precinctcount(categories,'drugs')
+geocatplot(categories,'drugs')
+generate_svg_maps('drugs')
+
+```
+
+
+# Other
+```{r}
+categories <- c('Animal Cruelty', 'Pornography/Obscene Material', 'Counterfeiting/Forgery', 'Destruction/Damage/Vandalism of Property', 'Embezzlement', 'Extortion/Blackmail', 'False Pretenses/Swindle/Confidence Game', 'Gambling Equipment Violations', 'Human Trafficking, Commercial Sex Acts', 'Kidnapping/Abduction', 'Prostitution', 'Stolen Property Offenses', 'Weapon Law Violations', 'Hacking/Computer Invasion', 'Human Trafficking, Involuntary Servitude')
+
+rawplot(categories,'other')
+
+```
+
+# CONVERT JSON FILES
+```{r}
+# Empty JSON folder
+# Set the path to the directory
+directory_path <- "./json"
+files_to_delete <- list.files(directory_path, full.names = TRUE)
+deleted_files <- file.remove(files_to_delete)
+deleted_files
+
+# Set the path to the directory containing the CSV files
+input_folder <- "/Users/hargaja/Desktop/workspace/redboard/20240428-crimedash/scripts"
+
+# Set the path to the directory where JSON files will be saved
+output_folder <- "/Users/hargaja/Desktop/workspace/redboard/20240428-crimedash/scripts/json"
+
+# Create the output folder if it does not exist
+if (!dir.exists(output_folder)) {
+  dir.create(output_folder)
+}
+
+# List all CSV files in the input folder
+csv_files <- list.files(input_folder, pattern = "\\.csv$", full.names = TRUE)
+
+# Function to convert CSV to JSON
+convert_csv_to_json <- function(csv_file) {
+
+  # Read the CSV file
+  data <- read.csv(csv_file)
+  
+  # Convert the data frame to JSON
+  json_data <- toJSON(data, pretty = TRUE)
+  
+  # Construct the output file name
+  output_file <- file.path(output_folder, gsub("csv$", "json", basename(csv_file)))
+  
+  # Write the JSON data to a file
+  write(json_data, file = output_file)
+}
+
+# Apply the function to all CSV files
+lapply(csv_files, convert_csv_to_json)
+
+```
+
+# GENERATE LAST UPDATED
+```{r}
+# Get the current timestamp
+current_timestamp <- Sys.time()
+
+# Convert the timestamp to a string (if you want it in a specific format you can use format())
+formatted_timestamp <- as.character(current_timestamp)
+
+# Specify the file path
+file_path <- "json/timestamp.txt"
+
+# Write the timestamp to the file
+writeLines(formatted_timestamp, file_path)
+
+```
+
+# MOVE ALL FILES
+```{r}
+destination_dir <- "../src/data"
+
+# List all files in the source directory
+files_to_move <- list.files(path = directory_path, full.names = TRUE)
+
+for (file_path in files_to_move) {
+  file_name <- basename(file_path)
+  dest_path <- file.path(destination_dir, file_name)
+  file.copy(from = file_path, to = dest_path, overwrite = TRUE)
+  # If moving is preferred over copying, delete the original file
+  if (file.exists(dest_path)) {
+    file.remove(file_path)
+  }
+}
+
+cleanup()
+```
+
+#ARRESTS
+```{r}
+# Define the function to download arrest files
+download_arrest_reports <- function() {
+  base_path <- "/Users/hargaja/Desktop/workspace/redboard/20240428-crimedash/public/arrests"
+  urls <- c(
+    "https://cde.state.mn.us/DownloadData/ArrestsByJudicialDistrictDownloadData?ReportYear=2024",
+    "https://cde.state.mn.us/DownloadData/ArrestsByJudicialDistrictDownloadData?ReportYear=2023",
+    "https://cde.state.mn.us/DownloadData/ArrestsByJudicialDistrictDownloadData?ReportYear=2022",
+    "https://cde.state.mn.us/DownloadData/ArrestsByJudicialDistrictDownloadData?ReportYear=2021",
+    "https://cde.state.mn.us/DownloadData/ArrestsDrugByAgencyDownloadData?ReportYear=2021",
+    "https://cde.state.mn.us/DownloadData/ArrestsDrugByAgencyDownloadData?ReportYear=2022",
+    "https://cde.state.mn.us/DownloadData/ArrestsDrugByAgencyDownloadData?ReportYear=2023",
+    "https://cde.state.mn.us/DownloadData/ArrestsDrugByAgencyDownloadData?ReportYear=2024",
+    "https://cde.state.mn.us/DownloadData/ArrestsDrugByCountyDownloadData?ReportYear=2021",
+    "https://cde.state.mn.us/DownloadData/ArrestsDrugByCountyDownloadData?ReportYear=2022",
+    "https://cde.state.mn.us/DownloadData/ArrestsDrugByCountyDownloadData?ReportYear=2023",
+    "https://cde.state.mn.us/DownloadData/ArrestsDrugByCountyDownloadData?ReportYear=2024",
+    "https://cde.state.mn.us/DownloadData/ArrestsGroupAByAgeSexDownloadData?ReportYear=2021",
+    "https://cde.state.mn.us/DownloadData/ArrestsGroupAByAgeSexDownloadData?ReportYear=2022",
+    "https://cde.state.mn.us/DownloadData/ArrestsGroupAByAgeSexDownloadData?ReportYear=2023",
+    "https://cde.state.mn.us/DownloadData/ArrestsGroupAByAgeSexDownloadData?ReportYear=2024",
+    "https://cde.state.mn.us/DownloadData/ArrestsGroupAByAgeSexCountyDownloadData?ReportYear=2021",
+    "https://cde.state.mn.us/DownloadData/ArrestsGroupAByAgeSexCountyDownloadData?ReportYear=2022",
+    "https://cde.state.mn.us/DownloadData/ArrestsGroupAByAgeSexCountyDownloadData?ReportYear=2023",
+    "https://cde.state.mn.us/DownloadData/ArrestsGroupAByAgeSexCountyDownloadData?ReportYear=2024",
+    "https://cde.state.mn.us/DownloadData/ArrestsAdultJuvenileGroupAByAgeRaceDownloadData?ReportYear=2021",
+    "https://cde.state.mn.us/DownloadData/ArrestsAdultJuvenileGroupAByAgeRaceDownloadData?ReportYear=2022",
+    "https://cde.state.mn.us/DownloadData/ArrestsAdultJuvenileGroupAByAgeRaceDownloadData?ReportYear=2023",
+    "https://cde.state.mn.us/DownloadData/ArrestsAdultJuvenileGroupAByAgeRaceDownloadData?ReportYear=2024",
+    "https://cde.state.mn.us/DownloadData/ArrestsGroupBByAgeSexDownloadData?ReportYear=2021",
+    "https://cde.state.mn.us/DownloadData/ArrestsGroupBByAgeSexDownloadData?ReportYear=2022",
+    "https://cde.state.mn.us/DownloadData/ArrestsGroupBByAgeSexDownloadData?ReportYear=2023",
+    "https://cde.state.mn.us/DownloadData/ArrestsGroupBByAgeSexDownloadData?ReportYear=2024",
+    "https://cde.state.mn.us/DownloadData/ArrestsGroupBByAgeSexCountyDownloadData?ReportYear=2021",
+    "https://cde.state.mn.us/DownloadData/ArrestsGroupBByAgeSexCountyDownloadData?ReportYear=2022",
+    "https://cde.state.mn.us/DownloadData/ArrestsGroupBByAgeSexCountyDownloadData?ReportYear=2023",
+    "https://cde.state.mn.us/DownloadData/ArrestsGroupBByAgeSexCountyDownloadData?ReportYear=2024",
+    "https://cde.state.mn.us/DownloadData/ArrestsAdultJuvenileGroupBByAgeRaceDownloadData?ReportYear=2021",
+    "https://cde.state.mn.us/DownloadData/ArrestsAdultJuvenileGroupBByAgeRaceDownloadData?ReportYear=2022",
+    "https://cde.state.mn.us/DownloadData/ArrestsAdultJuvenileGroupBByAgeRaceDownloadData?ReportYear=2023",
+    "https://cde.state.mn.us/DownloadData/ArrestsAdultJuvenileGroupBByAgeRaceDownloadData?ReportYear=2024"
+  )
+  
+ map(urls, function(url) {
+    file_name <- gsub("\\?|=", "_", basename(url))  # Replace '?' and '=' with '_'
+    file_name <- paste0(file_name, ".csv")  # Append '.xlsx' extension to the file name
+    full_path <- file.path(base_path, file_name)
+    GET(url, write_disk(full_path, overwrite = TRUE))  # Download and save the file
+  })
+}
+
+# Example of how to call the function
+download_arrest_reports()
+
+```

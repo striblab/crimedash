@@ -1,0 +1,42 @@
+[
+  {
+    "YTDCount": 519,
+    "Year": 2019,
+    "Offense": "Drug/Narcotic Violations"
+  },
+  {
+    "YTDCount": 555,
+    "Year": 2020,
+    "Offense": "Drug/Narcotic Violations",
+    "PrevYTDCount": 519,
+    "YTDPercentageChange": 6.9364
+  },
+  {
+    "YTDCount": 273,
+    "Year": 2021,
+    "Offense": "Drug/Narcotic Violations",
+    "PrevYTDCount": 555,
+    "YTDPercentageChange": -50.8108
+  },
+  {
+    "YTDCount": 227,
+    "Year": 2022,
+    "Offense": "Drug/Narcotic Violations",
+    "PrevYTDCount": 273,
+    "YTDPercentageChange": -16.8498
+  },
+  {
+    "YTDCount": 341,
+    "Year": 2023,
+    "Offense": "Drug/Narcotic Violations",
+    "PrevYTDCount": 227,
+    "YTDPercentageChange": 50.2203
+  },
+  {
+    "YTDCount": 275,
+    "Year": 2024,
+    "Offense": "Drug/Narcotic Violations",
+    "PrevYTDCount": 341,
+    "YTDPercentageChange": -19.3548
+  }
+]

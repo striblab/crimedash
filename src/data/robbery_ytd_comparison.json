@@ -1,0 +1,42 @@
+[
+  {
+    "YTDCount": 231,
+    "Year": 2019,
+    "Offense": "Robbery"
+  },
+  {
+    "YTDCount": 372,
+    "Year": 2020,
+    "Offense": "Robbery",
+    "PrevYTDCount": 231,
+    "YTDPercentageChange": 61.039
+  },
+  {
+    "YTDCount": 431,
+    "Year": 2021,
+    "Offense": "Robbery",
+    "PrevYTDCount": 372,
+    "YTDPercentageChange": 15.8602
+  },
+  {
+    "YTDCount": 430,
+    "Year": 2022,
+    "Offense": "Robbery",
+    "PrevYTDCount": 431,
+    "YTDPercentageChange": -0.232
+  },
+  {
+    "YTDCount": 313,
+    "Year": 2023,
+    "Offense": "Robbery",
+    "PrevYTDCount": 430,
+    "YTDPercentageChange": -27.2093
+  },
+  {
+    "YTDCount": 403,
+    "Year": 2024,
+    "Offense": "Robbery",
+    "PrevYTDCount": 313,
+    "YTDPercentageChange": 28.754
+  }
+]

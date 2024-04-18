@@ -1,0 +1,26 @@
+{
+  "name": "strib-svelte-vite-template",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host",
+    "build": "vite build && ./strib-append-webfonts.sh",
+    "preview": "vite preview",
+    "get-fonts": "./get-fonts.sh",
+    "deploy-staging": "./strib-deploy.sh --environment staging",
+    "deploy-production": "./strib-deploy.sh --environment production"
+  },
+  "devDependencies": {
+    "@sveltejs/vite-plugin-svelte": "^3.0.1",
+    "sass": "^1.56.2",
+    "svelte": "^4.0.5",
+    "vite": "^5.0.10",
+    "vite-plugin-compression": "^0.5.1"
+  },
+  "dependencies": {
+    "chart.js": "^4.4.2",
+    "chartjs-adapter-date-fns": "^3.0.0",
+    "fs": "^0.0.1-security"
+  }
+}

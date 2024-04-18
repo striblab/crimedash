@@ -1,0 +1,67 @@
+"YTDCount","Year","Offense","PrevYTDCount","YTDPercentageChange"
+744,2019,"Motor Vehicle Theft",NA,NA
+1199,2020,"Motor Vehicle Theft",744,61.1559139784946
+1154,2021,"Motor Vehicle Theft",1199,-3.75312760633861
+1348,2022,"Motor Vehicle Theft",1154,16.8110918544194
+2846,2023,"Motor Vehicle Theft",1348,111.127596439169
+1671,2024,"Motor Vehicle Theft",2846,-41.2860154602952
+557,2019,"Aggravated Assault",NA,NA
+584,2020,"Aggravated Assault",557,4.84739676840216
+585,2021,"Aggravated Assault",584,0.171232876712324
+750,2022,"Aggravated Assault",585,28.2051282051282
+714,2023,"Aggravated Assault",750,-4.8
+743,2024,"Aggravated Assault",714,4.06162464985995
+9,2019,"Arson",NA,NA
+17,2020,"Arson",9,88.8888888888889
+22,2021,"Arson",17,29.4117647058824
+27,2022,"Arson",22,22.7272727272727
+33,2023,"Arson",27,22.2222222222222
+31,2024,"Arson",33,-6.06060606060606
+0,2019,"Carjacking - Subset of Robbery",NA,NA
+3,2020,"Carjacking - Subset of Robbery",NA,NA
+115,2021,"Carjacking - Subset of Robbery",3,3733.33333333333
+150,2022,"Carjacking - Subset of Robbery",115,30.4347826086957
+85,2023,"Carjacking - Subset of Robbery",150,-43.3333333333333
+69,2024,"Carjacking - Subset of Robbery",85,-18.8235294117647
+231,2019,"Robbery",NA,NA
+372,2020,"Robbery",231,61.038961038961
+431,2021,"Robbery",372,15.8602150537634
+430,2022,"Robbery",431,-0.232018561484915
+313,2023,"Robbery",430,-27.2093023255814
+403,2024,"Robbery",313,28.7539936102236
+277,2019,"Sex Offenses",NA,NA
+249,2020,"Sex Offenses",277,-10.1083032490975
+225,2021,"Sex Offenses",249,-9.63855421686747
+205,2022,"Sex Offenses",225,-8.88888888888889
+233,2023,"Sex Offenses",205,13.6585365853658
+230,2024,"Sex Offenses",233,-1.28755364806867
+6,2019,"Murder and Nonnegligent Manslaughter",NA,NA
+11,2020,"Murder and Nonnegligent Manslaughter",6,83.3333333333333
+22,2021,"Murder and Nonnegligent Manslaughter",11,100
+19,2022,"Murder and Nonnegligent Manslaughter",22,-13.6363636363636
+15,2023,"Murder and Nonnegligent Manslaughter",19,-21.0526315789474
+16,2024,"Murder and Nonnegligent Manslaughter",15,6.66666666666667
+54,2019,"Shooting (PFE)",NA,NA
+46,2020,"Shooting (PFE)",54,-14.8148148148148
+90,2021,"Shooting (PFE)",46,95.6521739130435
+112,2022,"Shooting (PFE)",90,24.4444444444444
+87,2023,"Shooting (PFE)",112,-22.3214285714286
+85,2024,"Shooting (PFE)",87,-2.29885057471264
+26,2019,"Shooting Report Only (P)",NA,NA
+18,2020,"Shooting Report Only (P)",26,-30.7692307692308
+49,2021,"Shooting Report Only (P)",18,172.222222222222
+51,2022,"Shooting Report Only (P)",49,4.08163265306123
+30,2023,"Shooting Report Only (P)",51,-41.1764705882353
+31,2024,"Shooting Report Only (P)",30,3.33333333333334
+379,2019,"ShotSpotter Activation (P)",NA,NA
+510,2020,"ShotSpotter Activation (P)",379,34.5646437994723
+1152,2021,"ShotSpotter Activation (P)",510,125.882352941176
+1223,2022,"ShotSpotter Activation (P)",1152,6.16319444444444
+920,2023,"ShotSpotter Activation (P)",1223,-24.7751430907604
+672,2024,"ShotSpotter Activation (P)",920,-26.9565217391304
+490,2019,"Sound of Shots Fired (P)",NA,NA
+462,2020,"Sound of Shots Fired (P)",490,-5.71428571428572
+947,2021,"Sound of Shots Fired (P)",462,104.978354978355
+1005,2022,"Sound of Shots Fired (P)",947,6.12460401267159
+686,2023,"Sound of Shots Fired (P)",1005,-31.7412935323383
+695,2024,"Sound of Shots Fired (P)",686,1.31195335276968

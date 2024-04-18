@@ -1,0 +1,771 @@
+[
+  {
+    "Neighborhood": "Beltrami",
+    "Offense": "Arson",
+    "X2019": 1,
+    "X2020": 1,
+    "X2021": 0,
+    "X2022": 1,
+    "X2023": 0,
+    "X2024": 0
+  },
+  {
+    "Neighborhood": "Cedar Riverside",
+    "Offense": "Arson",
+    "X2019": 1,
+    "X2020": 2,
+    "X2021": 0,
+    "X2022": 1,
+    "X2023": 0,
+    "X2024": 0
+  },
+  {
+    "Neighborhood": "Central",
+    "Offense": "Arson",
+    "X2019": 1,
+    "X2020": 3,
+    "X2021": 1,
+    "X2022": 2,
+    "X2023": 6,
+    "X2024": 0
+  },
+  {
+    "Neighborhood": "Como",
+    "Offense": "Arson",
+    "X2019": 1,
+    "X2020": 0,
+    "X2021": 0,
+    "X2022": 1,
+    "X2023": 1,
+    "X2024": 0
+  },
+  {
+    "Neighborhood": "Downtown West",
+    "Offense": "Arson",
+    "X2019": 5,
+    "X2020": 3,
+    "X2021": 2,
+    "X2022": 2,
+    "X2023": 6,
+    "X2024": 3
+  },
+  {
+    "Neighborhood": "East Phillips",
+    "Offense": "Arson",
+    "X2019": 2,
+    "X2020": 5,
+    "X2021": 0,
+    "X2022": 2,
+    "X2023": 9,
+    "X2024": 0
+  },
+  {
+    "Neighborhood": "Elliot Park",
+    "Offense": "Arson",
+    "X2019": 3,
+    "X2020": 1,
+    "X2021": 2,
+    "X2022": 2,
+    "X2023": 4,
+    "X2024": 4
+  },
+  {
+    "Neighborhood": "Folwell",
+    "Offense": "Arson",
+    "X2019": 2,
+    "X2020": 5,
+    "X2021": 7,
+    "X2022": 4,
+    "X2023": 4,
+    "X2024": 3
+  },
+  {
+    "Neighborhood": "Hale",
+    "Offense": "Arson",
+    "X2019": 1,
+    "X2020": 1,
+    "X2021": 0,
+    "X2022": 1,
+    "X2023": 0,
+    "X2024": 0
+  },
+  {
+    "Neighborhood": "Harrison",
+    "Offense": "Arson",
+    "X2019": 1,
+    "X2020": 1,
+    "X2021": 3,
+    "X2022": 0,
+    "X2023": 3,
+    "X2024": 0
+  },
+  {
+    "Neighborhood": "Hawthorne",
+    "Offense": "Arson",
+    "X2019": 4,
+    "X2020": 6,
+    "X2021": 4,
+    "X2022": 8,
+    "X2023": 7,
+    "X2024": 1
+  },
+  {
+    "Neighborhood": "Howe",
+    "Offense": "Arson",
+    "X2019": 1,
+    "X2020": 0,
+    "X2021": 0,
+    "X2022": 3,
+    "X2023": 0,
+    "X2024": 0
+  },
+  {
+    "Neighborhood": "Jordan",
+    "Offense": "Arson",
+    "X2019": 9,
+    "X2020": 6,
+    "X2021": 8,
+    "X2022": 4,
+    "X2023": 4,
+    "X2024": 3
+  },
+  {
+    "Neighborhood": "King Field",
+    "Offense": "Arson",
+    "X2019": 1,
+    "X2020": 0,
+    "X2021": 0,
+    "X2022": 0,
+    "X2023": 1,
+    "X2024": 0
+  },
+  {
+    "Neighborhood": "Lind - Bohanon",
+    "Offense": "Arson",
+    "X2019": 4,
+    "X2020": 6,
+    "X2021": 6,
+    "X2022": 0,
+    "X2023": 4,
+    "X2024": 1
+  },
+  {
+    "Neighborhood": "Linden Hills",
+    "Offense": "Arson",
+    "X2019": 1,
+    "X2020": 0,
+    "X2021": 0,
+    "X2022": 0,
+    "X2023": 0,
+    "X2024": 0
+  },
+  {
+    "Neighborhood": "Longfellow",
+    "Offense": "Arson",
+    "X2019": 1,
+    "X2020": 9,
+    "X2021": 3,
+    "X2022": 2,
+    "X2023": 3,
+    "X2024": 1
+  },
+  {
+    "Neighborhood": "Loring Park",
+    "Offense": "Arson",
+    "X2019": 2,
+    "X2020": 2,
+    "X2021": 6,
+    "X2022": 1,
+    "X2023": 2,
+    "X2024": 0
+  },
+  {
+    "Neighborhood": "Lyndale",
+    "Offense": "Arson",
+    "X2019": 3,
+    "X2020": 3,
+    "X2021": 2,
+    "X2022": 1,
+    "X2023": 3,
+    "X2024": 1
+  },
+  {
+    "Neighborhood": "Marcy Holmes",
+    "Offense": "Arson",
+    "X2019": 2,
+    "X2020": 0,
+    "X2021": 3,
+    "X2022": 1,
+    "X2023": 1,
+    "X2024": 0
+  },
+  {
+    "Neighborhood": "McKinley",
+    "Offense": "Arson",
+    "X2019": 2,
+    "X2020": 4,
+    "X2021": 3,
+    "X2022": 1,
+    "X2023": 2,
+    "X2024": 0
+  },
+  {
+    "Neighborhood": "Near - North",
+    "Offense": "Arson",
+    "X2019": 4,
+    "X2020": 3,
+    "X2021": 7,
+    "X2022": 5,
+    "X2023": 1,
+    "X2024": 1
+  },
+  {
+    "Neighborhood": "Phillips West",
+    "Offense": "Arson",
+    "X2019": 1,
+    "X2020": 3,
+    "X2021": 1,
+    "X2022": 2,
+    "X2023": 4,
+    "X2024": 0
+  },
+  {
+    "Neighborhood": "Seward",
+    "Offense": "Arson",
+    "X2019": 4,
+    "X2020": 3,
+    "X2021": 2,
+    "X2022": 1,
+    "X2023": 0,
+    "X2024": 0
+  },
+  {
+    "Neighborhood": "Standish",
+    "Offense": "Arson",
+    "X2019": 1,
+    "X2020": 0,
+    "X2021": 0,
+    "X2022": 0,
+    "X2023": 1,
+    "X2024": 0
+  },
+  {
+    "Neighborhood": "Steven's Square - Loring Heights",
+    "Offense": "Arson",
+    "X2019": 2,
+    "X2020": 1,
+    "X2021": 0,
+    "X2022": 4,
+    "X2023": 5,
+    "X2024": 2
+  },
+  {
+    "Neighborhood": "Sumner - Glenwood",
+    "Offense": "Arson",
+    "X2019": 2,
+    "X2020": 0,
+    "X2021": 0,
+    "X2022": 1,
+    "X2023": 0,
+    "X2024": 0
+  },
+  {
+    "Neighborhood": "University of Minnesota",
+    "Offense": "Arson",
+    "X2019": 1,
+    "X2020": 1,
+    "X2021": 1,
+    "X2022": 0,
+    "X2023": 0,
+    "X2024": 0
+  },
+  {
+    "Neighborhood": "Ventura Village",
+    "Offense": "Arson",
+    "X2019": 2,
+    "X2020": 2,
+    "X2021": 6,
+    "X2022": 6,
+    "X2023": 6,
+    "X2024": 0
+  },
+  {
+    "Neighborhood": "Victory",
+    "Offense": "Arson",
+    "X2019": 2,
+    "X2020": 3,
+    "X2021": 0,
+    "X2022": 2,
+    "X2023": 0,
+    "X2024": 0
+  },
+  {
+    "Neighborhood": "Webber - Camden",
+    "Offense": "Arson",
+    "X2019": 4,
+    "X2020": 5,
+    "X2021": 2,
+    "X2022": 4,
+    "X2023": 1,
+    "X2024": 1
+  },
+  {
+    "Neighborhood": "Whittier",
+    "Offense": "Arson",
+    "X2019": 1,
+    "X2020": 5,
+    "X2021": 4,
+    "X2022": 1,
+    "X2023": 6,
+    "X2024": 2
+  },
+  {
+    "Neighborhood": "Willard - Hay",
+    "Offense": "Arson",
+    "X2019": 2,
+    "X2020": 6,
+    "X2021": 7,
+    "X2022": 6,
+    "X2023": 6,
+    "X2024": 0
+  },
+  {
+    "Neighborhood": "Windom",
+    "Offense": "Arson",
+    "X2019": 1,
+    "X2020": 1,
+    "X2021": 0,
+    "X2022": 0,
+    "X2023": 0,
+    "X2024": 0
+  },
+  {
+    "Neighborhood": "Windom Park",
+    "Offense": "Arson",
+    "X2019": 1,
+    "X2020": 0,
+    "X2021": 0,
+    "X2022": 0,
+    "X2023": 0,
+    "X2024": 0
+  },
+  {
+    "Neighborhood": "Audubon Park",
+    "Offense": "Arson",
+    "X2019": 0,
+    "X2020": 1,
+    "X2021": 0,
+    "X2022": 0,
+    "X2023": 0,
+    "X2024": 0
+  },
+  {
+    "Neighborhood": "Bancroft",
+    "Offense": "Arson",
+    "X2019": 0,
+    "X2020": 1,
+    "X2021": 1,
+    "X2022": 0,
+    "X2023": 1,
+    "X2024": 0
+  },
+  {
+    "Neighborhood": "Bryant",
+    "Offense": "Arson",
+    "X2019": 0,
+    "X2020": 2,
+    "X2021": 0,
+    "X2022": 0,
+    "X2023": 2,
+    "X2024": 0
+  },
+  {
+    "Neighborhood": "Camden Industrial",
+    "Offense": "Arson",
+    "X2019": 0,
+    "X2020": 1,
+    "X2021": 1,
+    "X2022": 0,
+    "X2023": 1,
+    "X2024": 0
+  },
+  {
+    "Neighborhood": "Cedar - Isles - Dean",
+    "Offense": "Arson",
+    "X2019": 0,
+    "X2020": 1,
+    "X2021": 0,
+    "X2022": 0,
+    "X2023": 1,
+    "X2024": 1
+  },
+  {
+    "Neighborhood": "Cleveland",
+    "Offense": "Arson",
+    "X2019": 0,
+    "X2020": 4,
+    "X2021": 1,
+    "X2022": 1,
+    "X2023": 3,
+    "X2024": 0
+  },
+  {
+    "Neighborhood": "Columbia Park",
+    "Offense": "Arson",
+    "X2019": 0,
+    "X2020": 1,
+    "X2021": 0,
+    "X2022": 0,
+    "X2023": 0,
+    "X2024": 0
+  },
+  {
+    "Neighborhood": "Corcoran",
+    "Offense": "Arson",
+    "X2019": 0,
+    "X2020": 1,
+    "X2021": 2,
+    "X2022": 0,
+    "X2023": 1,
+    "X2024": 0
+  },
+  {
+    "Neighborhood": "Downtown East",
+    "Offense": "Arson",
+    "X2019": 0,
+    "X2020": 2,
+    "X2021": 0,
+    "X2022": 0,
+    "X2023": 1,
+    "X2024": 1
+  },
+  {
+    "Neighborhood": "Ericsson",
+    "Offense": "Arson",
+    "X2019": 0,
+    "X2020": 1,
+    "X2021": 0,
+    "X2022": 1,
+    "X2023": 0,
+    "X2024": 0
+  },
+  {
+    "Neighborhood": "Hiawatha",
+    "Offense": "Arson",
+    "X2019": 0,
+    "X2020": 1,
+    "X2021": 1,
+    "X2022": 6,
+    "X2023": 0,
+    "X2024": 0
+  },
+  {
+    "Neighborhood": "Holland",
+    "Offense": "Arson",
+    "X2019": 0,
+    "X2020": 3,
+    "X2021": 1,
+    "X2022": 0,
+    "X2023": 0,
+    "X2024": 1
+  },
+  {
+    "Neighborhood": "Midtown Phillips",
+    "Offense": "Arson",
+    "X2019": 0,
+    "X2020": 3,
+    "X2021": 4,
+    "X2022": 3,
+    "X2023": 2,
+    "X2024": 2
+  },
+  {
+    "Neighborhood": "Northrop",
+    "Offense": "Arson",
+    "X2019": 0,
+    "X2020": 1,
+    "X2021": 0,
+    "X2022": 0,
+    "X2023": 1,
+    "X2024": 1
+  },
+  {
+    "Neighborhood": "Powderhorn Park",
+    "Offense": "Arson",
+    "X2019": 0,
+    "X2020": 4,
+    "X2021": 3,
+    "X2022": 3,
+    "X2023": 6,
+    "X2024": 0
+  },
+  {
+    "Neighborhood": "Sheridan",
+    "Offense": "Arson",
+    "X2019": 0,
+    "X2020": 1,
+    "X2021": 0,
+    "X2022": 1,
+    "X2023": 0,
+    "X2024": 0
+  },
+  {
+    "Neighborhood": "Shingle Creek",
+    "Offense": "Arson",
+    "X2019": 0,
+    "X2020": 1,
+    "X2021": 1,
+    "X2022": 1,
+    "X2023": 2,
+    "X2024": 0
+  },
+  {
+    "Neighborhood": "St. Anthony West",
+    "Offense": "Arson",
+    "X2019": 0,
+    "X2020": 2,
+    "X2021": 1,
+    "X2022": 0,
+    "X2023": 0,
+    "X2024": 0
+  },
+  {
+    "Neighborhood": "Wenonah",
+    "Offense": "Arson",
+    "X2019": 0,
+    "X2020": 2,
+    "X2021": 1,
+    "X2022": 0,
+    "X2023": 2,
+    "X2024": 0
+  },
+  {
+    "Offense": "Arson",
+    "X2019": 0,
+    "X2020": 2,
+    "X2021": 1,
+    "X2022": 1,
+    "X2023": 1,
+    "X2024": 0
+  },
+  {
+    "Neighborhood": "Kenny",
+    "Offense": "Arson",
+    "X2019": 0,
+    "X2020": 0,
+    "X2021": 1,
+    "X2022": 0,
+    "X2023": 0,
+    "X2024": 0
+  },
+  {
+    "Neighborhood": "Lowry Hill",
+    "Offense": "Arson",
+    "X2019": 0,
+    "X2020": 0,
+    "X2021": 3,
+    "X2022": 1,
+    "X2023": 0,
+    "X2024": 0
+  },
+  {
+    "Neighborhood": "Lowry Hill East",
+    "Offense": "Arson",
+    "X2019": 0,
+    "X2020": 0,
+    "X2021": 5,
+    "X2022": 4,
+    "X2023": 2,
+    "X2024": 1
+  },
+  {
+    "Neighborhood": "Minnehaha",
+    "Offense": "Arson",
+    "X2019": 0,
+    "X2020": 0,
+    "X2021": 1,
+    "X2022": 0,
+    "X2023": 1,
+    "X2024": 0
+  },
+  {
+    "Neighborhood": "Morris Park",
+    "Offense": "Arson",
+    "X2019": 0,
+    "X2020": 0,
+    "X2021": 1,
+    "X2022": 0,
+    "X2023": 0,
+    "X2024": 0
+  },
+  {
+    "Neighborhood": "North Loop",
+    "Offense": "Arson",
+    "X2019": 0,
+    "X2020": 0,
+    "X2021": 3,
+    "X2022": 3,
+    "X2023": 3,
+    "X2024": 0
+  },
+  {
+    "Neighborhood": "Page",
+    "Offense": "Arson",
+    "X2019": 0,
+    "X2020": 0,
+    "X2021": 1,
+    "X2022": 0,
+    "X2023": 0,
+    "X2024": 0
+  },
+  {
+    "Neighborhood": "South Uptown",
+    "Offense": "Arson",
+    "X2019": 0,
+    "X2020": 0,
+    "X2021": 1,
+    "X2022": 0,
+    "X2023": 2,
+    "X2024": 0
+  },
+  {
+    "Neighborhood": "St. Anthony East",
+    "Offense": "Arson",
+    "X2019": 0,
+    "X2020": 0,
+    "X2021": 1,
+    "X2022": 2,
+    "X2023": 0,
+    "X2024": 0
+  },
+  {
+    "Neighborhood": "Tangletown",
+    "Offense": "Arson",
+    "X2019": 0,
+    "X2020": 0,
+    "X2021": 1,
+    "X2022": 1,
+    "X2023": 2,
+    "X2024": 0
+  },
+  {
+    "Neighborhood": "Bryn - Mawr",
+    "Offense": "Arson",
+    "X2019": 0,
+    "X2020": 0,
+    "X2021": 0,
+    "X2022": 1,
+    "X2023": 0,
+    "X2024": 0
+  },
+  {
+    "Neighborhood": "East Bde Maka Ska",
+    "Offense": "Arson",
+    "X2019": 0,
+    "X2020": 0,
+    "X2021": 0,
+    "X2022": 1,
+    "X2023": 3,
+    "X2024": 0
+  },
+  {
+    "Neighborhood": "Keewaydin",
+    "Offense": "Arson",
+    "X2019": 0,
+    "X2020": 0,
+    "X2021": 0,
+    "X2022": 1,
+    "X2023": 0,
+    "X2024": 0
+  },
+  {
+    "Neighborhood": "Kenwood",
+    "Offense": "Arson",
+    "X2019": 0,
+    "X2020": 0,
+    "X2021": 0,
+    "X2022": 1,
+    "X2023": 1,
+    "X2024": 0
+  },
+  {
+    "Neighborhood": "Marshall Terrace",
+    "Offense": "Arson",
+    "X2019": 0,
+    "X2020": 0,
+    "X2021": 0,
+    "X2022": 2,
+    "X2023": 0,
+    "X2024": 0
+  },
+  {
+    "Neighborhood": "Northeast Park",
+    "Offense": "Arson",
+    "X2019": 0,
+    "X2020": 0,
+    "X2021": 0,
+    "X2022": 1,
+    "X2023": 0,
+    "X2024": 0
+  },
+  {
+    "Neighborhood": "Regina",
+    "Offense": "Arson",
+    "X2019": 0,
+    "X2020": 0,
+    "X2021": 0,
+    "X2022": 1,
+    "X2023": 1,
+    "X2024": 0
+  },
+  {
+    "Neighborhood": "Bottineau",
+    "Offense": "Arson",
+    "X2019": 0,
+    "X2020": 0,
+    "X2021": 0,
+    "X2022": 0,
+    "X2023": 1,
+    "X2024": 0
+  },
+  {
+    "Neighborhood": "East Isles",
+    "Offense": "Arson",
+    "X2019": 0,
+    "X2020": 0,
+    "X2021": 0,
+    "X2022": 0,
+    "X2023": 3,
+    "X2024": 1
+  },
+  {
+    "Neighborhood": "Humboldt Industrial Area",
+    "Offense": "Arson",
+    "X2019": 0,
+    "X2020": 0,
+    "X2021": 0,
+    "X2022": 0,
+    "X2023": 1,
+    "X2024": 0
+  },
+  {
+    "Neighborhood": "Prospect Park - East River Road",
+    "Offense": "Arson",
+    "X2019": 0,
+    "X2020": 0,
+    "X2021": 0,
+    "X2022": 0,
+    "X2023": 3,
+    "X2024": 0
+  },
+  {
+    "Neighborhood": "Waite Park",
+    "Offense": "Arson",
+    "X2019": 0,
+    "X2020": 0,
+    "X2021": 0,
+    "X2022": 0,
+    "X2023": 1,
+    "X2024": 0
+  }
+]
