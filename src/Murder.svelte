@@ -7,6 +7,7 @@
   import murderMonthlyComparison from './data/murder_monthly_comparison.json';
   import murderYearlyIncidentCounts from './data/murder_yearly_incident_counts.json';
   import murderYTDComparison from './data/murder_ytd_comparison.json';
+  import murderHistory from '../public/murder/murderHistory.json';
   import murderPrecincts from './data/murder_precinct.json';
 
   // Store to track the active image for the lightbox
@@ -20,7 +21,7 @@
     activeImage.set(null);
   }
 
-  let monthlyChart, yearlyChart, ytdChart, precinctChart;
+  let monthlyChart, yearlyChart, ytdChart, precinctChart, historyChart;
   let resizeTimer;
 
   function createChart(ctx, chartData, title, type = 'bar') {
@@ -48,6 +49,7 @@
       monthlyChart.resize();
       yearlyChart.resize();
       ytdChart.resize();
+      historyChart.resize();
       precinctChart.resize();
     }, 250);
   }
@@ -83,18 +85,22 @@
     const monthlyChartData = { labels: murderMonthlyComparison.map(item => `${item.Year}-${item.Month}`), datasets: [{ label: 'Monthly Murders', data: murderMonthlyComparison.map(item => item.IncidentCount), backgroundColor: 'rgba(70, 130, 180, 0.8)', borderColor: 'rgba(70, 130, 180, 0.8)', borderWidth: 1 }] };
     const yearlyChartData = { labels: murderYearlyIncidentCounts.map(item => item.Year.toString()), datasets: [{ label: 'Yearly Murders', data: murderYearlyIncidentCounts.map(item => item.OffenseCount), backgroundColor: 'rgba(70, 130, 180, 0.8)', borderColor: 'rgba(70, 130, 180, 0.8)', borderWidth: 1 }] };
     const ytdChartData = { labels: murderYTDComparison.map(item => item.Year.toString()), datasets: [{ label: 'YTD Murders', data: murderYTDComparison.map(item => item.YTDCount), backgroundColor: 'rgba(70, 130, 180, 0.8)', borderColor: 'rgba(70, 130, 180, 0.8)', borderWidth: 1 }] };
-
+    const historyChartData = { labels: murderHistory.map(item => item.year.toString()), datasets: [{ label: 'Homicide Rate', data: murderHistory.map(item => item.IncidentCount), backgroundColor: 'rgba(70, 130, 180, 0.8)', borderColor: 'rgba(70, 130, 180, 0.8)', borderWidth: 1 }] };
+    
     // Create charts
     monthlyChart = createChart(document.getElementById('monthlyChart').getContext('2d'), monthlyChartData, 'Murders', 'line');
     yearlyChart = createChart(document.getElementById('yearlyChart').getContext('2d'), yearlyChartData, 'Murders');
     ytdChart = createChart(document.getElementById('ytdChart').getContext('2d'), ytdChartData, 'Murders');
+    historyChart = createChart(document.getElementById('historyChart').getContext('2d'), historyChartData, 'Murders');
     const precinctChartData = preparePrecinctChartData();
     precinctChart = createChart(document.getElementById('precinctChart').getContext('2d'), precinctChartData, 'Precinct Murders', 'line');
   });
 </script>
 
 
-<h3>Homicide</h3>
+<h3>Minneapolis: Homicide</h3>
+
+<p class="disclaimer">The Star Tribune uses a speciaized calculation for its historical Minneapolis homicide rates that includes murder cases investigated by MPD, officer-involved deaths and self-defense killings. The following data is just murders investigated by MPD unless otherwise noted.</p>
 
 {#if murderYTDComparison && murderYTDComparison.length > 0}
 <p>
@@ -142,7 +148,15 @@
   <canvas id="yearlyChart"></canvas>
 </div>
 <div class="download"><a href="public/murder/murder_yearly_incident_counts.csv">Download Minneapolis murders by year data</a></div>
+
+<p>&nbsp;</p>
+<h4>Historical homicide rates per 10,000 residents</h4>
+<div class="chart-container">
+  <canvas id="historyChart"></canvas>
+</div>
 <div class="download"><a href="public/murder/murder_historical.csv">Download historical Minneapolis homicide data 1985-2022 (includes clearances)</a></div>
+<div class="download"><a href="https://docs.google.com/spreadsheets/d/1ntBqZokbzsPQEatu-rlHsIYKq2ngM0hoO1xXmRBQ8jc/edit#gid=1736309950">Star Tribune: Minneapolis Homicides Database</a></div>
+
 
 <p>&nbsp;</p>
 <h4>Murders by police precinct</h4>
@@ -232,4 +246,7 @@
     height: auto;
     width: auto;
   }
+  .disclaimer {
+  color:#de2d26;
+}
 </style>

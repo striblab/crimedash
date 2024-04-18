@@ -24,7 +24,7 @@
 	import Practices from './Practices.svelte';
   
 	let modules = [
-	  { id: 'murder', name: 'Minneapolis: Homicides', component: Murder },
+	  { id: 'murder', name: '>Minneapolis: Homicides', component: Murder },
 	  { id: 'gunfire', name: 'Minneapolis: Gunfire',  component: Gunfire },
 	  { id: 'assault', name: '>Minneapolis: Aggravated Assault',  component: Assault },
 	  { id: 'rape', name: '>Minneapolis: Sex Offenses',  component: Rape },
