@@ -157,7 +157,7 @@
   <h4>Aggravated domestic assaults by neighborhood</h4>
   <p>Click a map to expand.</p>
   <div class="map-container">
-    {#each ['store/domestic/domestic_map_2019.svg', 'store/domestic/domestic_map_2020.svg', 'store/domestic/domestic_map_2021.svg', 'store/domestic/domestic_map_2022.svg', 'store/domestic/domestic_map_2023.svg', 'store/domestic/domestic_map_2024.svg'] as image}
+    {#each ['../store/domestic/domestic_map_2019.svg', '../store/domestic/domestic_map_2020.svg', '../store/domestic/domestic_map_2021.svg', '../store/domestic/domestic_map_2022.svg', '../store/domestic/domestic_map_2023.svg', '../store/domestic/domestic_map_2024.svg'] as image}
       <img src={image} alt={`domestic Map ${image.slice(-8, -4)}`} on:click={() => openLightbox(image)}>
     {/each}
   </div>

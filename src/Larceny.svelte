@@ -160,7 +160,7 @@
   <h4>Larcenies by neighborhood</h4>
   <p>Click a map to expand.</p>
   <div class="map-container">
-    {#each ['store/larceny/larceny_map_2019.svg', 'store/larceny/larceny_map_2020.svg', 'store/larceny/larceny_map_2021.svg', 'store/larceny/larceny_map_2022.svg', 'store/larceny/larceny_map_2023.svg', 'store/larceny/larceny_map_2024.svg'] as image}
+    {#each ['../store/larceny/larceny_map_2019.svg', '../store/larceny/larceny_map_2020.svg', '../store/larceny/larceny_map_2021.svg', '../store/larceny/larceny_map_2022.svg', '../store/larceny/larceny_map_2023.svg', '../store/larceny/larceny_map_2024.svg'] as image}
       <img src={image} alt={`larceny Map ${image.slice(-8, -4)}`} on:click={() => openLightbox(image)}>
     {/each}
   </div>
