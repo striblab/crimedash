@@ -1,122 +1,122 @@
 [
   {
     "Year": 2019,
-    "OffenseCount": 266
-  },
-  {
-    "Year": 2020,
-    "OffenseCount": 551
-  },
-  {
-    "Year": 2021,
-    "OffenseCount": 658
-  },
-  {
-    "Year": 2022,
-    "OffenseCount": 544
-  },
-  {
-    "Year": 2023,
-    "OffenseCount": 415
-  },
-  {
-    "Year": 2024,
-    "OffenseCount": 89
-  },
-  {
-    "Year": 2019,
+    "Offense": "Shooting (PFE)",
     "OffenseCount": 253
   },
   {
     "Year": 2020,
+    "Offense": "Shooting (PFE)",
     "OffenseCount": 447
   },
   {
     "Year": 2021,
+    "Offense": "Shooting (PFE)",
     "OffenseCount": 505
   },
   {
     "Year": 2022,
+    "Offense": "Shooting (PFE)",
     "OffenseCount": 463
   },
   {
     "Year": 2023,
+    "Offense": "Shooting (PFE)",
     "OffenseCount": 352
   },
   {
     "Year": 2024,
-    "OffenseCount": 85
+    "Offense": "Shooting (PFE)",
+    "OffenseCount": 88
   },
   {
     "Year": 2019,
+    "Offense": "Shooting Report Only (P)",
     "OffenseCount": 88
   },
   {
     "Year": 2020,
+    "Offense": "Shooting Report Only (P)",
     "OffenseCount": 231
   },
   {
     "Year": 2021,
+    "Offense": "Shooting Report Only (P)",
     "OffenseCount": 286
   },
   {
     "Year": 2022,
+    "Offense": "Shooting Report Only (P)",
     "OffenseCount": 185
   },
   {
     "Year": 2023,
+    "Offense": "Shooting Report Only (P)",
     "OffenseCount": 149
   },
   {
     "Year": 2024,
-    "OffenseCount": 31
+    "Offense": "Shooting Report Only (P)",
+    "OffenseCount": 35
   },
   {
     "Year": 2019,
+    "Offense": "ShotSpotter Activation (P)",
     "OffenseCount": 1762
   },
   {
     "Year": 2020,
+    "Offense": "ShotSpotter Activation (P)",
     "OffenseCount": 4272
   },
   {
     "Year": 2021,
+    "Offense": "ShotSpotter Activation (P)",
     "OffenseCount": 5649
   },
   {
     "Year": 2022,
+    "Offense": "ShotSpotter Activation (P)",
     "OffenseCount": 4174
   },
   {
     "Year": 2023,
+    "Offense": "ShotSpotter Activation (P)",
     "OffenseCount": 3060
   },
   {
     "Year": 2024,
-    "OffenseCount": 672
+    "Offense": "ShotSpotter Activation (P)",
+    "OffenseCount": 727
   },
   {
     "Year": 2019,
+    "Offense": "Sound of Shots Fired (P)",
     "OffenseCount": 2270
   },
   {
     "Year": 2020,
+    "Offense": "Sound of Shots Fired (P)",
     "OffenseCount": 4665
   },
   {
     "Year": 2021,
+    "Offense": "Sound of Shots Fired (P)",
     "OffenseCount": 5096
   },
   {
     "Year": 2022,
+    "Offense": "Sound of Shots Fired (P)",
     "OffenseCount": 4275
   },
   {
     "Year": 2023,
+    "Offense": "Sound of Shots Fired (P)",
     "OffenseCount": 2925
   },
   {
     "Year": 2024,
-    "OffenseCount": 695
+    "Offense": "Sound of Shots Fired (P)",
+    "OffenseCount": 751
   }
 ]

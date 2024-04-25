@@ -36,13 +36,9 @@
 
 <p id="timestamp" class="timestamp"></p>
 
-<p>Welcome to the Star Tribune's Public Safety Dashboard. Use this to browse crime, policing and other public safety statistics for Minneapolis and elsewhere in Minnesota..
-  
-<p>Data is updated three times per week, often at Mondays, Wednesdays and Fridays. More raw data files are available in <a href="https://github.com/striblab/20240428-crimedash">the Github repo</a>.</p> 
+<p>Welcome to the Star Tribune Public Safety Dashboard. Use this to browse crime, policing and other public safety statistics for Minneapolis and elsewhere in Minnesota. Data is updated Mondays, Wednesdays and Fridays. See the <a href="https://github.com/striblab/20240428-crimedash">the Github repo</a> for more documentation. <a href="mailto:jeff.hargarten@startribune.com">Email</a> or Slack any questions or issues to Jeff Hargarten.</p> 
   
 <div class="disclaimer"><p>DISCLAIMER: This isn't meant for external use outside the Star Tribune newsroom. All provided statistics should be double-checked in case of data ingestion errors.</p></div>
-
-<p><a href="mailto:jeff.hargarten@startribune.com">Email</a> or Slack any questions or issues to Jeff Hargarten.</p>
 
 <style>
 .byline {

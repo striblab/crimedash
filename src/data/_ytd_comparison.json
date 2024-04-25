@@ -1,123 +1,123 @@
 [
   {
-    "YTDCount": 744,
+    "YTDCount": 809,
     "Year": 2019,
     "Offense": "Motor Vehicle Theft"
   },
   {
-    "YTDCount": 1199,
+    "YTDCount": 1269,
     "Year": 2020,
     "Offense": "Motor Vehicle Theft",
-    "PrevYTDCount": 744,
-    "YTDPercentageChange": 61.1559
+    "PrevYTDCount": 809,
+    "YTDPercentageChange": 56.8603
   },
   {
-    "YTDCount": 1154,
+    "YTDCount": 1220,
     "Year": 2021,
     "Offense": "Motor Vehicle Theft",
-    "PrevYTDCount": 1199,
-    "YTDPercentageChange": -3.7531
+    "PrevYTDCount": 1269,
+    "YTDPercentageChange": -3.8613
   },
   {
-    "YTDCount": 1348,
+    "YTDCount": 1461,
     "Year": 2022,
     "Offense": "Motor Vehicle Theft",
-    "PrevYTDCount": 1154,
-    "YTDPercentageChange": 16.8111
+    "PrevYTDCount": 1220,
+    "YTDPercentageChange": 19.7541
   },
   {
-    "YTDCount": 2846,
+    "YTDCount": 3070,
     "Year": 2023,
     "Offense": "Motor Vehicle Theft",
-    "PrevYTDCount": 1348,
-    "YTDPercentageChange": 111.1276
+    "PrevYTDCount": 1461,
+    "YTDPercentageChange": 110.13
   },
   {
-    "YTDCount": 1671,
+    "YTDCount": 1852,
     "Year": 2024,
     "Offense": "Motor Vehicle Theft",
-    "PrevYTDCount": 2846,
-    "YTDPercentageChange": -41.286
+    "PrevYTDCount": 3070,
+    "YTDPercentageChange": -39.6743
   },
   {
-    "YTDCount": 557,
+    "YTDCount": 606,
     "Year": 2019,
     "Offense": "Aggravated Assault"
   },
   {
-    "YTDCount": 584,
+    "YTDCount": 625,
     "Year": 2020,
     "Offense": "Aggravated Assault",
-    "PrevYTDCount": 557,
-    "YTDPercentageChange": 4.8474
+    "PrevYTDCount": 606,
+    "YTDPercentageChange": 3.1353
   },
   {
-    "YTDCount": 585,
+    "YTDCount": 653,
     "Year": 2021,
     "Offense": "Aggravated Assault",
-    "PrevYTDCount": 584,
-    "YTDPercentageChange": 0.1712
+    "PrevYTDCount": 625,
+    "YTDPercentageChange": 4.48
   },
   {
-    "YTDCount": 750,
+    "YTDCount": 812,
     "Year": 2022,
     "Offense": "Aggravated Assault",
-    "PrevYTDCount": 585,
-    "YTDPercentageChange": 28.2051
+    "PrevYTDCount": 653,
+    "YTDPercentageChange": 24.3492
   },
   {
-    "YTDCount": 714,
+    "YTDCount": 765,
     "Year": 2023,
     "Offense": "Aggravated Assault",
-    "PrevYTDCount": 750,
-    "YTDPercentageChange": -4.8
+    "PrevYTDCount": 812,
+    "YTDPercentageChange": -5.7882
   },
   {
-    "YTDCount": 743,
+    "YTDCount": 803,
     "Year": 2024,
     "Offense": "Aggravated Assault",
-    "PrevYTDCount": 714,
-    "YTDPercentageChange": 4.0616
+    "PrevYTDCount": 765,
+    "YTDPercentageChange": 4.9673
   },
   {
-    "YTDCount": 9,
+    "YTDCount": 11,
     "Year": 2019,
     "Offense": "Arson"
   },
   {
-    "YTDCount": 17,
+    "YTDCount": 18,
     "Year": 2020,
     "Offense": "Arson",
-    "PrevYTDCount": 9,
-    "YTDPercentageChange": 88.8889
+    "PrevYTDCount": 11,
+    "YTDPercentageChange": 63.6364
   },
   {
-    "YTDCount": 22,
+    "YTDCount": 26,
     "Year": 2021,
     "Offense": "Arson",
-    "PrevYTDCount": 17,
-    "YTDPercentageChange": 29.4118
+    "PrevYTDCount": 18,
+    "YTDPercentageChange": 44.4444
   },
   {
     "YTDCount": 27,
     "Year": 2022,
     "Offense": "Arson",
-    "PrevYTDCount": 22,
-    "YTDPercentageChange": 22.7273
+    "PrevYTDCount": 26,
+    "YTDPercentageChange": 3.8462
   },
   {
-    "YTDCount": 33,
+    "YTDCount": 36,
     "Year": 2023,
     "Offense": "Arson",
     "PrevYTDCount": 27,
-    "YTDPercentageChange": 22.2222
+    "YTDPercentageChange": 33.3333
   },
   {
-    "YTDCount": 31,
+    "YTDCount": 36,
     "Year": 2024,
     "Offense": "Arson",
-    "PrevYTDCount": 33,
-    "YTDPercentageChange": -6.0606
+    "PrevYTDCount": 36,
+    "YTDPercentageChange": 0
   },
   {
     "YTDCount": 0,
@@ -130,112 +130,112 @@
     "Offense": "Carjacking - Subset of Robbery"
   },
   {
-    "YTDCount": 115,
+    "YTDCount": 135,
     "Year": 2021,
     "Offense": "Carjacking - Subset of Robbery",
     "PrevYTDCount": 3,
-    "YTDPercentageChange": 3733.3333
+    "YTDPercentageChange": 4400
   },
   {
-    "YTDCount": 150,
+    "YTDCount": 158,
     "Year": 2022,
     "Offense": "Carjacking - Subset of Robbery",
-    "PrevYTDCount": 115,
-    "YTDPercentageChange": 30.4348
+    "PrevYTDCount": 135,
+    "YTDPercentageChange": 17.037
   },
   {
-    "YTDCount": 85,
+    "YTDCount": 93,
     "Year": 2023,
     "Offense": "Carjacking - Subset of Robbery",
-    "PrevYTDCount": 150,
-    "YTDPercentageChange": -43.3333
+    "PrevYTDCount": 158,
+    "YTDPercentageChange": -41.1392
   },
   {
-    "YTDCount": 69,
+    "YTDCount": 74,
     "Year": 2024,
     "Offense": "Carjacking - Subset of Robbery",
-    "PrevYTDCount": 85,
-    "YTDPercentageChange": -18.8235
+    "PrevYTDCount": 93,
+    "YTDPercentageChange": -20.4301
   },
   {
-    "YTDCount": 231,
+    "YTDCount": 258,
     "Year": 2019,
     "Offense": "Robbery"
   },
   {
-    "YTDCount": 372,
+    "YTDCount": 395,
     "Year": 2020,
     "Offense": "Robbery",
-    "PrevYTDCount": 231,
-    "YTDPercentageChange": 61.039
+    "PrevYTDCount": 258,
+    "YTDPercentageChange": 53.1008
   },
   {
-    "YTDCount": 431,
+    "YTDCount": 478,
     "Year": 2021,
     "Offense": "Robbery",
-    "PrevYTDCount": 372,
-    "YTDPercentageChange": 15.8602
+    "PrevYTDCount": 395,
+    "YTDPercentageChange": 21.0127
+  },
+  {
+    "YTDCount": 465,
+    "Year": 2022,
+    "Offense": "Robbery",
+    "PrevYTDCount": 478,
+    "YTDPercentageChange": -2.7197
+  },
+  {
+    "YTDCount": 352,
+    "Year": 2023,
+    "Offense": "Robbery",
+    "PrevYTDCount": 465,
+    "YTDPercentageChange": -24.3011
   },
   {
     "YTDCount": 430,
-    "Year": 2022,
-    "Offense": "Robbery",
-    "PrevYTDCount": 431,
-    "YTDPercentageChange": -0.232
-  },
-  {
-    "YTDCount": 313,
-    "Year": 2023,
-    "Offense": "Robbery",
-    "PrevYTDCount": 430,
-    "YTDPercentageChange": -27.2093
-  },
-  {
-    "YTDCount": 403,
     "Year": 2024,
     "Offense": "Robbery",
-    "PrevYTDCount": 313,
-    "YTDPercentageChange": 28.754
+    "PrevYTDCount": 352,
+    "YTDPercentageChange": 22.1591
   },
   {
-    "YTDCount": 277,
+    "YTDCount": 302,
     "Year": 2019,
     "Offense": "Sex Offenses"
   },
   {
-    "YTDCount": 249,
+    "YTDCount": 265,
     "Year": 2020,
     "Offense": "Sex Offenses",
-    "PrevYTDCount": 277,
-    "YTDPercentageChange": -10.1083
+    "PrevYTDCount": 302,
+    "YTDPercentageChange": -12.2517
   },
   {
-    "YTDCount": 225,
+    "YTDCount": 244,
     "Year": 2021,
     "Offense": "Sex Offenses",
-    "PrevYTDCount": 249,
-    "YTDPercentageChange": -9.6386
+    "PrevYTDCount": 265,
+    "YTDPercentageChange": -7.9245
   },
   {
-    "YTDCount": 205,
+    "YTDCount": 219,
     "Year": 2022,
     "Offense": "Sex Offenses",
-    "PrevYTDCount": 225,
-    "YTDPercentageChange": -8.8889
+    "PrevYTDCount": 244,
+    "YTDPercentageChange": -10.2459
   },
   {
-    "YTDCount": 233,
+    "YTDCount": 250,
     "Year": 2023,
     "Offense": "Sex Offenses",
-    "PrevYTDCount": 205,
-    "YTDPercentageChange": 13.6585
+    "PrevYTDCount": 219,
+    "YTDPercentageChange": 14.1553
   },
   {
-    "YTDCount": 230,
+    "YTDCount": 247,
     "Year": 2024,
     "Offense": "Sex Offenses",
-    "PrevYTDCount": 233,
-    "YTDPercentageChange": -1.2876
+    "PrevYTDCount": 250,
+    "YTDPercentageChange": -1.2
   },
   {
     "YTDCount": 6,
@@ -243,82 +243,82 @@
     "Offense": "Murder and Nonnegligent Manslaughter"
   },
   {
-    "YTDCount": 11,
+    "YTDCount": 12,
     "Year": 2020,
     "Offense": "Murder and Nonnegligent Manslaughter",
     "PrevYTDCount": 6,
-    "YTDPercentageChange": 83.3333
-  },
-  {
-    "YTDCount": 22,
-    "Year": 2021,
-    "Offense": "Murder and Nonnegligent Manslaughter",
-    "PrevYTDCount": 11,
     "YTDPercentageChange": 100
   },
   {
-    "YTDCount": 19,
-    "Year": 2022,
+    "YTDCount": 25,
+    "Year": 2021,
     "Offense": "Murder and Nonnegligent Manslaughter",
-    "PrevYTDCount": 22,
-    "YTDPercentageChange": -13.6364
+    "PrevYTDCount": 12,
+    "YTDPercentageChange": 108.3333
   },
   {
-    "YTDCount": 15,
+    "YTDCount": 26,
+    "Year": 2022,
+    "Offense": "Murder and Nonnegligent Manslaughter",
+    "PrevYTDCount": 25,
+    "YTDPercentageChange": 4
+  },
+  {
+    "YTDCount": 16,
     "Year": 2023,
     "Offense": "Murder and Nonnegligent Manslaughter",
-    "PrevYTDCount": 19,
-    "YTDPercentageChange": -21.0526
+    "PrevYTDCount": 26,
+    "YTDPercentageChange": -38.4615
   },
   {
     "YTDCount": 16,
     "Year": 2024,
     "Offense": "Murder and Nonnegligent Manslaughter",
-    "PrevYTDCount": 15,
-    "YTDPercentageChange": 6.6667
+    "PrevYTDCount": 16,
+    "YTDPercentageChange": 0
   },
   {
-    "YTDCount": 54,
+    "YTDCount": 55,
     "Year": 2019,
     "Offense": "Shooting (PFE)"
   },
   {
-    "YTDCount": 46,
+    "YTDCount": 51,
     "Year": 2020,
     "Offense": "Shooting (PFE)",
-    "PrevYTDCount": 54,
-    "YTDPercentageChange": -14.8148
+    "PrevYTDCount": 55,
+    "YTDPercentageChange": -7.2727
   },
   {
-    "YTDCount": 90,
+    "YTDCount": 103,
     "Year": 2021,
     "Offense": "Shooting (PFE)",
-    "PrevYTDCount": 46,
-    "YTDPercentageChange": 95.6522
+    "PrevYTDCount": 51,
+    "YTDPercentageChange": 101.9608
   },
   {
-    "YTDCount": 112,
+    "YTDCount": 122,
     "Year": 2022,
     "Offense": "Shooting (PFE)",
-    "PrevYTDCount": 90,
-    "YTDPercentageChange": 24.4444
+    "PrevYTDCount": 103,
+    "YTDPercentageChange": 18.4466
   },
   {
-    "YTDCount": 87,
+    "YTDCount": 96,
     "Year": 2023,
     "Offense": "Shooting (PFE)",
-    "PrevYTDCount": 112,
-    "YTDPercentageChange": -22.3214
+    "PrevYTDCount": 122,
+    "YTDPercentageChange": -21.3115
   },
   {
-    "YTDCount": 85,
+    "YTDCount": 88,
     "Year": 2024,
     "Offense": "Shooting (PFE)",
-    "PrevYTDCount": 87,
-    "YTDPercentageChange": -2.2989
+    "PrevYTDCount": 96,
+    "YTDPercentageChange": -8.3333
   },
   {
-    "YTDCount": 26,
+    "YTDCount": 27,
     "Year": 2019,
     "Offense": "Shooting Report Only (P)"
   },
@@ -326,115 +326,115 @@
     "YTDCount": 18,
     "Year": 2020,
     "Offense": "Shooting Report Only (P)",
-    "PrevYTDCount": 26,
-    "YTDPercentageChange": -30.7692
+    "PrevYTDCount": 27,
+    "YTDPercentageChange": -33.3333
   },
   {
-    "YTDCount": 49,
+    "YTDCount": 52,
     "Year": 2021,
     "Offense": "Shooting Report Only (P)",
     "PrevYTDCount": 18,
-    "YTDPercentageChange": 172.2222
+    "YTDPercentageChange": 188.8889
   },
   {
-    "YTDCount": 51,
+    "YTDCount": 54,
     "Year": 2022,
     "Offense": "Shooting Report Only (P)",
-    "PrevYTDCount": 49,
-    "YTDPercentageChange": 4.0816
+    "PrevYTDCount": 52,
+    "YTDPercentageChange": 3.8462
   },
   {
-    "YTDCount": 30,
+    "YTDCount": 34,
     "Year": 2023,
     "Offense": "Shooting Report Only (P)",
-    "PrevYTDCount": 51,
-    "YTDPercentageChange": -41.1765
+    "PrevYTDCount": 54,
+    "YTDPercentageChange": -37.037
   },
   {
-    "YTDCount": 31,
+    "YTDCount": 35,
     "Year": 2024,
     "Offense": "Shooting Report Only (P)",
-    "PrevYTDCount": 30,
-    "YTDPercentageChange": 3.3333
+    "PrevYTDCount": 34,
+    "YTDPercentageChange": 2.9412
   },
   {
-    "YTDCount": 379,
+    "YTDCount": 415,
     "Year": 2019,
     "Offense": "ShotSpotter Activation (P)"
   },
   {
-    "YTDCount": 510,
+    "YTDCount": 551,
     "Year": 2020,
     "Offense": "ShotSpotter Activation (P)",
-    "PrevYTDCount": 379,
-    "YTDPercentageChange": 34.5646
+    "PrevYTDCount": 415,
+    "YTDPercentageChange": 32.7711
   },
   {
-    "YTDCount": 1152,
+    "YTDCount": 1276,
     "Year": 2021,
     "Offense": "ShotSpotter Activation (P)",
-    "PrevYTDCount": 510,
-    "YTDPercentageChange": 125.8824
+    "PrevYTDCount": 551,
+    "YTDPercentageChange": 131.5789
   },
   {
-    "YTDCount": 1223,
+    "YTDCount": 1340,
     "Year": 2022,
     "Offense": "ShotSpotter Activation (P)",
-    "PrevYTDCount": 1152,
-    "YTDPercentageChange": 6.1632
+    "PrevYTDCount": 1276,
+    "YTDPercentageChange": 5.0157
   },
   {
-    "YTDCount": 920,
+    "YTDCount": 997,
     "Year": 2023,
     "Offense": "ShotSpotter Activation (P)",
-    "PrevYTDCount": 1223,
-    "YTDPercentageChange": -24.7751
+    "PrevYTDCount": 1340,
+    "YTDPercentageChange": -25.597
   },
   {
-    "YTDCount": 672,
+    "YTDCount": 727,
     "Year": 2024,
     "Offense": "ShotSpotter Activation (P)",
-    "PrevYTDCount": 920,
-    "YTDPercentageChange": -26.9565
+    "PrevYTDCount": 997,
+    "YTDPercentageChange": -27.0812
   },
   {
-    "YTDCount": 490,
+    "YTDCount": 549,
     "Year": 2019,
     "Offense": "Sound of Shots Fired (P)"
   },
   {
-    "YTDCount": 462,
+    "YTDCount": 521,
     "Year": 2020,
     "Offense": "Sound of Shots Fired (P)",
-    "PrevYTDCount": 490,
-    "YTDPercentageChange": -5.7143
+    "PrevYTDCount": 549,
+    "YTDPercentageChange": -5.1002
   },
   {
-    "YTDCount": 947,
+    "YTDCount": 1065,
     "Year": 2021,
     "Offense": "Sound of Shots Fired (P)",
-    "PrevYTDCount": 462,
-    "YTDPercentageChange": 104.9784
+    "PrevYTDCount": 521,
+    "YTDPercentageChange": 104.4146
   },
   {
-    "YTDCount": 1005,
+    "YTDCount": 1096,
     "Year": 2022,
     "Offense": "Sound of Shots Fired (P)",
-    "PrevYTDCount": 947,
-    "YTDPercentageChange": 6.1246
+    "PrevYTDCount": 1065,
+    "YTDPercentageChange": 2.9108
   },
   {
-    "YTDCount": 686,
+    "YTDCount": 762,
     "Year": 2023,
     "Offense": "Sound of Shots Fired (P)",
-    "PrevYTDCount": 1005,
-    "YTDPercentageChange": -31.7413
+    "PrevYTDCount": 1096,
+    "YTDPercentageChange": -30.4745
   },
   {
-    "YTDCount": 695,
+    "YTDCount": 751,
     "Year": 2024,
     "Offense": "Sound of Shots Fired (P)",
-    "PrevYTDCount": 686,
-    "YTDPercentageChange": 1.312
+    "PrevYTDCount": 762,
+    "YTDPercentageChange": -1.4436
   }
 ]

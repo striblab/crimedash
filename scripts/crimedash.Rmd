@@ -1,5 +1,5 @@
 ---
-title: "Star Tribune public safety dashboard"
+title: "Star Tribune store safety dashboard"
 author: "by Jeff Hargarten"
 output:
   html_document: 
@@ -35,6 +35,7 @@ library(ggalt)
 library(jsonlite)
 library(httr)
 library(purrr)
+library(zoo)
 
 ```
 
@@ -113,7 +114,7 @@ csvcopy <- function(filename, crime){
   source_path <- file.path(current_working_dir, filename)
   
   # Build the destination path using the current working directory and the crime subfolder
-  destination_path <- file.path(current_working_dir, "..", "public", crime, filename)
+  destination_path <- file.path(current_working_dir, "..", "store", crime, filename)
   
   # Copy the file and overwrite if it exists
   file.copy(from = source_path, to = destination_path, overwrite = TRUE)
@@ -168,7 +169,7 @@ ycatplot <- function(categories, crime){
     # Summarize data by Year for the current category
     category_data <- data %>%
       filter(Offense == category) %>%
-      group_by(Year) %>%
+      group_by(Year, Offense) %>%
       summarise(OffenseCount = sum(Crime_Count, na.rm = TRUE), .groups = 'drop')
 
     # Bind the data for the current category to the overall data frame
@@ -270,7 +271,7 @@ precinctcount <- function(categories, crime) {
     # Summarize data by Year and Precinct for the current category
     category_data <- data %>%
       filter(Offense == category) %>%
-      group_by(Year, Precinct) %>%
+      group_by(Year, Precinct, Offense) %>%
       summarise(OffenseCount = sum(Crime_Count, na.rm = TRUE), .groups = 'drop')
 
     # Bind the data for the current category to the overall data frame
@@ -305,8 +306,6 @@ geocatplot <- function(categories, crime){
     # Pivot the data so each year becomes a column
     offenses_pivoted <- offenses_by_year_neighborhood %>%
      pivot_wider(names_from = Year, values_from = IncidentCount, values_fill = list(IncidentCount = 0))
-
-    print(offenses_pivoted)
 
     #merge with geojson
      merged_data <- minneapolis_neighborhoods %>%
@@ -402,9 +401,25 @@ generate_svg_maps('assault')
 
 ```
 
+# Domestic Assaults
+```{r}
+
+categories <- c('Domestic Aggravated Assault - Subset of Assault')
+
+rawplot(categories,'domestic')
+ycatplot(categories,'domestic')
+mocatplot(categories,'domestic')
+ytdcatplot(categories,'domestic')
+precinctcount(categories,'domestic')
+geocatplot(categories,'domestic')
+generate_svg_maps('domestic')
+
+```
+
+
 # Gunfire and Shootings
 ```{r}
-categories <- c('Gunshot Wound Victims', 'Shooting (PFE)', 
+categories <- c('Shooting (PFE)', 
                 'Shooting Report Only (P)', 'ShotSpotter Activation (P)',  'Sound of Shots Fired (P)')
 
 rawplot(categories,'gunfire')
@@ -414,6 +429,20 @@ ytdcatplot(categories,'gunfire')
 precinctcount(categories,'gunfire')
 geocatplot(categories,'gunfire')
 generate_svg_maps('gunfire')
+
+```
+
+# Gunshot Victims
+```{r}
+categories <- c('Gunshot Wound Victims')
+
+rawplot(categories,'shotvictims')
+ycatplot(categories,'shotvictims')
+mocatplot(categories,'shotvictims')
+ytdcatplot(categories,'shotvictims')
+precinctcount(categories,'shotvictims')
+geocatplot(categories,'shotvictims')
+generate_svg_maps('shotvictims')
 
 ```
 
@@ -532,7 +561,7 @@ generate_svg_maps('drugs')
 
 # Other
 ```{r}
-categories <- c('Animal Cruelty', 'Pornography/Obscene Material', 'Counterfeiting/Forgery', 'Destruction/Damage/Vandalism of Property', 'Embezzlement', 'Extortion/Blackmail', 'False Pretenses/Swindle/Confidence Game', 'Gambling Equipment Violations', 'Human Trafficking, Commercial Sex Acts', 'Kidnapping/Abduction', 'Prostitution', 'Stolen Property Offenses', 'Weapon Law Violations', 'Hacking/Computer Invasion', 'Human Trafficking, Involuntary Servitude')
+categories <- c('Animal Cruelty', 'Pornography/Obscene Material', 'Counterfeiting/Forgery', 'Destruction/Damage/Vandalism of Property', 'Embezzlement', 'Extortion/Blackmail', 'False Pretenses/Swindle/Confidence Game', 'Gambling Equipment Violations', 'Human Trafficking, Commercial Sex Acts', 'Kidnapping/Abduction', 'Prostitution', 'Stolen Property Offenses', 'Weapon Law Violations', 'Hacking/Computer Invasion', 'Human Trafficking, Involuntary Servitude', 'Simple Assault', 'Intimidation')
 
 rawplot(categories,'other')
 
@@ -622,7 +651,7 @@ cleanup()
 ```{r}
 # Define the function to download arrest files
 download_arrest_reports <- function() {
-  base_path <- "/Users/hargaja/Desktop/workspace/redboard/20240428-crimedash/public/arrests"
+  base_path <- "/Users/hargaja/Desktop/workspace/redboard/20240428-crimedash../store/arrests"
   urls <- c(
     "https://cde.state.mn.us/DownloadData/ArrestsByJudicialDistrictDownloadData?ReportYear=2024",
     "https://cde.state.mn.us/DownloadData/ArrestsByJudicialDistrictDownloadData?ReportYear=2023",
@@ -664,13 +693,156 @@ download_arrest_reports <- function() {
   
  map(urls, function(url) {
     file_name <- gsub("\\?|=", "_", basename(url))  # Replace '?' and '=' with '_'
-    file_name <- paste0(file_name, ".csv")  # Append '.xlsx' extension to the file name
+    file_name <- paste0(file_name, ".xlsx")  # Append '.xlsx' extension to the file name
     full_path <- file.path(base_path, file_name)
     GET(url, write_disk(full_path, overwrite = TRUE))  # Download and save the file
   })
 }
 
-# Example of how to call the function
 download_arrest_reports()
+
+```
+
+#SUBURBS
+```{r}
+# Define the function to download agency files
+download_suburban_reports <- function() {
+  base_path <- "/Users/hargaja/Desktop/workspace/redboard/20240428-crimedash../store/suburbs"
+  urls <- c(
+    "https://cde.state.mn.us/DownloadData/OffenseCountyMunicipalByAgencyDownloadData?ReportYear=2021",
+    "https://cde.state.mn.us/DownloadData/OffenseCountyMunicipalByAgencyDownloadData?ReportYear=2022",
+    "https://cde.state.mn.us/DownloadData/OffenseCountyMunicipalByAgencyDownloadData?ReportYear=2023",
+    "https://cde.state.mn.us/DownloadData/OffenseCountyMunicipalByAgencyDownloadData?ReportYear=2024"
+  )
+  
+ map(urls, function(url) {
+    file_name <- gsub("\\?|=", "_", basename(url))  # Replace '?' and '=' with '_'
+    file_name <- paste0(file_name, ".xlsx")  # Append '.xlsx' extension to the file name
+    full_path <- file.path(base_path, file_name)
+    GET(url, write_disk(full_path, overwrite = TRUE))  # Download and save the file
+  })
+}
+
+download_suburban_reports()
+
+```
+
+#FORCE
+```{r}
+# Define the function to download force-use files
+download_force_reports <- function() {
+  base_path <- "/Users/hargaja/Desktop/workspace/redboard/20240428-crimedash../store/force"
+  urlscsv <- c(
+    "https://opendata.arcgis.com/api/v3/datasets/bd582e458df740de87601ea5e6136cdc_0/downloads/data?format=csv&spatialRefId=4326&where=1%3D1"
+  )
+  urljson <- c(
+    "https://opendata.arcgis.com/api/v3/datasets/bd582e458df740de87601ea5e6136cdc_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1"
+  )
+  
+ map(urlscsv, function(url) {
+    file_name <- paste0("mpd_shootings.csv")
+    full_path <- file.path(base_path, file_name)
+    GET(url, write_disk(full_path, overwrite = TRUE))  # Download and save the file
+  })
+ 
+  map(urljson, function(url) {
+    file_name <- paste0("mpd_shootings.geojson")
+    full_path <- file.path(base_path, file_name)
+    GET(url, write_disk(full_path, overwrite = TRUE))  # Download and save the file
+  })
+}
+
+download_force_reports()
+
+```
+
+#SHOTS
+```{r}
+# Define the function to download force-use files
+download_shots_reports <- function() {
+  base_path <- "/Users/hargaja/Desktop/workspace/redboard/20240428-crimedash../store/gunfire"
+  urlscsv <- c(
+    "https://opendata.arcgis.com/api/v3/datasets/f9ae3bef2ccd4792b1835e2744de017f_0/downloads/data?format=csv&spatialRefId=4326&where=1%3D1"
+  )
+  
+ map(urlscsv, function(url) {
+    file_name <- paste0("mpls_shots_fired.csv")
+    full_path <- file.path(base_path, file_name)
+    GET(url, write_disk(full_path, overwrite = TRUE))  # Download and save the file
+  })
+}
+
+download_shots_reports()
+
+```
+
+#STOPS
+```{r}
+# Define the function to download force-use files
+download_stops_reports <- function() {
+  base_path <- "/Users/hargaja/Desktop/workspace/redboard/20240428-crimedash../store/activity"
+  urlscsv <- c(
+    "https://opendata.arcgis.com/api/v3/datasets/215b4b543d894750aef86c725b56ee2a_0/downloads/data?format=csv&spatialRefId=4326&where=1%3D1"
+  )
+  
+ map(urlscsv, function(url) {
+    file_name <- paste0("Police_Stop_Data.csv")
+    full_path <- file.path(base_path, file_name)
+    GET(url, write_disk(full_path, overwrite = TRUE))  # Download and save the file
+  })
+
+# Assuming the CSV file is downloaded and named 'data.csv'
+file_path <- '/Users/hargaja/Desktop/workspace/redboard/20240428-crimedash../store/activity/Police_Stop_Data.csv'
+
+# Read the CSV file
+data <- read_csv(file_path)
+
+# Split the responseDate into Date and Timestamp
+data <- data %>%
+  mutate(date = as.Date(responseDate, format = "%Y/%m/%d"),
+         Timestamp = format(strptime(responseDate, format = "%Y/%m/%d %H:%M:%S+00"), "%H:%M:%S"))
+
+# Sort by Date
+data <- data %>%
+  arrange(date)
+
+# Pivot to get the number of records by Date
+data_pivot <- data %>%
+  group_by(date) %>%
+  summarise(IncidentCount = n())
+
+# Add a seven-day rolling average
+data_pivot <- data_pivot %>%
+  mutate(Incidents = rollmean(IncidentCount, 7, fill = NA, align = 'right'))
+
+# Write the pivoted data to a new CSV
+write_csv(data_pivot, '/Users/hargaja/Desktop/workspace/redboard/20240428-crimedash../store/activity/mpd_stops.csv')
+
+# Load the CSV file
+pivoted_data <- read_csv('/Users/hargaja/Desktop/workspace/redboard/20240428-crimedash../store/activity/mpd_stops.csv')
+
+# Ensure IncidentsCount is the correct type for rollmean
+pivoted_data$IncidentCount <- as.numeric(pivoted_data$IncidentCount)
+
+# Use rollmean to calculate the 7-day rolling average
+pivoted_data <- pivoted_data %>%
+  mutate(Incidents = rollmean(IncidentCount, 7, fill = NA, align = 'right'))
+
+# Write the updated data to a new CSV (optional)
+write_csv(pivoted_data, '/Users/hargaja/Desktop/workspace/redboard/20240428-crimedash../store/activity/stops_average.csv')
+
+# Convert the updated data frame to JSON
+json_data <- toJSON(pivoted_data, pretty = TRUE)
+
+# Write the JSON to a file
+write(json_data, file = '/Users/hargaja/Desktop/workspace/redboard/20240428-crimedash../store/activity/stops_average.json')
+
+}
+
+download_stops_reports()
+
+```
+
+```{r}
 
 ```

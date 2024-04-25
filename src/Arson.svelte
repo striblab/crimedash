@@ -126,22 +126,22 @@
 <div class="chart-container">
   <canvas id="aytdChart"></canvas>
 </div>
-<div class="download"><a href="public/arson/arson_ytd_comparison.csv">Download Minneapolis arsons year-to-date data</a></div> 
+<div class="download"><a href="../store/arson/arson_ytd_comparison.csv">Download Minneapolis arsons year-to-date data</a></div> 
 
 <p>&nbsp;</p>
 <h4>Monthly arson trend</h4>
 <div class="chart-container">
   <canvas id="amonthlyChart"></canvas>
 </div>
-<div class="download"><a href="public/arson/arson_monthly_comparison.csv">Download Minneapolis arsons by month data</a></div>
+<div class="download"><a href="../store/arson/arson_monthly_comparison.csv">Download Minneapolis arsons by month data</a></div>
 
 <p>&nbsp;</p>
 <h4>Yearly arson trend</h4>
 <div class="chart-container">
   <canvas id="ayearlyChart"></canvas>
 </div>
-<div class="download"><a href="public/arson/arson_yearly_incident_counts.csv">Download Minneapolis arsons by year data</a></div>
-<div class="download"><a href="public/arson/arson_historical.csv">Download historical Minneapolis SRS arsons data 1985-2022 (includes clearances)</a></div>
+<div class="download"><a href="../store/arson/arson_yearly_incident_counts.csv">Download Minneapolis arsons by year data</a></div>
+<div class="download"><a href="../store/arson/arson_historical.csv">Download historical Minneapolis SRS arsons data 1985-2022 (includes clearances)</a></div>
 
 
 <p>&nbsp;</p>
@@ -149,13 +149,13 @@
 <div class="chart-container">
   <canvas id="aprecinctChart"></canvas>
 </div>
-<div class="download"><a href="public/arson/arson_precinct.csv">Download Minneapolis arsons by police precinct data</a></div>
+<div class="download"><a href="../store/arson/arson_precinct.csv">Download Minneapolis arsons by police precinct data</a></div>
 
 <p>&nbsp;</p>
 <h4>Arsons by neighborhood</h4>
 <p>Click a map to expand.</p>
 <div class="map-container">
-  {#each ['public/arson/arson_map_2019.svg', 'public/arson/arson_map_2020.svg', 'public/arson/arson_map_2021.svg', 'public/arson/arson_map_2022.svg', 'public/arson/arson_map_2023.svg', 'public/arson/arson_map_2024.svg'] as image}
+  {#each ['store/arson/arson_map_2019.svg', 'store/arson/arson_map_2020.svg', 'store/arson/arson_map_2021.svg', 'store/arson/arson_map_2022.svg', 'store/arson/arson_map_2023.svg', 'store/arson/arson_map_2024.svg'] as image}
     <img src={image} alt={`arson Map ${image.slice(-8, -4)}`} on:click={() => openLightbox(image)}>
   {/each}
 </div>
@@ -165,9 +165,9 @@
     <img src={$activeImage} alt="Expanded Image">
   </div>
 {/if}
-<div class="download"><a href="public/arson/arson_geo.csv">Download Minneapolis arsons by neighborhood data</a></div>
-<div class="download"><a href="public/arson/arson_neighborhoods.geojson">Download Minneapolis arsons by neighborhood GEOJSON</a></div>
-<div class="download"><a href="public/arson/arson_raw.csv">Download Minneapolis arsons raw CSV file (includes incident coordinates)</a></div>
+<div class="download"><a href="../store/arson/arson_geo.csv">Download Minneapolis arsons by neighborhood data</a></div>
+<div class="download"><a href="../store/arson/arson_neighborhoods.geojson">Download Minneapolis arsons by neighborhood GEOJSON</a></div>
+<div class="download"><a href="../store/arson/arson_raw.csv">Download Minneapolis arsons raw CSV file (includes incident coordinates)</a></div>
 
 
 

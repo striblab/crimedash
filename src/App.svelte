@@ -2,7 +2,9 @@
 	import About from './About.svelte';
 	import Murder from './Murder.svelte';
 	import Gunfire from './Gunfire.svelte';
+	import Shotvictims from './Shotvictims.svelte';
 	import Assault from './Assault.svelte';
+	import Domestic from './Domestic.svelte';
 	import Rape from './Rape.svelte';
 	import Robbery from './Robbery.svelte';
 	import Carjack from './Carjack.svelte';
@@ -24,28 +26,30 @@
 	import Practices from './Practices.svelte';
   
 	let modules = [
-	  { id: 'murder', name: '>Minneapolis: Homicides', component: Murder },
+	  { id: 'murder', name: 'Minneapolis: Homicides', component: Murder },
 	  { id: 'gunfire', name: 'Minneapolis: Gunfire',  component: Gunfire },
-	  { id: 'assault', name: '>Minneapolis: Aggravated Assault',  component: Assault },
-	  { id: 'rape', name: '>Minneapolis: Sex Offenses',  component: Rape },
-	  { id: 'robbery', name: '>Minneapolis: Robbery',  component: Robbery },
-	  { id: 'carjack', name: '>Minneapolis: Carjacking',  component: Carjack },
-	  { id: 'autotheft', name: '>Minneapolis: Motor Vehicle Theft',  component: Autotheft },
-	  { id: 'burglary', name: '>Minneapolis: Burglary',  component: Burglary },
+	  { id: 'shotvictims', name: 'Minneapolis: Shooting Victims',  component: Shotvictims },
+	  { id: 'assault', name: 'Minneapolis: Aggravated Assault',  component: Assault },
+	  { id: 'domestic', name: 'Minneapolis: Domestic Assault',  component: Domestic },
+	  { id: 'rape', name: 'Minneapolis: Sex Offenses',  component: Rape },
+	  { id: 'robbery', name: 'Minneapolis: Robbery',  component: Robbery },
+	  { id: 'carjack', name: 'Minneapolis: Carjacking',  component: Carjack },
+	  { id: 'autotheft', name: 'Minneapolis: Motor Vehicle Theft',  component: Autotheft },
+	  { id: 'burglary', name: 'Minneapolis: Burglary',  component: Burglary },
 	  { id: 'larceny', name: 'Minneapolis: Larceny',  component: Larceny },
-	  { id: 'arson', name: '>Minneapolis: Arson',  component: Arson },
-	  { id: 'drugs', name: '>Minneapolis: Drug Offenses',  component: Drugs },
-	  { id: 'other', name: '>Minneapolis: Other Offenses',  component: Other },
+	  { id: 'arson', name: 'Minneapolis: Arson',  component: Arson },
+	  { id: 'drugs', name: 'Minneapolis: Drug Offenses',  component: Drugs },
+	  { id: 'other', name: 'Minneapolis: Other Offenses',  component: Other },
 	  { id: 'activity', name: 'Minneapolis: Police Activity',  component: Activity },
 	  { id: 'staff', name: 'Minneapolis: Police Staffing',  component: Staff },
-	  { id: 'stp', name: '>St. Paul Public Safety',  component: STP },
+	  { id: 'stp', name: 'St. Paul Public Safety',  component: STP },
 	  { id: 'suburbs', name: 'Suburban Public Safety',  component: Suburbs },
-	  { id: 'statewide', name: '>Statewide Public Safety',  component: Statewide },
-	  { id: 'arrests', name: '>Minnesota Arrests',  component: Arrests },
-	  { id: 'leoka', name: '>Minnesota LEOKA',  component: LEOKA },
-	  { id: 'force', name: 'Minnesota Police Force-use',  component: Force },
-	  { id: 'national', name: '>National Public Safety',  component: National },
-	  { id: 'practices', name: '>Notes & Best Practices',  component: Practices },
+	  { id: 'statewide', name: 'Statewide Public Safety',  component: Statewide },
+	  { id: 'arrests', name: 'Minnesota Arrests',  component: Arrests },
+	  { id: 'leoka', name: 'Minnesota LEOKA',  component: LEOKA },
+	  { id: 'force', name: 'Minnesota Police Use-of-Force',  component: Force },
+	  { id: 'national', name: 'National Public Safety',  component: National },
+	  { id: 'practices', name: 'Notes & Best Practices',  component: Practices },
 	];
   
 	let selectedModule = null;
@@ -57,7 +61,7 @@
   <div id="wrapper">
 	<div style="position: sticky; top: 0; z-index: 10;"></div>
 	<select bind:value={selectedModule} style="position: sticky; top: 0; z-index: 9; margin-bottom:20px; width:100%;">
-	  <option value={null}>Select a module</option>
+	  <option value={null}>Select a category</option>
 	  {#each modules as module}
 		<option value={module.id}>{module.name}</option>
 	  {/each}
