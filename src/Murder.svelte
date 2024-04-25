@@ -7,7 +7,7 @@
   import murderMonthlyComparison from './data/murder_monthly_comparison.json';
   import murderYearlyIncidentCounts from './data/murder_yearly_incident_counts.json';
   import murderYTDComparison from './data/murder_ytd_comparison.json';
-  import murderHistory from '../public/murder/murderHistory.json';
+  import murderHistory from '../store/murder/murderHistory.json';
   import murderPrecincts from './data/murder_precinct.json';
 
   // Store to track the active image for the lightbox
@@ -133,29 +133,30 @@
 <div class="chart-container">
   <canvas id="ytdChart"></canvas>
 </div>
-<div class="download"><a href="public/murder/murder_ytd_comparison.csv">Download Minneapolis murders year-to-date data</a></div> 
+<div class="download"><a href="../store/murder/murder_ytd_comparison.csv">Download Minneapolis murders year-to-date data</a></div> 
 
 <p>&nbsp;</p>
 <h4>Monthly monthly trend</h4>
 <div class="chart-container">
   <canvas id="monthlyChart"></canvas>
 </div>
-<div class="download"><a href="public/murder/murder_monthly_comparison.csv">Download Minneapolis murders by month data</a></div>
+<div class="download"><a href="../store/murder/murder_monthly_comparison.csv">Download Minneapolis murders by month data</a></div>
 
 <p>&nbsp;</p>
 <h4>Yearly murder trend</h4>
 <div class="chart-container">
   <canvas id="yearlyChart"></canvas>
 </div>
-<div class="download"><a href="public/murder/murder_yearly_incident_counts.csv">Download Minneapolis murders by year data</a></div>
+<div class="download"><a href="../store/murder/murder_yearly_incident_counts.csv">Download Minneapolis murders by year data</a></div>
 
 <p>&nbsp;</p>
 <h4>Historical homicide rates per 10,000 residents</h4>
 <div class="chart-container">
   <canvas id="historyChart"></canvas>
 </div>
-<div class="download"><a href="public/murder/murder_historical.csv">Download historical Minneapolis homicide data 1985-2022 (includes clearances)</a></div>
+<div class="download"><a href="../store/murder/murder_historical.csv">Download historical Minneapolis homicide data 1985-2022 (includes clearances)</a></div>
 <div class="download"><a href="https://docs.google.com/spreadsheets/d/1ntBqZokbzsPQEatu-rlHsIYKq2ngM0hoO1xXmRBQ8jc/edit#gid=1736309950">Star Tribune: Minneapolis Homicides Database</a></div>
+<div class="download"><a href="../store/murder/MNSHR65_22.csv.zip">Download Minneapolis FBI Supplementary Homicide Report, 1976-2022</a></div>
 
 
 <p>&nbsp;</p>
@@ -163,13 +164,13 @@
 <div class="chart-container">
   <canvas id="precinctChart"></canvas>
 </div>
-<div class="download"><a href="public/murder/murder_precinct.csv">Download Minneapolis murders by police precinct data</a></div>
+<div class="download"><a href="../store/murder/murder_precinct.csv">Download Minneapolis murders by police precinct data</a></div>
 
 <p>&nbsp;</p>
 <h4>Murders by neighborhood</h4>
 <p>Click a map to expand.</p>
 <div class="map-container">
-  {#each ['public/murder/murder_map_2019.svg', 'public/murder/murder_map_2020.svg', 'public/murder/murder_map_2021.svg', 'public/murder/murder_map_2022.svg', 'public/murder/murder_map_2023.svg', 'public/murder/murder_map_2024.svg'] as image}
+  {#each ['store/murder/murder_map_2019.svg', 'store/murder/murder_map_2020.svg', 'store/murder/murder_map_2021.svg', 'store/murder/murder_map_2022.svg', 'store/murder/murder_map_2023.svg', 'store/murder/murder_map_2024.svg'] as image}
     <img src={image} alt={`Murder Map ${image.slice(-8, -4)}`} on:click={() => openLightbox(image)}>
   {/each}
 </div>
@@ -179,9 +180,9 @@
     <img src={$activeImage} alt="Expanded Image">
   </div>
 {/if}
-<div class="download"><a href="public/murder/murder_geo.csv">Download Minneapolis murders by neighborhood data</a></div>
-<div class="download"><a href="public/murder/murder_neighborhoods.geojson">Download Minneapolis murders by neighborhood GEOJSON</a></div>
-<div class="download"><a href="public/murder/murder_raw.csv">Download Minneapolis murders raw CSV file (includes incident coordinates)</a></div>
+<div class="download"><a href="../store/murder/murder_geo.csv">Download Minneapolis murders by neighborhood data</a></div>
+<div class="download"><a href="../store/murder/murder_neighborhoods.geojson">Download Minneapolis murders by neighborhood GEOJSON</a></div>
+<div class="download"><a href="../store/murder/murder_raw.csv">Download Minneapolis murders raw CSV file (includes incident coordinates)</a></div>
 
 <p>&nbsp;</p>
 <h4>Links</h4>

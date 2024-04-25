@@ -6,22 +6,13 @@
 
 <p>Things to remember when writing about public safety trends:</p>
 <ul id="tips" style="list-style-type: square;">
-    <li>By their nature, crime statistics are <em>minimums</em> and only reflect offenses recorded by police, and therefore more closely measure police response and priorities.</li>
-    <li>With the exception of homicides, crime data is best expressed as "reported incidents" or "recorded offenses" or something similar since not everything in police data turns out to be substantiated.</li>
-    <li>With the exception of homicides, most crime records represent both attempted or successful offenses, and rarely specify which is which.</li>
+    <li>Crime statistics are <em>minimums</em> and reflect both attempted and successful offenses recorded by police and should be referred to as "reported crimes" or "recorded offenses" or something similar.</li>
     <li>Unless otherwise noted, violent crimes count victims, property crimes count incidents.</li>
-    <li>All Minnesota law enforcement agencies are using NIBRS (National Incident-Based Reporting System) since 2021, which replaced the century-old SRS (Summary Reporting System) standard.</li>
-    <li>SRS and NIBRS standards ARE NOT COMPATIBLE and offense counts can differ significantly. The FBI's annual UCR releases can present backwards-compatible trends, but we lack that secret formula.</li>
-    <li>Whereas SRS just counted primary offenses in a hierarchy of major crimes, NIBRS counts ALL offenses committed across all criminal incidents, leading to potential duplication and inflation when comparing to prior eras.</li>
-    <li>NIBRS isn't a uniform data format, but rather a philosophical framework that each law enforcement agency can implement differently. So Minneapolis and St. Paul crime stats are likely to be an apples-to-pears comparison, rather than apples-to-apples.
+    <li>All Minnesota law enforcement agencies are using NIBRS (National Incident-Based Reporting System) since 2021, which replaced the century-old SRS (Summary Reporting System) standard. These systems ARE NOT COMPATIBLE and comparison can be complicated since SRS only tracked primary offenses and NIBRS records <em>everything</em>.</li>
+    <li>NIBRS isn't a uniform data format, but rather a philosophical framework agencies can implement differently. So rankings of agencies are discouraged and comparisons should be broad.</li>
     <li>Crime statistics are a moving target, especially under NIBRS where data can retroactively change, sometimes significantly, because the data is being constantly updated and resubmitted to the state and the feds.</li>
-    <li>Because of this, <em>precision</em> can be a challenging (or futile) pursuit. Instead, aim for <span>broad accuracy</span> – we're providing a momentary snapshot of estimate crime trends and comparisons, not canonical statistics.</li>
-    <li>Express trends with some hedging (<em>e.g. increased about 60%</em>) – <em>about</em>, <em>estimated</em>, <em>nearly</em>, <em>around</em> and similar modifiers are your friends.</li>
-    <li>Broad comparisons between agencies is fine to provide context – but don't treat these as rankings, which the FBI warns against.</li>
-    <li>Avoid writing with numbers if you don't have to: 60% can be "almost two-thirds" and 20% can be "a fifth."</li>
-    <li>Round the numbers in your writing.</li>
-    <li>In crime stats dataviz, it's the broad shape of the trend that matters, so tooltips or labeling specific numbers is unnecessary, not that insightful, and can quickly become imprecise.</li>
-    <li>Don't stress if later data shows slightly more or fewer offenses than you originally wrote about – this is unavoidable given the nature of newer NIBRS practices. Changes to past data can appear weeks or even months later.</li>
+    <li>Because of this, <em>precision</em> can be a challenging (or futile) pursuit. Instead, aim for <span>broad accuracy</span> of a momentary snapshot - and don't stress if statistics you used in a story change later. </li>
+    <li>Express trends with some hedging (<em>e.g. increased about 60%</em>) – <em>about</em>, <em>estimated</em>, <em>nearly</em>, <em>around</em> and similar modifiers are your friends. Avoid writing with numbers if you don't have to: 60% can be "almost two-thirds" and 20% can be "a fifth." Always round your numbers. Tooltips and specific totals on dataviz are usually unnecessary since it's the shape of trends that matters.</li>
 </ul>
 
 <p>&nbsp;</p>

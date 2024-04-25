@@ -1,9 +1,9 @@
 <script>
   import { onMount } from 'svelte';
   import Chart from 'chart.js/auto';
-  import assaultLEOKA from '../public/leoka/mn_leoka_assaults.json';
-  import killedLEOKA from '../public/leoka/mn_leoka_killed.json';
-  import incidentsLEOKA from '../public/leoka/mn_leoka_incidents.json';
+  import assaultLEOKA from '../store/leoka/mn_leoka_assaults.json';
+  import killedLEOKA from '../store/leoka/mn_leoka_killed.json';
+  import incidentsLEOKA from '../store/leoka/mn_leoka_incidents.json';
 
   let assaultChart, killedChart, incidentsChart;
 
@@ -92,7 +92,7 @@ onMount(() => {
     killedChart = createKilledChart(ctxKilled, killedLEOKA, 'Officers Killed');
 
     const ctxIncidents = document.getElementById('incidentsChart').getContext('2d');
-    incidentsChart = createChart(ctxIncidents, incidentsLEOKA, 'Total Incidents', 'incidents', 'bar');
+    incidentsChart = createChart(ctxIncidents, incidentsLEOKA, 'Total Offenses', 'incidents', 'bar');
 
 });
 
@@ -106,7 +106,7 @@ onMount(() => {
 <div class="chart-container">
   <canvas id="assaultChart"></canvas>
 </div>
-<a href="public/leoka/mn_leo_assaults.csv">Download Minnesota LEO assault incidents 1970-2023</a>
+<div class="download"><a href="../store/leoka/mn_leo_assaults.csv">Download Minnesota LEO assault incidents 1970-2023</a></div>
 
 <p>&nbsp;</p>
 
@@ -117,16 +117,16 @@ onMount(() => {
 <div class="chart-container">
   <canvas id="incidentsChart"></canvas>
 </div>
-<a href="public/leoka/mn_leoka.xlsx">Download Minnesota LEOKA statistics 2021-2023</a>
+<div class="download"><a href="../store/leoka/mn_leoka.xlsx">Download Minnesota LEOKA statistics 2021-2023</a></div>
 
 <p>&nbsp;</p>
 
-<p>About <strong>{totalFelonious}</strong> Minnesota police officers have been killed feloniously and <strong>{totalAccidental}</strong> accidentally since 1970.</p>
+<p>About <strong class="fel">{totalFelonious}</strong> Minnesota police officers have been killed feloniously and <strong class="acc">{totalAccidental}</strong> accidentally since 1970.</p>
 
 <div class="chart-container">
   <canvas id="killedChart"></canvas>
 </div>
-<a href="public/leoka/mn_leo_killed.csv">Download Minnesota LEO killed data 1970-2024</a>
+<div class="download"><a href="../store/leoka/mn_leo_killed.csv">Download Minnesota LEO killed data 1970-2024</a></div>
 
 <p>&nbsp;</p>
 
@@ -135,7 +135,7 @@ onMount(() => {
     <li><a href="https://cde.state.mn.us/LawEnforcementOfficersKilledandAssaulted/LawEnforcementOfficersKilledandAssaulted">Minnesota LEOKA Dashboard</a></li>
     <li><a href="https://cde.ucr.cjis.gov/LATEST/webapp/#/pages/le/leoka">FBI national LEOKA data</a></li>
     <li><a href="https://cde.ucr.cjis.gov/LATEST/webapp/#/pages/le/lesdc">FBI LEO suicide data collection</a></li>
-
+    <li><a href="https://www.odmp.org/search/year?year=2023">Officer Down Memorial Page</a></li>
 </ul>
 
 
@@ -150,5 +150,11 @@ onMount(() => {
   canvas {
     max-width: 100%;
     height: 300px !important;
+  }
+  .acc {
+    color:#59aded;
+  }
+  .fel {
+    color:#ff7994;
   }
 </style>

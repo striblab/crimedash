@@ -1,9 +1,9 @@
 <script>
     import { onMount } from 'svelte';
     import Chart from 'chart.js/auto';
-    import mnHomicideRate from '../public/mn/mn_homicides.json';
-    import mnProperty from '../public/mn/mn_property.json';
-    import mnViolentCrime from '../public/mn/mn_violence.json';
+    import mnHomicideRate from '../store/mn/mn_homicides.json';
+    import mnProperty from '../store/mn/mn_property.json';
+    import mnViolentCrime from '../store/mn/mn_violence.json';
   
     let mnhomicideChart, mnpropertyChart, mnviolentCrimeChart;
 
@@ -64,7 +64,8 @@
 <div class="chart-container">
     <canvas id="mnhomicideChart"></canvas>
   </div>
-<a href="public/mn/mn_homicides.csv">Download Minnesota homicide rate data</a>
+  <div class="download"><a href="../store/mn/mn_homicides.csv">Download Minnesota homicide rate data</a></div>
+  <div class="download"><a href="../store/mn/MNSHR65_22.csv.zip">Download Minnesota FBI Supplementary Homicide Report, 1976-2022</a></div>
 
 <p>&nbsp;</p>
 
@@ -72,7 +73,7 @@
 <div class="chart-container">
     <canvas id="mnviolentCrimeChart"></canvas>
   </div>
-<a href="public/mn/mn_violence.csv">Download Minnesota violence rate data</a>
+  <div class="download"><a href="../store/mn/mn_violence.csv">Download Minnesota violence rate data</a></div>
 
 <p>&nbsp;</p>
 
@@ -80,7 +81,7 @@
 <div class="chart-container">
     <canvas id="mnpropertyChart"></canvas>
   </div>
-<a href="public/mn/mn_property.csv">Download Minnesota property crime rate data</a>
+<div class="download"><a href="../store/mn/mn_property.csv">Download Minnesota property crime rate data</a></div>
 
 <p>&nbsp;</p>
 

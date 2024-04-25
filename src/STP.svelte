@@ -1,9 +1,9 @@
 <script>
     import { onMount } from 'svelte';
     import Chart from 'chart.js/auto';
-    import stpHomicideRate from '../public/stp/stp_homicide_rate.json';
-    import stpProperty from '../public/stp/stp_property.json';
-    import stpViolentCrime from '../public/stp/stp_violent.json';
+    import stpHomicideRate from '../store/stp/stp_homicide_rate.json';
+    import stpProperty from '../store/stp/stp_property.json';
+    import stpViolentCrime from '../store/stp/stp_violent.json';
   
     let homicideChart, propertyChart, violentCrimeChart;
 
@@ -28,7 +28,7 @@
                 beginAtZero: true,
                 title: {
                 display: true,
-                text: 'Incidents'
+                text: ' '
                 }
             }
             }
@@ -38,7 +38,7 @@
 
     onMount(() => {
         const ctxHomicide = document.getElementById('homicideChart').getContext('2d');
-        homicideChart = createChart(ctxHomicide, stpHomicideRate, 'Homicide Rate');
+        homicideChart = createChart(ctxHomicide, stpHomicideRate, 'Homicide Rate per 100,000 residents');
 
         const ctxProperty = document.getElementById('propertyChart').getContext('2d');
         propertyChart = createChart(ctxProperty, stpProperty, 'Property Crimes');
@@ -55,7 +55,9 @@
 <div class="chart-container">
     <canvas id="homicideChart"></canvas>
   </div>
-<div class="download"><a href="public/stp/stp_homicide_rate.csv">Download St. Paul 1976-2023 homicide data</a></div>
+<div class="download"><a href="../store/stp/stp_homicide_rate.csv">Download St. Paul 1976-2023 homicide data</a></div>
+<div class="download"><a href="../store/stp/STPMNSHR65_22.csv.zip">Download St. Paul FBI Supplementary Homicide Report, 1976-2022</a></div>
+
 
 <p>&nbsp;</p>
 
@@ -64,7 +66,7 @@
 <div class="chart-container">
     <canvas id="violentCrimeChart"></canvas>
   </div>
-<div class="download"><a href="public/stp/stp_violent.csv">Download St. Paul 1985-2022 violent crimes data (includes clearances)</a></div>
+<div class="download"><a href="../store/stp/stp_violent.csv">Download St. Paul 1985-2022 violent crimes data (includes clearances)</a></div>
 
 <p>&nbsp;</p>
 
@@ -73,7 +75,7 @@
 <div class="chart-container">
     <canvas id="propertyChart"></canvas>
   </div>
-<div class="download"><a href="public/stp/stp_property.csv">Download St. Paul 1985-2022 property crimes data (includes clearances)</a></div>
+<div class="download"><a href="../store/stp/stp_property.csv">Download St. Paul 1985-2022 property crimes data (includes clearances)</a></div>
 
 <p>&nbsp;</p>
 

@@ -126,34 +126,34 @@
   <div class="chart-container">
     <canvas id="aytdChart"></canvas>
   </div>
-  <div class="download"><a href="public/drugs/drugs_ytd_comparison.csv">Download Minneapolis drugss year-to-date data</a></div> 
+  <div class="download"><a href="../store/drugs/drugs_ytd_comparison.csv">Download Minneapolis drug offenses year-to-date data</a></div> 
   
   <p>&nbsp;</p>
   <h4>Monthly drug offense trend</h4>
   <div class="chart-container">
     <canvas id="amonthlyChart"></canvas>
   </div>
-  <div class="download"><a href="public/drugs/drugs_monthly_comparison.csv">Download Minneapolis drug offenses by month data</a></div>
+  <div class="download"><a href="../store/drugs/drugs_monthly_comparison.csv">Download Minneapolis drug offenses by month data</a></div>
   
   <p>&nbsp;</p>
   <h4>Yearly drug offense trend</h4>
   <div class="chart-container">
     <canvas id="ayearlyChart"></canvas>
   </div>
-  <div class="download"><a href="public/drugs/drugs_yearly_incident_counts.csv">Download Minneapolis  drug offense by year data</a></div>
+  <div class="download"><a href="../store/drugs/drugs_yearly_incident_counts.csv">Download Minneapolis drug offenses by year data</a></div>
   
   <p>&nbsp;</p>
   <h4>Drug offenses by police precinct</h4>
   <div class="chart-container">
     <canvas id="aprecinctChart"></canvas>
   </div>
-  <div class="download"><a href="public/drugs/drugs_precinct.csv">Download Minneapolis drugs by police precinct data</a></div>
+  <div class="download"><a href="../store/drugs/drugs_precinct.csv">Download Minneapolis drug offenses by police precinct data</a></div>
   
   <p>&nbsp;</p>
   <h4>Drug offenses by neighborhood</h4>
   <p>Click a map to expand.</p>
   <div class="map-container">
-    {#each ['public/drugs/drugs_map_2019.svg', 'public/drugs/drugs_map_2020.svg', 'public/drugs/drugs_map_2021.svg', 'public/drugs/drugs_map_2022.svg', 'public/drugs/drugs_map_2023.svg', 'public/drugs/drugs_map_2024.svg'] as image}
+    {#each ['store/drugs/drugs_map_2019.svg', 'store/drugs/drugs_map_2020.svg', 'store/drugs/drugs_map_2021.svg', 'store/drugs/drugs_map_2022.svg', 'store/drugs/drugs_map_2023.svg', 'store/drugs/drugs_map_2024.svg'] as image}
       <img src={image} alt={`drugs Map ${image.slice(-8, -4)}`} on:click={() => openLightbox(image)}>
     {/each}
   </div>
@@ -163,9 +163,9 @@
       <img src={$activeImage} alt="Expanded Image">
     </div>
   {/if}
-  <div class="download"><a href="public/drugs/drugs_geo.csv">Download Minneapolis drug offenses by neighborhood data</a></div>
-  <div class="download"><a href="public/drugs/drugs_neighborhoods.geojson">Download Minneapolis drug offenses by neighborhood GEOJSON</a></div>
-  <div class="download"><a href="public/drugs/drugs_raw.csv">Download Minneapolis drug offenses raw CSV file (includes incident coordinates)</a></div>
+  <div class="download"><a href="../store/drugs/drugs_geo.csv">Download Minneapolis drug offenses by neighborhood data</a></div>
+  <div class="download"><a href="../store/drugs/drugs_neighborhoods.geojson">Download Minneapolis drug offenses by neighborhood GEOJSON</a></div>
+  <div class="download"><a href="../store/drugs/drugs_raw.csv">Download Minneapolis drug offenses raw CSV file (includes incident coordinates)</a></div>
   
   
   

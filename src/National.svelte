@@ -1,9 +1,9 @@
 <script>
     import { onMount } from 'svelte';
     import Chart from 'chart.js/auto';
-    import usHomicideRate from '../public/national/us_homicide.json';
-    import usViolentCrime from '../public/national/us_violence.json';
-    import usClearance from '../public/national/us_clearance.json';
+    import usHomicideRate from '../store/national/us_homicide.json';
+    import usViolentCrime from '../store/national/us_violence.json';
+    import usClearance from '../store/national/us_clearance.json';
     
     let ushomicideChart, usClearanceChart, usviolentCrimeChart;
 
@@ -38,13 +38,13 @@
 
     onMount(() => {
         const ctxHomicide = document.getElementById('ushomicideChart').getContext('2d');
-        ushomicideChart = createChart(ctxHomicide, usHomicideRate, 'Homicide Rate');
+        ushomicideChart = createChart(ctxHomicide, usHomicideRate, 'Homicide Rate per 100,000 people');
 
         const ctxProperty = document.getElementById('usClearanceChart').getContext('2d');
         usClearanceChart = createChart(ctxProperty, usClearance, 'Homicide Clearance Rate %');
 
         const ctxViolent = document.getElementById('usviolentCrimeChart').getContext('2d');
-        usviolentCrimeChart = createChart(ctxViolent, usViolentCrime, 'Violent Crimes');
+        usviolentCrimeChart = createChart(ctxViolent, usViolentCrime, 'Violent Crimes per 100,000 people');
     });
   </script>
 
@@ -54,7 +54,8 @@
 <div class="chart-container">
     <canvas id="ushomicideChart"></canvas>
   </div>
-<a href="public/national/fbi_national_homicide_rate.csv">Download national homicide rate data</a>
+  <div class="download"><a href="../store/national/fbi_national_homicide_rate.csv">Download national homicide rate data</a></div>
+  <div class="download"><a href="../store/national/SHR65_22.csv.zip">Download national FBI Supplementary Homicide Report, 1976-2022</a></div>
 
 <p>&nbsp;</p>
 
@@ -62,7 +63,7 @@
 <div class="chart-container">
     <canvas id="usClearanceChart"></canvas>
   </div>
-<a href="public/national/us_clearance.csv">Download national homicide clearance rate data</a>
+  <div class="download"><a href="../store/national/us_clearance.csv">Download national homicide clearance rate data</a></div>
 
 <p>&nbsp;</p>
 
@@ -70,7 +71,7 @@
 <div class="chart-container">
     <canvas id="usviolentCrimeChart"></canvas>
   </div>
-<a href="public/national/fbi_national_violence_rate.csv">Download national violence rate data</a>
+<div class="download"><a href="../store/national/fbi_national_violence_rate.csv">Download national violence rate data</a></div>
 
 <p>&nbsp;</p>
 

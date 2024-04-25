@@ -128,22 +128,22 @@
   <div class="chart-container">
     <canvas id="aytdChart"></canvas>
   </div>
-  <div class="download"><a href="public/rape/rape_ytd_comparison.csv">Download Minneapolis rapes year-to-date data</a></div> 
+  <div class="download"><a href="../store/rape/rape_ytd_comparison.csv">Download Minneapolis rapes year-to-date data</a></div> 
   
   <p>&nbsp;</p>
   <h4>Monthly sex offense trend</h4>
   <div class="chart-container">
     <canvas id="amonthlyChart"></canvas>
   </div>
-  <div class="download"><a href="public/rape/rape_monthly_comparison.csv">Download Minneapolis rapes by month data</a></div>
+  <div class="download"><a href="../store/rape/rape_monthly_comparison.csv">Download Minneapolis rapes by month data</a></div>
   
   <p>&nbsp;</p>
   <h4>Yearly sex offense trend</h4>
   <div class="chart-container">
     <canvas id="ayearlyChart"></canvas>
   </div>
-  <div class="download"><a href="public/rape/rape_yearly_incident_counts.csv">Download Minneapolis rapes by year data</a></div>
-  <div class="download"><a href="public/rape/rape_historical.csv">Download historical Minneapolis SRS rapes data 1985-2022 (includes clearances)</a></div>
+  <div class="download"><a href="../store/rape/rape_yearly_incident_counts.csv">Download Minneapolis rapes by year data</a></div>
+  <div class="download"><a href="../store/rape/rape_historical.csv">Download historical Minneapolis SRS rapes data 1985-2022 (includes clearances)</a></div>
   
   
   <p>&nbsp;</p>
@@ -151,13 +151,13 @@
   <div class="chart-container">
     <canvas id="aprecinctChart"></canvas>
   </div>
-  <div class="download"><a href="public/rape/rape_precinct.csv">Download Minneapolis rapes by police precinct data</a></div>
+  <div class="download"><a href="../store/rape/rape_precinct.csv">Download Minneapolis rapes by police precinct data</a></div>
   
   <p>&nbsp;</p>
   <h4>Sex offenses by neighborhood</h4>
   <p>Click a map to expand.</p>
   <div class="map-container">
-    {#each ['public/rape/rape_map_2019.svg', 'public/rape/rape_map_2020.svg', 'public/rape/rape_map_2021.svg', 'public/rape/rape_map_2022.svg', 'public/rape/rape_map_2023.svg', 'public/rape/rape_map_2024.svg'] as image}
+    {#each ['store/rape/rape_map_2019.svg', 'store/rape/rape_map_2020.svg', 'store/rape/rape_map_2021.svg', 'store/rape/rape_map_2022.svg', 'store/rape/rape_map_2023.svg', 'store/rape/rape_map_2024.svg'] as image}
       <img src={image} alt={`rape Map ${image.slice(-8, -4)}`} on:click={() => openLightbox(image)}>
     {/each}
   </div>
@@ -167,9 +167,9 @@
       <img src={$activeImage} alt="Expanded Image">
     </div>
   {/if}
-  <div class="download"><a href="public/rape/rape_geo.csv">Download Minneapolis rapes by neighborhood data</a></div>
-  <div class="download"><a href="public/rape/rape_neighborhoods.geojson">Download Minneapolis rapes by neighborhood GEOJSON</a></div>
-  <div class="download"><a href="public/rape/rape_raw.csv">Download Minneapolis rapes raw CSV file (includes incident coordinates)</a></div>
+  <div class="download"><a href="../store/rape/rape_geo.csv">Download Minneapolis rapes by neighborhood data</a></div>
+  <div class="download"><a href="../store/rape/rape_neighborhoods.geojson">Download Minneapolis rapes by neighborhood GEOJSON</a></div>
+  <div class="download"><a href="../store/rape/rape_raw.csv">Download Minneapolis rapes raw CSV file (includes incident coordinates)</a></div>
   
   
   

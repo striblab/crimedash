@@ -1,25 +1,119 @@
-<script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();</script>
+<script>
+  import { onMount } from 'svelte';
+  import Chart from 'chart.js/auto';
 
-<h3>Police staffing</h3>
+  import staffMplsData from '../store/staff/staff_mpls.json';
+  import staffMinneapolisData from '../store/staff/staff_minneapolis.json';
 
-<p>To date, the Minneapois Police Department has seen a 40% exodus from its ranks that started in 2020.</p>
+  let mplsChart, minneapolisChart;
 
-<iframe title="Police staffing levels fall" aria-label="Interactive line chart" id="datawrapper-chart-d4ia5" src="https://datawrapper.dwcdn.net/d4ia5/10/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400" data-external="1"></iframe>
-<a href="public/staff/staff_mpls.csv">Download 2019-2023 MPD staffing data</a>
+  function createChart(ctx, chartData, title, type = 'line') {
+    return new Chart(ctx, {
+      type: type,
+      data: {
+        labels: chartData.labels,
+        datasets: chartData.datasets
+      },
+      options: {
+        responsive: true,
+        maintainAspectRatio: false,
+        scales: {
+          y: {
+            beginAtZero: true,
+            title: {
+              display: true,
+              text: 'Number of Staff'
+            }
+          }
+        }
+      }
+    });
+  }
+
+  onMount(() => {
+    // Chart for staff_mpls.json
+    const mplsLabels = staffMplsData.map(item => item.date);
+    const mplsDataset = {
+      label: 'Sworn Officers',
+      data: staffMplsData.map(item => item.officers),
+      borderColor: 'rgba(70, 130, 180, 0.8)',
+      backgroundColor: 'rgba(70, 130, 180, 0.8)',
+      fill: false
+    };
+    const mplsLeave = {
+      label: 'On Leave',
+      data: staffMplsData.map(item => item.leave),
+      borderColor: 'rgb(255, 159, 64)',
+      backgroundColor: 'rgba(255, 159, 64, 0.5)',
+      fill: false
+    };
+
+    mplsChart = createChart(document.getElementById('mplsChart').getContext('2d'), {
+      labels: mplsLabels,
+      datasets: [mplsDataset,mplsLeave]
+    }, 'Minneapolis Staff by Month');
+
+    // Chart for staff_minneapolis.json
+    const minneapolisLabels = staffMinneapolisData.map(item => item.year.toString());
+    const maleOfficers = {
+      label: 'Male Officers',
+      data: staffMinneapolisData.map(item => item["Male Officers"]),
+      borderColor: 'rgb(54, 162, 235)',
+      backgroundColor: 'rgba(54, 162, 235, 0.5)',
+      fill: false
+    };
+    const femaleOfficers = {
+      label: 'Female Officers',
+      data: staffMinneapolisData.map(item => item["Female Officers"]),
+      borderColor: 'rgb(255, 99, 132)',
+      backgroundColor: 'rgba(255, 99, 132, 0.5)',
+      fill: false
+    };
+    const maleCivilians = {
+      label: 'Male Civilians',
+      data: staffMinneapolisData.map(item => item["Male Civilians"]),
+      borderColor: 'rgb(255, 159, 64)',
+      backgroundColor: 'rgba(255, 159, 64, 0.5)',
+      fill: false
+    };
+    const femaleCivilians = {
+      label: 'Female Civilians',
+      data: staffMinneapolisData.map(item => item["Female Civilians"]),
+      borderColor: 'rgb(153, 102, 255)',
+      backgroundColor: 'rgba(153, 102, 255, 0.5)',
+      fill: false
+    };
+
+    minneapolisChart = createChart(document.getElementById('minneapolisChart').getContext('2d'), {
+      labels: minneapolisLabels,
+      datasets: [maleOfficers, femaleOfficers, maleCivilians, femaleCivilians]
+    }, 'Minneapolis Staff by Year');
+  });
+</script>
+
+<h3>Minneapolis: Police Staffing</h3>
+
+<p>To date, the Minneapois Police Department has seen an estimated 40% exodus from its ranks that started in 2020.</p>
+
+<div class="chart-container">
+  <canvas id="mplsChart"></canvas>
+</div>
+<div class="download"><a href="../store/staff/staff_mpls.csv">Download 2019-2023 MPD staffing data</a></div>
 
 <p>&nbsp;</p>
 
 <p>At 1.4 sworn officers to 1,000, MPD currently has among the lowest staffing rations among major American cities, far below the national average.</p>
 
-<iframe title="MINNEAPOLIS HAS AMONG LOWEST POLICE RATES" aria-label="Arrow Plot" id="datawrapper-chart-CpClJ" src="https://datawrapper.dwcdn.net/CpClJ/4/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="754" data-external="1"></iframe>
-<a href="public/staff/staff_compare.csv">Download police 1985-2022 staffing ratio comparison data</a>
+<div class="download"><a href="../store/staff/staff_compare.csv">Download police 1985-2022 staffing ratio comparison data</a></div>
 
 <p>&nbsp;</p>
 
 <p>Officers leaving MPD have prodominantly been male, though rates of female departure are higher.</p>
 
-<img src="public/staff/staff_mpls_breakdown.png" alt="staffing" />
-<a href="public/staff/staff_minneapolis.csv">Download police 1985-2021 staffing breakdown data</a>
+<div class="chart-container">
+  <canvas id="minneapolisChart"></canvas>
+</div>
+<div class="download"><a href="../store/staff/staff_minneapolis.csv">Download police 1985-2021 staffing breakdown data</a></div>
 
 <p>&nbsp;</p>
 
@@ -30,14 +124,58 @@
 </ul>
 
 <style>
-iframe {
-  margin-bottom: 20px;
-  width: 100%;
-  max-width: 800px;
-  border: none;
-  height: 400px;
-}
-img {
-    width:100%;
-}
+ .chart-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding: 20px;
+  }
+  canvas {
+    max-width: 100%;
+    height: 300px !important;
+  }
+  .positive {
+  color: red;
+  }
+  .negative {
+    color: green;
+  }
+  .map-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    gap: 20px;
+  }
+
+  img {
+    width: 200px;
+    height: auto;
+    cursor: pointer;
+    transition: transform 0.2s;
+    border:1px solid #dddddd;
+  }
+
+  img:hover {
+    transform: scale(1.05);
+  }
+
+  .lightbox {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 1000;
+  }
+
+  .lightbox img {
+    max-width: 90%; 
+    max-height: 90%;
+    height: auto;
+    width: auto;
+  }
 </style>

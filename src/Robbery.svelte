@@ -98,17 +98,17 @@
   
   {#if robberyYTDComparison && robberyYTDComparison.length > 0}
   <p>
-    Minneapolis has recorded <strong>{robberyYTDComparison[robberyYTDComparison.length - 1].YTDCount}</strong> robberys this year, a
+    Minneapolis has recorded <strong>{robberyYTDComparison[robberyYTDComparison.length - 1].YTDCount}</strong> robberies this year, a
     <span class={robberyYTDComparison[robberyYTDComparison.length - 1].YTDPercentageChange >= 0 ? 'positive' : 'negative'}>
       <strong>
         {typeof robberyYTDComparison[robberyYTDComparison.length - 1].YTDPercentageChange === 'number' ? 
           (robberyYTDComparison[robberyYTDComparison.length - 1].YTDPercentageChange > 0 ? `+${robberyYTDComparison[robberyYTDComparison.length - 1].YTDPercentageChange.toFixed(0)}%` : `${robberyYTDComparison[robberyYTDComparison.length - 1].YTDPercentageChange.toFixed(0)}%`) 
           : 'N/A'}
       </strong>
-    </span> change from last year's <strong>{robberyYTDComparison[robberyYTDComparison.length - 1].PrevYTDCount}</strong> robberys at this time.
+    </span> change from last year's <strong>{robberyYTDComparison[robberyYTDComparison.length - 1].PrevYTDCount}</strong> robberies at this time.
   </p>
   <p>
-    Compared to 2019's count of <strong>{robberyYTDComparison[0].YTDCount}</strong> robberys, the change is
+    Compared to 2019's count of <strong>{robberyYTDComparison[0].YTDCount}</strong> robberies, the change is
     <span class={
       (robberyYTDComparison[robberyYTDComparison.length - 1].YTDCount - robberyYTDComparison[0].YTDCount) >= 0 ? 'positive' : 'negative'}>
       <strong>
@@ -126,22 +126,22 @@
   <div class="chart-container">
     <canvas id="aytdChart"></canvas>
   </div>
-  <div class="download"><a href="public/robbery/robbery_ytd_comparison.csv">Download Minneapolis robberys year-to-date data</a></div> 
+  <div class="download"><a href="../store/robbery/robbery_ytd_comparison.csv">Download Minneapolis robberies year-to-date data</a></div> 
   
   <p>&nbsp;</p>
   <h4>Monthly robbery trend</h4>
   <div class="chart-container">
     <canvas id="amonthlyChart"></canvas>
   </div>
-  <div class="download"><a href="public/robbery/robbery_monthly_comparison.csv">Download Minneapolis robberys by month data</a></div>
+  <div class="download"><a href="../store/robbery/robbery_monthly_comparison.csv">Download Minneapolis robberies by month data</a></div>
   
   <p>&nbsp;</p>
   <h4>Yearly robbery trend</h4>
   <div class="chart-container">
     <canvas id="ayearlyChart"></canvas>
   </div>
-  <div class="download"><a href="public/robbery/robbery_yearly_incident_counts.csv">Download Minneapolis robberys by year data</a></div>
-  <div class="download"><a href="public/robbery/robbery_historical.csv">Download historical Minneapolis SRS robberys data 1985-2022 (includes clearances)</a></div>
+  <div class="download"><a href="../store/robbery/robbery_yearly_incident_counts.csv">Download Minneapolis robberies by year data</a></div>
+  <div class="download"><a href="../store/robbery/robbery_historical.csv">Download historical Minneapolis SRS robberies data 1985-2022 (includes clearances)</a></div>
   
   
   <p>&nbsp;</p>
@@ -149,13 +149,13 @@
   <div class="chart-container">
     <canvas id="aprecinctChart"></canvas>
   </div>
-  <div class="download"><a href="public/robbery/robbery_precinct.csv">Download Minneapolis robberys by police precinct data</a></div>
+  <div class="download"><a href="../store/robbery/robbery_precinct.csv">Download Minneapolis robberies by police precinct data</a></div>
   
   <p>&nbsp;</p>
   <h4>Robberies by neighborhood</h4>
   <p>Click a map to expand.</p>
   <div class="map-container">
-    {#each ['public/robbery/robbery_map_2019.svg', 'public/robbery/robbery_map_2020.svg', 'public/robbery/robbery_map_2021.svg', 'public/robbery/robbery_map_2022.svg', 'public/robbery/robbery_map_2023.svg', 'public/robbery/robbery_map_2024.svg'] as image}
+    {#each ['store/robbery/robbery_map_2019.svg', 'store/robbery/robbery_map_2020.svg', 'store/robbery/robbery_map_2021.svg', 'store/robbery/robbery_map_2022.svg', 'store/robbery/robbery_map_2023.svg', 'store/robbery/robbery_map_2024.svg'] as image}
       <img src={image} alt={`robbery Map ${image.slice(-8, -4)}`} on:click={() => openLightbox(image)}>
     {/each}
   </div>
@@ -165,9 +165,9 @@
       <img src={$activeImage} alt="Expanded Image">
     </div>
   {/if}
-  <div class="download"><a href="public/robbery/robbery_geo.csv">Download Minneapolis robberys by neighborhood data</a></div>
-  <div class="download"><a href="public/robbery/robbery_neighborhoods.geojson">Download Minneapolis robberys by neighborhood GEOJSON</a></div>
-  <div class="download"><a href="public/robbery/robbery_raw.csv">Download Minneapolis robberys raw CSV file (includes incident coordinates)</a></div>
+  <div class="download"><a href="../store/robbery/robbery_geo.csv">Download Minneapolis robberies by neighborhood data</a></div>
+  <div class="download"><a href="../store/robbery/robbery_neighborhoods.geojson">Download Minneapolis robberies by neighborhood GEOJSON</a></div>
+  <div class="download"><a href="../store/robbery/robbery_raw.csv">Download Minneapolis robberies raw CSV file (includes incident coordinates)</a></div>
   
   
   
