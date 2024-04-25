@@ -7,7 +7,7 @@
   // document.getElementById('timestamp').textContent = "Updated " + localTimestamp;
 
   onMount(() => {
-    fetch('/src/data/timestamp.txt')
+    fetch('../store/timestamp.txt')
     .then(response => response.text())
     .then(data => {
       const date = new Date(data);

@@ -80,16 +80,16 @@
       window.addEventListener('resize', handleResize);
   
       // Prepare chart data
-      const amonthlyChartData = { labels: shotvictimsMonthlyComparison.map(item => `${item.Year}-${item.Month}`), datasets: [{ label: 'Monthly shotvictimss', data: shotvictimsMonthlyComparison.map(item => item.IncidentCount), backgroundColor: 'rgba(70, 130, 180, 0.8)', borderColor: 'rgba(70, 130, 180, 1)', borderWidth: 1 }] };
-      const ayearlyChartData = { labels: shotvictimsYearlyIncidentCounts.map(item => item.Year.toString()), datasets: [{ label: 'Yearly shotvictimss', data: shotvictimsYearlyIncidentCounts.map(item => item.OffenseCount), backgroundColor: 'rgba(70, 130, 180, 0.8)', borderColor: 'rgba(70, 130, 180, 1)', borderWidth: 1 }] };
-      const aytdChartData = { labels: shotvictimsYTDComparison.map(item => item.Year.toString()), datasets: [{ label: 'YTD shotvictimss', data: shotvictimsYTDComparison.map(item => item.YTDCount), backgroundColor: 'rgba(70, 130, 180, 0.8)', borderColor: 'rgba(70, 130, 180 1)', borderWidth: 1 }] };
+      const amonthlyChartData = { labels: shotvictimsMonthlyComparison.map(item => `${item.Year}-${item.Month}`), datasets: [{ label: 'Monthly Gunshot Victims', data: shotvictimsMonthlyComparison.map(item => item.IncidentCount), backgroundColor: 'rgba(70, 130, 180, 0.8)', borderColor: 'rgba(70, 130, 180, 1)', borderWidth: 1 }] };
+      const ayearlyChartData = { labels: shotvictimsYearlyIncidentCounts.map(item => item.Year.toString()), datasets: [{ label: 'Yearly Gunshot Victims', data: shotvictimsYearlyIncidentCounts.map(item => item.OffenseCount), backgroundColor: 'rgba(70, 130, 180, 0.8)', borderColor: 'rgba(70, 130, 180, 1)', borderWidth: 1 }] };
+      const aytdChartData = { labels: shotvictimsYTDComparison.map(item => item.Year.toString()), datasets: [{ label: 'YTD Gunshot Victims', data: shotvictimsYTDComparison.map(item => item.YTDCount), backgroundColor: 'rgba(70, 130, 180, 0.8)', borderColor: 'rgba(70, 130, 180 1)', borderWidth: 1 }] };
   
       // Create charts
-      amonthlyChart = createChart(document.getElementById('vmonthlyChart').getContext('2d'), amonthlyChartData, 'shotvictimss', 'line');
-      ayearlyChart = createChart(document.getElementById('vyearlyChart').getContext('2d'), ayearlyChartData, 'shotvictimss');
-      aytdChart = createChart(document.getElementById('vytdChart').getContext('2d'), aytdChartData, 'shotvictimss');
+      amonthlyChart = createChart(document.getElementById('vmonthlyChart').getContext('2d'), amonthlyChartData, 'Gunshot Victims', 'line');
+      ayearlyChart = createChart(document.getElementById('vyearlyChart').getContext('2d'), ayearlyChartData, 'Gunshot Victims');
+      aytdChart = createChart(document.getElementById('vytdChart').getContext('2d'), aytdChartData, 'Gunshot Victims');
       const aprecinctChartData = preparePrecinctChartData();
-      aprecinctChart = createChart(document.getElementById('vprecinctChart').getContext('2d'), aprecinctChartData, 'Precinct shotvictimss', 'line');
+      aprecinctChart = createChart(document.getElementById('vprecinctChart').getContext('2d'), aprecinctChartData, 'Precinct Gunshot Victims', 'line');
     });
   </script>
   
