@@ -54,6 +54,9 @@ print(file_removed)
 
 file_removed <- file.remove(svg_files)
 print(file_removed)
+
+file_removed <- file.remove("/Users/hargaja/Desktop/workspace/redboard/20240428-crimedash/store/timestamp.txt")
+
 }
 
 cleanup()
@@ -611,22 +614,6 @@ lapply(csv_files, convert_csv_to_json)
 
 ```
 
-# GENERATE LAST UPDATED
-```{r}
-# Get the current timestamp
-current_timestamp <- Sys.time()
-
-# Convert the timestamp to a string (if you want it in a specific format you can use format())
-formatted_timestamp <- as.character(current_timestamp)
-
-# Specify the file path
-file_path <- "json/timestamp.txt"
-
-# Write the timestamp to the file
-writeLines(formatted_timestamp, file_path)
-
-```
-
 # MOVE ALL FILES
 ```{r}
 destination_dir <- "../src/data"
@@ -644,14 +631,33 @@ for (file_path in files_to_move) {
   }
 }
 
+file_removed <- file.remove("/Users/hargaja/Desktop/workspace/redboard/20240428-crimedash/src/data/Crime_Data.json")
+
 cleanup()
 ```
+
+# GENERATE LAST UPDATED
+```{r}
+# Get the current timestamp
+current_timestamp <- Sys.time()
+
+# Convert the timestamp to a string (if you want it in a specific format you can use format())
+formatted_timestamp <- as.character(current_timestamp)
+
+# Specify the file path
+file_path <- "/Users/hargaja/Desktop/workspace/redboard/20240428-crimedash/store/timestamp.txt"
+
+# Write the timestamp to the file
+writeLines(formatted_timestamp, file_path)
+
+```
+
 
 #ARRESTS
 ```{r}
 # Define the function to download arrest files
 download_arrest_reports <- function() {
-  base_path <- "/Users/hargaja/Desktop/workspace/redboard/20240428-crimedash../store/arrests"
+  base_path <- "/Users/hargaja/Desktop/workspace/redboard/20240428-crimedash/store/arrests"
   urls <- c(
     "https://cde.state.mn.us/DownloadData/ArrestsByJudicialDistrictDownloadData?ReportYear=2024",
     "https://cde.state.mn.us/DownloadData/ArrestsByJudicialDistrictDownloadData?ReportYear=2023",
@@ -707,7 +713,7 @@ download_arrest_reports()
 ```{r}
 # Define the function to download agency files
 download_suburban_reports <- function() {
-  base_path <- "/Users/hargaja/Desktop/workspace/redboard/20240428-crimedash../store/suburbs"
+  base_path <- "/Users/hargaja/Desktop/workspace/redboard/20240428-crimedash/store/suburbs"
   urls <- c(
     "https://cde.state.mn.us/DownloadData/OffenseCountyMunicipalByAgencyDownloadData?ReportYear=2021",
     "https://cde.state.mn.us/DownloadData/OffenseCountyMunicipalByAgencyDownloadData?ReportYear=2022",
@@ -731,7 +737,7 @@ download_suburban_reports()
 ```{r}
 # Define the function to download force-use files
 download_force_reports <- function() {
-  base_path <- "/Users/hargaja/Desktop/workspace/redboard/20240428-crimedash../store/force"
+  base_path <- "/Users/hargaja/Desktop/workspace/redboard/20240428-crimedash/store/force"
   urlscsv <- c(
     "https://opendata.arcgis.com/api/v3/datasets/bd582e458df740de87601ea5e6136cdc_0/downloads/data?format=csv&spatialRefId=4326&where=1%3D1"
   )
@@ -760,7 +766,7 @@ download_force_reports()
 ```{r}
 # Define the function to download force-use files
 download_shots_reports <- function() {
-  base_path <- "/Users/hargaja/Desktop/workspace/redboard/20240428-crimedash../store/gunfire"
+  base_path <- "/Users/hargaja/Desktop/workspace/redboard/20240428-crimedash/store/gunfire"
   urlscsv <- c(
     "https://opendata.arcgis.com/api/v3/datasets/f9ae3bef2ccd4792b1835e2744de017f_0/downloads/data?format=csv&spatialRefId=4326&where=1%3D1"
   )
@@ -780,7 +786,7 @@ download_shots_reports()
 ```{r}
 # Define the function to download force-use files
 download_stops_reports <- function() {
-  base_path <- "/Users/hargaja/Desktop/workspace/redboard/20240428-crimedash../store/activity"
+  base_path <- "/Users/hargaja/Desktop/workspace/redboard/20240428-crimedash/store/activity"
   urlscsv <- c(
     "https://opendata.arcgis.com/api/v3/datasets/215b4b543d894750aef86c725b56ee2a_0/downloads/data?format=csv&spatialRefId=4326&where=1%3D1"
   )
@@ -792,7 +798,7 @@ download_stops_reports <- function() {
   })
 
 # Assuming the CSV file is downloaded and named 'data.csv'
-file_path <- '/Users/hargaja/Desktop/workspace/redboard/20240428-crimedash../store/activity/Police_Stop_Data.csv'
+file_path <- '/Users/hargaja/Desktop/workspace/redboard/20240428-crimedash/store/activity/Police_Stop_Data.csv'
 
 # Read the CSV file
 data <- read_csv(file_path)
@@ -816,10 +822,10 @@ data_pivot <- data_pivot %>%
   mutate(Incidents = rollmean(IncidentCount, 7, fill = NA, align = 'right'))
 
 # Write the pivoted data to a new CSV
-write_csv(data_pivot, '/Users/hargaja/Desktop/workspace/redboard/20240428-crimedash../store/activity/mpd_stops.csv')
+write_csv(data_pivot, '/Users/hargaja/Desktop/workspace/redboard/20240428-crimedash/store/activity/mpd_stops.csv')
 
 # Load the CSV file
-pivoted_data <- read_csv('/Users/hargaja/Desktop/workspace/redboard/20240428-crimedash../store/activity/mpd_stops.csv')
+pivoted_data <- read_csv('/Users/hargaja/Desktop/workspace/redboard/20240428-crimedash/store/activity/mpd_stops.csv')
 
 # Ensure IncidentsCount is the correct type for rollmean
 pivoted_data$IncidentCount <- as.numeric(pivoted_data$IncidentCount)
@@ -829,13 +835,13 @@ pivoted_data <- pivoted_data %>%
   mutate(Incidents = rollmean(IncidentCount, 7, fill = NA, align = 'right'))
 
 # Write the updated data to a new CSV (optional)
-write_csv(pivoted_data, '/Users/hargaja/Desktop/workspace/redboard/20240428-crimedash../store/activity/stops_average.csv')
+write_csv(pivoted_data, '/Users/hargaja/Desktop/workspace/redboard/20240428-crimedash/store/activity/stops_average.csv')
 
 # Convert the updated data frame to JSON
 json_data <- toJSON(pivoted_data, pretty = TRUE)
 
 # Write the JSON to a file
-write(json_data, file = '/Users/hargaja/Desktop/workspace/redboard/20240428-crimedash../store/activity/stops_average.json')
+write(json_data, file = '/Users/hargaja/Desktop/workspace/redboard/20240428-crimedash/store/activity/stops_average.json')
 
 }
 
