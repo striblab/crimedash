@@ -2,7 +2,7 @@
 
 bucket_name="static.startribune.com"
 bucket_path="fonts"
-local_dir="./public/strib-webfonts/"
+local_dir=".../store/strib-webfonts/"
 
 # Create the local directory if it doesn't exist
 mkdir -p $local_dir
