@@ -42,8 +42,10 @@
     const oiAverageDataset = {
       label: 'Officer-initiated/other Calls',
       data: mpdDispatchData.map(item => item.oi_average),
-      borderColor: 'rgb(75, 192, 192)',
-      backgroundColor: 'rgba(75, 192, 192, 0.5)',
+      borderColor: 'rgb(54, 162, 235)',
+      backgroundColor: 'rgba(54, 162, 235, 0.5)',
+      pointRadius: 0,
+      borderWidth: 0.9,
       fill: false
     };
     const average911Dataset = {
@@ -51,6 +53,8 @@
       data: mpdDispatchData.map(item => item["911_average"]),
       borderColor: 'rgb(255, 99, 132)',
       backgroundColor: 'rgba(255, 99, 132, 0.5)',
+      pointRadius: 0,
+      borderWidth: 0.9,
       fill: false
     };
 
@@ -66,6 +70,8 @@
       data: mplsStopsData.map(item => item.Incidents),
       borderColor: 'rgb(54, 162, 235)',
       backgroundColor: 'rgba(54, 162, 235, 0.5)',
+      pointRadius: 0,
+      borderWidth: 0.9,
       fill: false
     };
 
@@ -78,6 +84,11 @@
 
 <h3>Minneapolis: Police Activity</h3>
 
+<h4 class="source">Data sources: Minneapolis Police Department</h4>
+
+<div class="def"><p>Police activity includes any call police are dispatched to or initiate themselves, including traffic stops.</p></div>
+
+
 <p>Post-Floyd, Minneapolis police have fallen back into a largely reactive mode as 911 calls spiked and officer-initiated proactive operations flatlined.</p>
 
 <div class="chart-container">
@@ -87,7 +98,8 @@
 <div class="download"><a href="../store/activity/mpd_2019.zip">Download Minneapolis police dispatch data, 2019</a></div>
 <div class="download"><a href="../store/activity/mpd_2020.zip">Download Minneapolis police dispatch data, 2020</a></div>
 <div class="download"><a href="../store/activity/mpd_2021.zip">Download Minneapolis police dispatch data, 2021</a></div>
-<div class="download"><a href="../store/activity/mpd_2022.zip">Download Minneapolis police dispatch data, 2022</a></div>
+<div class="download"><a href="../store/activity/mpd_2022_a.zip">Download Minneapolis police dispatch data, January-June 2022</a></div>
+<div class="download"><a href="../store/activity/mpd_2022_b.zip">Download Minneapolis police dispatch data, July-December 2022</a></div>
 
 <p>&nbsp;</p>
 
@@ -96,8 +108,8 @@
 <div class="chart-container">
     <canvas id="stopsChart"></canvas>
   </div>
-<div class="download"><a href="../store/activity/Police_Stop_Data.csv">Download Minneapolis police stops data, 2017-2024</a></div>
-<div class="download"><a href="../store/activity/stops_average.csv">Download Minneapolis police stops daily rolling averages, 2017-2024</a></div>
+<div class="download"><a href="../store/activity/Police_Stop_Data.csv">Download Minneapolis police stops data, 2017-present</a></div>
+<div class="download"><a href="../store/activity/stops_average.csv">Download Minneapolis police stops daily rolling averages, 2017-present</a></div>
 
 <h4>Links</h4>
 <ul>

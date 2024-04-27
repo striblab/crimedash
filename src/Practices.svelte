@@ -6,7 +6,7 @@
 
 <p>Things to remember when writing about public safety trends:</p>
 <ul id="tips" style="list-style-type: square;">
-    <li>Crime statistics are <em>minimums</em> and reflect both attempted and successful offenses recorded by police and should be referred to as "reported crimes" or "recorded offenses" or something similar.</li>
+    <li>Crime statistics are <em>minimums</em> and reflect both attempted and successful offenses recorded by police and are best referred to as "reported crimes" or "recorded offenses" or something similar.</li>
     <li>Unless otherwise noted, violent crimes count victims, property crimes count incidents.</li>
     <li>All Minnesota law enforcement agencies are using NIBRS (National Incident-Based Reporting System) since 2021, which replaced the century-old SRS (Summary Reporting System) standard. These systems ARE NOT COMPATIBLE and comparison can be complicated since SRS only tracked primary offenses and NIBRS records <em>everything</em>.</li>
     <li>NIBRS isn't a uniform data format, but rather a philosophical framework agencies can implement differently. So rankings of agencies are discouraged and comparisons should be broad.</li>

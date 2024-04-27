@@ -60,6 +60,8 @@
 
 <h3>Statewide crime trends</h3>
 
+<h4 class="source">Data sources: FBI</h4>
+
 <p>Minnesota's homicide rate per 100,000 residents, despite a surge in the 1990s, has long remained below national averages while still following national trends.</p>
 <div class="chart-container">
     <canvas id="mnhomicideChart"></canvas>
@@ -69,7 +71,7 @@
 
 <p>&nbsp;</p>
 
-<p>Similarly, Minnesota's overall violent crime rate per 100,000 residents remains below the national average while still broadly following national trends.</p>
+<p>Similarly, Minnesota's overall violent crime rate per 100,000 residents remains below the national average while still broadly following national trends. Violent crimes include murder, aggravated assault, rape and robbery.</p>
 <div class="chart-container">
     <canvas id="mnviolentCrimeChart"></canvas>
   </div>
@@ -77,13 +79,11 @@
 
 <p>&nbsp;</p>
 
-<p>Minnesota's rate of property crimes per 100,000 residents has longed matched national trends and levels.</p>
+<p>Minnesota's rate of property crimes per 100,000 residents has longed matched national trends and levels. Property crimes include vehicular theft, burglary, larceny and arson.</p>
 <div class="chart-container">
     <canvas id="mnpropertyChart"></canvas>
   </div>
 <div class="download"><a href="../store/mn/mn_property.csv">Download Minnesota property crime rate data</a></div>
-
-<p>&nbsp;</p>
 
 <h4>Links</h4>
 <ul>
@@ -102,15 +102,6 @@
 </ul>
 
 <style>
-    .chart-container {
-      display: flex;
-      flex-wrap: wrap;
-      justify-content: space-around;
-      padding: 20px;
-    }
-    canvas {
-      max-width: 100%;
-      height: 300px !important;
-    }
-  </style>
+
+</style>
   

@@ -50,6 +50,8 @@
 
 <h3>National Trends</h3>
 
+<h4 class="source">Data sources: FBI, Murder Accountability Project</h4>
+
 <p>The national homicide rate per 100,000 residents jumped dramatically in 2020, but after prior decades of decline remains far below the peaks the early 1990s.</p>
 <div class="chart-container">
     <canvas id="ushomicideChart"></canvas>
@@ -59,7 +61,7 @@
 
 <p>&nbsp;</p>
 
-<p>The national homicide clearance rate has been plummeting for decades and hit all-time lows in the 2020s..</p>
+<p>The national homicide clearance rate has been plummeting for decades and hit all-time lows in the 2020s.</p>
 <div class="chart-container">
     <canvas id="usClearanceChart"></canvas>
   </div>
@@ -88,15 +90,6 @@
 
 
 <style>
-    .chart-container {
-      display: flex;
-      flex-wrap: wrap;
-      justify-content: space-around;
-      padding: 20px;
-    }
-    canvas {
-      max-width: 100%;
-      height: 300px !important;
-    }
-  </style>
+
+</style>
   

@@ -7,7 +7,7 @@
     "X2021": 2,
     "X2022": 0,
     "X2023": 2,
-    "X2024": 0
+    "X2024": 1
   },
   {
     "Neighborhood": "Audubon Park",
@@ -17,7 +17,7 @@
     "X2021": 3,
     "X2022": 7,
     "X2023": 1,
-    "X2024": 1
+    "X2024": 2
   },
   {
     "Neighborhood": "Bancroft",
@@ -106,7 +106,7 @@
     "X2020": 10,
     "X2021": 24,
     "X2022": 19,
-    "X2023": 18,
+    "X2023": 19,
     "X2024": 6
   },
   {
@@ -177,7 +177,7 @@
     "X2021": 41,
     "X2022": 59,
     "X2023": 64,
-    "X2024": 18
+    "X2024": 17
   },
   {
     "Neighborhood": "East Harriet",
@@ -217,7 +217,7 @@
     "X2021": 26,
     "X2022": 22,
     "X2023": 22,
-    "X2024": 5
+    "X2024": 6
   },
   {
     "Neighborhood": "Ericsson",
@@ -237,7 +237,7 @@
     "X2021": 20,
     "X2022": 16,
     "X2023": 24,
-    "X2024": 1
+    "X2024": 2
   },
   {
     "Neighborhood": "Fulton",
@@ -297,7 +297,7 @@
     "X2021": 5,
     "X2022": 1,
     "X2023": 0,
-    "X2024": 5
+    "X2024": 6
   },
   {
     "Neighborhood": "Jordan",
@@ -417,7 +417,7 @@
     "X2021": 15,
     "X2022": 11,
     "X2023": 13,
-    "X2024": 4
+    "X2024": 5
   },
   {
     "Neighborhood": "Lynnhurst",
@@ -507,7 +507,7 @@
     "X2021": 27,
     "X2022": 40,
     "X2023": 27,
-    "X2024": 7
+    "X2024": 8
   },
   {
     "Neighborhood": "Nicollet Island - East Bank",
@@ -587,7 +587,7 @@
     "X2021": 6,
     "X2022": 9,
     "X2023": 11,
-    "X2024": 5
+    "X2024": 6
   },
   {
     "Neighborhood": "Regina",
@@ -677,7 +677,7 @@
     "X2021": 6,
     "X2022": 10,
     "X2023": 11,
-    "X2024": 5
+    "X2024": 6
   },
   {
     "Neighborhood": "Sumner - Glenwood",
@@ -697,7 +697,7 @@
     "X2021": 4,
     "X2022": 3,
     "X2023": 4,
-    "X2024": 0
+    "X2024": 1
   },
   {
     "Neighborhood": "Ventura Village",
@@ -797,7 +797,7 @@
     "X2021": 4,
     "X2022": 5,
     "X2023": 7,
-    "X2024": 6
+    "X2024": 7
   },
   {
     "Offense": "Sex Offenses",
@@ -806,7 +806,7 @@
     "X2021": 63,
     "X2022": 66,
     "X2023": 40,
-    "X2024": 11
+    "X2024": 12
   },
   {
     "Neighborhood": "Columbia Park",
@@ -861,6 +861,875 @@
   {
     "Neighborhood": "Hale",
     "Offense": "Sex Offenses",
+    "X2019": 0,
+    "X2020": 0,
+    "X2021": 1,
+    "X2022": 2,
+    "X2023": 4,
+    "X2024": 0
+  },
+  {
+    "Neighborhood": "Armatage",
+    "Offense": "Total",
+    "X2019": 3,
+    "X2020": 8,
+    "X2021": 2,
+    "X2022": 0,
+    "X2023": 2,
+    "X2024": 1
+  },
+  {
+    "Neighborhood": "Audubon Park",
+    "Offense": "Total",
+    "X2019": 10,
+    "X2020": 5,
+    "X2021": 3,
+    "X2022": 7,
+    "X2023": 1,
+    "X2024": 2
+  },
+  {
+    "Neighborhood": "Bancroft",
+    "Offense": "Total",
+    "X2019": 4,
+    "X2020": 7,
+    "X2021": 6,
+    "X2022": 2,
+    "X2023": 3,
+    "X2024": 1
+  },
+  {
+    "Neighborhood": "Beltrami",
+    "Offense": "Total",
+    "X2019": 2,
+    "X2020": 1,
+    "X2021": 2,
+    "X2022": 0,
+    "X2023": 0,
+    "X2024": 0
+  },
+  {
+    "Neighborhood": "Bottineau",
+    "Offense": "Total",
+    "X2019": 2,
+    "X2020": 3,
+    "X2021": 2,
+    "X2022": 4,
+    "X2023": 3,
+    "X2024": 2
+  },
+  {
+    "Neighborhood": "Bryant",
+    "Offense": "Total",
+    "X2019": 5,
+    "X2020": 6,
+    "X2021": 8,
+    "X2022": 8,
+    "X2023": 0,
+    "X2024": 1
+  },
+  {
+    "Neighborhood": "Bryn - Mawr",
+    "Offense": "Total",
+    "X2019": 2,
+    "X2020": 0,
+    "X2021": 1,
+    "X2022": 2,
+    "X2023": 1,
+    "X2024": 1
+  },
+  {
+    "Neighborhood": "Camden Industrial",
+    "Offense": "Total",
+    "X2019": 2,
+    "X2020": 0,
+    "X2021": 1,
+    "X2022": 0,
+    "X2023": 1,
+    "X2024": 0
+  },
+  {
+    "Neighborhood": "Cedar - Isles - Dean",
+    "Offense": "Total",
+    "X2019": 1,
+    "X2020": 2,
+    "X2021": 1,
+    "X2022": 3,
+    "X2023": 4,
+    "X2024": 0
+  },
+  {
+    "Neighborhood": "Cedar Riverside",
+    "Offense": "Total",
+    "X2019": 13,
+    "X2020": 15,
+    "X2021": 21,
+    "X2022": 8,
+    "X2023": 19,
+    "X2024": 2
+  },
+  {
+    "Neighborhood": "Central",
+    "Offense": "Total",
+    "X2019": 22,
+    "X2020": 10,
+    "X2021": 24,
+    "X2022": 19,
+    "X2023": 19,
+    "X2024": 6
+  },
+  {
+    "Neighborhood": "Cleveland",
+    "Offense": "Total",
+    "X2019": 7,
+    "X2020": 5,
+    "X2021": 2,
+    "X2022": 9,
+    "X2023": 13,
+    "X2024": 2
+  },
+  {
+    "Neighborhood": "Como",
+    "Offense": "Total",
+    "X2019": 8,
+    "X2020": 10,
+    "X2021": 8,
+    "X2022": 4,
+    "X2023": 6,
+    "X2024": 2
+  },
+  {
+    "Neighborhood": "Cooper",
+    "Offense": "Total",
+    "X2019": 2,
+    "X2020": 1,
+    "X2021": 2,
+    "X2022": 3,
+    "X2023": 4,
+    "X2024": 0
+  },
+  {
+    "Neighborhood": "Corcoran",
+    "Offense": "Total",
+    "X2019": 7,
+    "X2020": 5,
+    "X2021": 8,
+    "X2022": 8,
+    "X2023": 6,
+    "X2024": 3
+  },
+  {
+    "Neighborhood": "Diamond Lake",
+    "Offense": "Total",
+    "X2019": 2,
+    "X2020": 2,
+    "X2021": 5,
+    "X2022": 4,
+    "X2023": 4,
+    "X2024": 2
+  },
+  {
+    "Neighborhood": "Downtown East",
+    "Offense": "Total",
+    "X2019": 10,
+    "X2020": 15,
+    "X2021": 5,
+    "X2022": 12,
+    "X2023": 6,
+    "X2024": 5
+  },
+  {
+    "Neighborhood": "Downtown West",
+    "Offense": "Total",
+    "X2019": 84,
+    "X2020": 52,
+    "X2021": 41,
+    "X2022": 59,
+    "X2023": 64,
+    "X2024": 17
+  },
+  {
+    "Neighborhood": "East Harriet",
+    "Offense": "Total",
+    "X2019": 2,
+    "X2020": 6,
+    "X2021": 1,
+    "X2022": 6,
+    "X2023": 3,
+    "X2024": 2
+  },
+  {
+    "Neighborhood": "East Isles",
+    "Offense": "Total",
+    "X2019": 2,
+    "X2020": 0,
+    "X2021": 6,
+    "X2022": 1,
+    "X2023": 3,
+    "X2024": 1
+  },
+  {
+    "Neighborhood": "East Phillips",
+    "Offense": "Total",
+    "X2019": 29,
+    "X2020": 16,
+    "X2021": 19,
+    "X2022": 19,
+    "X2023": 16,
+    "X2024": 4
+  },
+  {
+    "Neighborhood": "Elliot Park",
+    "Offense": "Total",
+    "X2019": 29,
+    "X2020": 19,
+    "X2021": 26,
+    "X2022": 22,
+    "X2023": 22,
+    "X2024": 6
+  },
+  {
+    "Neighborhood": "Ericsson",
+    "Offense": "Total",
+    "X2019": 7,
+    "X2020": 2,
+    "X2021": 5,
+    "X2022": 3,
+    "X2023": 2,
+    "X2024": 0
+  },
+  {
+    "Neighborhood": "Folwell",
+    "Offense": "Total",
+    "X2019": 24,
+    "X2020": 42,
+    "X2021": 20,
+    "X2022": 16,
+    "X2023": 24,
+    "X2024": 2
+  },
+  {
+    "Neighborhood": "Fulton",
+    "Offense": "Total",
+    "X2019": 3,
+    "X2020": 0,
+    "X2021": 2,
+    "X2022": 4,
+    "X2023": 4,
+    "X2024": 0
+  },
+  {
+    "Neighborhood": "Harrison",
+    "Offense": "Total",
+    "X2019": 14,
+    "X2020": 10,
+    "X2021": 9,
+    "X2022": 8,
+    "X2023": 10,
+    "X2024": 2
+  },
+  {
+    "Neighborhood": "Hawthorne",
+    "Offense": "Total",
+    "X2019": 40,
+    "X2020": 25,
+    "X2021": 29,
+    "X2022": 25,
+    "X2023": 37,
+    "X2024": 4
+  },
+  {
+    "Neighborhood": "Hiawatha",
+    "Offense": "Total",
+    "X2019": 3,
+    "X2020": 7,
+    "X2021": 5,
+    "X2022": 3,
+    "X2023": 6,
+    "X2024": 1
+  },
+  {
+    "Neighborhood": "Holland",
+    "Offense": "Total",
+    "X2019": 5,
+    "X2020": 7,
+    "X2021": 9,
+    "X2022": 6,
+    "X2023": 7,
+    "X2024": 1
+  },
+  {
+    "Neighborhood": "Howe",
+    "Offense": "Total",
+    "X2019": 5,
+    "X2020": 6,
+    "X2021": 5,
+    "X2022": 1,
+    "X2023": 0,
+    "X2024": 6
+  },
+  {
+    "Neighborhood": "Jordan",
+    "Offense": "Total",
+    "X2019": 37,
+    "X2020": 34,
+    "X2021": 29,
+    "X2022": 28,
+    "X2023": 39,
+    "X2024": 7
+  },
+  {
+    "Neighborhood": "Keewaydin",
+    "Offense": "Total",
+    "X2019": 1,
+    "X2020": 3,
+    "X2021": 0,
+    "X2022": 0,
+    "X2023": 4,
+    "X2024": 0
+  },
+  {
+    "Neighborhood": "Kenny",
+    "Offense": "Total",
+    "X2019": 2,
+    "X2020": 3,
+    "X2021": 2,
+    "X2022": 2,
+    "X2023": 0,
+    "X2024": 0
+  },
+  {
+    "Neighborhood": "King Field",
+    "Offense": "Total",
+    "X2019": 7,
+    "X2020": 6,
+    "X2021": 4,
+    "X2022": 2,
+    "X2023": 10,
+    "X2024": 1
+  },
+  {
+    "Neighborhood": "Lind - Bohanon",
+    "Offense": "Total",
+    "X2019": 16,
+    "X2020": 33,
+    "X2021": 16,
+    "X2022": 8,
+    "X2023": 17,
+    "X2024": 8
+  },
+  {
+    "Neighborhood": "Linden Hills",
+    "Offense": "Total",
+    "X2019": 2,
+    "X2020": 3,
+    "X2021": 5,
+    "X2022": 2,
+    "X2023": 5,
+    "X2024": 3
+  },
+  {
+    "Neighborhood": "Logan Park",
+    "Offense": "Total",
+    "X2019": 2,
+    "X2020": 3,
+    "X2021": 6,
+    "X2022": 4,
+    "X2023": 12,
+    "X2024": 1
+  },
+  {
+    "Neighborhood": "Longfellow",
+    "Offense": "Total",
+    "X2019": 7,
+    "X2020": 12,
+    "X2021": 5,
+    "X2022": 11,
+    "X2023": 13,
+    "X2024": 3
+  },
+  {
+    "Neighborhood": "Loring Park",
+    "Offense": "Total",
+    "X2019": 21,
+    "X2020": 17,
+    "X2021": 21,
+    "X2022": 19,
+    "X2023": 23,
+    "X2024": 7
+  },
+  {
+    "Neighborhood": "Lowry Hill",
+    "Offense": "Total",
+    "X2019": 4,
+    "X2020": 2,
+    "X2021": 0,
+    "X2022": 3,
+    "X2023": 2,
+    "X2024": 2
+  },
+  {
+    "Neighborhood": "Lowry Hill East",
+    "Offense": "Total",
+    "X2019": 16,
+    "X2020": 12,
+    "X2021": 21,
+    "X2022": 13,
+    "X2023": 18,
+    "X2024": 4
+  },
+  {
+    "Neighborhood": "Lyndale",
+    "Offense": "Total",
+    "X2019": 19,
+    "X2020": 16,
+    "X2021": 15,
+    "X2022": 11,
+    "X2023": 13,
+    "X2024": 5
+  },
+  {
+    "Neighborhood": "Lynnhurst",
+    "Offense": "Total",
+    "X2019": 7,
+    "X2020": 3,
+    "X2021": 2,
+    "X2022": 1,
+    "X2023": 0,
+    "X2024": 0
+  },
+  {
+    "Neighborhood": "Marcy Holmes",
+    "Offense": "Total",
+    "X2019": 26,
+    "X2020": 15,
+    "X2021": 25,
+    "X2022": 15,
+    "X2023": 11,
+    "X2024": 10
+  },
+  {
+    "Neighborhood": "Marshall Terrace",
+    "Offense": "Total",
+    "X2019": 6,
+    "X2020": 0,
+    "X2021": 6,
+    "X2022": 3,
+    "X2023": 4,
+    "X2024": 0
+  },
+  {
+    "Neighborhood": "McKinley",
+    "Offense": "Total",
+    "X2019": 13,
+    "X2020": 12,
+    "X2021": 8,
+    "X2022": 15,
+    "X2023": 13,
+    "X2024": 4
+  },
+  {
+    "Neighborhood": "Mid - City Industrial",
+    "Offense": "Total",
+    "X2019": 2,
+    "X2020": 3,
+    "X2021": 8,
+    "X2022": 3,
+    "X2023": 1,
+    "X2024": 0
+  },
+  {
+    "Neighborhood": "Midtown Phillips",
+    "Offense": "Total",
+    "X2019": 23,
+    "X2020": 18,
+    "X2021": 21,
+    "X2022": 25,
+    "X2023": 8,
+    "X2024": 11
+  },
+  {
+    "Neighborhood": "Minnehaha",
+    "Offense": "Total",
+    "X2019": 4,
+    "X2020": 2,
+    "X2021": 2,
+    "X2022": 3,
+    "X2023": 3,
+    "X2024": 0
+  },
+  {
+    "Neighborhood": "Morris Park",
+    "Offense": "Total",
+    "X2019": 3,
+    "X2020": 2,
+    "X2021": 5,
+    "X2022": 1,
+    "X2023": 1,
+    "X2024": 0
+  },
+  {
+    "Neighborhood": "Near - North",
+    "Offense": "Total",
+    "X2019": 29,
+    "X2020": 27,
+    "X2021": 27,
+    "X2022": 40,
+    "X2023": 27,
+    "X2024": 8
+  },
+  {
+    "Neighborhood": "Nicollet Island - East Bank",
+    "Offense": "Total",
+    "X2019": 2,
+    "X2020": 4,
+    "X2021": 2,
+    "X2022": 5,
+    "X2023": 1,
+    "X2024": 2
+  },
+  {
+    "Neighborhood": "North Loop",
+    "Offense": "Total",
+    "X2019": 12,
+    "X2020": 19,
+    "X2021": 22,
+    "X2022": 10,
+    "X2023": 16,
+    "X2024": 5
+  },
+  {
+    "Neighborhood": "Northeast Park",
+    "Offense": "Total",
+    "X2019": 2,
+    "X2020": 1,
+    "X2021": 2,
+    "X2022": 0,
+    "X2023": 1,
+    "X2024": 1
+  },
+  {
+    "Neighborhood": "Northrop",
+    "Offense": "Total",
+    "X2019": 3,
+    "X2020": 2,
+    "X2021": 6,
+    "X2022": 5,
+    "X2023": 7,
+    "X2024": 0
+  },
+  {
+    "Neighborhood": "Page",
+    "Offense": "Total",
+    "X2019": 2,
+    "X2020": 1,
+    "X2021": 1,
+    "X2022": 1,
+    "X2023": 0,
+    "X2024": 0
+  },
+  {
+    "Neighborhood": "Phillips West",
+    "Offense": "Total",
+    "X2019": 17,
+    "X2020": 12,
+    "X2021": 17,
+    "X2022": 8,
+    "X2023": 18,
+    "X2024": 7
+  },
+  {
+    "Neighborhood": "Powderhorn Park",
+    "Offense": "Total",
+    "X2019": 19,
+    "X2020": 23,
+    "X2021": 14,
+    "X2022": 14,
+    "X2023": 17,
+    "X2024": 3
+  },
+  {
+    "Neighborhood": "Prospect Park - East River Road",
+    "Offense": "Total",
+    "X2019": 16,
+    "X2020": 8,
+    "X2021": 6,
+    "X2022": 9,
+    "X2023": 11,
+    "X2024": 6
+  },
+  {
+    "Neighborhood": "Regina",
+    "Offense": "Total",
+    "X2019": 3,
+    "X2020": 1,
+    "X2021": 3,
+    "X2022": 3,
+    "X2023": 0,
+    "X2024": 3
+  },
+  {
+    "Neighborhood": "Seward",
+    "Offense": "Total",
+    "X2019": 7,
+    "X2020": 10,
+    "X2021": 14,
+    "X2022": 5,
+    "X2023": 20,
+    "X2024": 7
+  },
+  {
+    "Neighborhood": "Sheridan",
+    "Offense": "Total",
+    "X2019": 5,
+    "X2020": 2,
+    "X2021": 3,
+    "X2022": 3,
+    "X2023": 4,
+    "X2024": 1
+  },
+  {
+    "Neighborhood": "Shingle Creek",
+    "Offense": "Total",
+    "X2019": 12,
+    "X2020": 8,
+    "X2021": 5,
+    "X2022": 6,
+    "X2023": 4,
+    "X2024": 2
+  },
+  {
+    "Neighborhood": "South Uptown",
+    "Offense": "Total",
+    "X2019": 11,
+    "X2020": 5,
+    "X2021": 4,
+    "X2022": 5,
+    "X2023": 6,
+    "X2024": 2
+  },
+  {
+    "Neighborhood": "St. Anthony East",
+    "Offense": "Total",
+    "X2019": 6,
+    "X2020": 4,
+    "X2021": 2,
+    "X2022": 2,
+    "X2023": 5,
+    "X2024": 0
+  },
+  {
+    "Neighborhood": "St. Anthony West",
+    "Offense": "Total",
+    "X2019": 6,
+    "X2020": 1,
+    "X2021": 3,
+    "X2022": 1,
+    "X2023": 3,
+    "X2024": 1
+  },
+  {
+    "Neighborhood": "Standish",
+    "Offense": "Total",
+    "X2019": 15,
+    "X2020": 3,
+    "X2021": 3,
+    "X2022": 16,
+    "X2023": 7,
+    "X2024": 4
+  },
+  {
+    "Neighborhood": "Steven's Square - Loring Heights",
+    "Offense": "Total",
+    "X2019": 12,
+    "X2020": 8,
+    "X2021": 6,
+    "X2022": 10,
+    "X2023": 11,
+    "X2024": 6
+  },
+  {
+    "Neighborhood": "Sumner - Glenwood",
+    "Offense": "Total",
+    "X2019": 9,
+    "X2020": 7,
+    "X2021": 4,
+    "X2022": 0,
+    "X2023": 2,
+    "X2024": 0
+  },
+  {
+    "Neighborhood": "University of Minnesota",
+    "Offense": "Total",
+    "X2019": 6,
+    "X2020": 2,
+    "X2021": 4,
+    "X2022": 3,
+    "X2023": 4,
+    "X2024": 1
+  },
+  {
+    "Neighborhood": "Ventura Village",
+    "Offense": "Total",
+    "X2019": 28,
+    "X2020": 13,
+    "X2021": 17,
+    "X2022": 21,
+    "X2023": 21,
+    "X2024": 6
+  },
+  {
+    "Neighborhood": "Victory",
+    "Offense": "Total",
+    "X2019": 6,
+    "X2020": 9,
+    "X2021": 5,
+    "X2022": 7,
+    "X2023": 3,
+    "X2024": 0
+  },
+  {
+    "Neighborhood": "Waite Park",
+    "Offense": "Total",
+    "X2019": 5,
+    "X2020": 4,
+    "X2021": 1,
+    "X2022": 2,
+    "X2023": 3,
+    "X2024": 2
+  },
+  {
+    "Neighborhood": "Webber - Camden",
+    "Offense": "Total",
+    "X2019": 18,
+    "X2020": 20,
+    "X2021": 19,
+    "X2022": 18,
+    "X2023": 14,
+    "X2024": 5
+  },
+  {
+    "Neighborhood": "Wenonah",
+    "Offense": "Total",
+    "X2019": 29,
+    "X2020": 4,
+    "X2021": 10,
+    "X2022": 13,
+    "X2023": 9,
+    "X2024": 2
+  },
+  {
+    "Neighborhood": "West Maka Ska",
+    "Offense": "Total",
+    "X2019": 2,
+    "X2020": 3,
+    "X2021": 2,
+    "X2022": 3,
+    "X2023": 1,
+    "X2024": 1
+  },
+  {
+    "Neighborhood": "Whittier",
+    "Offense": "Total",
+    "X2019": 49,
+    "X2020": 32,
+    "X2021": 31,
+    "X2022": 37,
+    "X2023": 41,
+    "X2024": 8
+  },
+  {
+    "Neighborhood": "Willard - Hay",
+    "Offense": "Total",
+    "X2019": 30,
+    "X2020": 37,
+    "X2021": 21,
+    "X2022": 24,
+    "X2023": 30,
+    "X2024": 10
+  },
+  {
+    "Neighborhood": "Windom",
+    "Offense": "Total",
+    "X2019": 6,
+    "X2020": 12,
+    "X2021": 9,
+    "X2022": 6,
+    "X2023": 5,
+    "X2024": 1
+  },
+  {
+    "Neighborhood": "Windom Park",
+    "Offense": "Total",
+    "X2019": 11,
+    "X2020": 11,
+    "X2021": 4,
+    "X2022": 5,
+    "X2023": 7,
+    "X2024": 7
+  },
+  {
+    "Offense": "Total",
+    "X2019": 36,
+    "X2020": 29,
+    "X2021": 63,
+    "X2022": 66,
+    "X2023": 40,
+    "X2024": 12
+  },
+  {
+    "Neighborhood": "Columbia Park",
+    "Offense": "Total",
+    "X2019": 0,
+    "X2020": 8,
+    "X2021": 1,
+    "X2022": 3,
+    "X2023": 1,
+    "X2024": 0
+  },
+  {
+    "Neighborhood": "East Bde Maka Ska",
+    "Offense": "Total",
+    "X2019": 0,
+    "X2020": 3,
+    "X2021": 3,
+    "X2022": 7,
+    "X2023": 0,
+    "X2024": 1
+  },
+  {
+    "Neighborhood": "Field",
+    "Offense": "Total",
+    "X2019": 0,
+    "X2020": 4,
+    "X2021": 1,
+    "X2022": 5,
+    "X2023": 7,
+    "X2024": 1
+  },
+  {
+    "Neighborhood": "Kenwood",
+    "Offense": "Total",
+    "X2019": 0,
+    "X2020": 1,
+    "X2021": 0,
+    "X2022": 0,
+    "X2023": 0,
+    "X2024": 0
+  },
+  {
+    "Neighborhood": "Tangletown",
+    "Offense": "Total",
+    "X2019": 0,
+    "X2020": 2,
+    "X2021": 2,
+    "X2022": 1,
+    "X2023": 3,
+    "X2024": 1
+  },
+  {
+    "Neighborhood": "Hale",
+    "Offense": "Total",
     "X2019": 0,
     "X2020": 0,
     "X2021": 1,

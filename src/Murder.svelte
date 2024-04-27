@@ -57,13 +57,15 @@
   function preparePrecinctChartData() {
     const years = [...new Set(murderPrecincts.map(item => item.Year))].sort();
     const precinctMap = new Map();
+    const colors = ['#FF6384', '#36A2EB', '#FFCE56', '#4BC0C0', '#9966FF', '#FF9F40',
+    '#C9CBCF', '#7E57C2', '#D4E157', '#66BB6A', '#FF7043', '#8D6E63'];
 
     murderPrecincts.forEach(item => {
       if (!precinctMap.has(item.Precinct)) {
         precinctMap.set(item.Precinct, {
           label: `Precinct ${item.Precinct}`,
           data: new Array(years.length).fill(null), // Initialize with nulls for all years
-          borderColor: `hsl(${Math.random() * 360}, 70%, 50%)`,
+          borderColor: colors[item.Precinct-1],
           fill: false
         });
       }
@@ -83,8 +85,8 @@
 
     // Prepare chart data
     const monthlyChartData = { labels: murderMonthlyComparison.map(item => `${item.Year}-${item.Month}`), datasets: [{ label: 'Monthly Murders', data: murderMonthlyComparison.map(item => item.IncidentCount), backgroundColor: 'rgba(70, 130, 180, 0.8)', borderColor: 'rgba(70, 130, 180, 0.8)', borderWidth: 1 }] };
-    const yearlyChartData = { labels: murderYearlyIncidentCounts.map(item => item.Year.toString()), datasets: [{ label: 'Yearly Murders', data: murderYearlyIncidentCounts.map(item => item.OffenseCount), backgroundColor: 'rgba(70, 130, 180, 0.8)', borderColor: 'rgba(70, 130, 180, 0.8)', borderWidth: 1 }] };
-    const ytdChartData = { labels: murderYTDComparison.map(item => item.Year.toString()), datasets: [{ label: 'YTD Murders', data: murderYTDComparison.map(item => item.YTDCount), backgroundColor: 'rgba(70, 130, 180, 0.8)', borderColor: 'rgba(70, 130, 180, 0.8)', borderWidth: 1 }] };
+    const yearlyChartData = { labels: murderYearlyIncidentCounts.map(item => item.Year.toString()), datasets: [{ label: 'Yearly Murders', data: murderYearlyIncidentCounts.map(item => item.OffenseCount), backgroundColor: 'rgba(70, 130, 180, 0.8)', borderColor: 'rgba(70, 130, 180, 0.8)', borderWidth: 0 }] };
+    const ytdChartData = { labels: murderYTDComparison.map(item => item.Year.toString()), datasets: [{ label: 'YTD Murders', data: murderYTDComparison.map(item => item.YTDCount), backgroundColor: 'rgba(70, 130, 180, 0.8)', borderColor: 'rgba(70, 130, 180, 0.8)', borderWidth: 0}] };
     const historyChartData = { labels: murderHistory.map(item => item.year.toString()), datasets: [{ label: 'Homicide Rate', data: murderHistory.map(item => item.IncidentCount), backgroundColor: 'rgba(70, 130, 180, 0.8)', borderColor: 'rgba(70, 130, 180, 0.8)', borderWidth: 1 }] };
     
     // Create charts
@@ -98,9 +100,11 @@
 </script>
 
 
-<h3>Minneapolis: Homicide</h3>
+<h3>Minneapolis: Murder</h3>
 
-<p class="disclaimer">The Star Tribune uses a speciaized calculation for its historical Minneapolis homicide rates that includes murder cases investigated by MPD, officer-involved deaths and self-defense killings. The following data is just murders investigated by MPD unless otherwise noted.</p>
+<h4 class="source">Data sources: Minneapolis Police Department</h4>
+
+<div class="def"><p>The Star Tribune uses a speciaized calculation for its historical Minneapolis homicide rates that includes murder cases investigated by MPD, officer-involved deaths and self-defense killings. The following data is just murders investigated by MPD unless otherwise noted.</p></div>
 
 {#if murderYTDComparison && murderYTDComparison.length > 0}
 <p>
@@ -189,65 +193,10 @@
 <ul>
   <li><a href="https://docs.google.com/spreadsheets/d/1ntBqZokbzsPQEatu-rlHsIYKq2ngM0hoO1xXmRBQ8jc/edit#gid=1736309950">Star Tribune: Minneapolis Homicides Database</a></li>
   <li><a href="http://www.murderdata.org/">Murder Accountability Project</a></li>
+  <li><a href="https://tableau.minneapolismn.gov/views/CrimeDashboard/Summary?%3Adisplay_count=n&%3Aiid=5&%3Aorigin=viz_share_link&%3AshowAppBanner=false&%3AshowVizHome=n&%3Atabs=yes&%3Atoolbar=no&%3AisGuestRedirectFromVizportal=y&%3Aembed=y">Minneapolis NIBRS Crime Dashboard</a> | <a href="https://opendata.minneapolismn.gov/datasets/cityoflakes::crime-data/about">raw data</a></li>
 </ul>
 
 
 <style>
-  .chart-container {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-around;
-    padding: 20px;
-  }
-  canvas {
-    max-width: 100%;
-    height: 300px !important;
-  }
-  .positive {
-  color: red;
-  }
-  .negative {
-    color: green;
-  }
-  .map-container {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-around;
-    gap: 20px;
-  }
 
-  img {
-    width: 200px;
-    height: auto;
-    cursor: pointer;
-    transition: transform 0.2s;
-    border:1px solid #dddddd;
-  }
-
-  img:hover {
-    transform: scale(1.05);
-  }
-
-  .lightbox {
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100vw;
-    height: 100vh;
-    background-color: white;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    z-index: 1000;
-  }
-
-  .lightbox img {
-    max-width: 90%; 
-    max-height: 90%;
-    height: auto;
-    width: auto;
-  }
-  .disclaimer {
-  color:#de2d26;
-}
 </style>

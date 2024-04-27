@@ -2,7 +2,7 @@
 
 Welcome to the Star Tribune Public Safety Dashboard. Use this to browse crime, policing and other public safety statistics for Minneapolis and elsewhere in Minnesota.
 
-Dashboard URL: [https://striblab.github.io/20240428-crimedash/dist](https://striblab.github.io/20240428-crimedash/dist)
+Dashboard URL: [https://striblab.github.io/crimedash/dist](https://striblab.github.io/crimedash/dist)
 
 [Email](mailto:jeff.hargarten@startribune.com) or Slack any questions or issues to Jeff Hargarten.
 

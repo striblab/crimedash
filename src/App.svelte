@@ -1,6 +1,7 @@
 <script>
 	import About from './About.svelte';
 	import Murder from './Murder.svelte';
+	import Manslaughter from './Manslaughter.svelte';
 	import Gunfire from './Gunfire.svelte';
 	import Shotvictims from './Shotvictims.svelte';
 	import Assault from './Assault.svelte';
@@ -26,14 +27,15 @@
 	import Practices from './Practices.svelte';
   
 	let modules = [
-	  { id: 'murder', name: 'Minneapolis: Homicides', component: Murder },
-	  { id: 'gunfire', name: 'Minneapolis: Gunfire',  component: Gunfire },
+	  { id: 'murder', name: 'Minneapolis: Murder', component: Murder },
+	  { id: 'manslaughter', name: 'Minneapolis: Manslaughter', component: Manslaughter },
+	  { id: 'gunfire', name: 'Minneapolis: Shots Fired',  component: Gunfire },
 	  { id: 'shotvictims', name: 'Minneapolis: Shooting Victims',  component: Shotvictims },
 	  { id: 'assault', name: 'Minneapolis: Aggravated Assault',  component: Assault },
-	  { id: 'domestic', name: 'Minneapolis: Domestic Assault',  component: Domestic },
+	  { id: 'domestic', name: '--Minneapolis: Domestic Aggravated Assault',  component: Domestic },
 	  { id: 'rape', name: 'Minneapolis: Sex Offenses',  component: Rape },
 	  { id: 'robbery', name: 'Minneapolis: Robbery',  component: Robbery },
-	  { id: 'carjack', name: 'Minneapolis: Carjacking',  component: Carjack },
+	  { id: 'carjack', name: '--Minneapolis: Carjacking',  component: Carjack },
 	  { id: 'autotheft', name: 'Minneapolis: Motor Vehicle Theft',  component: Autotheft },
 	  { id: 'burglary', name: 'Minneapolis: Burglary',  component: Burglary },
 	  { id: 'larceny', name: 'Minneapolis: Larceny',  component: Larceny },

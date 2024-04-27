@@ -41,6 +41,10 @@
         }
       });
     }
+
+    function formatNumber(number) {
+        return number.toLocaleString('en-US');
+    }
   
     function handleResize() {
       clearTimeout(resizeTimer);
@@ -55,13 +59,15 @@
     function preparePrecinctChartData() {
       const years = [...new Set(assaultPrecincts.map(item => item.Year))].sort();
       const precinctMap = new Map();
+      const colors = ['#FF6384', '#36A2EB', '#FFCE56', '#4BC0C0', '#9966FF', '#FF9F40',
+    '#C9CBCF', '#7E57C2', '#D4E157', '#66BB6A', '#FF7043', '#8D6E63'];
   
       assaultPrecincts.forEach(item => {
         if (!precinctMap.has(item.Precinct)) {
           precinctMap.set(item.Precinct, {
             label: `Precinct ${item.Precinct}`,
             data: new Array(years.length).fill(null), // Initialize with nulls for all years
-            borderColor: `hsl(${Math.random() * 360}, 70%, 50%)`,
+            borderColor: colors[item.Precinct-1],
             fill: false
           });
         }
@@ -80,9 +86,9 @@
       window.addEventListener('resize', handleResize);
   
       // Prepare chart data
-      const amonthlyChartData = { labels: assaultMonthlyComparison.map(item => `${item.Year}-${item.Month}`), datasets: [{ label: 'Monthly assaults', data: assaultMonthlyComparison.map(item => item.IncidentCount), backgroundColor: 'rgba(70, 130, 180, 0.8)', borderColor: 'rgba(70, 130, 180, 1)', borderWidth: 1 }] };
-      const ayearlyChartData = { labels: assaultYearlyIncidentCounts.map(item => item.Year.toString()), datasets: [{ label: 'Yearly assaults', data: assaultYearlyIncidentCounts.map(item => item.OffenseCount), backgroundColor: 'rgba(70, 130, 180, 0.8)', borderColor: 'rgba(70, 130, 180, 1)', borderWidth: 1 }] };
-      const aytdChartData = { labels: assaultYTDComparison.map(item => item.Year.toString()), datasets: [{ label: 'YTD assaults', data: assaultYTDComparison.map(item => item.YTDCount), backgroundColor: 'rgba(70, 130, 180, 0.8)', borderColor: 'rgba(70, 130, 180 1)', borderWidth: 1 }] };
+      const amonthlyChartData = { labels: assaultMonthlyComparison.map(item => `${item.Year}-${item.Month}`), datasets: [{ label: 'Monthly Aggravated Assaults', data: assaultMonthlyComparison.map(item => item.IncidentCount), backgroundColor: 'rgba(70, 130, 180, 0.8)', borderColor: 'rgba(70, 130, 180, 1)', borderWidth: 1 }] };
+      const ayearlyChartData = { labels: assaultYearlyIncidentCounts.map(item => item.Year.toString()), datasets: [{ label: 'Yearly Aggravated Assaults', data: assaultYearlyIncidentCounts.map(item => item.OffenseCount), backgroundColor: 'rgba(70, 130, 180, 0.8)', borderColor: 'rgba(70, 130, 180, 1)', borderWidth: 0 }] };
+      const aytdChartData = { labels: assaultYTDComparison.map(item => item.Year.toString()), datasets: [{ label: 'YTD Aggravated Assaults', data: assaultYTDComparison.map(item => item.YTDCount), backgroundColor: 'rgba(70, 130, 180, 0.8)', borderColor: 'rgba(70, 130, 180 1)', borderWidth: 0 }] };
   
       // Create charts
       amonthlyChart = createChart(document.getElementById('amonthlyChart').getContext('2d'), amonthlyChartData, 'assaults', 'line');
@@ -96,21 +102,23 @@
   
   <h3>Minneapolis: Aggravated Assault</h3>
 
-  <div class="disclaimer"><p>Includes assaults with deadly weapons (including vehicles) and domestic assault offenses.</p></div>
+  <h4 class="source">Data sources: Minneapolis Police Department</h4>
+
+  <div class="def"><p>Includes assaults or threats with deadly weapons (including vehicles or the knowing transmission of deadly disease), or any assault that inflicts grievous bodily injury.</p></div>
   
   {#if assaultYTDComparison && assaultYTDComparison.length > 0}
   <p>
-    Minneapolis has recorded <strong>{assaultYTDComparison[assaultYTDComparison.length - 1].YTDCount}</strong> assaults this year, a
+    Minneapolis has recorded <strong>{formatNumber(assaultYTDComparison[assaultYTDComparison.length - 1].YTDCount)}</strong> aggravated assaults this year, a
     <span class={assaultYTDComparison[assaultYTDComparison.length - 1].YTDPercentageChange >= 0 ? 'positive' : 'negative'}>
       <strong>
         {typeof assaultYTDComparison[assaultYTDComparison.length - 1].YTDPercentageChange === 'number' ? 
           (assaultYTDComparison[assaultYTDComparison.length - 1].YTDPercentageChange > 0 ? `+${assaultYTDComparison[assaultYTDComparison.length - 1].YTDPercentageChange.toFixed(0)}%` : `${assaultYTDComparison[assaultYTDComparison.length - 1].YTDPercentageChange.toFixed(0)}%`) 
           : 'N/A'}
       </strong>
-    </span> change from last year's <strong>{assaultYTDComparison[assaultYTDComparison.length - 1].PrevYTDCount}</strong> assaults at this time.
+    </span> change from last year's <strong>{formatNumber(assaultYTDComparison[assaultYTDComparison.length - 1].PrevYTDCount)}</strong> aggravated assaults at this time.
   </p>
   <p>
-    Compared to 2019's count of <strong>{assaultYTDComparison[0].YTDCount}</strong> assaults, the change is
+    Compared to 2019's count of <strong>{formatNumber(assaultYTDComparison[0].YTDCount)}</strong> aggravated assaults, the change is
     <span class={
       (assaultYTDComparison[assaultYTDComparison.length - 1].YTDCount - assaultYTDComparison[0].YTDCount) >= 0 ? 'positive' : 'negative'}>
       <strong>
@@ -147,7 +155,7 @@
   
   
   <p>&nbsp;</p>
-  <h4>assaults by police precinct</h4>
+  <h4>Aggravated assaults by police precinct</h4>
   <div class="chart-container">
     <canvas id="aprecinctChart"></canvas>
   </div>
@@ -171,64 +179,11 @@
   <div class="download"><a href="../store/assault/assault_neighborhoods.geojson">Download Minneapolis aggravated assaults by neighborhood GEOJSON</a></div>
   <div class="download"><a href="../store/assault/assault_raw.csv">Download Minneapolis aggravated assaults raw CSV file (includes incident coordinates)</a></div>
   
-  
+  <h4>Links</h4>
+  <ul>
+    <li><a href="https://tableau.minneapolismn.gov/views/CrimeDashboard/Summary?%3Adisplay_count=n&%3Aiid=5&%3Aorigin=viz_share_link&%3AshowAppBanner=false&%3AshowVizHome=n&%3Atabs=yes&%3Atoolbar=no&%3AisGuestRedirectFromVizportal=y&%3Aembed=y">Minneapolis NIBRS Crime Dashboard</a> | <a href="https://opendata.minneapolismn.gov/datasets/cityoflakes::crime-data/about">raw data</a></li>
+  </ul>
   
   <style>
-    .chart-container {
-      display: flex;
-      flex-wrap: wrap;
-      justify-content: space-around;
-      padding: 20px;
-    }
-    canvas {
-      max-width: 100%;
-      height: 300px !important;
-    }
-    .positive {
-    color: red;
-    }
-    .negative {
-      color: green;
-    }
-    .map-container {
-      display: flex;
-      flex-wrap: wrap;
-      justify-content: space-around;
-      gap: 20px;
-    }
   
-    img {
-      width: 200px;
-      height: auto;
-      cursor: pointer;
-      transition: transform 0.2s;
-      border:1px solid #dddddd;
-    }
-  
-    img:hover {
-      transform: scale(1.05);
-    }
-  
-    .lightbox {
-      position: fixed;
-      top: 0;
-      left: 0;
-      width: 100vw;
-      height: 100vh;
-      background-color: white;
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      z-index: 1000;
-    }
-  
-    .lightbox img {
-      max-width: 90%; 
-      max-height: 90%;
-      height: auto;
-      width: auto;
-    }
-    .disclaimer {
-    color:#de2d26;
-  }
   </style>

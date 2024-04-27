@@ -55,13 +55,16 @@
     function preparePrecinctChartData() {
       const years = [...new Set(shotvictimsPrecincts.map(item => item.Year))].sort();
       const precinctMap = new Map();
+      const colors = ['#FF6384', '#36A2EB', '#FFCE56', '#4BC0C0', '#9966FF', '#FF9F40',
+    '#C9CBCF', '#7E57C2', '#D4E157', '#66BB6A', '#FF7043', '#8D6E63'];
+
   
       shotvictimsPrecincts.forEach(item => {
         if (!precinctMap.has(item.Precinct)) {
           precinctMap.set(item.Precinct, {
             label: `Precinct ${item.Precinct}`,
             data: new Array(years.length).fill(null), // Initialize with nulls for all years
-            borderColor: `hsl(${Math.random() * 360}, 70%, 50%)`,
+            borderColor: colors[item.Precinct-1],
             fill: false
           });
         }
@@ -81,8 +84,8 @@
   
       // Prepare chart data
       const amonthlyChartData = { labels: shotvictimsMonthlyComparison.map(item => `${item.Year}-${item.Month}`), datasets: [{ label: 'Monthly Gunshot Victims', data: shotvictimsMonthlyComparison.map(item => item.IncidentCount), backgroundColor: 'rgba(70, 130, 180, 0.8)', borderColor: 'rgba(70, 130, 180, 1)', borderWidth: 1 }] };
-      const ayearlyChartData = { labels: shotvictimsYearlyIncidentCounts.map(item => item.Year.toString()), datasets: [{ label: 'Yearly Gunshot Victims', data: shotvictimsYearlyIncidentCounts.map(item => item.OffenseCount), backgroundColor: 'rgba(70, 130, 180, 0.8)', borderColor: 'rgba(70, 130, 180, 1)', borderWidth: 1 }] };
-      const aytdChartData = { labels: shotvictimsYTDComparison.map(item => item.Year.toString()), datasets: [{ label: 'YTD Gunshot Victims', data: shotvictimsYTDComparison.map(item => item.YTDCount), backgroundColor: 'rgba(70, 130, 180, 0.8)', borderColor: 'rgba(70, 130, 180 1)', borderWidth: 1 }] };
+      const ayearlyChartData = { labels: shotvictimsYearlyIncidentCounts.map(item => item.Year.toString()), datasets: [{ label: 'Yearly Gunshot Victims', data: shotvictimsYearlyIncidentCounts.map(item => item.OffenseCount), backgroundColor: 'rgba(70, 130, 180, 0.8)', borderColor: 'rgba(70, 130, 180, 0)', borderWidth: 0 }] };
+      const aytdChartData = { labels: shotvictimsYTDComparison.map(item => item.Year.toString()), datasets: [{ label: 'YTD Gunshot Victims', data: shotvictimsYTDComparison.map(item => item.YTDCount), backgroundColor: 'rgba(70, 130, 180, 0.8)', borderColor: 'rgba(70, 130, 180 0)', borderWidth: 0 }] };
   
       // Create charts
       amonthlyChart = createChart(document.getElementById('vmonthlyChart').getContext('2d'), amonthlyChartData, 'Gunshot Victims', 'line');
@@ -95,6 +98,10 @@
   
   
   <h3>Minneapolis: Shooting Victims</h3>
+
+  <h4 class="source">Data sources: Minneapolis Police Department</h4>
+  
+  <div class="def"><p>Counts both fatal and nonfatal gunshot victims.</p></div>
   
   {#if shotvictimsYTDComparison && shotvictimsYTDComparison.length > 0}
   <p>
@@ -171,65 +178,12 @@
   <p>&nbsp;</p>
 <h4>Links</h4>
 <ul>
+  <li><a href="https://tableau.minneapolismn.gov/views/CrimeDashboard/Summary?%3Adisplay_count=n&%3Aiid=5&%3Aorigin=viz_share_link&%3AshowAppBanner=false&%3AshowVizHome=n&%3Atabs=yes&%3Atoolbar=no&%3AisGuestRedirectFromVizportal=y&%3Aembed=y">Minneapolis NIBRS Crime Dashboard</a> | <a href="https://opendata.minneapolismn.gov/datasets/cityoflakes::crime-data/about">raw data</a></li>
   <li><a href="https://cityoflakes.maps.arcgis.com/apps/webappviewer/index.html?id=292a52a52b354387a94020db10c19749">Minneapolis Gunfire Activity Map</a> | <a href="https://opendata.minneapolismn.gov/datasets/shots-fired/explore?location=44.969425%2C-93.264019%2C12.00">DATA</a></li>
   <li><a href="https://tableau.minneapolismn.gov/views/MStatGunshotData/GunshotWoundDashboard-byDate?:showAppBanner=false&:display_count=n&:showVizHome=n&:origin=viz_share_link&:iid=6&:isGuestRedirectFromVizportal=y&:embed=y">Minneapolis Gunshot Wounds/Shootings</a></li>
   <li><a href="https://www.gunviolencearchive.org/query/4c112967-14d3-41b1-871f-2c0dfa095f9b">Gun Violence Archives</a></li>
 </ul>
 
-  
   <style>
-    .chart-container {
-      display: flex;
-      flex-wrap: wrap;
-      justify-content: space-around;
-      padding: 20px;
-    }
-    canvas {
-      max-width: 100%;
-      height: 300px !important;
-    }
-    .positive {
-    color: red;
-    }
-    .negative {
-      color: green;
-    }
-    .map-container {
-      display: flex;
-      flex-wrap: wrap;
-      justify-content: space-around;
-      gap: 20px;
-    }
   
-    img {
-      width: 200px;
-      height: auto;
-      cursor: pointer;
-      transition: transform 0.2s;
-      border:1px solid #dddddd;
-    }
-  
-    img:hover {
-      transform: scale(1.05);
-    }
-  
-    .lightbox {
-      position: fixed;
-      top: 0;
-      left: 0;
-      width: 100vw;
-      height: 100vh;
-      background-color: white;
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      z-index: 1000;
-    }
-  
-    .lightbox img {
-      max-width: 90%; 
-      max-height: 90%;
-      height: auto;
-      width: auto;
-    }
   </style>

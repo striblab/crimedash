@@ -55,13 +55,16 @@
     function preparePrecinctChartData() {
       const years = [...new Set(rapePrecincts.map(item => item.Year))].sort();
       const precinctMap = new Map();
+      const colors = ['#FF6384', '#36A2EB', '#FFCE56', '#4BC0C0', '#9966FF', '#FF9F40',
+    '#C9CBCF', '#7E57C2', '#D4E157', '#66BB6A', '#FF7043', '#8D6E63'];
+
   
       rapePrecincts.forEach(item => {
         if (!precinctMap.has(item.Precinct)) {
           precinctMap.set(item.Precinct, {
             label: `Precinct ${item.Precinct}`,
             data: new Array(years.length).fill(null), // Initialize with nulls for all years
-            borderColor: `hsl(${Math.random() * 360}, 70%, 50%)`,
+            borderColor: colors[item.Precinct-1],
             fill: false
           });
         }
@@ -80,23 +83,25 @@
       window.addEventListener('resize', handleResize);
   
       // Prepare chart data
-      const amonthlyChartData = { labels: rapeMonthlyComparison.map(item => `${item.Year}-${item.Month}`), datasets: [{ label: 'Monthly sex offenses', data: rapeMonthlyComparison.map(item => item.IncidentCount), backgroundColor: 'rgba(70, 130, 180, 0.8)', borderColor: 'rgba(70, 130, 180, 1)', borderWidth: 1 }] };
-      const ayearlyChartData = { labels: rapeYearlyIncidentCounts.map(item => item.Year.toString()), datasets: [{ label: 'Yearly sex offenses', data: rapeYearlyIncidentCounts.map(item => item.OffenseCount), backgroundColor: 'rgba(70, 130, 180, 0.8)', borderColor: 'rgba(70, 130, 180, 1)', borderWidth: 1 }] };
-      const aytdChartData = { labels: rapeYTDComparison.map(item => item.Year.toString()), datasets: [{ label: 'YTD sex offenses', data: rapeYTDComparison.map(item => item.YTDCount), backgroundColor: 'rgba(70, 130, 180, 0.8)', borderColor: 'rgba(70, 130, 180 1)', borderWidth: 1 }] };
+      const amonthlyChartData = { labels: rapeMonthlyComparison.map(item => `${item.Year}-${item.Month}`), datasets: [{ label: 'Monthly Sex Offenses', data: rapeMonthlyComparison.map(item => item.IncidentCount), backgroundColor: 'rgba(70, 130, 180, 0.8)', borderColor: 'rgba(70, 130, 180, 1)', borderWidth: 1 }] };
+      const ayearlyChartData = { labels: rapeYearlyIncidentCounts.map(item => item.Year.toString()), datasets: [{ label: 'Yearly Sex Offenses', data: rapeYearlyIncidentCounts.map(item => item.OffenseCount), backgroundColor: 'rgba(70, 130, 180, 0.8)', borderColor: 'rgba(70, 130, 180, 1)', borderWidth: 0 }] };
+      const aytdChartData = { labels: rapeYTDComparison.map(item => item.Year.toString()), datasets: [{ label: 'YTD Sex Offenses', data: rapeYTDComparison.map(item => item.YTDCount), backgroundColor: 'rgba(70, 130, 180, 0.8)', borderColor: 'rgba(70, 130, 180 1)', borderWidth: 0 }] };
   
       // Create charts
       amonthlyChart = createChart(document.getElementById('amonthlyChart').getContext('2d'), amonthlyChartData, 'Sex Offenses', 'line');
       ayearlyChart = createChart(document.getElementById('ayearlyChart').getContext('2d'), ayearlyChartData, 'Sex Offenses');
       aytdChart = createChart(document.getElementById('aytdChart').getContext('2d'), aytdChartData, 'Sex Offenses');
       const aprecinctChartData = preparePrecinctChartData();
-      aprecinctChart = createChart(document.getElementById('aprecinctChart').getContext('2d'), aprecinctChartData, 'Precinct sex offenses', 'line');
+      aprecinctChart = createChart(document.getElementById('aprecinctChart').getContext('2d'), aprecinctChartData, 'Precinct Sex Offenses', 'line');
     });
   </script>
   
   
   <h3>Minneapolis: Sex Offenses</h3>
 
-  <p class="disclaimer">Under NIBRS in Minneapolis, sex offenses include rape, sexual assault and nonconsensual sodomy, fondling, etc. This metric is yet another revision to how rape statistics are calculated, so exercise additional caution when measuring trends over time.</p>
+  <h4 class="source">Data sources: Minneapolis Police Department</h4>
+
+  <div class="def"><p>Under NIBRS in Minneapolis, sex offenses include forcible rape, sexual assault, nonconsensual sodomy, fondling and statutory rape. This metric is yet another revision to how rape statistics are calculated, so exercise additional caution when measuring trends over time.</p></div>
   
   {#if rapeYTDComparison && rapeYTDComparison.length > 0}
   <p>
@@ -167,68 +172,15 @@
       <img src={$activeImage} alt="Expanded Image">
     </div>
   {/if}
-  <div class="download"><a href="../store/rape/rape_geo.csv">Download Minneapolis rapes by neighborhood data</a></div>
-  <div class="download"><a href="../store/rape/rape_neighborhoods.geojson">Download Minneapolis rapes by neighborhood GEOJSON</a></div>
-  <div class="download"><a href="../store/rape/rape_raw.csv">Download Minneapolis rapes raw CSV file (includes incident coordinates)</a></div>
+  <div class="download"><a href="../store/rape/rape_geo.csv">Download Minneapolis sex offenses by neighborhood data</a></div>
+  <div class="download"><a href="../store/rape/rape_neighborhoods.geojson">Download Minneapolis sex offenses by neighborhood GEOJSON</a></div>
+  <div class="download"><a href="../store/rape/rape_raw.csv">Download Minneapolis sex offenses raw CSV file (includes incident coordinates)</a></div>
   
-  
+  <h4>Links</h4>
+  <ul>
+    <li><a href="https://tableau.minneapolismn.gov/views/CrimeDashboard/Summary?%3Adisplay_count=n&%3Aiid=5&%3Aorigin=viz_share_link&%3AshowAppBanner=false&%3AshowVizHome=n&%3Atabs=yes&%3Atoolbar=no&%3AisGuestRedirectFromVizportal=y&%3Aembed=y">Minneapolis NIBRS Crime Dashboard</a> | <a href="https://opendata.minneapolismn.gov/datasets/cityoflakes::crime-data/about">raw data</a></li>
+  </ul>
   
   <style>
-    .chart-container {
-      display: flex;
-      flex-wrap: wrap;
-      justify-content: space-around;
-      padding: 20px;
-    }
-    canvas {
-      max-width: 100%;
-      height: 300px !important;
-    }
-    .positive {
-    color: red;
-    }
-    .negative {
-      color: green;
-    }
-    .map-container {
-      display: flex;
-      flex-wrap: wrap;
-      justify-content: space-around;
-      gap: 20px;
-    }
   
-    img {
-      width: 200px;
-      height: auto;
-      cursor: pointer;
-      transition: transform 0.2s;
-      border:1px solid #dddddd;
-    }
-  
-    img:hover {
-      transform: scale(1.05);
-    }
-  
-    .lightbox {
-      position: fixed;
-      top: 0;
-      left: 0;
-      width: 100vw;
-      height: 100vh;
-      background-color: white;
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      z-index: 1000;
-    }
-  
-    .lightbox img {
-      max-width: 90%; 
-      max-height: 90%;
-      height: auto;
-      width: auto;
-    }
-    .disclaimer {
-      color:#de2d26;
-     }
   </style>

@@ -4,6 +4,8 @@
 
 <h3>Minnesota Arrests</h3>
 
+<h4 class="source">Data sources: Minnesota Bureau of Criminal Apprehension</h4>
+
 <p>Granulated arrest data is hard to come by, but a lot of broad statistics are available from the BCA. Here are the most recent arrest sheets available:</p>
 
 <div class="download">

@@ -4,6 +4,8 @@
 
 <h3>Police Use-of-Force</h3>
 
+<h4 class="source">Data sources: Minneapolis Police Department</h4>
+
 <p>Use-of-force data in Minneapolis and Minnesota got really sketchy and mostly unusable after 2020. New systems for tracking police force-use are under development, and this section will be updated as those efforts evolve.</p>
 
 <div class="download"><a href="../store/force/minneapolis_force.csv">Download Minneapolis police legacy force-use data 2008-2021</a></div>

@@ -1,13 +1,439 @@
 "Neighborhood","Offense","2019","2020","2021","2022","2023","2024"
+"Armatage","All Other Larceny",14,16,11,8,19,2
+"Audubon Park","All Other Larceny",33,21,35,16,32,8
+"Bancroft","All Other Larceny",23,27,24,22,22,10
+"Beltrami","All Other Larceny",7,12,5,12,9,1
+"Bottineau","All Other Larceny",20,10,24,21,16,3
+"Bryant","All Other Larceny",16,14,10,15,22,5
+"Bryn - Mawr","All Other Larceny",16,9,26,22,22,11
+"Camden Industrial","All Other Larceny",8,6,6,6,9,1
+"Cedar - Isles - Dean","All Other Larceny",37,35,70,48,62,18
+"Cedar Riverside","All Other Larceny",102,84,91,95,83,18
+"Central","All Other Larceny",55,71,58,66,75,21
+"Cleveland","All Other Larceny",27,24,24,25,37,16
+"Columbia Park","All Other Larceny",8,5,14,11,18,5
+"Como","All Other Larceny",56,56,102,76,75,24
+"Cooper","All Other Larceny",26,14,28,26,39,11
+"Corcoran","All Other Larceny",47,47,34,43,47,15
+"Diamond Lake","All Other Larceny",16,22,23,15,31,6
+"Downtown East","All Other Larceny",110,100,79,124,112,33
+"Downtown West","All Other Larceny",1316,541,653,767,579,140
+"East Bde Maka Ska","All Other Larceny",64,26,39,32,29,19
+"East Harriet","All Other Larceny",36,30,20,27,38,7
+"East Isles","All Other Larceny",122,80,74,91,82,17
+"East Phillips","All Other Larceny",77,78,65,68,72,23
+"Elliot Park","All Other Larceny",191,151,127,150,159,45
+"Ericsson","All Other Larceny",35,26,35,28,30,13
+"Field","All Other Larceny",11,7,19,11,24,4
+"Folwell","All Other Larceny",76,45,64,66,63,24
+"Fulton","All Other Larceny",29,23,16,17,26,6
+"Hale","All Other Larceny",8,12,7,6,19,5
+"Harrison","All Other Larceny",49,40,37,40,40,16
+"Hawthorne","All Other Larceny",137,79,79,78,81,23
+"Hiawatha","All Other Larceny",78,71,94,127,83,23
+"Holland","All Other Larceny",52,56,67,40,69,21
+"Howe","All Other Larceny",66,43,44,58,65,17
+"Humboldt Industrial Area","All Other Larceny",5,0,0,0,1,0
+"Jordan","All Other Larceny",106,79,79,94,99,28
+"Keewaydin","All Other Larceny",12,17,18,19,18,7
+"Kenny","All Other Larceny",6,3,6,7,21,2
+"Kenwood","All Other Larceny",13,12,15,16,14,5
+"King Field","All Other Larceny",48,52,49,59,84,24
+"Lind - Bohanon","All Other Larceny",63,51,40,45,54,14
+"Linden Hills","All Other Larceny",36,37,32,36,31,7
+"Logan Park","All Other Larceny",27,17,25,31,35,11
+"Longfellow","All Other Larceny",157,99,114,125,121,37
+"Loring Park","All Other Larceny",204,199,187,177,201,42
+"Lowry Hill","All Other Larceny",43,35,39,45,44,15
+"Lowry Hill East","All Other Larceny",299,181,291,243,254,57
+"Lyndale","All Other Larceny",105,77,71,98,138,37
+"Lynnhurst","All Other Larceny",19,16,23,16,15,7
+"Marcy Holmes","All Other Larceny",269,352,388,275,177,54
+"Marshall Terrace","All Other Larceny",15,18,18,22,25,11
+"McKinley","All Other Larceny",33,28,35,38,23,9
+"Mid - City Industrial","All Other Larceny",30,23,33,25,39,10
+"Midtown Phillips","All Other Larceny",119,104,72,71,72,28
+"Minnehaha","All Other Larceny",26,34,15,35,24,13
+"Morris Park","All Other Larceny",6,11,12,7,8,2
+"Near - North","All Other Larceny",135,102,79,124,106,26
+"Nicollet Island - East Bank","All Other Larceny",42,70,38,71,73,24
+"North Loop","All Other Larceny",189,209,202,248,224,52
+"Northeast Park","All Other Larceny",58,67,78,114,69,26
+"Northrop","All Other Larceny",36,44,32,47,45,10
+"Page","All Other Larceny",7,4,6,7,14,9
+"Phillips West","All Other Larceny",75,41,48,68,48,16
+"Powderhorn Park","All Other Larceny",89,89,82,72,102,25
+"Prospect Park - East River Road","All Other Larceny",172,184,159,205,143,50
+"Regina","All Other Larceny",12,17,15,16,19,4
+"Seward","All Other Larceny",139,80,77,94,95,28
+"Sheridan","All Other Larceny",29,27,66,46,41,20
+"Shingle Creek","All Other Larceny",13,18,13,11,22,8
+"South Uptown","All Other Larceny",129,75,85,99,83,24
+"St. Anthony East","All Other Larceny",13,11,17,26,16,5
+"St. Anthony West","All Other Larceny",20,31,40,38,51,10
+"Standish","All Other Larceny",60,44,38,51,43,12
+"Steven's Square - Loring Heights","All Other Larceny",79,66,76,62,67,29
+"Sumner - Glenwood","All Other Larceny",18,18,11,20,17,5
+"Tangletown","All Other Larceny",34,35,33,28,34,9
+"University of Minnesota","All Other Larceny",62,45,46,56,65,13
+"Ventura Village","All Other Larceny",106,80,68,88,102,33
+"Victory","All Other Larceny",21,22,26,34,52,16
+"Waite Park","All Other Larceny",24,26,18,21,18,5
+"Webber - Camden","All Other Larceny",73,55,45,56,56,20
+"Wenonah","All Other Larceny",17,17,19,24,18,3
+"West Maka Ska","All Other Larceny",24,27,45,32,29,14
+"Whittier","All Other Larceny",343,210,231,265,274,88
+"Willard - Hay","All Other Larceny",81,51,71,72,78,18
+"Windom","All Other Larceny",54,49,43,33,33,18
+"Windom Park","All Other Larceny",47,29,41,46,35,16
+NA,"All Other Larceny",14,13,29,33,27,6
+"Armatage","Theft From Motor Vehicle",31,18,12,15,11,2
+"Audubon Park","Theft From Motor Vehicle",21,29,24,9,6,3
+"Bancroft","Theft From Motor Vehicle",30,24,19,14,34,6
+"Beltrami","Theft From Motor Vehicle",29,28,7,18,8,3
+"Bottineau","Theft From Motor Vehicle",43,53,19,14,11,3
+"Bryant","Theft From Motor Vehicle",11,18,4,15,18,4
+"Bryn - Mawr","Theft From Motor Vehicle",20,22,15,26,30,4
+"Camden Industrial","Theft From Motor Vehicle",3,2,2,7,3,1
+"Cedar - Isles - Dean","Theft From Motor Vehicle",24,55,45,48,45,6
+"Cedar Riverside","Theft From Motor Vehicle",100,91,67,134,67,12
+"Central","Theft From Motor Vehicle",58,55,33,42,56,18
+"Cleveland","Theft From Motor Vehicle",14,24,15,11,13,9
+"Columbia Park","Theft From Motor Vehicle",15,12,10,18,23,10
+"Como","Theft From Motor Vehicle",45,68,36,38,19,23
+"Cooper","Theft From Motor Vehicle",49,33,19,22,36,6
+"Corcoran","Theft From Motor Vehicle",48,40,30,39,47,10
+"Diamond Lake","Theft From Motor Vehicle",34,23,30,21,25,12
+"Downtown East","Theft From Motor Vehicle",83,52,59,61,47,12
+"Downtown West","Theft From Motor Vehicle",315,180,187,300,283,51
+"East Bde Maka Ska","Theft From Motor Vehicle",28,25,26,48,42,7
+"East Harriet","Theft From Motor Vehicle",45,43,48,51,61,10
+"East Isles","Theft From Motor Vehicle",50,53,50,39,66,12
+"East Phillips","Theft From Motor Vehicle",85,82,39,33,26,4
+"Elliot Park","Theft From Motor Vehicle",81,83,90,85,80,10
+"Ericsson","Theft From Motor Vehicle",34,23,15,23,30,4
+"Field","Theft From Motor Vehicle",20,13,6,12,17,3
+"Folwell","Theft From Motor Vehicle",27,31,30,20,36,8
+"Fulton","Theft From Motor Vehicle",38,17,21,12,36,6
+"Hale","Theft From Motor Vehicle",17,21,8,10,17,3
+"Harrison","Theft From Motor Vehicle",18,32,18,28,19,4
+"Hawthorne","Theft From Motor Vehicle",74,50,39,31,40,9
+"Hiawatha","Theft From Motor Vehicle",68,99,94,121,113,30
+"Holland","Theft From Motor Vehicle",40,48,28,20,11,4
+"Howe","Theft From Motor Vehicle",64,44,45,54,67,16
+"Humboldt Industrial Area","Theft From Motor Vehicle",1,1,1,1,0,0
+"Jordan","Theft From Motor Vehicle",44,50,47,48,37,11
+"Keewaydin","Theft From Motor Vehicle",28,45,52,48,40,9
+"Kenny","Theft From Motor Vehicle",11,15,8,10,11,0
+"Kenwood","Theft From Motor Vehicle",13,18,22,20,31,7
+"King Field","Theft From Motor Vehicle",57,49,38,35,77,17
+"Lind - Bohanon","Theft From Motor Vehicle",34,29,16,17,14,5
+"Linden Hills","Theft From Motor Vehicle",46,42,40,41,65,14
+"Logan Park","Theft From Motor Vehicle",31,26,15,32,20,5
+"Longfellow","Theft From Motor Vehicle",108,74,43,54,70,23
+"Loring Park","Theft From Motor Vehicle",91,102,113,93,55,22
+"Lowry Hill","Theft From Motor Vehicle",69,43,72,39,67,7
+"Lowry Hill East","Theft From Motor Vehicle",211,132,112,143,180,34
+"Lyndale","Theft From Motor Vehicle",69,59,46,43,96,18
+"Lynnhurst","Theft From Motor Vehicle",31,28,16,24,44,7
+"Marcy Holmes","Theft From Motor Vehicle",132,140,124,153,118,44
+"Marshall Terrace","Theft From Motor Vehicle",23,28,16,9,7,3
+"McKinley","Theft From Motor Vehicle",25,20,23,13,6,5
+"Mid - City Industrial","Theft From Motor Vehicle",26,31,15,20,9,9
+"Midtown Phillips","Theft From Motor Vehicle",75,65,46,52,42,21
+"Minnehaha","Theft From Motor Vehicle",40,56,35,29,35,10
+"Morris Park","Theft From Motor Vehicle",12,7,4,10,12,1
+"Near - North","Theft From Motor Vehicle",43,59,59,85,43,11
+"Nicollet Island - East Bank","Theft From Motor Vehicle",23,28,20,22,18,7
+"North Loop","Theft From Motor Vehicle",109,100,93,149,109,16
+"Northeast Park","Theft From Motor Vehicle",41,31,15,35,31,4
+"Northrop","Theft From Motor Vehicle",46,39,18,27,45,5
+"Page","Theft From Motor Vehicle",8,11,12,9,11,2
+"Phillips West","Theft From Motor Vehicle",68,51,33,40,45,6
+"Powderhorn Park","Theft From Motor Vehicle",69,77,53,73,83,30
+"Prospect Park - East River Road","Theft From Motor Vehicle",124,123,93,107,82,37
+"Regina","Theft From Motor Vehicle",15,13,4,11,27,7
+"Seward","Theft From Motor Vehicle",173,117,80,88,99,24
+"Sheridan","Theft From Motor Vehicle",54,39,26,21,23,8
+"Shingle Creek","Theft From Motor Vehicle",14,12,15,9,11,2
+"South Uptown","Theft From Motor Vehicle",91,74,52,52,64,18
+"St. Anthony East","Theft From Motor Vehicle",16,17,8,6,6,1
+"St. Anthony West","Theft From Motor Vehicle",32,23,28,32,24,7
+"Standish","Theft From Motor Vehicle",52,43,33,50,51,10
+"Steven's Square - Loring Heights","Theft From Motor Vehicle",36,58,30,48,43,18
+"Sumner - Glenwood","Theft From Motor Vehicle",6,14,9,9,9,1
+"Tangletown","Theft From Motor Vehicle",24,30,18,27,22,10
+"University of Minnesota","Theft From Motor Vehicle",13,16,14,28,17,9
+"Ventura Village","Theft From Motor Vehicle",78,78,38,37,52,14
+"Victory","Theft From Motor Vehicle",30,33,25,17,12,10
+"Waite Park","Theft From Motor Vehicle",19,26,22,10,12,4
+"Webber - Camden","Theft From Motor Vehicle",33,37,36,24,16,8
+"Wenonah","Theft From Motor Vehicle",24,31,16,19,17,3
+"West Maka Ska","Theft From Motor Vehicle",41,53,38,36,31,4
+"Whittier","Theft From Motor Vehicle",285,171,129,136,199,50
+"Willard - Hay","Theft From Motor Vehicle",42,57,36,32,20,7
+"Windom","Theft From Motor Vehicle",58,35,27,15,26,10
+"Windom Park","Theft From Motor Vehicle",29,25,18,17,13,6
+NA,"Theft From Motor Vehicle",6,41,34,64,29,9
+"Downtown East","Pocket-picking",1,0,0,0,0,0
+"Downtown West","Pocket-picking",14,2,3,2,1,0
+"Longfellow","Pocket-picking",1,0,0,0,0,0
+"Marcy Holmes","Pocket-picking",1,0,2,0,0,0
+"Whittier","Pocket-picking",1,0,0,0,0,0
+"Northeast Park","Pocket-picking",0,1,0,0,0,0
+"Prospect Park - East River Road","Pocket-picking",0,1,0,0,0,0
+"Ventura Village","Pocket-picking",0,1,0,0,0,0
+"Loring Park","Pocket-picking",0,0,0,1,0,0
+"Phillips West","Pocket-picking",0,0,0,0,1,0
+"Webber - Camden","Pocket-picking",0,0,0,0,1,0
+"Central","Pocket-picking",0,0,0,0,0,1
+"Bancroft","Purse-snatching",1,1,0,0,0,0
+"Bryant","Purse-snatching",1,0,0,0,0,0
+"Cedar - Isles - Dean","Purse-snatching",2,0,3,1,0,2
+"Cedar Riverside","Purse-snatching",8,13,6,6,1,0
+"Central","Purse-snatching",2,4,0,2,1,0
+"Cleveland","Purse-snatching",1,0,1,1,0,0
+"Como","Purse-snatching",2,5,0,0,1,1
+"Corcoran","Purse-snatching",2,2,1,1,2,1
+"Downtown East","Purse-snatching",3,1,2,2,1,0
+"Downtown West","Purse-snatching",155,49,64,57,20,4
+"East Harriet","Purse-snatching",1,0,0,0,0,0
+"East Isles","Purse-snatching",3,7,2,8,2,0
+"East Phillips","Purse-snatching",4,10,5,6,3,0
+"Elliot Park","Purse-snatching",8,5,4,4,0,1
+"Folwell","Purse-snatching",5,4,2,2,3,0
+"Fulton","Purse-snatching",1,1,0,1,0,0
+"Harrison","Purse-snatching",5,0,1,0,0,0
+"Hawthorne","Purse-snatching",10,11,2,3,4,1
+"Hiawatha","Purse-snatching",1,3,2,2,0,0
+"Holland","Purse-snatching",2,2,1,3,0,0
+"Jordan","Purse-snatching",5,2,1,1,2,2
+"Lind - Bohanon","Purse-snatching",1,0,1,1,1,0
+"Logan Park","Purse-snatching",1,1,0,0,1,0
+"Longfellow","Purse-snatching",7,7,2,0,1,0
+"Loring Park","Purse-snatching",11,12,8,3,5,0
+"Lowry Hill","Purse-snatching",1,0,2,0,0,0
+"Lowry Hill East","Purse-snatching",8,9,10,2,2,0
+"Lyndale","Purse-snatching",4,4,3,2,3,1
+"Marcy Holmes","Purse-snatching",10,26,28,7,1,1
+"McKinley","Purse-snatching",1,0,1,0,1,0
+"Mid - City Industrial","Purse-snatching",1,0,2,2,0,0
+"Midtown Phillips","Purse-snatching",10,7,5,0,1,2
+"Near - North","Purse-snatching",9,5,0,3,3,1
+"North Loop","Purse-snatching",9,0,5,0,1,1
+"Northeast Park","Purse-snatching",2,1,1,0,0,0
+"Phillips West","Purse-snatching",5,4,2,2,0,1
+"Powderhorn Park","Purse-snatching",2,5,1,3,1,1
+"Prospect Park - East River Road","Purse-snatching",2,7,3,2,1,0
+"Regina","Purse-snatching",1,1,0,0,0,0
+"Seward","Purse-snatching",3,6,1,2,3,1
+"Sheridan","Purse-snatching",1,0,2,1,1,0
+"South Uptown","Purse-snatching",4,4,3,2,1,0
+"Standish","Purse-snatching",1,1,0,0,1,0
+"Steven's Square - Loring Heights","Purse-snatching",2,2,1,1,4,0
+"Sumner - Glenwood","Purse-snatching",1,0,0,0,1,0
+"University of Minnesota","Purse-snatching",4,1,2,0,0,0
+"Ventura Village","Purse-snatching",9,12,6,6,1,2
+"Victory","Purse-snatching",1,0,1,0,1,0
+"Webber - Camden","Purse-snatching",2,1,1,0,1,0
+"Whittier","Purse-snatching",17,18,10,4,6,2
+"Willard - Hay","Purse-snatching",2,3,0,0,1,0
+"Windom","Purse-snatching",1,1,2,1,1,0
+"Windom Park","Purse-snatching",1,2,2,1,0,1
+NA,"Purse-snatching",2,1,0,0,0,1
+"Audubon Park","Purse-snatching",0,1,1,0,0,0
+"Columbia Park","Purse-snatching",0,1,0,0,0,0
+"Cooper","Purse-snatching",0,1,2,1,0,0
+"Howe","Purse-snatching",0,1,1,1,1,0
+"Kenwood","Purse-snatching",0,1,1,0,1,0
+"King Field","Purse-snatching",0,3,2,1,0,0
+"Lynnhurst","Purse-snatching",0,1,0,0,0,0
+"Minnehaha","Purse-snatching",0,1,0,0,0,0
+"Nicollet Island - East Bank","Purse-snatching",0,1,0,1,1,0
+"Shingle Creek","Purse-snatching",0,1,1,0,0,1
+"Waite Park","Purse-snatching",0,1,0,0,0,0
+"Linden Hills","Purse-snatching",0,0,1,0,0,0
+"Northrop","Purse-snatching",0,0,1,0,0,0
+"Tangletown","Purse-snatching",0,0,1,1,1,0
+"West Maka Ska","Purse-snatching",0,0,1,3,0,0
+"East Bde Maka Ska","Purse-snatching",0,0,0,1,1,0
+"Wenonah","Purse-snatching",0,0,0,1,1,0
+"Bottineau","Purse-snatching",0,0,0,0,1,0
+"Bryn - Mawr","Purse-snatching",0,0,0,0,1,0
+"Camden Industrial","Purse-snatching",0,0,0,0,1,0
+"St. Anthony East","Purse-snatching",0,0,0,0,0,1
+"Audubon Park","Shoplifting",1,1,4,2,0,0
+"Bancroft","Shoplifting",9,8,7,2,0,0
+"Beltrami","Shoplifting",1,0,0,0,0,0
+"Bottineau","Shoplifting",2,0,0,0,0,0
+"Bryn - Mawr","Shoplifting",1,0,0,1,0,0
+"Cedar - Isles - Dean","Shoplifting",3,3,2,1,4,8
+"Cedar Riverside","Shoplifting",4,0,4,4,3,0
+"Central","Shoplifting",4,2,0,1,1,0
+"Como","Shoplifting",2,0,1,1,1,0
+"Cooper","Shoplifting",5,2,0,1,0,0
+"Diamond Lake","Shoplifting",8,6,2,1,1,1
+"Downtown East","Shoplifting",4,1,2,2,4,0
+"Downtown West","Shoplifting",124,129,73,109,145,43
+"East Bde Maka Ska","Shoplifting",22,2,1,5,7,0
+"East Harriet","Shoplifting",1,1,0,0,0,0
+"East Isles","Shoplifting",46,27,20,68,59,20
+"East Phillips","Shoplifting",11,6,0,8,8,2
+"Folwell","Shoplifting",1,1,0,0,0,0
+"Fulton","Shoplifting",1,1,1,3,4,0
+"Harrison","Shoplifting",3,0,0,0,0,0
+"Hawthorne","Shoplifting",10,4,1,2,0,0
+"Hiawatha","Shoplifting",36,15,10,15,8,1
+"Holland","Shoplifting",12,12,1,3,10,3
+"Jordan","Shoplifting",11,1,3,6,5,2
+"Keewaydin","Shoplifting",4,0,1,1,1,0
+"Kenny","Shoplifting",3,0,0,0,1,0
+"King Field","Shoplifting",3,1,1,5,2,0
+"Linden Hills","Shoplifting",2,0,1,2,0,0
+"Longfellow","Shoplifting",283,81,23,30,28,12
+"Loring Park","Shoplifting",9,12,4,4,20,17
+"Lowry Hill","Shoplifting",1,0,0,1,0,0
+"Lowry Hill East","Shoplifting",86,45,53,40,28,3
+"Lyndale","Shoplifting",23,11,0,2,5,3
+"Lynnhurst","Shoplifting",2,1,0,2,0,0
+"Marcy Holmes","Shoplifting",21,7,1,8,33,40
+"McKinley","Shoplifting",1,0,0,0,0,0
+"Midtown Phillips","Shoplifting",35,5,1,2,0,1
+"Minnehaha","Shoplifting",2,2,0,1,1,0
+"Near - North","Shoplifting",34,28,8,9,4,3
+"Nicollet Island - East Bank","Shoplifting",15,6,4,20,14,4
+"North Loop","Shoplifting",7,0,2,10,4,1
+"Northeast Park","Shoplifting",69,89,73,220,123,29
+"Northrop","Shoplifting",10,6,2,48,34,3
+"Phillips West","Shoplifting",7,2,0,2,0,0
+"Powderhorn Park","Shoplifting",14,2,3,2,4,0
+"Prospect Park - East River Road","Shoplifting",3,18,13,5,6,2
+"Regina","Shoplifting",1,0,1,0,1,0
+"Seward","Shoplifting",9,3,1,5,3,0
+"Sheridan","Shoplifting",1,3,2,1,1,0
+"South Uptown","Shoplifting",14,6,2,3,1,1
+"St. Anthony West","Shoplifting",1,2,2,1,1,0
+"Steven's Square - Loring Heights","Shoplifting",9,6,3,1,1,0
+"Sumner - Glenwood","Shoplifting",1,2,0,0,0,0
+"Tangletown","Shoplifting",8,4,1,0,1,0
+"University of Minnesota","Shoplifting",5,0,0,19,21,3
+"Ventura Village","Shoplifting",8,0,0,5,0,1
+"Waite Park","Shoplifting",1,15,2,1,1,0
+"Whittier","Shoplifting",113,23,10,5,1,0
+"Willard - Hay","Shoplifting",3,0,1,1,0,0
+"Windom","Shoplifting",2,7,4,4,3,0
+"Windom Park","Shoplifting",1,1,0,0,0,4
+NA,"Shoplifting",1,0,1,0,0,0
+"Elliot Park","Shoplifting",0,2,0,0,0,0
+"Logan Park","Shoplifting",0,1,0,0,2,0
+"Marshall Terrace","Shoplifting",0,1,1,0,0,0
+"Mid - City Industrial","Shoplifting",0,2,0,2,1,0
+"Standish","Shoplifting",0,1,0,1,0,0
+"Webber - Camden","Shoplifting",0,1,0,2,0,0
+"West Maka Ska","Shoplifting",0,2,1,1,0,0
+"Lind - Bohanon","Shoplifting",0,0,1,0,0,0
+"Bryant","Shoplifting",0,0,0,1,3,0
+"Corcoran","Shoplifting",0,0,0,1,0,0
+"Ericsson","Shoplifting",0,0,0,5,3,0
+"Wenonah","Shoplifting",0,0,0,1,0,0
+"Cleveland","Shoplifting",0,0,0,0,2,0
+"Howe","Shoplifting",0,0,0,0,1,0
+"Victory","Shoplifting",0,0,0,0,0,1
+"Audubon Park","Theft From Building",1,0,1,2,0,0
+"Bryant","Theft From Building",1,0,0,1,1,0
+"Cedar Riverside","Theft From Building",8,5,2,0,5,1
+"Central","Theft From Building",2,4,1,0,1,0
+"Como","Theft From Building",4,2,2,0,0,0
+"Cooper","Theft From Building",1,0,1,0,0,0
+"Corcoran","Theft From Building",3,0,0,1,0,0
+"Downtown East","Theft From Building",5,2,0,2,0,2
+"Downtown West","Theft From Building",42,13,3,14,9,0
+"East Bde Maka Ska","Theft From Building",3,0,0,0,0,0
+"East Harriet","Theft From Building",2,0,1,0,0,0
+"East Isles","Theft From Building",2,0,2,0,1,0
+"East Phillips","Theft From Building",1,0,1,0,3,0
+"Elliot Park","Theft From Building",9,8,3,6,4,7
+"Folwell","Theft From Building",3,1,1,0,0,0
+"Harrison","Theft From Building",1,0,1,1,1,1
+"Hawthorne","Theft From Building",4,3,1,1,0,0
+"Hiawatha","Theft From Building",4,1,1,1,3,0
+"Jordan","Theft From Building",2,2,4,1,1,1
+"King Field","Theft From Building",3,2,1,0,2,1
+"Lind - Bohanon","Theft From Building",4,2,1,0,0,0
+"Logan Park","Theft From Building",1,1,1,0,0,0
+"Longfellow","Theft From Building",1,0,2,0,4,1
+"Loring Park","Theft From Building",10,5,4,5,8,1
+"Lowry Hill","Theft From Building",2,0,0,0,0,0
+"Lowry Hill East","Theft From Building",9,0,2,6,3,1
+"Lyndale","Theft From Building",4,2,2,0,1,1
+"Marcy Holmes","Theft From Building",3,5,3,7,6,0
+"Marshall Terrace","Theft From Building",1,1,0,0,0,0
+"Mid - City Industrial","Theft From Building",3,0,3,1,0,0
+"Midtown Phillips","Theft From Building",2,3,2,2,1,2
+"Minnehaha","Theft From Building",1,0,0,0,0,0
+"Near - North","Theft From Building",5,0,4,4,0,0
+"Nicollet Island - East Bank","Theft From Building",5,2,0,1,0,0
+"North Loop","Theft From Building",18,5,6,4,5,0
+"Northeast Park","Theft From Building",3,4,3,3,0,0
+"Northrop","Theft From Building",1,0,0,0,0,1
+"Phillips West","Theft From Building",6,3,0,4,3,1
+"Powderhorn Park","Theft From Building",3,2,2,3,4,0
+"Prospect Park - East River Road","Theft From Building",3,5,4,6,2,1
+"Seward","Theft From Building",3,3,3,0,2,2
+"Sheridan","Theft From Building",2,1,2,2,0,0
+"South Uptown","Theft From Building",5,2,1,0,1,0
+"St. Anthony West","Theft From Building",1,0,0,1,2,0
+"Standish","Theft From Building",3,0,0,0,0,0
+"Steven's Square - Loring Heights","Theft From Building",3,0,1,2,1,0
+"Sumner - Glenwood","Theft From Building",2,0,0,1,0,0
+"University of Minnesota","Theft From Building",1,0,0,0,1,1
+"Ventura Village","Theft From Building",2,1,1,2,3,1
+"Victory","Theft From Building",1,0,1,1,0,1
+"Waite Park","Theft From Building",2,1,0,0,1,0
+"Webber - Camden","Theft From Building",2,0,0,1,0,0
+"Whittier","Theft From Building",13,1,4,4,6,6
+"Willard - Hay","Theft From Building",6,3,0,1,2,3
+"Windom","Theft From Building",3,0,1,1,0,0
+"Windom Park","Theft From Building",2,0,2,0,0,0
+"Cedar - Isles - Dean","Theft From Building",0,1,1,2,0,0
+"Diamond Lake","Theft From Building",0,1,3,0,1,1
+"Howe","Theft From Building",0,2,1,0,0,0
+"Shingle Creek","Theft From Building",0,1,0,0,0,0
+"Beltrami","Theft From Building",0,0,1,0,0,0
+"Cleveland","Theft From Building",0,0,1,0,0,0
+"Columbia Park","Theft From Building",0,0,1,1,0,0
+"Holland","Theft From Building",0,0,2,0,3,0
+"Kenwood","Theft From Building",0,0,1,0,0,0
+"St. Anthony East","Theft From Building",0,0,1,0,0,0
+"Keewaydin","Theft From Building",0,0,0,1,0,0
+"McKinley","Theft From Building",0,0,0,1,0,1
+"Tangletown","Theft From Building",0,0,0,1,0,0
+"Wenonah","Theft From Building",0,0,0,1,0,1
+NA,"Theft From Building",0,0,0,1,1,0
+"Bottineau","Theft From Building",0,0,0,0,1,1
+"Ericsson","Theft From Building",0,0,0,0,1,0
+"Fulton","Theft From Building",0,0,0,0,1,0
+"Hale","Theft From Building",0,0,0,0,1,0
+"Lynnhurst","Theft From Building",0,0,0,0,1,0
+"Cedar Riverside","Theft From Coin-Operated Machine or Device",1,0,0,0,0,0
+"Downtown East","Theft From Coin-Operated Machine or Device",1,0,0,0,0,0
+"East Isles","Theft From Coin-Operated Machine or Device",1,0,0,0,0,0
+"Elliot Park","Theft From Coin-Operated Machine or Device",1,0,0,0,1,0
+"Midtown Phillips","Theft From Coin-Operated Machine or Device",1,0,0,0,0,0
+"South Uptown","Theft From Coin-Operated Machine or Device",1,0,0,0,0,0
+"Windom","Theft From Coin-Operated Machine or Device",1,0,0,0,0,0
+"Folwell","Theft From Coin-Operated Machine or Device",0,0,0,1,0,0
+"Whittier","Theft From Coin-Operated Machine or Device",0,0,0,0,1,0
+"East Harriet","Theft From Coin-Operated Machine or Device",0,0,0,0,0,1
 "Armatage","Theft of Motor Vehicle Parts or Accessories",2,8,7,19,7,1
 "Audubon Park","Theft of Motor Vehicle Parts or Accessories",1,22,35,44,19,2
 "Bancroft","Theft of Motor Vehicle Parts or Accessories",2,30,20,27,17,2
 "Bottineau","Theft of Motor Vehicle Parts or Accessories",2,10,17,11,6,1
 "Bryant","Theft of Motor Vehicle Parts or Accessories",3,17,18,16,10,1
 "Bryn - Mawr","Theft of Motor Vehicle Parts or Accessories",1,11,10,14,9,2
-"Cedar Riverside","Theft of Motor Vehicle Parts or Accessories",1,22,30,60,21,9
+"Cedar Riverside","Theft of Motor Vehicle Parts or Accessories",1,22,30,60,21,10
 "Central","Theft of Motor Vehicle Parts or Accessories",8,30,48,59,33,9
-"Cleveland","Theft of Motor Vehicle Parts or Accessories",2,8,16,21,7,0
+"Cleveland","Theft of Motor Vehicle Parts or Accessories",2,8,16,21,7,1
 "Como","Theft of Motor Vehicle Parts or Accessories",5,55,58,90,64,7
 "Cooper","Theft of Motor Vehicle Parts or Accessories",4,37,30,36,17,2
 "Corcoran","Theft of Motor Vehicle Parts or Accessories",7,27,21,43,19,4
@@ -15,7 +441,7 @@
 "Downtown West","Theft of Motor Vehicle Parts or Accessories",3,9,26,46,48,7
 "East Bde Maka Ska","Theft of Motor Vehicle Parts or Accessories",1,14,12,25,12,3
 "East Isles","Theft of Motor Vehicle Parts or Accessories",3,25,23,41,11,5
-"East Phillips","Theft of Motor Vehicle Parts or Accessories",6,22,48,39,11,6
+"East Phillips","Theft of Motor Vehicle Parts or Accessories",6,22,48,39,11,7
 "Elliot Park","Theft of Motor Vehicle Parts or Accessories",5,35,39,59,30,6
 "Ericsson","Theft of Motor Vehicle Parts or Accessories",3,14,26,32,14,1
 "Field","Theft of Motor Vehicle Parts or Accessories",4,13,16,15,9,3
@@ -24,10 +450,10 @@
 "Hawthorne","Theft of Motor Vehicle Parts or Accessories",4,14,21,30,19,5
 "Hiawatha","Theft of Motor Vehicle Parts or Accessories",8,60,58,79,34,3
 "Holland","Theft of Motor Vehicle Parts or Accessories",3,13,25,51,18,1
-"Howe","Theft of Motor Vehicle Parts or Accessories",2,51,64,67,39,13
+"Howe","Theft of Motor Vehicle Parts or Accessories",2,51,64,67,39,14
 "Jordan","Theft of Motor Vehicle Parts or Accessories",1,12,26,36,33,6
 "Keewaydin","Theft of Motor Vehicle Parts or Accessories",4,11,22,27,6,2
-"King Field","Theft of Motor Vehicle Parts or Accessories",3,62,43,64,46,10
+"King Field","Theft of Motor Vehicle Parts or Accessories",3,62,43,64,46,11
 "Logan Park","Theft of Motor Vehicle Parts or Accessories",3,10,11,25,13,3
 "Longfellow","Theft of Motor Vehicle Parts or Accessories",14,44,44,65,39,12
 "Loring Park","Theft of Motor Vehicle Parts or Accessories",1,22,33,45,40,10
@@ -36,18 +462,18 @@
 "Lyndale","Theft of Motor Vehicle Parts or Accessories",12,38,45,70,40,7
 "Marcy Holmes","Theft of Motor Vehicle Parts or Accessories",4,63,88,115,87,15
 "Marshall Terrace","Theft of Motor Vehicle Parts or Accessories",1,8,15,14,3,2
-"McKinley","Theft of Motor Vehicle Parts or Accessories",1,9,11,16,4,1
-"Mid - City Industrial","Theft of Motor Vehicle Parts or Accessories",6,16,31,64,14,3
+"McKinley","Theft of Motor Vehicle Parts or Accessories",1,9,11,16,4,2
+"Mid - City Industrial","Theft of Motor Vehicle Parts or Accessories",6,16,31,64,14,4
 "Midtown Phillips","Theft of Motor Vehicle Parts or Accessories",5,35,29,42,12,10
 "Minnehaha","Theft of Motor Vehicle Parts or Accessories",6,26,30,33,16,5
 "Morris Park","Theft of Motor Vehicle Parts or Accessories",1,11,17,17,5,0
 "Near - North","Theft of Motor Vehicle Parts or Accessories",4,15,26,42,28,4
 "Nicollet Island - East Bank","Theft of Motor Vehicle Parts or Accessories",1,2,4,7,5,4
-"North Loop","Theft of Motor Vehicle Parts or Accessories",3,8,28,42,26,2
-"Northrop","Theft of Motor Vehicle Parts or Accessories",3,24,20,25,14,3
+"North Loop","Theft of Motor Vehicle Parts or Accessories",3,8,28,42,26,3
+"Northrop","Theft of Motor Vehicle Parts or Accessories",3,24,20,25,14,4
 "Page","Theft of Motor Vehicle Parts or Accessories",1,8,1,11,2,0
 "Phillips West","Theft of Motor Vehicle Parts or Accessories",14,17,36,31,26,9
-"Powderhorn Park","Theft of Motor Vehicle Parts or Accessories",7,61,70,90,44,9
+"Powderhorn Park","Theft of Motor Vehicle Parts or Accessories",7,61,70,90,44,10
 "Prospect Park - East River Road","Theft of Motor Vehicle Parts or Accessories",2,29,81,106,43,7
 "Regina","Theft of Motor Vehicle Parts or Accessories",3,6,16,22,10,0
 "Seward","Theft of Motor Vehicle Parts or Accessories",19,75,113,113,59,12
@@ -60,7 +486,7 @@
 "Waite Park","Theft of Motor Vehicle Parts or Accessories",1,26,19,30,13,0
 "Webber - Camden","Theft of Motor Vehicle Parts or Accessories",2,13,15,30,23,1
 "Wenonah","Theft of Motor Vehicle Parts or Accessories",1,14,15,32,11,3
-"Whittier","Theft of Motor Vehicle Parts or Accessories",7,93,119,149,123,30
+"Whittier","Theft of Motor Vehicle Parts or Accessories",7,93,119,149,123,32
 "Willard - Hay","Theft of Motor Vehicle Parts or Accessories",3,21,21,37,27,5
 "Windom","Theft of Motor Vehicle Parts or Accessories",2,20,31,34,20,2
 "Windom Park","Theft of Motor Vehicle Parts or Accessories",1,21,38,43,23,3
@@ -86,3 +512,91 @@
 "University of Minnesota","Theft of Motor Vehicle Parts or Accessories",0,2,2,5,0,1
 "West Maka Ska","Theft of Motor Vehicle Parts or Accessories",0,7,22,12,9,1
 NA,"Theft of Motor Vehicle Parts or Accessories",0,7,6,14,9,1
+"Armatage","Total",47,42,30,42,37,5
+"Audubon Park","Total",57,74,100,73,57,13
+"Bancroft","Total",65,90,70,65,73,18
+"Beltrami","Total",37,45,33,51,23,5
+"Bottineau","Total",67,73,60,46,35,8
+"Bryant","Total",32,49,32,48,54,10
+"Bryn - Mawr","Total",38,42,51,63,62,17
+"Camden Industrial","Total",11,11,9,16,17,2
+"Cedar - Isles - Dean","Total",66,99,130,117,120,38
+"Cedar Riverside","Total",224,215,200,299,180,41
+"Central","Total",129,166,140,170,167,49
+"Cleveland","Total",44,56,57,58,59,26
+"Columbia Park","Total",23,21,39,41,44,15
+"Como","Total",114,186,199,205,160,55
+"Cooper","Total",85,87,80,86,92,19
+"Corcoran","Total",107,116,86,128,115,30
+"Diamond Lake","Total",61,71,75,73,69,20
+"Downtown East","Total",207,160,154,206,168,52
+"Downtown West","Total",1969,923,1009,1295,1085,245
+"East Bde Maka Ska","Total",118,67,78,111,91,29
+"East Harriet","Total",85,82,91,120,110,18
+"East Isles","Total",227,192,171,247,221,54
+"East Phillips","Total",184,198,158,154,123,36
+"Elliot Park","Total",295,284,263,304,274,69
+"Ericsson","Total",72,63,76,88,78,18
+"Field","Total",35,33,41,38,50,10
+"Folwell","Total",113,92,107,115,112,37
+"Fulton","Total",69,60,50,54,84,12
+"Hale","Total",25,46,26,33,49,8
+"Harrison","Total",78,92,73,95,76,26
+"Hawthorne","Total",239,161,143,145,144,38
+"Hiawatha","Total",195,249,259,345,241,57
+"Holland","Total",109,131,124,117,111,29
+"Howe","Total",132,141,155,180,173,47
+"Humboldt Industrial Area","Total",6,1,1,1,1,0
+"Jordan","Total",169,146,160,186,177,50
+"Keewaydin","Total",48,73,93,96,65,18
+"Kenny","Total",20,28,23,28,37,2
+"Kenwood","Total",26,33,41,45,48,12
+"King Field","Total",114,169,134,164,211,53
+"Lind - Bohanon","Total",102,96,81,84,86,20
+"Linden Hills","Total",84,100,87,99,121,21
+"Logan Park","Total",63,56,52,88,71,19
+"Longfellow","Total",571,305,228,274,263,85
+"Loring Park","Total",326,352,349,328,329,92
+"Lowry Hill","Total",117,100,141,134,131,30
+"Lowry Hill East","Total",615,422,525,513,524,102
+"Lyndale","Total",217,191,167,215,283,67
+"Lynnhurst","Total",52,58,51,68,79,16
+"Marcy Holmes","Total",440,593,634,565,422,154
+"Marshall Terrace","Total",40,56,50,45,35,16
+"McKinley","Total",61,57,70,68,34,17
+"Mid - City Industrial","Total",66,72,84,114,63,23
+"Midtown Phillips","Total",247,219,155,169,128,64
+"Minnehaha","Total",75,119,80,98,76,28
+"Morris Park","Total",19,29,33,34,25,3
+"Near - North","Total",230,209,176,267,184,45
+"Nicollet Island - East Bank","Total",86,109,66,122,111,39
+"North Loop","Total",335,322,336,453,369,73
+"Northeast Park","Total",173,199,180,391,229,60
+"Northrop","Total",96,113,73,147,138,23
+"Page","Total",16,23,19,27,27,11
+"Phillips West","Total",175,118,119,147,123,33
+"Powderhorn Park","Total",184,236,211,243,238,66
+"Prospect Park - East River Road","Total",306,367,353,431,277,97
+"Regina","Total",32,37,36,49,57,11
+"Seward","Total",346,284,275,302,261,67
+"Sheridan","Total",87,80,127,98,82,30
+"Shingle Creek","Total",27,35,37,33,42,13
+"South Uptown","Total",245,212,186,222,200,55
+"St. Anthony East","Total",29,36,40,53,31,10
+"St. Anthony West","Total",54,69,87,103,95,24
+"Standish","Total",123,135,117,160,122,25
+"Steven's Square - Loring Heights","Total",130,154,147,144,148,55
+"Sumner - Glenwood","Total",28,40,35,35,28,7
+"Tangletown","Total",67,89,69,88,76,23
+"University of Minnesota","Total",85,64,64,108,104,27
+"Ventura Village","Total",215,227,150,200,190,60
+"Victory","Total",54,75,69,78,77,29
+"Waite Park","Total",47,95,61,62,45,9
+"Webber - Camden","Total",112,107,97,113,97,29
+"Wenonah","Total",42,62,50,78,47,10
+"West Maka Ska","Total",65,89,107,84,69,19
+"Whittier","Total",779,516,503,563,610,178
+"Willard - Hay","Total",137,135,129,143,128,33
+"Windom","Total",121,112,108,88,83,30
+"Windom Park","Total",81,78,101,107,71,30
+NA,"Total",23,62,70,112,66,17

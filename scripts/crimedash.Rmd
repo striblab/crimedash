@@ -155,7 +155,7 @@ rawplot <- function(categories, crime){
   
   csvcopy(raw_file, crime)
 }
-rawplot(categories,'')
+#rawplot(categories,'')
 ```
 
 ```{r}
@@ -184,7 +184,7 @@ ycatplot <- function(categories, crime){
   
   csvcopy(yearly_count_file, crime)
 }
-ycatplot(categories,'')
+#ycatplot(categories,'')
 ```
 
 ```{r}
@@ -206,7 +206,7 @@ mocatplot <- function(categories, crime){
   
   csvcopy(monthly_file, crime)
 }
-mocatplot(categories,'')
+#mocatplot(categories,'')
 ```
 
 ```{r}
@@ -258,8 +258,9 @@ ytdcatplot <- function(categories, crime) {
   csvcopy(ytd_file, crime)
 }
 
-ytdcatplot(categories,'')
+#ytdcatplot(categories,'')
 ```
+
 ```{r}
 # BREAKDOWN OFFENSES BY POLICE PRECINCT AND YEAR
 precinctcount <- function(categories, crime) {
@@ -287,45 +288,59 @@ precinctcount <- function(categories, crime) {
   csvcopy(file_name, crime)
 }
 
-precinctcount(categories,'')
+#precinctcount(categories,'')
 
 ```
 
 ```{r}
 #MAP OFFENSES BY NEIGHBORHOOD
-geocatplot <- function(categories, crime){
-    geo_file <- paste0(crime, "_geo.csv") 
-    
+geocatplot <- function(categories, crime) {
+    geo_file <- paste0(crime, "_geo.csv")
+
     # Read the GeoJSON file using st_read from the sf package
     minneapolis_neighborhoods <- st_read("minneapolis.geojson")
 
-  for (category in categories) {
-      # Group data by Year and Neighborhood, then summarize incidents
-    offenses_by_year_neighborhood <- data %>%
-      filter(Offense == category) %>%
-      group_by(Year, Neighborhood, Offense) %>%
-      summarise(IncidentCount = sum(Crime_Count, na.rm = TRUE), .groups = 'drop')
-    
-    # Pivot the data so each year becomes a column
-    offenses_pivoted <- offenses_by_year_neighborhood %>%
-     pivot_wider(names_from = Year, values_from = IncidentCount, values_fill = list(IncidentCount = 0))
+    all_years_nb <- data.frame()
 
-    #merge with geojson
-     merged_data <- minneapolis_neighborhoods %>%
-  left_join(offenses_pivoted, by = c("BDNAME" = "Neighborhood"))
-  }
-    
+    for (category in categories) {
+        # Group data by Year and Neighborhood, then summarize incidents
+        offenses_by_year_neighborhood <- data %>%
+            filter(Offense == category) %>%
+            group_by(Year, Neighborhood, Offense) %>%
+            summarise(IncidentCount = sum(Crime_Count, na.rm = TRUE), .groups = 'drop')
+
+        # Bind the data for the current category to the overall data frame
+        all_years_nb <- rbind(all_years_nb, offenses_by_year_neighborhood)
+    }
+
+    # Create a summary data frame that totals all incidents by Year and Neighborhood across all categories
+    total_incidents_by_year_neighborhood <- all_years_nb %>%
+        group_by(Year, Neighborhood) %>%
+        summarise(IncidentCount = sum(IncidentCount), .groups = 'drop') %>%
+        mutate(Offense = "Total")  # Add Offense column here with the value 'Total'
+
+    # Bind the totals as a new category in all_years_nb
+    all_years_nb <- rbind(all_years_nb, total_incidents_by_year_neighborhood)
+
+    # Pivot the data so each year becomes a column
+    offenses_pivoted <- all_years_nb %>%
+        pivot_wider(names_from = Year, values_from = IncidentCount, values_fill = list(IncidentCount = 0))
+
+    # Merge with geojson
+    merged_data <- minneapolis_neighborhoods %>%
+        left_join(offenses_pivoted, by = c("BDNAME" = "Neighborhood"))
+
     # Write the combined data to a CSV file
     write.csv(offenses_pivoted, geo_file, row.names = FALSE)
     csvcopy(geo_file, crime)
-    
+
     # Write the merged data to a new GeoJSON file
     new_geojson_file <- paste0(crime, "_neighborhoods.geojson")
     st_write(merged_data, new_geojson_file)
     csvcopy(new_geojson_file, crime)
 }
 
-geocatplot(categories,'')
+#geocatplot(categories,'')
 ```
 
 ```{r}
@@ -371,7 +386,7 @@ generate_svg_maps <- function(crime) {
 }
 
 # Example usage
-generate_svg_maps('')
+#generate_svg_maps('')
 
 ```
 
@@ -388,6 +403,22 @@ geocatplot(categories,'murder')
 generate_svg_maps('murder')
 
 ```
+
+# Negligent Manslaughter
+```{r}
+categories <- c('Negligent Manslaughter')
+
+rawplot(categories,'manslaughter')
+ycatplot(categories,'manslaughter')
+mocatplot(categories,'manslaughter')
+ytdcatplot(categories,'manslaughter')
+precinctcount(categories,'manslaughter')
+geocatplot(categories,'manslaughter')
+generate_svg_maps('manslaughter')
+
+```
+
+
 
 # Aggravated Assaults
 ```{r}

@@ -101,6 +101,8 @@ onMount(() => {
 
 <h3>Law Enforcement Officers Killed or Assaulted</h3>
 
+<h4 class="source">Data sources: Minnesota Bureau of Criminal Apprehension, FBI</h4>
+
 <p>Assaults against police in Minnesota are up about <strong>160%</strong> since 2010, the spike starting in 2020.</p>
 
 <div class="chart-container">
@@ -141,16 +143,6 @@ onMount(() => {
 
 
 <style>
-  .chart-container {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-around;
-    padding: 20px;
-  }
-  canvas {
-    max-width: 100%;
-    height: 300px !important;
-  }
   .acc {
     color:#59aded;
   }

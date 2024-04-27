@@ -38,6 +38,7 @@
       data: staffMplsData.map(item => item.officers),
       borderColor: 'rgba(70, 130, 180, 0.8)',
       backgroundColor: 'rgba(70, 130, 180, 0.8)',
+      pointRadius: 0,
       fill: false
     };
     const mplsLeave = {
@@ -45,6 +46,7 @@
       data: staffMplsData.map(item => item.leave),
       borderColor: 'rgb(255, 159, 64)',
       backgroundColor: 'rgba(255, 159, 64, 0.5)',
+      pointRadius: 0,
       fill: false
     };
 
@@ -93,12 +95,14 @@
 
 <h3>Minneapolis: Police Staffing</h3>
 
-<p>To date, the Minneapois Police Department has seen an estimated 40% exodus from its ranks that started in 2020.</p>
+<h4 class="source">Data sources: Minneapolis Police Department</h4>
+
+<p>To date, the Minneapolis Police Department has seen an estimated 40% exodus from its ranks that started in 2020.</p>
 
 <div class="chart-container">
   <canvas id="mplsChart"></canvas>
 </div>
-<div class="download"><a href="../store/staff/staff_mpls.csv">Download 2019-2023 MPD staffing data</a></div>
+<div class="download"><a href="../store/staff/staff_mpls.csv">Download 2019-2023 MPD staffing by pay period data</a></div>
 
 <p>&nbsp;</p>
 
@@ -124,58 +128,5 @@
 </ul>
 
 <style>
- .chart-container {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-around;
-    padding: 20px;
-  }
-  canvas {
-    max-width: 100%;
-    height: 300px !important;
-  }
-  .positive {
-  color: red;
-  }
-  .negative {
-    color: green;
-  }
-  .map-container {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-around;
-    gap: 20px;
-  }
 
-  img {
-    width: 200px;
-    height: auto;
-    cursor: pointer;
-    transition: transform 0.2s;
-    border:1px solid #dddddd;
-  }
-
-  img:hover {
-    transform: scale(1.05);
-  }
-
-  .lightbox {
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100vw;
-    height: 100vh;
-    background-color: white;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    z-index: 1000;
-  }
-
-  .lightbox img {
-    max-width: 90%; 
-    max-height: 90%;
-    height: auto;
-    width: auto;
-  }
 </style>

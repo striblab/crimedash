@@ -49,15 +49,12 @@
 .timestamp {
   color:#cccccc;
 }
-.disclaimer {
-  color:#de2d26;
-}
 p a {
-    color: #228B22; /* Forest Green */
-    text-decoration: none; /* Optional: removes underline from links */
+    color: #228B22;
+    text-decoration: none;
 }
 p a:hover, p a:focus {
-    color: #006400; /* Darker shade of green for hover/focus states */
-    text-decoration: underline; /* Optional: adds underline on hover/focus */
+    color: #006400;
+    text-decoration: underline;
 }
 </style>

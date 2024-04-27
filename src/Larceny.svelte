@@ -13,6 +13,8 @@
 
   let activeImage = writable(null);
 
+  let lastYear, thisYear, change, firstYear, pchange;
+
   function openLightbox(image) {
     activeImage.set(image);
   }
@@ -20,6 +22,10 @@
   function closeLightbox() {
     activeImage.set(null);
   }
+
+  function formatNumber(number) {
+        return number.toLocaleString('en-US');
+    }
 
   function createChart(ctx, chartData, title, type = 'bar', stacked = false) {
     return new Chart(ctx, {
@@ -50,19 +56,6 @@
     });
   }
 
-  function aggregateAndProcessData() {
-    // Assuming all data is sorted by year or date
-    const ytdTotal = larcenyYTDComparison.reduce((acc, cur) => acc + cur.YTDCount, 0);
-    const lastYearTotal = larcenyYTDComparison.length > 1 ? larcenyYTDComparison[larcenyYTDComparison.length - 2].YTDCount : 0;
-    const percentageChangeYTD = lastYearTotal ? ((ytdTotal - lastYearTotal) / lastYearTotal * 100) : 0;
-
-    aggregateData.set({
-      currentYearLarcenies: ytdTotal,
-      lastYearLarcenies: lastYearTotal,
-      percentageChangeYTD
-    });
-  }
-
   function processData(data, labelField, countField) {
     const labels = [...new Set(data.map(item => item[labelField]))].sort();
     const totalData = labels.map(label => {
@@ -76,8 +69,11 @@
   function preparePrecinctChartData() {
     const years = [...new Set(larcenyPrecincts.map(item => item.Year))].sort();
     const precincts = [...new Set(larcenyPrecincts.map(item => item.Precinct))];
+    const colors = ['#FF6384', '#36A2EB', '#FFCE56', '#4BC0C0', '#9966FF', '#FF9F40',
+    '#C9CBCF', '#7E57C2', '#D4E157', '#66BB6A', '#FF7043', '#8D6E63'];
+
     const datasets = precincts.map(precinct => {
-      const precinctColor = `hsl(${Math.random() * 360}, 70%, 50%)`;
+      const precinctColor = colors[precinct-1];
       const data = years.map(year => {
         const items = larcenyPrecincts.filter(item => item.Year === year && item.Precinct === precinct);
         return items.reduce((acc, cur) => acc + cur.OffenseCount, 0);
@@ -97,10 +93,10 @@
   function handleResize() {
     clearTimeout(resizeTimer);
     resizeTimer = setTimeout(() => {
-      lmonthlyChart.resize();
-      lunfireMonthlyComparisonyearlyChart.resize();
-      lytdChart.resize();
-      lprecinctChart.resize();
+      monthlyChart.resize();
+      yearlyChart.resize();
+      ytdChart.resize();
+      precinctChart.resize();
     }, 250);
   }
 
@@ -116,6 +112,13 @@
     const ytdChartData = processData(larcenyYTDComparison, 'Year', 'YTDCount');
     ytdChart = createChart(document.getElementById('lytdChart').getContext('2d'), ytdChartData, 'YTD Larcenies', 'bar', true);
 
+
+    thisYear = ytdChartData.datasets[0].data[ytdChartData.datasets[0].data.length-1];
+    lastYear = ytdChartData.datasets[0].data[ytdChartData.datasets[0].data.length-2];
+    change = ((thisYear - lastYear) / lastYear) * 100;
+    firstYear = ytdChartData.datasets[0].data[0];
+    pchange = ((thisYear - firstYear) / firstYear) * 100;
+
     const precinctChartData = preparePrecinctChartData();
     precinctChart = createChart(document.getElementById('lprecinctChart').getContext('2d'), precinctChartData, 'Precinct Larcenies', 'line');
   });
@@ -123,10 +126,33 @@
 
 
   <h3>Minneapolis: Larceny</h3>
-  
-  <p>Larcenies are an aggregate of the following offenses: <em>All Other Larceny, Theft From Motor Vehicle, Pocket-picking, Purse-snatching, Shoplifting, Theft From Building, Theft From Coin-Operated Machine or Device, Theft of Motor Vehicle Parts or Accessories</em>. Download the CSV files for those individual breakdowns.</p>
 
+  <h4 class="source">Data sources: Minneapolis Police Department</h4>
   
+  <div class="def"><p>Larcenies are an aggregate of the following offenses: <em>All Other Larceny, Theft From Motor Vehicle, Pocket-picking, Purse-snatching, Shoplifting, Theft From Building, Theft From Coin-Operated Machine or Device, Theft of Motor Vehicle Parts or Accessories</em>. Download the CSV files for those individual breakdowns.</p></div>
+
+  {#if thisYear > 0}
+<p>
+  Minneapolis has recorded <strong>{formatNumber(thisYear)}</strong> reported larcenies this year, a
+  <span class={change >= 0 ? 'positive' : 'negative'}>
+    <strong>
+      {typeof change === 'number' ? 
+        (change > 0 ? `+${change.toFixed(0)}%` : `${change.toFixed(0)}%`) 
+        : 'N/A'}
+    </strong>
+  </span> change from last year's <strong>{formatNumber(lastYear)}</strong> reported larcenies at this time.
+</p>
+<p>
+  Compared to 2019's count of <strong>{formatNumber(firstYear)}</strong>, the change is <span class={pchange >= 0 ? 'positive' : 'negative'}>
+    <strong>
+      {typeof pchange === 'number' ? 
+        (pchange > 0 ? `+${pchange.toFixed(0)}%` : `${pchange.toFixed(0)}%`) 
+        : 'N/A'}
+    </strong>
+  </span>.
+</p>
+{/if}
+
   <h4>Year-to-date larceny trend</h4>
   <div class="chart-container">
     <canvas id="lytdChart"></canvas>
@@ -174,61 +200,11 @@
   <div class="download"><a href="../store/larceny/larceny_neighborhoods.geojson">Download Minneapolis larcenies by neighborhood GEOJSON</a></div>
   <div class="download"><a href="../store/larceny/larceny_raw.csv">Download Minneapolis larcenies raw CSV file (includes incident coordinates)</a></div>
   
-  
+  <h4>Links</h4>
+  <ul>
+    <li><a href="https://tableau.minneapolismn.gov/views/CrimeDashboard/Summary?%3Adisplay_count=n&%3Aiid=5&%3Aorigin=viz_share_link&%3AshowAppBanner=false&%3AshowVizHome=n&%3Atabs=yes&%3Atoolbar=no&%3AisGuestRedirectFromVizportal=y&%3Aembed=y">Minneapolis NIBRS Crime Dashboard</a> | <a href="https://opendata.minneapolismn.gov/datasets/cityoflakes::crime-data/about">raw data</a></li>
+  </ul>
   
   <style>
-    .chart-container {
-      display: flex;
-      flex-wrap: wrap;
-      justify-content: space-around;
-      padding: 20px;
-    }
-    canvas {
-      max-width: 100%;
-      height: 300px !important;
-    }
-    .positive {
-    color: red;
-    }
-    .negative {
-      color: green;
-    }
-    .map-container {
-      display: flex;
-      flex-wrap: wrap;
-      justify-content: space-around;
-      gap: 20px;
-    }
-  
-    img {
-      width: 200px;
-      height: auto;
-      cursor: pointer;
-      transition: transform 0.2s;
-      border:1px solid #dddddd;
-    }
-  
-    img:hover {
-      transform: scale(1.05);
-    }
-  
-    .lightbox {
-      position: fixed;
-      top: 0;
-      left: 0;
-      width: 100vw;
-      height: 100vh;
-      background-color: white;
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      z-index: 1000;
-    }
-  
-    .lightbox img {
-      max-width: 90%; 
-      max-height: 90%;
-      height: auto;
-      width: auto;
-    }
+   
   </style>

@@ -4,6 +4,8 @@
 
 <h3>Suburban crime trends</h3>
 
+<h4 class="source">Data sources: Minnesota Bureau of Criminal Apprehension</h4>
+
 <p>Suburban crime data isn't as uniform or granulated as Minneapolis data. But the following links contain information by agency for NIBRS crime categories.</p>
 
 <div class="download"><a href="../store/suburbs/OffenseCountyMunicipalByAgencyDownloadData_ReportYear_2024.xlsx">Download Municipal and County Offenses by Agency, 2024</a></div>

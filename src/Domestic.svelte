@@ -55,13 +55,15 @@
     function preparePrecinctChartData() {
       const years = [...new Set(domesticPrecincts.map(item => item.Year))].sort();
       const precinctMap = new Map();
+      const colors = ['#FF6384', '#36A2EB', '#FFCE56', '#4BC0C0', '#9966FF', '#FF9F40',
+    '#C9CBCF', '#7E57C2', '#D4E157', '#66BB6A', '#FF7043', '#8D6E63'];
   
       domesticPrecincts.forEach(item => {
         if (!precinctMap.has(item.Precinct)) {
           precinctMap.set(item.Precinct, {
             label: `Precinct ${item.Precinct}`,
             data: new Array(years.length).fill(null), // Initialize with nulls for all years
-            borderColor: `hsl(${Math.random() * 360}, 70%, 50%)`,
+            borderColor: colors[item.Precinct-1],
             fill: false
           });
         }
@@ -80,9 +82,9 @@
       window.addEventListener('resize', handleResize);
   
       // Prepare chart data
-      const amonthlyChartData = { labels: domesticMonthlyComparison.map(item => `${item.Year}-${item.Month}`), datasets: [{ label: 'Monthly domestics', data: domesticMonthlyComparison.map(item => item.IncidentCount), backgroundColor: 'rgba(70, 130, 180, 0.8)', borderColor: 'rgba(70, 130, 180, 1)', borderWidth: 1 }] };
-      const ayearlyChartData = { labels: domesticYearlyIncidentCounts.map(item => item.Year.toString()), datasets: [{ label: 'Yearly domestics', data: domesticYearlyIncidentCounts.map(item => item.OffenseCount), backgroundColor: 'rgba(70, 130, 180, 0.8)', borderColor: 'rgba(70, 130, 180, 1)', borderWidth: 1 }] };
-      const aytdChartData = { labels: domesticYTDComparison.map(item => item.Year.toString()), datasets: [{ label: 'YTD domestics', data: domesticYTDComparison.map(item => item.YTDCount), backgroundColor: 'rgba(70, 130, 180, 0.8)', borderColor: 'rgba(70, 130, 180 1)', borderWidth: 1 }] };
+      const amonthlyChartData = { labels: domesticMonthlyComparison.map(item => `${item.Year}-${item.Month}`), datasets: [{ label: 'Monthly Domestic Aggravated Assaults', data: domesticMonthlyComparison.map(item => item.IncidentCount), backgroundColor: 'rgba(70, 130, 180, 0.8)', borderColor: 'rgba(70, 130, 180, 1)', borderWidth: 1 }] };
+      const ayearlyChartData = { labels: domesticYearlyIncidentCounts.map(item => item.Year.toString()), datasets: [{ label: 'Yearly Domestic Aggravated Assaults', data: domesticYearlyIncidentCounts.map(item => item.OffenseCount), backgroundColor: 'rgba(70, 130, 180, 0.8)', borderColor: 'rgba(70, 130, 180, 1)', borderWidth: 0 }] };
+      const aytdChartData = { labels: domesticYTDComparison.map(item => item.Year.toString()), datasets: [{ label: 'YTD Domestic Aggravated Assaults', data: domesticYTDComparison.map(item => item.YTDCount), backgroundColor: 'rgba(70, 130, 180, 0.8)', borderColor: 'rgba(70, 130, 180 1)', borderWidth: 0 }] };
   
       // Create charts
       amonthlyChart = createChart(document.getElementById('amonthlyChart').getContext('2d'), amonthlyChartData, 'domestics', 'line');
@@ -94,23 +96,25 @@
   </script>
   
   
-  <h3>Minneapolis: Domestic Assault</h3>
+  <h3>Minneapolis: Domestic Aggravated Assault</h3>
 
-  <div class="disclaimer"><p>Domestic Aggravated Assault is a subset of Aggravated Assaults.</p></div>
+  <h4 class="source">Data sources: Minneapolis Police Department</h4>
+
+  <div class="def"><p>Domestic Aggravated Assault is a subset of Aggravated Assaults and describes violent incidents that occur between family or household members.</p></div>
   
   {#if domesticYTDComparison && domesticYTDComparison.length > 0}
   <p>
-    Minneapolis has recorded <strong>{domesticYTDComparison[domesticYTDComparison.length - 1].YTDCount}</strong> domestics this year, a
+    Minneapolis has recorded <strong>{domesticYTDComparison[domesticYTDComparison.length - 1].YTDCount}</strong> domestic aggravated assaults this year, a
     <span class={domesticYTDComparison[domesticYTDComparison.length - 1].YTDPercentageChange >= 0 ? 'positive' : 'negative'}>
       <strong>
         {typeof domesticYTDComparison[domesticYTDComparison.length - 1].YTDPercentageChange === 'number' ? 
           (domesticYTDComparison[domesticYTDComparison.length - 1].YTDPercentageChange > 0 ? `+${domesticYTDComparison[domesticYTDComparison.length - 1].YTDPercentageChange.toFixed(0)}%` : `${domesticYTDComparison[domesticYTDComparison.length - 1].YTDPercentageChange.toFixed(0)}%`) 
           : 'N/A'}
       </strong>
-    </span> change from last year's <strong>{domesticYTDComparison[domesticYTDComparison.length - 1].PrevYTDCount}</strong> domestics at this time.
+    </span> change from last year's <strong>{domesticYTDComparison[domesticYTDComparison.length - 1].PrevYTDCount}</strong> domestic aggravated assaults at this time.
   </p>
   <p>
-    Compared to 2019's count of <strong>{domesticYTDComparison[0].YTDCount}</strong> domestics, the change is
+    Compared to 2019's count of <strong>{domesticYTDComparison[0].YTDCount}</strong> domestic aggravated assaults, the change is
     <span class={
       (domesticYTDComparison[domesticYTDComparison.length - 1].YTDCount - domesticYTDComparison[0].YTDCount) >= 0 ? 'positive' : 'negative'}>
       <strong>
@@ -128,33 +132,33 @@
   <div class="chart-container">
     <canvas id="aytdChart"></canvas>
   </div>
-  <div class="download"><a href="../store/domestic/domestic_ytd_comparison.csv">Download Minneapolis aggravated domestic assaults year-to-date data</a></div> 
+  <div class="download"><a href="../store/domestic/domestic_ytd_comparison.csv">Download Minneapolis aggravated domestic aggravated assaults year-to-date data</a></div> 
   
   <p>&nbsp;</p>
-  <h4>Monthly aggravated domestic assault trend</h4>
+  <h4>Monthly domestic aggravated assault trend</h4>
   <div class="chart-container">
     <canvas id="amonthlyChart"></canvas>
   </div>
-  <div class="download"><a href="../store/domestic/domestic_monthly_comparison.csv">Download Minneapolis aggravated domestic assaults by month data</a></div>
+  <div class="download"><a href="../store/domestic/domestic_monthly_comparison.csv">Download Minneapolis domestic aggravated assaults by month data</a></div>
   
   <p>&nbsp;</p>
-  <h4>Yearly aggravated domestic assault trend</h4>
+  <h4>Yearly domestic aggravated assault trend</h4>
   <div class="chart-container">
     <canvas id="ayearlyChart"></canvas>
   </div>
-  <div class="download"><a href="../store/domestic/domestic_yearly_incident_counts.csv">Download Minneapolis aggravated domestic assaults by year data</a></div>
-  <div class="download"><a href="../store/domestic/domestic_historical.csv">Download historical Minneapolis SRS aggravated domestic assaults data 1985-2022 (includes clearances)</a></div>
+  <div class="download"><a href="../store/domestic/domestic_yearly_incident_counts.csv">Download Minneapolis domestic aggravated assault by year data</a></div>
+  <div class="download"><a href="../store/domestic/domestic_historical.csv">Download historical Minneapolis SRS domestic aggravated assault data 1985-2022 (includes clearances)</a></div>
   
   
   <p>&nbsp;</p>
-  <h4>Aggravated domestic assaults by police precinct</h4>
+  <h4>Domestic aggravated assaults by police precinct</h4>
   <div class="chart-container">
     <canvas id="aprecinctChart"></canvas>
   </div>
-  <div class="download"><a href="../store/domestic/domestic_precinct.csv">Download Minneapolis aggravated domestic assaults by police precinct data</a></div>
+  <div class="download"><a href="../store/domestic/domestic_precinct.csv">Download Minneapolis domestic aggravated assaults by police precinct data</a></div>
   
   <p>&nbsp;</p>
-  <h4>Aggravated domestic assaults by neighborhood</h4>
+  <h4>Domestic aggravated assaults by neighborhood</h4>
   <p>Click a map to expand.</p>
   <div class="map-container">
     {#each ['../store/domestic/domestic_map_2019.svg', '../store/domestic/domestic_map_2020.svg', '../store/domestic/domestic_map_2021.svg', '../store/domestic/domestic_map_2022.svg', '../store/domestic/domestic_map_2023.svg', '../store/domestic/domestic_map_2024.svg'] as image}
@@ -167,68 +171,15 @@
       <img src={$activeImage} alt="Expanded Image">
     </div>
   {/if}
-  <div class="download"><a href="../store/domestic/domestic_geo.csv">Download Minneapolis aggravated domestic assaults by neighborhood data</a></div>
-  <div class="download"><a href="../store/domestic/domestic_neighborhoods.geojson">Download Minneapolis aggravated domestic assaults by neighborhood GEOJSON</a></div>
-  <div class="download"><a href="../store/domestic/domestic_raw.csv">Download Minneapolis aggravated domestic assaults raw CSV file (includes incident coordinates)</a></div>
+  <div class="download"><a href="../store/domestic/domestic_geo.csv">Download Minneapolis domestic aggravated assaults by neighborhood data</a></div>
+  <div class="download"><a href="../store/domestic/domestic_neighborhoods.geojson">Download Minneapolis domestic aggravated assaults by neighborhood GEOJSON</a></div>
+  <div class="download"><a href="../store/domestic/domestic_raw.csv">Download Minneapolis domestic aggravated assault raw CSV file (includes incident coordinates)</a></div>
   
-  
+  <h4>Links</h4>
+  <ul>
+    <li><a href="https://tableau.minneapolismn.gov/views/CrimeDashboard/Summary?%3Adisplay_count=n&%3Aiid=5&%3Aorigin=viz_share_link&%3AshowAppBanner=false&%3AshowVizHome=n&%3Atabs=yes&%3Atoolbar=no&%3AisGuestRedirectFromVizportal=y&%3Aembed=y">Minneapolis NIBRS Crime Dashboard</a> | <a href="https://opendata.minneapolismn.gov/datasets/cityoflakes::crime-data/about">raw data</a></li>
+  </ul>
   
   <style>
-    .chart-container {
-      display: flex;
-      flex-wrap: wrap;
-      justify-content: space-around;
-      padding: 20px;
-    }
-    canvas {
-      max-width: 100%;
-      height: 300px !important;
-    }
-    .positive {
-    color: red;
-    }
-    .negative {
-      color: green;
-    }
-    .map-container {
-      display: flex;
-      flex-wrap: wrap;
-      justify-content: space-around;
-      gap: 20px;
-    }
-  
-    img {
-      width: 200px;
-      height: auto;
-      cursor: pointer;
-      transition: transform 0.2s;
-      border:1px solid #dddddd;
-    }
-  
-    img:hover {
-      transform: scale(1.05);
-    }
-  
-    .lightbox {
-      position: fixed;
-      top: 0;
-      left: 0;
-      width: 100vw;
-      height: 100vh;
-      background-color: white;
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      z-index: 1000;
-    }
-  
-    .lightbox img {
-      max-width: 90%; 
-      max-height: 90%;
-      height: auto;
-      width: auto;
-    }
-    .disclaimer {
-    color:#de2d26;
-  }
+ 
   </style>

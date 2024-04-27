@@ -55,13 +55,16 @@
     function preparePrecinctChartData() {
       const years = [...new Set(robberyPrecincts.map(item => item.Year))].sort();
       const precinctMap = new Map();
+      const colors = ['#FF6384', '#36A2EB', '#FFCE56', '#4BC0C0', '#9966FF', '#FF9F40',
+    '#C9CBCF', '#7E57C2', '#D4E157', '#66BB6A', '#FF7043', '#8D6E63'];
+
   
       robberyPrecincts.forEach(item => {
         if (!precinctMap.has(item.Precinct)) {
           precinctMap.set(item.Precinct, {
             label: `Precinct ${item.Precinct}`,
             data: new Array(years.length).fill(null), // Initialize with nulls for all years
-            borderColor: `hsl(${Math.random() * 360}, 70%, 50%)`,
+            borderColor: colors[item.Precinct-1],
             fill: false
           });
         }
@@ -80,21 +83,27 @@
       window.addEventListener('resize', handleResize);
   
       // Prepare chart data
-      const amonthlyChartData = { labels: robberyMonthlyComparison.map(item => `${item.Year}-${item.Month}`), datasets: [{ label: 'Monthly robberys', data: robberyMonthlyComparison.map(item => item.IncidentCount), backgroundColor: 'rgba(70, 130, 180, 0.8)', borderColor: 'rgba(70, 130, 180, 1)', borderWidth: 1 }] };
-      const ayearlyChartData = { labels: robberyYearlyIncidentCounts.map(item => item.Year.toString()), datasets: [{ label: 'Yearly robberys', data: robberyYearlyIncidentCounts.map(item => item.OffenseCount), backgroundColor: 'rgba(70, 130, 180, 0.8)', borderColor: 'rgba(70, 130, 180, 1)', borderWidth: 1 }] };
-      const aytdChartData = { labels: robberyYTDComparison.map(item => item.Year.toString()), datasets: [{ label: 'YTD robberys', data: robberyYTDComparison.map(item => item.YTDCount), backgroundColor: 'rgba(70, 130, 180, 0.8)', borderColor: 'rgba(70, 130, 180 1)', borderWidth: 1 }] };
+      const amonthlyChartData = { labels: robberyMonthlyComparison.map(item => `${item.Year}-${item.Month}`), datasets: [{ label: 'Monthly Robberies', data: robberyMonthlyComparison.map(item => item.IncidentCount), backgroundColor: 'rgba(70, 130, 180, 0.8)', borderColor: 'rgba(70, 130, 180, 1)', borderWidth: 1 }] };
+      const ayearlyChartData = { labels: robberyYearlyIncidentCounts.map(item => item.Year.toString()), datasets: [{ label: 'Yearly Robberies', data: robberyYearlyIncidentCounts.map(item => item.OffenseCount), backgroundColor: 'rgba(70, 130, 180, 0.8)', borderColor: 'rgba(70, 130, 180, 1)', borderWidth: 0 }] };
+      const aytdChartData = { labels: robberyYTDComparison.map(item => item.Year.toString()), datasets: [{ label: 'YTD Robberies', data: robberyYTDComparison.map(item => item.YTDCount), backgroundColor: 'rgba(70, 130, 180, 0.8)', borderColor: 'rgba(70, 130, 180 1)', borderWidth: 0 }] };
   
       // Create charts
-      amonthlyChart = createChart(document.getElementById('amonthlyChart').getContext('2d'), amonthlyChartData, 'robberys', 'line');
-      ayearlyChart = createChart(document.getElementById('ayearlyChart').getContext('2d'), ayearlyChartData, 'robberys');
-      aytdChart = createChart(document.getElementById('aytdChart').getContext('2d'), aytdChartData, 'robberys');
+      amonthlyChart = createChart(document.getElementById('amonthlyChart').getContext('2d'), amonthlyChartData, 'robberies', 'line');
+      ayearlyChart = createChart(document.getElementById('ayearlyChart').getContext('2d'), ayearlyChartData, 'robberies');
+      aytdChart = createChart(document.getElementById('aytdChart').getContext('2d'), aytdChartData, 'robberies');
       const aprecinctChartData = preparePrecinctChartData();
-      aprecinctChart = createChart(document.getElementById('aprecinctChart').getContext('2d'), aprecinctChartData, 'Precinct robberys', 'line');
+      aprecinctChart = createChart(document.getElementById('aprecinctChart').getContext('2d'), aprecinctChartData, 'Precinct Robberies', 'line');
     });
   </script>
   
   
   <h3>Minneapolis: Robbery</h3>
+
+  <h4 class="source">Data sources: Minneapolis Police Department</h4>
+
+  <div class="def"><p>Robberies are the theft (or attempted theft) of personal property by force or the threat of force.</p></div>
+  
+  <div class="disclaimer"><p>NIBRS changed robberies from a violent crime to a property crime from 2019 onward, so numbers represent incidents, not victims – be careful with longterm historical comparisons.</p></div>
   
   {#if robberyYTDComparison && robberyYTDComparison.length > 0}
   <p>
@@ -169,61 +178,11 @@
   <div class="download"><a href="../store/robbery/robbery_neighborhoods.geojson">Download Minneapolis robberies by neighborhood GEOJSON</a></div>
   <div class="download"><a href="../store/robbery/robbery_raw.csv">Download Minneapolis robberies raw CSV file (includes incident coordinates)</a></div>
   
-  
+  <h4>Links</h4>
+  <ul>
+    <li><a href="https://tableau.minneapolismn.gov/views/CrimeDashboard/Summary?%3Adisplay_count=n&%3Aiid=5&%3Aorigin=viz_share_link&%3AshowAppBanner=false&%3AshowVizHome=n&%3Atabs=yes&%3Atoolbar=no&%3AisGuestRedirectFromVizportal=y&%3Aembed=y">Minneapolis NIBRS Crime Dashboard</a> | <a href="https://opendata.minneapolismn.gov/datasets/cityoflakes::crime-data/about">raw data</a></li>
+  </ul>
   
   <style>
-    .chart-container {
-      display: flex;
-      flex-wrap: wrap;
-      justify-content: space-around;
-      padding: 20px;
-    }
-    canvas {
-      max-width: 100%;
-      height: 300px !important;
-    }
-    .positive {
-    color: red;
-    }
-    .negative {
-      color: green;
-    }
-    .map-container {
-      display: flex;
-      flex-wrap: wrap;
-      justify-content: space-around;
-      gap: 20px;
-    }
   
-    img {
-      width: 200px;
-      height: auto;
-      cursor: pointer;
-      transition: transform 0.2s;
-      border:1px solid #dddddd;
-    }
-  
-    img:hover {
-      transform: scale(1.05);
-    }
-  
-    .lightbox {
-      position: fixed;
-      top: 0;
-      left: 0;
-      width: 100vw;
-      height: 100vh;
-      background-color: white;
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      z-index: 1000;
-    }
-  
-    .lightbox img {
-      max-width: 90%; 
-      max-height: 90%;
-      height: auto;
-      width: auto;
-    }
   </style>

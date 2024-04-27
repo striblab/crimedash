@@ -50,6 +50,8 @@
 
 <h3>St. Paul Public Safety Trends</h3>
 
+<h4 class="source">Data sources: FBI</h4>
+
 <p>As with many other American cities, homicide rates in St. Paul increased in 2020, though had been climbing somewhat before that. In 2023, the rate dropped for the first time in five years.</p>
 
 <div class="chart-container">
@@ -61,7 +63,7 @@
 
 <p>&nbsp;</p>
 
-<p>Violent crime rates per 100,000 residents in St. Paul have been flatter over time, and rose significantly starting in 2020. Violent crimes include murder, aggravated assault, rape and robbery.</p>
+<p>Violent crime rates per 100,000 residents in St. Paul have been flatter over time, and rose significantly starting in 2020. In the UCR, violent crimes include murder, aggravated assault, rape and robbery.</p>
 
 <div class="chart-container">
     <canvas id="violentCrimeChart"></canvas>
@@ -70,14 +72,12 @@
 
 <p>&nbsp;</p>
 
-<p>Property crime rates per 100,000 residents in St. Paul have fallen over time, and rose significantly starting in 2020, driven primarily by auto thefts. Property crimes include vehicular theft, burglary, larceny and arson.</p>
+<p>Property crime rates per 100,000 residents in St. Paul have fallen over time, and rose significantly starting in 2020, driven primarily by auto thefts. In the UCR, property crimes include vehicular theft, burglary, larceny and arson.</p>
 
 <div class="chart-container">
     <canvas id="propertyChart"></canvas>
   </div>
 <div class="download"><a href="../store/stp/stp_property.csv">Download St. Paul 1985-2022 property crimes data (includes clearances)</a></div>
-
-<p>&nbsp;</p>
 
 <h4>Links</h4>
 <ul>
@@ -87,14 +87,5 @@
 </ul>
 
 <style>
-  .chart-container {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-around;
-    padding: 20px;
-  }
-  canvas {
-    max-width: 100%;
-    height: 300px !important;
-  }
+
 </style>
