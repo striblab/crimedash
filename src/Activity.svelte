@@ -98,8 +98,10 @@
 <div class="download"><a href="../store/activity/mpd_2019.zip">Download Minneapolis police dispatch data, 2019</a></div>
 <div class="download"><a href="../store/activity/mpd_2020.zip">Download Minneapolis police dispatch data, 2020</a></div>
 <div class="download"><a href="../store/activity/mpd_2021.zip">Download Minneapolis police dispatch data, 2021</a></div>
-<div class="download"><a href="../store/activity/mpd_2022_a.zip">Download Minneapolis police dispatch data, January-June 2022</a></div>
-<div class="download"><a href="../store/activity/mpd_2022_b.zip">Download Minneapolis police dispatch data, July-December 2022</a></div>
+<div class="download"><a href="../store/activity/mpd_2022_a.zip">Download Minneapolis police dispatch data, Q1 2022</a></div>
+<div class="download"><a href="../store/activity/mpd_2022_b.zip">Download Minneapolis police dispatch data, Q2 2022</a></div>
+<div class="download"><a href="../store/activity/mpd_2022_c.zip">Download Minneapolis police dispatch data, Q3 2022</a></div>
+<div class="download"><a href="../store/activity/mpd_2022_d.zip">Download Minneapolis police dispatch data, Q4 2022</a></div>
 
 <p>&nbsp;</p>
 
