@@ -14,7 +14,7 @@
 "Columbia Park","Motor Vehicle Theft",5,5,9,16,19,6
 "Como","Motor Vehicle Theft",47,65,79,87,76,25
 "Cooper","Motor Vehicle Theft",19,26,28,36,48,14
-"Corcoran","Motor Vehicle Theft",41,53,50,76,114,34
+"Corcoran","Motor Vehicle Theft",41,53,50,76,114,35
 "Diamond Lake","Motor Vehicle Theft",21,21,28,32,49,8
 "Downtown East","Motor Vehicle Theft",22,30,39,41,41,12
 "Downtown West","Motor Vehicle Theft",127,95,109,163,168,38
@@ -29,7 +29,7 @@
 "Fulton","Motor Vehicle Theft",4,15,10,20,23,9
 "Hale","Motor Vehicle Theft",8,10,9,16,26,4
 "Harrison","Motor Vehicle Theft",26,49,54,89,72,25
-"Hawthorne","Motor Vehicle Theft",92,93,98,141,143,35
+"Hawthorne","Motor Vehicle Theft",92,93,98,141,143,37
 "Hiawatha","Motor Vehicle Theft",34,42,48,106,122,29
 "Holland","Motor Vehicle Theft",26,54,49,79,99,28
 "Howe","Motor Vehicle Theft",31,53,52,108,79,20
@@ -39,13 +39,13 @@
 "Kenny","Motor Vehicle Theft",7,12,8,8,12,7
 "Kenwood","Motor Vehicle Theft",4,6,8,17,23,7
 "King Field","Motor Vehicle Theft",29,54,64,92,131,35
-"Lind - Bohanon","Motor Vehicle Theft",40,57,42,92,82,22
+"Lind - Bohanon","Motor Vehicle Theft",40,57,42,92,82,23
 "Linden Hills","Motor Vehicle Theft",14,14,16,32,52,9
 "Logan Park","Motor Vehicle Theft",12,15,22,35,72,29
-"Longfellow","Motor Vehicle Theft",73,95,89,147,167,36
+"Longfellow","Motor Vehicle Theft",73,95,89,147,167,37
 "Loring Park","Motor Vehicle Theft",45,58,99,124,145,29
 "Lowry Hill","Motor Vehicle Theft",22,24,43,67,83,22
-"Lowry Hill East","Motor Vehicle Theft",78,94,133,229,300,68
+"Lowry Hill East","Motor Vehicle Theft",78,94,133,229,300,69
 "Lyndale","Motor Vehicle Theft",54,68,100,175,261,73
 "Lynnhurst","Motor Vehicle Theft",7,19,8,18,25,6
 "Marcy Holmes","Motor Vehicle Theft",127,223,228,202,273,62
@@ -62,15 +62,15 @@
 "Northrop","Motor Vehicle Theft",19,27,29,60,61,11
 "Page","Motor Vehicle Theft",2,9,9,9,11,2
 "Phillips West","Motor Vehicle Theft",61,80,70,80,149,31
-"Powderhorn Park","Motor Vehicle Theft",89,143,147,175,182,42
+"Powderhorn Park","Motor Vehicle Theft",89,143,147,175,182,43
 "Prospect Park - East River Road","Motor Vehicle Theft",45,67,86,133,138,30
 "Regina","Motor Vehicle Theft",11,26,19,26,49,6
 "Seward","Motor Vehicle Theft",82,135,109,139,192,39
-"Sheridan","Motor Vehicle Theft",11,18,34,33,68,12
+"Sheridan","Motor Vehicle Theft",11,18,34,33,68,13
 "Shingle Creek","Motor Vehicle Theft",21,32,18,42,30,11
-"South Uptown","Motor Vehicle Theft",36,50,59,125,141,46
+"South Uptown","Motor Vehicle Theft",36,50,59,125,141,47
 "St. Anthony East","Motor Vehicle Theft",7,9,10,17,45,5
-"St. Anthony West","Motor Vehicle Theft",14,14,31,44,74,16
+"St. Anthony West","Motor Vehicle Theft",14,14,31,44,74,17
 "Standish","Motor Vehicle Theft",29,57,60,82,113,30
 "Steven's Square - Loring Heights","Motor Vehicle Theft",29,46,59,96,123,53
 "Sumner - Glenwood","Motor Vehicle Theft",15,15,18,31,42,4
@@ -81,8 +81,8 @@
 "Waite Park","Motor Vehicle Theft",10,17,20,25,43,11
 "Webber - Camden","Motor Vehicle Theft",56,67,54,80,104,14
 "Wenonah","Motor Vehicle Theft",22,28,22,31,38,6
-"West Maka Ska","Motor Vehicle Theft",5,18,31,19,36,10
-"Whittier","Motor Vehicle Theft",138,196,243,547,560,159
+"West Maka Ska","Motor Vehicle Theft",5,18,31,19,36,11
+"Whittier","Motor Vehicle Theft",138,196,243,547,560,160
 "Willard - Hay","Motor Vehicle Theft",52,89,69,139,173,35
 "Windom","Motor Vehicle Theft",20,35,39,42,72,34
 "Windom Park","Motor Vehicle Theft",30,28,37,52,74,12
@@ -102,7 +102,7 @@ NA,"Motor Vehicle Theft",5,4,18,15,13,4
 "Columbia Park","Total",5,5,9,16,19,6
 "Como","Total",47,65,79,87,76,25
 "Cooper","Total",19,26,28,36,48,14
-"Corcoran","Total",41,53,50,76,114,34
+"Corcoran","Total",41,53,50,76,114,35
 "Diamond Lake","Total",21,21,28,32,49,8
 "Downtown East","Total",22,30,39,41,41,12
 "Downtown West","Total",127,95,109,163,168,38
@@ -117,7 +117,7 @@ NA,"Motor Vehicle Theft",5,4,18,15,13,4
 "Fulton","Total",4,15,10,20,23,9
 "Hale","Total",8,10,9,16,26,4
 "Harrison","Total",26,49,54,89,72,25
-"Hawthorne","Total",92,93,98,141,143,35
+"Hawthorne","Total",92,93,98,141,143,37
 "Hiawatha","Total",34,42,48,106,122,29
 "Holland","Total",26,54,49,79,99,28
 "Howe","Total",31,53,52,108,79,20
@@ -127,13 +127,13 @@ NA,"Motor Vehicle Theft",5,4,18,15,13,4
 "Kenny","Total",7,12,8,8,12,7
 "Kenwood","Total",4,6,8,17,23,7
 "King Field","Total",29,54,64,92,131,35
-"Lind - Bohanon","Total",40,57,42,92,82,22
+"Lind - Bohanon","Total",40,57,42,92,82,23
 "Linden Hills","Total",14,14,16,32,52,9
 "Logan Park","Total",12,15,22,35,72,29
-"Longfellow","Total",73,95,89,147,167,36
+"Longfellow","Total",73,95,89,147,167,37
 "Loring Park","Total",45,58,99,124,145,29
 "Lowry Hill","Total",22,24,43,67,83,22
-"Lowry Hill East","Total",78,94,133,229,300,68
+"Lowry Hill East","Total",78,94,133,229,300,69
 "Lyndale","Total",54,68,100,175,261,73
 "Lynnhurst","Total",7,19,8,18,25,6
 "Marcy Holmes","Total",127,223,228,202,273,62
@@ -150,15 +150,15 @@ NA,"Motor Vehicle Theft",5,4,18,15,13,4
 "Northrop","Total",19,27,29,60,61,11
 "Page","Total",2,9,9,9,11,2
 "Phillips West","Total",61,80,70,80,149,31
-"Powderhorn Park","Total",89,143,147,175,182,42
+"Powderhorn Park","Total",89,143,147,175,182,43
 "Prospect Park - East River Road","Total",45,67,86,133,138,30
 "Regina","Total",11,26,19,26,49,6
 "Seward","Total",82,135,109,139,192,39
-"Sheridan","Total",11,18,34,33,68,12
+"Sheridan","Total",11,18,34,33,68,13
 "Shingle Creek","Total",21,32,18,42,30,11
-"South Uptown","Total",36,50,59,125,141,46
+"South Uptown","Total",36,50,59,125,141,47
 "St. Anthony East","Total",7,9,10,17,45,5
-"St. Anthony West","Total",14,14,31,44,74,16
+"St. Anthony West","Total",14,14,31,44,74,17
 "Standish","Total",29,57,60,82,113,30
 "Steven's Square - Loring Heights","Total",29,46,59,96,123,53
 "Sumner - Glenwood","Total",15,15,18,31,42,4
@@ -169,8 +169,8 @@ NA,"Motor Vehicle Theft",5,4,18,15,13,4
 "Waite Park","Total",10,17,20,25,43,11
 "Webber - Camden","Total",56,67,54,80,104,14
 "Wenonah","Total",22,28,22,31,38,6
-"West Maka Ska","Total",5,18,31,19,36,10
-"Whittier","Total",138,196,243,547,560,159
+"West Maka Ska","Total",5,18,31,19,36,11
+"Whittier","Total",138,196,243,547,560,160
 "Willard - Hay","Total",52,89,69,139,173,35
 "Windom","Total",20,35,39,42,72,34
 "Windom Park","Total",30,28,37,52,74,12
