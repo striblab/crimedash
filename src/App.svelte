@@ -16,6 +16,7 @@
 	import Drugs from './Drugs.svelte';
 	import Other from './Other.svelte';
 	import Activity from './Activity.svelte';
+	import Precincts from './Precincts.svelte';
 	import STP from './STP.svelte';
 	import Suburbs from './Suburbs.svelte';
 	import Statewide from './Statewide.svelte';
@@ -43,6 +44,7 @@
 	  { id: 'drugs', name: 'Minneapolis: Drug Offenses',  component: Drugs },
 	  { id: 'other', name: 'Minneapolis: Other Offenses',  component: Other },
 	  { id: 'activity', name: 'Minneapolis: Police Activity',  component: Activity },
+	  { id: 'precincts', name: 'Minneapolis: Police Precincts',  component: Precincts },
 	  { id: 'staff', name: 'Minneapolis: Police Staffing',  component: Staff },
 	  { id: 'stp', name: 'St. Paul Public Safety',  component: STP },
 	  { id: 'suburbs', name: 'Suburban Public Safety',  component: Suburbs },
