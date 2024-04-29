@@ -54,9 +54,9 @@
     window.addEventListener('resize', handleResize);
 
     // Prepare chart data
-    const monthlyChartData = { labels: manslaughterMonthlyComparison.map(item => `${item.Year}-${item.Month}`), datasets: [{ label: 'Monthly manslaughters', data: manslaughterMonthlyComparison.map(item => item.IncidentCount), backgroundColor: 'rgba(70, 130, 180, 0.8)', borderColor: 'rgba(70, 130, 180, 0.8)', borderWidth: 1 }] };
-    const yearlyChartData = { labels: manslaughterYearlyIncidentCounts.map(item => item.Year.toString()), datasets: [{ label: 'Yearly manslaughters', data: manslaughterYearlyIncidentCounts.map(item => item.OffenseCount), backgroundColor: 'rgba(70, 130, 180, 0.8)', borderColor: 'rgba(70, 130, 180, 0.8)', borderWidth: 0 }] };
-    const ytdChartData = { labels: manslaughterYTDComparison.map(item => item.Year.toString()), datasets: [{ label: 'YTD manslaughters', data: manslaughterYTDComparison.map(item => item.YTDCount), backgroundColor: 'rgba(70, 130, 180, 0.8)', borderColor: 'rgba(70, 130, 180, 0.8)', borderWidth: 0}] };
+    const monthlyChartData = { labels: manslaughterMonthlyComparison.map(item => `${item.Year}-${item.Month}`), datasets: [{ label: 'Monthly Manslaughters', data: manslaughterMonthlyComparison.map(item => item.IncidentCount), backgroundColor: 'rgba(70, 130, 180, 0.8)', borderColor: 'rgba(70, 130, 180, 0.8)', borderWidth: 1 }] };
+    const yearlyChartData = { labels: manslaughterYearlyIncidentCounts.map(item => item.Year.toString()), datasets: [{ label: 'Yearly Manslaughters', data: manslaughterYearlyIncidentCounts.map(item => item.OffenseCount), backgroundColor: 'rgba(70, 130, 180, 0.8)', borderColor: 'rgba(70, 130, 180, 0.8)', borderWidth: 0 }] };
+    const ytdChartData = { labels: manslaughterYTDComparison.map(item => item.Year.toString()), datasets: [{ label: 'YTD Manslaughters', data: manslaughterYTDComparison.map(item => item.YTDCount), backgroundColor: 'rgba(70, 130, 180, 0.8)', borderColor: 'rgba(70, 130, 180, 0.8)', borderWidth: 0}] };
 
     // Create charts
     monthlyChart = createChart(document.getElementById('monthlyChart').getContext('2d'), monthlyChartData, 'manslaughters', 'line');
@@ -70,7 +70,7 @@
 
 <h4 class="source">Data sources: Minneapolis Police Department</h4>
 
-<div class="def"><p>Negligent Manslaughter is any homicide deemed an accident, even if it was reckless, including most vehicular homicides. Manslaughters are not usually included in Star Tribune homicide counts.</p></div>
+<div class="def"><p>Negligent Manslaughter is any homicide deemed unintentional, even if it was reckless, including most vehicular homicides. Manslaughters are not usually included in Star Tribune homicide counts.</p></div>
 
 {#if manslaughterYTDComparison && manslaughterYTDComparison.length > 0}
 <p>
