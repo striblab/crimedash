@@ -1340,8 +1340,15 @@
     "Year": 2024,
     "Month": 4,
     "Offense": "ShotSpotter Activation (P)",
-    "IncidentCount": 212,
+    "IncidentCount": 217,
     "Date": "2024-04-01"
+  },
+  {
+    "Year": 2024,
+    "Month": 5,
+    "Offense": "ShotSpotter Activation (P)",
+    "IncidentCount": 2,
+    "Date": "2024-05-01"
   },
   {
     "Year": 2019,
@@ -1788,7 +1795,14 @@
     "Year": 2024,
     "Month": 4,
     "Offense": "Sound of Shots Fired (P)",
-    "IncidentCount": 217,
+    "IncidentCount": 224,
     "Date": "2024-04-01"
+  },
+  {
+    "Year": 2024,
+    "Month": 5,
+    "Offense": "Sound of Shots Fired (P)",
+    "IncidentCount": 2,
+    "Date": "2024-05-01"
   }
 ]
