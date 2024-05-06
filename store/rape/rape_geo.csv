@@ -1,7 +1,7 @@
 "Neighborhood","Offense","2019","2020","2021","2022","2023","2024"
 "Armatage","Sex Offenses",3,8,2,0,2,1
 "Audubon Park","Sex Offenses",10,5,3,7,1,2
-"Bancroft","Sex Offenses",4,7,6,2,3,1
+"Bancroft","Sex Offenses",4,7,6,2,3,2
 "Beltrami","Sex Offenses",2,1,2,0,0,0
 "Bottineau","Sex Offenses",2,3,2,4,3,2
 "Bryant","Sex Offenses",5,6,8,8,0,1
@@ -11,7 +11,7 @@
 "Cedar Riverside","Sex Offenses",13,15,21,8,19,2
 "Central","Sex Offenses",22,10,24,19,19,6
 "Cleveland","Sex Offenses",7,5,2,9,13,2
-"Como","Sex Offenses",8,10,8,4,6,2
+"Como","Sex Offenses",8,10,8,4,6,3
 "Cooper","Sex Offenses",2,1,2,3,4,0
 "Corcoran","Sex Offenses",7,5,8,8,6,3
 "Diamond Lake","Sex Offenses",2,2,5,4,4,3
@@ -29,7 +29,7 @@
 "Hiawatha","Sex Offenses",3,7,5,3,6,1
 "Holland","Sex Offenses",5,7,9,6,7,1
 "Howe","Sex Offenses",5,6,5,1,0,6
-"Jordan","Sex Offenses",37,34,29,28,39,7
+"Jordan","Sex Offenses",37,34,29,28,39,9
 "Keewaydin","Sex Offenses",1,3,0,0,4,0
 "Kenny","Sex Offenses",2,3,2,2,0,0
 "King Field","Sex Offenses",7,6,4,2,10,1
@@ -37,7 +37,7 @@
 "Linden Hills","Sex Offenses",2,3,5,2,5,3
 "Logan Park","Sex Offenses",2,3,6,4,12,1
 "Longfellow","Sex Offenses",7,12,5,11,13,3
-"Loring Park","Sex Offenses",21,17,21,19,23,8
+"Loring Park","Sex Offenses",21,17,21,19,23,9
 "Lowry Hill","Sex Offenses",4,2,0,3,2,2
 "Lowry Hill East","Sex Offenses",16,12,21,13,18,5
 "Lyndale","Sex Offenses",19,16,15,11,13,5
@@ -49,7 +49,7 @@
 "Midtown Phillips","Sex Offenses",23,18,21,25,8,13
 "Minnehaha","Sex Offenses",4,2,2,3,3,0
 "Morris Park","Sex Offenses",3,2,5,1,1,0
-"Near - North","Sex Offenses",29,27,27,40,27,9
+"Near - North","Sex Offenses",29,27,27,40,27,10
 "Nicollet Island - East Bank","Sex Offenses",2,4,2,5,1,2
 "North Loop","Sex Offenses",12,19,22,10,16,5
 "Northeast Park","Sex Offenses",2,1,2,0,1,2
@@ -69,7 +69,7 @@
 "Steven's Square - Loring Heights","Sex Offenses",12,8,6,10,11,6
 "Sumner - Glenwood","Sex Offenses",9,7,4,0,2,0
 "University of Minnesota","Sex Offenses",6,2,4,3,4,1
-"Ventura Village","Sex Offenses",28,13,17,21,21,6
+"Ventura Village","Sex Offenses",28,13,17,21,21,7
 "Victory","Sex Offenses",6,9,5,7,3,0
 "Waite Park","Sex Offenses",5,4,1,2,3,2
 "Webber - Camden","Sex Offenses",18,20,19,18,14,5
@@ -88,7 +88,7 @@ NA,"Sex Offenses",36,29,63,66,40,13
 "Hale","Sex Offenses",0,0,1,2,4,0
 "Armatage","Total",3,8,2,0,2,1
 "Audubon Park","Total",10,5,3,7,1,2
-"Bancroft","Total",4,7,6,2,3,1
+"Bancroft","Total",4,7,6,2,3,2
 "Beltrami","Total",2,1,2,0,0,0
 "Bottineau","Total",2,3,2,4,3,2
 "Bryant","Total",5,6,8,8,0,1
@@ -98,7 +98,7 @@ NA,"Sex Offenses",36,29,63,66,40,13
 "Cedar Riverside","Total",13,15,21,8,19,2
 "Central","Total",22,10,24,19,19,6
 "Cleveland","Total",7,5,2,9,13,2
-"Como","Total",8,10,8,4,6,2
+"Como","Total",8,10,8,4,6,3
 "Cooper","Total",2,1,2,3,4,0
 "Corcoran","Total",7,5,8,8,6,3
 "Diamond Lake","Total",2,2,5,4,4,3
@@ -116,7 +116,7 @@ NA,"Sex Offenses",36,29,63,66,40,13
 "Hiawatha","Total",3,7,5,3,6,1
 "Holland","Total",5,7,9,6,7,1
 "Howe","Total",5,6,5,1,0,6
-"Jordan","Total",37,34,29,28,39,7
+"Jordan","Total",37,34,29,28,39,9
 "Keewaydin","Total",1,3,0,0,4,0
 "Kenny","Total",2,3,2,2,0,0
 "King Field","Total",7,6,4,2,10,1
@@ -124,7 +124,7 @@ NA,"Sex Offenses",36,29,63,66,40,13
 "Linden Hills","Total",2,3,5,2,5,3
 "Logan Park","Total",2,3,6,4,12,1
 "Longfellow","Total",7,12,5,11,13,3
-"Loring Park","Total",21,17,21,19,23,8
+"Loring Park","Total",21,17,21,19,23,9
 "Lowry Hill","Total",4,2,0,3,2,2
 "Lowry Hill East","Total",16,12,21,13,18,5
 "Lyndale","Total",19,16,15,11,13,5
@@ -136,7 +136,7 @@ NA,"Sex Offenses",36,29,63,66,40,13
 "Midtown Phillips","Total",23,18,21,25,8,13
 "Minnehaha","Total",4,2,2,3,3,0
 "Morris Park","Total",3,2,5,1,1,0
-"Near - North","Total",29,27,27,40,27,9
+"Near - North","Total",29,27,27,40,27,10
 "Nicollet Island - East Bank","Total",2,4,2,5,1,2
 "North Loop","Total",12,19,22,10,16,5
 "Northeast Park","Total",2,1,2,0,1,2
@@ -156,7 +156,7 @@ NA,"Sex Offenses",36,29,63,66,40,13
 "Steven's Square - Loring Heights","Total",12,8,6,10,11,6
 "Sumner - Glenwood","Total",9,7,4,0,2,0
 "University of Minnesota","Total",6,2,4,3,4,1
-"Ventura Village","Total",28,13,17,21,21,6
+"Ventura Village","Total",28,13,17,21,21,7
 "Victory","Total",6,9,5,7,3,0
 "Waite Park","Total",5,4,1,2,3,2
 "Webber - Camden","Total",18,20,19,18,14,5

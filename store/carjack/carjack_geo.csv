@@ -34,7 +34,7 @@
 "Midtown Phillips","Carjacking - Subset of Robbery",10,20,27,8,1
 "Near - North","Carjacking - Subset of Robbery",3,23,14,9,1
 "Northeast Park","Carjacking - Subset of Robbery",1,0,2,1,1
-"Northrop","Carjacking - Subset of Robbery",3,9,6,3,0
+"Northrop","Carjacking - Subset of Robbery",3,9,6,3,1
 "Phillips West","Carjacking - Subset of Robbery",5,8,13,11,1
 "Powderhorn Park","Carjacking - Subset of Robbery",6,38,27,6,6
 "Prospect Park - East River Road","Carjacking - Subset of Robbery",2,5,1,0,0
@@ -44,7 +44,7 @@
 "Standish","Carjacking - Subset of Robbery",4,7,1,2,1
 "Sumner - Glenwood","Carjacking - Subset of Robbery",1,12,6,3,1
 "Tangletown","Carjacking - Subset of Robbery",1,2,1,2,0
-"Ventura Village","Carjacking - Subset of Robbery",12,36,29,14,3
+"Ventura Village","Carjacking - Subset of Robbery",12,36,29,14,4
 "Webber - Camden","Carjacking - Subset of Robbery",1,6,5,4,1
 "Whittier","Carjacking - Subset of Robbery",13,46,41,25,5
 "Willard - Hay","Carjacking - Subset of Robbery",4,9,17,13,1
@@ -121,7 +121,7 @@ NA,"Carjacking - Subset of Robbery",2,3,2,2,0
 "Midtown Phillips","Total",10,20,27,8,1
 "Near - North","Total",3,23,14,9,1
 "Northeast Park","Total",1,0,2,1,1
-"Northrop","Total",3,9,6,3,0
+"Northrop","Total",3,9,6,3,1
 "Phillips West","Total",5,8,13,11,1
 "Powderhorn Park","Total",6,38,27,6,6
 "Prospect Park - East River Road","Total",2,5,1,0,0
@@ -131,7 +131,7 @@ NA,"Carjacking - Subset of Robbery",2,3,2,2,0
 "Standish","Total",4,7,1,2,1
 "Sumner - Glenwood","Total",1,12,6,3,1
 "Tangletown","Total",1,2,1,2,0
-"Ventura Village","Total",12,36,29,14,3
+"Ventura Village","Total",12,36,29,14,4
 "Webber - Camden","Total",1,6,5,4,1
 "Whittier","Total",13,46,41,25,5
 "Willard - Hay","Total",4,9,17,13,1

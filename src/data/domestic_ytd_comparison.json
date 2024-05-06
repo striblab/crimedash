@@ -1,42 +1,42 @@
 [
   {
-    "YTDCount": 324,
+    "YTDCount": 330,
     "Year": 2019,
     "Offense": "Domestic Aggravated Assault - Subset of Assault"
   },
   {
-    "YTDCount": 280,
+    "YTDCount": 287,
     "Year": 2020,
     "Offense": "Domestic Aggravated Assault - Subset of Assault",
-    "PrevYTDCount": 324,
-    "YTDPercentageChange": -13.5802
+    "PrevYTDCount": 330,
+    "YTDPercentageChange": -13.0303
   },
   {
-    "YTDCount": 231,
+    "YTDCount": 241,
     "Year": 2021,
     "Offense": "Domestic Aggravated Assault - Subset of Assault",
-    "PrevYTDCount": 280,
-    "YTDPercentageChange": -17.5
-  },
-  {
-    "YTDCount": 299,
-    "Year": 2022,
-    "Offense": "Domestic Aggravated Assault - Subset of Assault",
-    "PrevYTDCount": 231,
-    "YTDPercentageChange": 29.4372
+    "PrevYTDCount": 287,
+    "YTDPercentageChange": -16.0279
   },
   {
     "YTDCount": 305,
-    "Year": 2023,
+    "Year": 2022,
     "Offense": "Domestic Aggravated Assault - Subset of Assault",
-    "PrevYTDCount": 299,
-    "YTDPercentageChange": 2.0067
+    "PrevYTDCount": 241,
+    "YTDPercentageChange": 26.556
   },
   {
-    "YTDCount": 312,
-    "Year": 2024,
+    "YTDCount": 311,
+    "Year": 2023,
     "Offense": "Domestic Aggravated Assault - Subset of Assault",
     "PrevYTDCount": 305,
-    "YTDPercentageChange": 2.2951
+    "YTDPercentageChange": 1.9672
+  },
+  {
+    "YTDCount": 321,
+    "Year": 2024,
+    "Offense": "Domestic Aggravated Assault - Subset of Assault",
+    "PrevYTDCount": 311,
+    "YTDPercentageChange": 3.2154
   }
 ]
