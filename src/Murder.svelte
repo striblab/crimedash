@@ -154,7 +154,7 @@
 <div class="download"><a href="../store/murder/murder_yearly_incident_counts.csv">Download Minneapolis murders by year data</a></div>
 
 <p>&nbsp;</p>
-<h4>Historical homicide rates per 10,000 residents</h4>
+<h4>Historical homicide rates per 100,000 residents</h4>
 <div class="chart-container">
   <canvas id="historyChart"></canvas>
 </div>
