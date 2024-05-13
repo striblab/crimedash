@@ -16,11 +16,11 @@
 "Corcoran","Sex Offenses",7,5,8,8,6,3
 "Diamond Lake","Sex Offenses",2,2,5,4,4,3
 "Downtown East","Sex Offenses",10,15,5,12,6,5
-"Downtown West","Sex Offenses",84,52,41,59,64,18
+"Downtown West","Sex Offenses",84,52,41,59,64,21
 "East Harriet","Sex Offenses",2,6,1,6,3,2
 "East Isles","Sex Offenses",2,0,6,1,3,1
 "East Phillips","Sex Offenses",29,16,19,19,16,4
-"Elliot Park","Sex Offenses",29,19,26,22,22,6
+"Elliot Park","Sex Offenses",29,19,26,22,22,8
 "Ericsson","Sex Offenses",7,2,5,3,2,1
 "Folwell","Sex Offenses",24,42,20,16,24,2
 "Fulton","Sex Offenses",3,0,2,4,4,0
@@ -33,7 +33,7 @@
 "Keewaydin","Sex Offenses",1,3,0,0,4,0
 "Kenny","Sex Offenses",2,3,2,2,0,0
 "King Field","Sex Offenses",7,6,4,2,10,1
-"Lind - Bohanon","Sex Offenses",16,33,16,8,17,9
+"Lind - Bohanon","Sex Offenses",16,33,16,8,17,12
 "Linden Hills","Sex Offenses",2,3,5,2,5,3
 "Logan Park","Sex Offenses",2,3,6,4,12,1
 "Longfellow","Sex Offenses",7,12,5,11,13,3
@@ -103,11 +103,11 @@ NA,"Sex Offenses",36,29,63,66,40,16
 "Corcoran","Total",7,5,8,8,6,3
 "Diamond Lake","Total",2,2,5,4,4,3
 "Downtown East","Total",10,15,5,12,6,5
-"Downtown West","Total",84,52,41,59,64,18
+"Downtown West","Total",84,52,41,59,64,21
 "East Harriet","Total",2,6,1,6,3,2
 "East Isles","Total",2,0,6,1,3,1
 "East Phillips","Total",29,16,19,19,16,4
-"Elliot Park","Total",29,19,26,22,22,6
+"Elliot Park","Total",29,19,26,22,22,8
 "Ericsson","Total",7,2,5,3,2,1
 "Folwell","Total",24,42,20,16,24,2
 "Fulton","Total",3,0,2,4,4,0
@@ -120,7 +120,7 @@ NA,"Sex Offenses",36,29,63,66,40,16
 "Keewaydin","Total",1,3,0,0,4,0
 "Kenny","Total",2,3,2,2,0,0
 "King Field","Total",7,6,4,2,10,1
-"Lind - Bohanon","Total",16,33,16,8,17,9
+"Lind - Bohanon","Total",16,33,16,8,17,12
 "Linden Hills","Total",2,3,5,2,5,3
 "Logan Park","Total",2,3,6,4,12,1
 "Longfellow","Total",7,12,5,11,13,3
