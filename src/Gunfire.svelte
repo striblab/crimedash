@@ -210,7 +210,7 @@
   <li><a href="https://tableau.minneapolismn.gov/views/CrimeDashboard/Summary?%3Adisplay_count=n&%3Aiid=5&%3Aorigin=viz_share_link&%3AshowAppBanner=false&%3AshowVizHome=n&%3Atabs=yes&%3Atoolbar=no&%3AisGuestRedirectFromVizportal=y&%3Aembed=y">Minneapolis NIBRS Crime Dashboard</a> | <a href="https://opendata.minneapolismn.gov/datasets/cityoflakes::crime-data/about">raw data</a></li>
   <li><a href="https://cityoflakes.maps.arcgis.com/apps/webappviewer/index.html?id=292a52a52b354387a94020db10c19749">Minneapolis Gunfire Activity Map</a> | <a href="https://opendata.minneapolismn.gov/datasets/shots-fired/explore?location=44.969425%2C-93.264019%2C12.00">DATA</a></li>
   <li><a href="https://tableau.minneapolismn.gov/views/MStatGunshotData/GunshotWoundDashboard-byDate?:showAppBanner=false&:display_count=n&:showVizHome=n&:origin=viz_share_link&:iid=6&:isGuestRedirectFromVizportal=y&:embed=y">Minneapolis Gunshot Wounds/Shootings</a></li>
-  <li><a href="https://www.gunviolencearchive.org/query/4c112967-14d3-41b1-871f-2c0dfa095f9b">Gun Violence Archives</a></li>
+  <li><a href="https://www.gunviolencearchive.org/query/4c112967-14d3-41b1-871f-2c0dfa095f9b">Gun Violence Archive</a></li>
 </ul>
 
 <style>

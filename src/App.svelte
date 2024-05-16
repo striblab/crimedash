@@ -49,9 +49,9 @@
 	  { id: 'stp', name: 'St. Paul Public Safety',  component: STP },
 	  { id: 'suburbs', name: 'Suburban Public Safety',  component: Suburbs },
 	  { id: 'statewide', name: 'Statewide Public Safety',  component: Statewide },
-	  { id: 'arrests', name: 'Minnesota Arrests',  component: Arrests },
-	  { id: 'leoka', name: 'Minnesota LEOKA',  component: LEOKA },
-	  { id: 'force', name: 'Minnesota Police Use-of-Force',  component: Force },
+	  { id: 'arrests', name: 'Statewide Arrests',  component: Arrests },
+	  { id: 'leoka', name: 'Statewide LEOKA',  component: LEOKA },
+	  { id: 'force', name: 'Statewide Police Use-of-Force',  component: Force },
 	  { id: 'national', name: 'National Public Safety',  component: National },
 	  { id: 'practices', name: 'Notes & Best Practices',  component: Practices },
 	];
