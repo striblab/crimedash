@@ -16,25 +16,25 @@
 "Corcoran","Domestic Aggravated Assault - Subset of Assault",5,5,6,12,18,4
 "Diamond Lake","Domestic Aggravated Assault - Subset of Assault",7,2,3,1,3,1
 "Downtown East","Domestic Aggravated Assault - Subset of Assault",3,1,4,6,13,0
-"Downtown West","Domestic Aggravated Assault - Subset of Assault",24,19,33,27,25,14
+"Downtown West","Domestic Aggravated Assault - Subset of Assault",24,19,33,27,25,16
 "East Bde Maka Ska","Domestic Aggravated Assault - Subset of Assault",1,0,2,0,2,0
 "East Harriet","Domestic Aggravated Assault - Subset of Assault",3,2,2,2,3,0
 "East Isles","Domestic Aggravated Assault - Subset of Assault",3,3,2,1,4,3
-"East Phillips","Domestic Aggravated Assault - Subset of Assault",27,29,29,40,33,10
+"East Phillips","Domestic Aggravated Assault - Subset of Assault",27,29,29,40,33,11
 "Elliot Park","Domestic Aggravated Assault - Subset of Assault",26,26,21,37,30,5
 "Ericsson","Domestic Aggravated Assault - Subset of Assault",2,2,0,0,2,2
 "Field","Domestic Aggravated Assault - Subset of Assault",1,4,3,6,2,1
 "Folwell","Domestic Aggravated Assault - Subset of Assault",54,44,35,41,29,10
 "Fulton","Domestic Aggravated Assault - Subset of Assault",2,2,0,1,0,1
 "Harrison","Domestic Aggravated Assault - Subset of Assault",10,10,14,18,13,5
-"Hawthorne","Domestic Aggravated Assault - Subset of Assault",47,53,29,42,33,9
+"Hawthorne","Domestic Aggravated Assault - Subset of Assault",47,53,29,42,33,10
 "Hiawatha","Domestic Aggravated Assault - Subset of Assault",11,7,4,1,11,3
 "Holland","Domestic Aggravated Assault - Subset of Assault",10,15,18,10,19,8
 "Howe","Domestic Aggravated Assault - Subset of Assault",4,8,5,5,3,5
-"Jordan","Domestic Aggravated Assault - Subset of Assault",68,67,55,57,59,17
+"Jordan","Domestic Aggravated Assault - Subset of Assault",68,67,55,57,59,19
 "Kenwood","Domestic Aggravated Assault - Subset of Assault",1,2,1,1,0,0
 "King Field","Domestic Aggravated Assault - Subset of Assault",5,9,7,3,8,4
-"Lind - Bohanon","Domestic Aggravated Assault - Subset of Assault",16,23,22,16,9,6
+"Lind - Bohanon","Domestic Aggravated Assault - Subset of Assault",16,23,22,16,9,7
 "Linden Hills","Domestic Aggravated Assault - Subset of Assault",4,2,0,2,2,0
 "Logan Park","Domestic Aggravated Assault - Subset of Assault",1,1,1,6,8,1
 "Longfellow","Domestic Aggravated Assault - Subset of Assault",17,5,10,14,15,5
@@ -55,11 +55,11 @@
 "North Loop","Domestic Aggravated Assault - Subset of Assault",3,5,5,11,6,5
 "Northeast Park","Domestic Aggravated Assault - Subset of Assault",2,1,4,2,1,1
 "Northrop","Domestic Aggravated Assault - Subset of Assault",2,1,6,4,1,1
-"Phillips West","Domestic Aggravated Assault - Subset of Assault",13,13,6,23,19,6
+"Phillips West","Domestic Aggravated Assault - Subset of Assault",13,13,6,23,19,7
 "Powderhorn Park","Domestic Aggravated Assault - Subset of Assault",24,12,18,20,37,14
 "Prospect Park - East River Road","Domestic Aggravated Assault - Subset of Assault",6,8,9,6,12,7
 "Regina","Domestic Aggravated Assault - Subset of Assault",2,4,3,6,4,0
-"Seward","Domestic Aggravated Assault - Subset of Assault",9,11,5,14,17,5
+"Seward","Domestic Aggravated Assault - Subset of Assault",9,11,5,14,17,6
 "Sheridan","Domestic Aggravated Assault - Subset of Assault",2,7,6,5,2,0
 "Shingle Creek","Domestic Aggravated Assault - Subset of Assault",11,7,7,4,5,7
 "South Uptown","Domestic Aggravated Assault - Subset of Assault",4,6,14,4,9,6
@@ -69,7 +69,7 @@
 "Steven's Square - Loring Heights","Domestic Aggravated Assault - Subset of Assault",21,19,18,21,32,10
 "Sumner - Glenwood","Domestic Aggravated Assault - Subset of Assault",9,14,6,12,8,1
 "Tangletown","Domestic Aggravated Assault - Subset of Assault",1,3,2,0,4,0
-"Ventura Village","Domestic Aggravated Assault - Subset of Assault",29,19,17,37,27,7
+"Ventura Village","Domestic Aggravated Assault - Subset of Assault",29,19,17,37,27,8
 "Victory","Domestic Aggravated Assault - Subset of Assault",3,9,9,3,8,5
 "Waite Park","Domestic Aggravated Assault - Subset of Assault",11,1,2,2,3,0
 "Webber - Camden","Domestic Aggravated Assault - Subset of Assault",46,38,20,21,31,15
@@ -104,25 +104,25 @@ NA,"Domestic Aggravated Assault - Subset of Assault",3,4,4,4,7,2
 "Corcoran","Total",5,5,6,12,18,4
 "Diamond Lake","Total",7,2,3,1,3,1
 "Downtown East","Total",3,1,4,6,13,0
-"Downtown West","Total",24,19,33,27,25,14
+"Downtown West","Total",24,19,33,27,25,16
 "East Bde Maka Ska","Total",1,0,2,0,2,0
 "East Harriet","Total",3,2,2,2,3,0
 "East Isles","Total",3,3,2,1,4,3
-"East Phillips","Total",27,29,29,40,33,10
+"East Phillips","Total",27,29,29,40,33,11
 "Elliot Park","Total",26,26,21,37,30,5
 "Ericsson","Total",2,2,0,0,2,2
 "Field","Total",1,4,3,6,2,1
 "Folwell","Total",54,44,35,41,29,10
 "Fulton","Total",2,2,0,1,0,1
 "Harrison","Total",10,10,14,18,13,5
-"Hawthorne","Total",47,53,29,42,33,9
+"Hawthorne","Total",47,53,29,42,33,10
 "Hiawatha","Total",11,7,4,1,11,3
 "Holland","Total",10,15,18,10,19,8
 "Howe","Total",4,8,5,5,3,5
-"Jordan","Total",68,67,55,57,59,17
+"Jordan","Total",68,67,55,57,59,19
 "Kenwood","Total",1,2,1,1,0,0
 "King Field","Total",5,9,7,3,8,4
-"Lind - Bohanon","Total",16,23,22,16,9,6
+"Lind - Bohanon","Total",16,23,22,16,9,7
 "Linden Hills","Total",4,2,0,2,2,0
 "Logan Park","Total",1,1,1,6,8,1
 "Longfellow","Total",17,5,10,14,15,5
@@ -143,11 +143,11 @@ NA,"Domestic Aggravated Assault - Subset of Assault",3,4,4,4,7,2
 "North Loop","Total",3,5,5,11,6,5
 "Northeast Park","Total",2,1,4,2,1,1
 "Northrop","Total",2,1,6,4,1,1
-"Phillips West","Total",13,13,6,23,19,6
+"Phillips West","Total",13,13,6,23,19,7
 "Powderhorn Park","Total",24,12,18,20,37,14
 "Prospect Park - East River Road","Total",6,8,9,6,12,7
 "Regina","Total",2,4,3,6,4,0
-"Seward","Total",9,11,5,14,17,5
+"Seward","Total",9,11,5,14,17,6
 "Sheridan","Total",2,7,6,5,2,0
 "Shingle Creek","Total",11,7,7,4,5,7
 "South Uptown","Total",4,6,14,4,9,6
@@ -157,7 +157,7 @@ NA,"Domestic Aggravated Assault - Subset of Assault",3,4,4,4,7,2
 "Steven's Square - Loring Heights","Total",21,19,18,21,32,10
 "Sumner - Glenwood","Total",9,14,6,12,8,1
 "Tangletown","Total",1,3,2,0,4,0
-"Ventura Village","Total",29,19,17,37,27,7
+"Ventura Village","Total",29,19,17,37,27,8
 "Victory","Total",3,9,9,3,8,5
 "Waite Park","Total",11,1,2,2,3,0
 "Webber - Camden","Total",46,38,20,21,31,15

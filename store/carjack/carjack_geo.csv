@@ -15,7 +15,7 @@
 "East Phillips","Carjacking - Subset of Robbery",2,25,18,10,3
 "Elliot Park","Carjacking - Subset of Robbery",1,2,9,8,0
 "Field","Carjacking - Subset of Robbery",1,5,1,2,1
-"Folwell","Carjacking - Subset of Robbery",1,9,6,6,1
+"Folwell","Carjacking - Subset of Robbery",1,9,6,6,2
 "Fulton","Carjacking - Subset of Robbery",1,3,0,1,0
 "Harrison","Carjacking - Subset of Robbery",1,17,13,6,0
 "Hawthorne","Carjacking - Subset of Robbery",7,17,19,7,5
@@ -26,7 +26,7 @@
 "King Field","Carjacking - Subset of Robbery",4,11,2,5,2
 "Longfellow","Carjacking - Subset of Robbery",1,9,3,5,0
 "Loring Park","Carjacking - Subset of Robbery",1,7,8,7,2
-"Lowry Hill","Carjacking - Subset of Robbery",4,14,7,2,0
+"Lowry Hill","Carjacking - Subset of Robbery",4,14,7,2,1
 "Lowry Hill East","Carjacking - Subset of Robbery",5,17,24,16,5
 "Lyndale","Carjacking - Subset of Robbery",3,10,9,6,3
 "Marcy Holmes","Carjacking - Subset of Robbery",3,13,22,5,1
@@ -47,7 +47,7 @@
 "Ventura Village","Carjacking - Subset of Robbery",12,36,29,14,4
 "Webber - Camden","Carjacking - Subset of Robbery",1,6,5,4,1
 "Whittier","Carjacking - Subset of Robbery",13,46,41,25,6
-"Willard - Hay","Carjacking - Subset of Robbery",4,9,17,13,1
+"Willard - Hay","Carjacking - Subset of Robbery",4,9,17,13,2
 "Windom Park","Carjacking - Subset of Robbery",1,4,2,1,0
 NA,"Carjacking - Subset of Robbery",2,3,2,2,0
 "Armatage","Carjacking - Subset of Robbery",0,1,1,1,0
@@ -102,7 +102,7 @@ NA,"Carjacking - Subset of Robbery",2,3,2,2,0
 "East Phillips","Total",2,25,18,10,3
 "Elliot Park","Total",1,2,9,8,0
 "Field","Total",1,5,1,2,1
-"Folwell","Total",1,9,6,6,1
+"Folwell","Total",1,9,6,6,2
 "Fulton","Total",1,3,0,1,0
 "Harrison","Total",1,17,13,6,0
 "Hawthorne","Total",7,17,19,7,5
@@ -113,7 +113,7 @@ NA,"Carjacking - Subset of Robbery",2,3,2,2,0
 "King Field","Total",4,11,2,5,2
 "Longfellow","Total",1,9,3,5,0
 "Loring Park","Total",1,7,8,7,2
-"Lowry Hill","Total",4,14,7,2,0
+"Lowry Hill","Total",4,14,7,2,1
 "Lowry Hill East","Total",5,17,24,16,5
 "Lyndale","Total",3,10,9,6,3
 "Marcy Holmes","Total",3,13,22,5,1
@@ -134,7 +134,7 @@ NA,"Carjacking - Subset of Robbery",2,3,2,2,0
 "Ventura Village","Total",12,36,29,14,4
 "Webber - Camden","Total",1,6,5,4,1
 "Whittier","Total",13,46,41,25,6
-"Willard - Hay","Total",4,9,17,13,1
+"Willard - Hay","Total",4,9,17,13,2
 "Windom Park","Total",1,4,2,1,0
 NA,"Total",2,3,2,2,0
 "Armatage","Total",0,1,1,1,0
