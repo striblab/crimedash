@@ -17,6 +17,10 @@
 	import Other from './Other.svelte';
 	import Activity from './Activity.svelte';
 	import Precincts from './Precincts.svelte';
+	import Transit from './Transit.svelte';
+	import Park from './Park.svelte';
+	import UMPD from './UMPD.svelte';
+	import MSP from './MSP.svelte';
 	import STP from './STP.svelte';
 	import Suburbs from './Suburbs.svelte';
 	import Statewide from './Statewide.svelte';
@@ -46,6 +50,10 @@
 	  { id: 'activity', name: 'Minneapolis: Police Activity',  component: Activity },
 	  { id: 'precincts', name: 'Minneapolis: Police Precincts',  component: Precincts },
 	  { id: 'staff', name: 'Minneapolis: Police Staffing',  component: Staff },
+	  { id: 'park', name: 'Minneapolis Park Police',  component: Park },
+	  { id: 'transit', name: 'Metro Transit Police',  component: Transit },
+	  { id: 'umpd', name: 'University of Minnesota Police Department',  component: UMPD },
+	  { id: 'msp', name: 'MSP Airport Police Department',  component: MSP },
 	  { id: 'stp', name: 'St. Paul Public Safety',  component: STP },
 	  { id: 'suburbs', name: 'Suburban Public Safety',  component: Suburbs },
 	  { id: 'statewide', name: 'Statewide Public Safety',  component: Statewide },
