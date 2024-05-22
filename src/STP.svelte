@@ -48,7 +48,7 @@
     });
   </script>
 
-<h3>St. Paul Public Safety Trends</h3>
+<h3>St. Paul: Public Safety Trends</h3>
 
 <h4 class="source">Data sources: FBI</h4>
 

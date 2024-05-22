@@ -3,7 +3,7 @@
   </script>
   
   
-  <h3>Minneapolis Park Police</h3>
+  <h3>Minneapolis: Park Police</h3>
   
   <h4 class="source">Data sources: Minneapolis Park Police</h4>
   
