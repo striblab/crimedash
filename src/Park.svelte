@@ -1,7 +1,6 @@
 <script>
 
-  </script>
-  
+</script>
   
   <h3>Minneapolis: Park Police</h3>
   

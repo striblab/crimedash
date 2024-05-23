@@ -17,6 +17,7 @@
 	import Other from './Other.svelte';
 	import Activity from './Activity.svelte';
 	import Precincts from './Precincts.svelte';
+	import Conduct from './Conduct.svelte';
 	import Transit from './Transit.svelte';
 	import Park from './Park.svelte';
 	import UMPD from './UMPD.svelte';
@@ -49,6 +50,7 @@
 	  { id: 'other', name: 'Minneapolis: Other Offenses',  component: Other },
 	  { id: 'activity', name: 'Minneapolis: Police Activity',  component: Activity },
 	  { id: 'precincts', name: 'Minneapolis: Police Precincts',  component: Precincts },
+	  { id: 'conduct', name: 'Minneapolis: Officer Conduct',  component: Conduct },
 	  { id: 'staff', name: 'Minneapolis: Police Staffing',  component: Staff },
 	  { id: 'park', name: 'Minneapolis: Park Police',  component: Park },
 	  { id: 'transit', name: 'Metro Transit Police Department',  component: Transit },
