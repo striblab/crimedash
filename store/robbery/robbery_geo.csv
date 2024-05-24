@@ -27,7 +27,7 @@
 "Field","Robbery",1,6,17,4,5,2
 "Folwell","Robbery",40,38,26,26,18,10
 "Fulton","Robbery",3,3,4,0,2,0
-"Hale","Robbery",2,4,2,2,4,0
+"Hale","Robbery",2,4,2,2,4,1
 "Harrison","Robbery",11,12,34,17,24,3
 "Hawthorne","Robbery",57,76,57,57,47,18
 "Hiawatha","Robbery",7,15,11,20,23,1
@@ -41,11 +41,11 @@
 "Lind - Bohanon","Robbery",12,11,13,11,12,2
 "Linden Hills","Robbery",1,5,6,4,6,0
 "Logan Park","Robbery",1,9,8,8,8,4
-"Longfellow","Robbery",21,33,30,30,22,8
+"Longfellow","Robbery",21,33,30,30,22,9
 "Loring Park","Robbery",32,39,49,38,39,13
 "Lowry Hill","Robbery",3,24,31,23,11,3
 "Lowry Hill East","Robbery",36,55,78,95,52,32
-"Lyndale","Robbery",15,34,44,19,41,17
+"Lyndale","Robbery",15,34,44,19,41,18
 "Lynnhurst","Robbery",1,4,4,0,2,2
 "Marcy Holmes","Robbery",31,42,99,64,33,16
 "Marshall Terrace","Robbery",2,1,3,6,2,3
@@ -58,7 +58,7 @@
 "Northeast Park","Robbery",1,7,8,8,5,5
 "Northrop","Robbery",5,14,21,23,8,3
 "Page","Robbery",1,3,1,0,1,0
-"Phillips West","Robbery",39,42,32,38,40,13
+"Phillips West","Robbery",39,42,32,38,40,14
 "Powderhorn Park","Robbery",34,77,100,94,44,18
 "Prospect Park - East River Road","Robbery",8,19,22,7,8,4
 "Regina","Robbery",2,3,9,16,5,4
@@ -79,7 +79,7 @@
 "Webber - Camden","Robbery",29,24,16,19,12,8
 "Wenonah","Robbery",2,5,6,7,2,1
 "West Maka Ska","Robbery",1,4,5,0,2,0
-"Whittier","Robbery",63,112,159,127,103,51
+"Whittier","Robbery",63,112,159,127,103,52
 "Willard - Hay","Robbery",32,25,35,31,40,9
 "Windom","Robbery",8,11,9,2,7,3
 "Windom Park","Robbery",8,9,13,13,6,6
@@ -114,7 +114,7 @@ NA,"Robbery",6,9,8,11,8,3
 "Field","Total",1,6,17,4,5,2
 "Folwell","Total",40,38,26,26,18,10
 "Fulton","Total",3,3,4,0,2,0
-"Hale","Total",2,4,2,2,4,0
+"Hale","Total",2,4,2,2,4,1
 "Harrison","Total",11,12,34,17,24,3
 "Hawthorne","Total",57,76,57,57,47,18
 "Hiawatha","Total",7,15,11,20,23,1
@@ -128,11 +128,11 @@ NA,"Robbery",6,9,8,11,8,3
 "Lind - Bohanon","Total",12,11,13,11,12,2
 "Linden Hills","Total",1,5,6,4,6,0
 "Logan Park","Total",1,9,8,8,8,4
-"Longfellow","Total",21,33,30,30,22,8
+"Longfellow","Total",21,33,30,30,22,9
 "Loring Park","Total",32,39,49,38,39,13
 "Lowry Hill","Total",3,24,31,23,11,3
 "Lowry Hill East","Total",36,55,78,95,52,32
-"Lyndale","Total",15,34,44,19,41,17
+"Lyndale","Total",15,34,44,19,41,18
 "Lynnhurst","Total",1,4,4,0,2,2
 "Marcy Holmes","Total",31,42,99,64,33,16
 "Marshall Terrace","Total",2,1,3,6,2,3
@@ -145,7 +145,7 @@ NA,"Robbery",6,9,8,11,8,3
 "Northeast Park","Total",1,7,8,8,5,5
 "Northrop","Total",5,14,21,23,8,3
 "Page","Total",1,3,1,0,1,0
-"Phillips West","Total",39,42,32,38,40,13
+"Phillips West","Total",39,42,32,38,40,14
 "Powderhorn Park","Total",34,77,100,94,44,18
 "Prospect Park - East River Road","Total",8,19,22,7,8,4
 "Regina","Total",2,3,9,16,5,4
@@ -166,7 +166,7 @@ NA,"Robbery",6,9,8,11,8,3
 "Webber - Camden","Total",29,24,16,19,12,8
 "Wenonah","Total",2,5,6,7,2,1
 "West Maka Ska","Total",1,4,5,0,2,0
-"Whittier","Total",63,112,159,127,103,51
+"Whittier","Total",63,112,159,127,103,52
 "Willard - Hay","Total",32,25,35,31,40,9
 "Windom","Total",8,11,9,2,7,3
 "Windom Park","Total",8,9,13,13,6,6
