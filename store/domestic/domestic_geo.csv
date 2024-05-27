@@ -4,7 +4,7 @@
 "Bancroft","Domestic Aggravated Assault - Subset of Assault",2,8,3,6,2,3
 "Beltrami","Domestic Aggravated Assault - Subset of Assault",2,3,4,2,0,0
 "Bottineau","Domestic Aggravated Assault - Subset of Assault",1,5,4,11,4,5
-"Bryant","Domestic Aggravated Assault - Subset of Assault",3,5,3,5,3,4
+"Bryant","Domestic Aggravated Assault - Subset of Assault",3,5,3,5,3,5
 "Bryn - Mawr","Domestic Aggravated Assault - Subset of Assault",1,2,2,1,1,2
 "Cedar - Isles - Dean","Domestic Aggravated Assault - Subset of Assault",1,2,0,1,3,0
 "Cedar Riverside","Domestic Aggravated Assault - Subset of Assault",10,10,11,9,15,4
@@ -38,19 +38,19 @@
 "Linden Hills","Domestic Aggravated Assault - Subset of Assault",4,2,0,2,2,0
 "Logan Park","Domestic Aggravated Assault - Subset of Assault",1,1,1,6,8,1
 "Longfellow","Domestic Aggravated Assault - Subset of Assault",17,5,10,14,15,5
-"Loring Park","Domestic Aggravated Assault - Subset of Assault",19,19,21,35,29,11
+"Loring Park","Domestic Aggravated Assault - Subset of Assault",19,19,21,35,29,12
 "Lowry Hill","Domestic Aggravated Assault - Subset of Assault",3,0,1,3,7,4
 "Lowry Hill East","Domestic Aggravated Assault - Subset of Assault",8,12,15,28,23,11
 "Lyndale","Domestic Aggravated Assault - Subset of Assault",10,15,11,12,20,5
 "Lynnhurst","Domestic Aggravated Assault - Subset of Assault",1,0,0,0,0,0
 "Marcy Holmes","Domestic Aggravated Assault - Subset of Assault",12,15,16,19,19,9
 "Marshall Terrace","Domestic Aggravated Assault - Subset of Assault",1,5,1,2,2,2
-"McKinley","Domestic Aggravated Assault - Subset of Assault",26,24,16,17,17,2
+"McKinley","Domestic Aggravated Assault - Subset of Assault",26,24,16,17,17,3
 "Mid - City Industrial","Domestic Aggravated Assault - Subset of Assault",1,0,1,1,0,0
 "Midtown Phillips","Domestic Aggravated Assault - Subset of Assault",26,8,8,21,11,6
 "Minnehaha","Domestic Aggravated Assault - Subset of Assault",3,8,3,5,8,3
 "Morris Park","Domestic Aggravated Assault - Subset of Assault",3,1,6,1,2,1
-"Near - North","Domestic Aggravated Assault - Subset of Assault",65,45,31,40,41,7
+"Near - North","Domestic Aggravated Assault - Subset of Assault",65,45,31,40,41,8
 "Nicollet Island - East Bank","Domestic Aggravated Assault - Subset of Assault",3,4,3,2,7,1
 "North Loop","Domestic Aggravated Assault - Subset of Assault",3,5,5,11,6,5
 "Northeast Park","Domestic Aggravated Assault - Subset of Assault",2,1,4,2,1,1
@@ -59,14 +59,14 @@
 "Powderhorn Park","Domestic Aggravated Assault - Subset of Assault",24,12,18,20,37,14
 "Prospect Park - East River Road","Domestic Aggravated Assault - Subset of Assault",6,8,9,6,12,7
 "Regina","Domestic Aggravated Assault - Subset of Assault",2,4,3,6,4,0
-"Seward","Domestic Aggravated Assault - Subset of Assault",9,11,5,14,17,7
+"Seward","Domestic Aggravated Assault - Subset of Assault",9,11,5,14,17,8
 "Sheridan","Domestic Aggravated Assault - Subset of Assault",2,7,6,5,2,0
 "Shingle Creek","Domestic Aggravated Assault - Subset of Assault",11,7,7,4,5,7
 "South Uptown","Domestic Aggravated Assault - Subset of Assault",4,6,14,4,9,6
 "St. Anthony East","Domestic Aggravated Assault - Subset of Assault",6,1,2,2,1,3
 "St. Anthony West","Domestic Aggravated Assault - Subset of Assault",3,2,1,1,1,1
 "Standish","Domestic Aggravated Assault - Subset of Assault",4,5,1,8,3,4
-"Steven's Square - Loring Heights","Domestic Aggravated Assault - Subset of Assault",21,19,18,21,32,10
+"Steven's Square - Loring Heights","Domestic Aggravated Assault - Subset of Assault",21,19,18,21,32,12
 "Sumner - Glenwood","Domestic Aggravated Assault - Subset of Assault",9,14,6,12,8,1
 "Tangletown","Domestic Aggravated Assault - Subset of Assault",1,3,2,0,4,0
 "Ventura Village","Domestic Aggravated Assault - Subset of Assault",29,19,17,37,27,8
@@ -92,7 +92,7 @@ NA,"Domestic Aggravated Assault - Subset of Assault",3,4,4,4,7,2
 "Bancroft","Total",2,8,3,6,2,3
 "Beltrami","Total",2,3,4,2,0,0
 "Bottineau","Total",1,5,4,11,4,5
-"Bryant","Total",3,5,3,5,3,4
+"Bryant","Total",3,5,3,5,3,5
 "Bryn - Mawr","Total",1,2,2,1,1,2
 "Cedar - Isles - Dean","Total",1,2,0,1,3,0
 "Cedar Riverside","Total",10,10,11,9,15,4
@@ -126,19 +126,19 @@ NA,"Domestic Aggravated Assault - Subset of Assault",3,4,4,4,7,2
 "Linden Hills","Total",4,2,0,2,2,0
 "Logan Park","Total",1,1,1,6,8,1
 "Longfellow","Total",17,5,10,14,15,5
-"Loring Park","Total",19,19,21,35,29,11
+"Loring Park","Total",19,19,21,35,29,12
 "Lowry Hill","Total",3,0,1,3,7,4
 "Lowry Hill East","Total",8,12,15,28,23,11
 "Lyndale","Total",10,15,11,12,20,5
 "Lynnhurst","Total",1,0,0,0,0,0
 "Marcy Holmes","Total",12,15,16,19,19,9
 "Marshall Terrace","Total",1,5,1,2,2,2
-"McKinley","Total",26,24,16,17,17,2
+"McKinley","Total",26,24,16,17,17,3
 "Mid - City Industrial","Total",1,0,1,1,0,0
 "Midtown Phillips","Total",26,8,8,21,11,6
 "Minnehaha","Total",3,8,3,5,8,3
 "Morris Park","Total",3,1,6,1,2,1
-"Near - North","Total",65,45,31,40,41,7
+"Near - North","Total",65,45,31,40,41,8
 "Nicollet Island - East Bank","Total",3,4,3,2,7,1
 "North Loop","Total",3,5,5,11,6,5
 "Northeast Park","Total",2,1,4,2,1,1
@@ -147,14 +147,14 @@ NA,"Domestic Aggravated Assault - Subset of Assault",3,4,4,4,7,2
 "Powderhorn Park","Total",24,12,18,20,37,14
 "Prospect Park - East River Road","Total",6,8,9,6,12,7
 "Regina","Total",2,4,3,6,4,0
-"Seward","Total",9,11,5,14,17,7
+"Seward","Total",9,11,5,14,17,8
 "Sheridan","Total",2,7,6,5,2,0
 "Shingle Creek","Total",11,7,7,4,5,7
 "South Uptown","Total",4,6,14,4,9,6
 "St. Anthony East","Total",6,1,2,2,1,3
 "St. Anthony West","Total",3,2,1,1,1,1
 "Standish","Total",4,5,1,8,3,4
-"Steven's Square - Loring Heights","Total",21,19,18,21,32,10
+"Steven's Square - Loring Heights","Total",21,19,18,21,32,12
 "Sumner - Glenwood","Total",9,14,6,12,8,1
 "Tangletown","Total",1,3,2,0,4,0
 "Ventura Village","Total",29,19,17,37,27,8
