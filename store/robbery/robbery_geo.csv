@@ -9,7 +9,7 @@
 "Camden Industrial","Robbery",2,1,3,1,1,0
 "Cedar - Isles - Dean","Robbery",1,4,3,2,7,4
 "Cedar Riverside","Robbery",29,50,28,32,22,8
-"Central","Robbery",29,80,84,60,51,22
+"Central","Robbery",29,80,84,60,51,23
 "Cleveland","Robbery",13,8,18,13,8,3
 "Columbia Park","Robbery",6,2,1,2,2,2
 "Como","Robbery",3,9,12,9,3,8
@@ -17,15 +17,15 @@
 "Corcoran","Robbery",10,17,30,20,18,6
 "Diamond Lake","Robbery",2,7,2,2,6,2
 "Downtown East","Robbery",5,9,9,7,17,3
-"Downtown West","Robbery",207,117,159,152,88,16
+"Downtown West","Robbery",207,117,159,152,88,18
 "East Bde Maka Ska","Robbery",1,7,11,10,10,5
-"East Harriet","Robbery",4,4,10,9,6,5
-"East Isles","Robbery",7,22,40,26,23,15
-"East Phillips","Robbery",58,50,68,65,47,13
+"East Harriet","Robbery",4,4,10,9,6,6
+"East Isles","Robbery",7,22,40,26,23,16
+"East Phillips","Robbery",58,50,68,65,47,14
 "Elliot Park","Robbery",23,18,27,31,34,5
 "Ericsson","Robbery",5,5,4,1,3,2
 "Field","Robbery",1,6,17,4,5,2
-"Folwell","Robbery",40,38,26,26,18,10
+"Folwell","Robbery",40,38,26,26,18,13
 "Fulton","Robbery",3,3,4,0,2,0
 "Hale","Robbery",2,4,2,2,4,1
 "Harrison","Robbery",11,12,34,17,24,3
@@ -43,7 +43,7 @@
 "Logan Park","Robbery",1,9,8,8,8,4
 "Longfellow","Robbery",21,33,30,30,22,10
 "Loring Park","Robbery",32,39,49,38,39,13
-"Lowry Hill","Robbery",3,24,31,23,11,6
+"Lowry Hill","Robbery",3,24,31,23,11,7
 "Lowry Hill East","Robbery",36,55,78,95,52,34
 "Lyndale","Robbery",15,34,44,19,41,19
 "Lynnhurst","Robbery",1,4,4,0,2,3
@@ -79,7 +79,7 @@
 "Webber - Camden","Robbery",29,24,16,19,12,8
 "Wenonah","Robbery",2,5,6,7,2,1
 "West Maka Ska","Robbery",1,4,5,0,2,0
-"Whittier","Robbery",63,112,159,127,103,52
+"Whittier","Robbery",63,112,159,127,103,53
 "Willard - Hay","Robbery",32,25,35,31,40,9
 "Windom","Robbery",8,11,9,2,7,3
 "Windom Park","Robbery",8,9,13,13,6,6
@@ -96,7 +96,7 @@ NA,"Robbery",6,9,8,11,8,2
 "Camden Industrial","Total",2,1,3,1,1,0
 "Cedar - Isles - Dean","Total",1,4,3,2,7,4
 "Cedar Riverside","Total",29,50,28,32,22,8
-"Central","Total",29,80,84,60,51,22
+"Central","Total",29,80,84,60,51,23
 "Cleveland","Total",13,8,18,13,8,3
 "Columbia Park","Total",6,2,1,2,2,2
 "Como","Total",3,9,12,9,3,8
@@ -104,15 +104,15 @@ NA,"Robbery",6,9,8,11,8,2
 "Corcoran","Total",10,17,30,20,18,6
 "Diamond Lake","Total",2,7,2,2,6,2
 "Downtown East","Total",5,9,9,7,17,3
-"Downtown West","Total",207,117,159,152,88,16
+"Downtown West","Total",207,117,159,152,88,18
 "East Bde Maka Ska","Total",1,7,11,10,10,5
-"East Harriet","Total",4,4,10,9,6,5
-"East Isles","Total",7,22,40,26,23,15
-"East Phillips","Total",58,50,68,65,47,13
+"East Harriet","Total",4,4,10,9,6,6
+"East Isles","Total",7,22,40,26,23,16
+"East Phillips","Total",58,50,68,65,47,14
 "Elliot Park","Total",23,18,27,31,34,5
 "Ericsson","Total",5,5,4,1,3,2
 "Field","Total",1,6,17,4,5,2
-"Folwell","Total",40,38,26,26,18,10
+"Folwell","Total",40,38,26,26,18,13
 "Fulton","Total",3,3,4,0,2,0
 "Hale","Total",2,4,2,2,4,1
 "Harrison","Total",11,12,34,17,24,3
@@ -130,7 +130,7 @@ NA,"Robbery",6,9,8,11,8,2
 "Logan Park","Total",1,9,8,8,8,4
 "Longfellow","Total",21,33,30,30,22,10
 "Loring Park","Total",32,39,49,38,39,13
-"Lowry Hill","Total",3,24,31,23,11,6
+"Lowry Hill","Total",3,24,31,23,11,7
 "Lowry Hill East","Total",36,55,78,95,52,34
 "Lyndale","Total",15,34,44,19,41,19
 "Lynnhurst","Total",1,4,4,0,2,3
@@ -166,7 +166,7 @@ NA,"Robbery",6,9,8,11,8,2
 "Webber - Camden","Total",29,24,16,19,12,8
 "Wenonah","Total",2,5,6,7,2,1
 "West Maka Ska","Total",1,4,5,0,2,0
-"Whittier","Total",63,112,159,127,103,52
+"Whittier","Total",63,112,159,127,103,53
 "Willard - Hay","Total",32,25,35,31,40,9
 "Windom","Total",8,11,9,2,7,3
 "Windom Park","Total",8,9,13,13,6,6
