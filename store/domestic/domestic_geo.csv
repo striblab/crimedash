@@ -19,8 +19,8 @@
 "Downtown West","Domestic Aggravated Assault - Subset of Assault",24,19,33,27,25,16
 "East Bde Maka Ska","Domestic Aggravated Assault - Subset of Assault",1,0,2,0,2,0
 "East Harriet","Domestic Aggravated Assault - Subset of Assault",3,2,2,2,3,0
-"East Isles","Domestic Aggravated Assault - Subset of Assault",3,3,2,1,4,3
-"East Phillips","Domestic Aggravated Assault - Subset of Assault",27,29,29,40,33,12
+"East Isles","Domestic Aggravated Assault - Subset of Assault",3,3,2,1,4,4
+"East Phillips","Domestic Aggravated Assault - Subset of Assault",27,29,29,40,33,13
 "Elliot Park","Domestic Aggravated Assault - Subset of Assault",26,26,21,37,30,5
 "Ericsson","Domestic Aggravated Assault - Subset of Assault",2,2,0,0,2,2
 "Field","Domestic Aggravated Assault - Subset of Assault",1,4,3,6,2,1
@@ -52,7 +52,7 @@
 "Morris Park","Domestic Aggravated Assault - Subset of Assault",3,1,6,1,2,1
 "Near - North","Domestic Aggravated Assault - Subset of Assault",65,45,31,40,41,8
 "Nicollet Island - East Bank","Domestic Aggravated Assault - Subset of Assault",3,4,3,2,7,1
-"North Loop","Domestic Aggravated Assault - Subset of Assault",3,5,5,11,6,5
+"North Loop","Domestic Aggravated Assault - Subset of Assault",3,5,5,11,6,6
 "Northeast Park","Domestic Aggravated Assault - Subset of Assault",2,1,4,2,1,1
 "Northrop","Domestic Aggravated Assault - Subset of Assault",2,1,6,4,1,2
 "Phillips West","Domestic Aggravated Assault - Subset of Assault",13,13,6,23,19,7
@@ -62,7 +62,7 @@
 "Seward","Domestic Aggravated Assault - Subset of Assault",9,11,5,14,17,8
 "Sheridan","Domestic Aggravated Assault - Subset of Assault",2,7,6,5,2,0
 "Shingle Creek","Domestic Aggravated Assault - Subset of Assault",11,7,7,4,5,7
-"South Uptown","Domestic Aggravated Assault - Subset of Assault",4,6,14,4,9,6
+"South Uptown","Domestic Aggravated Assault - Subset of Assault",4,6,14,4,9,7
 "St. Anthony East","Domestic Aggravated Assault - Subset of Assault",6,1,2,2,1,3
 "St. Anthony West","Domestic Aggravated Assault - Subset of Assault",3,2,1,1,1,1
 "Standish","Domestic Aggravated Assault - Subset of Assault",4,5,1,8,3,4
@@ -107,8 +107,8 @@ NA,"Domestic Aggravated Assault - Subset of Assault",3,4,4,4,7,2
 "Downtown West","Total",24,19,33,27,25,16
 "East Bde Maka Ska","Total",1,0,2,0,2,0
 "East Harriet","Total",3,2,2,2,3,0
-"East Isles","Total",3,3,2,1,4,3
-"East Phillips","Total",27,29,29,40,33,12
+"East Isles","Total",3,3,2,1,4,4
+"East Phillips","Total",27,29,29,40,33,13
 "Elliot Park","Total",26,26,21,37,30,5
 "Ericsson","Total",2,2,0,0,2,2
 "Field","Total",1,4,3,6,2,1
@@ -140,7 +140,7 @@ NA,"Domestic Aggravated Assault - Subset of Assault",3,4,4,4,7,2
 "Morris Park","Total",3,1,6,1,2,1
 "Near - North","Total",65,45,31,40,41,8
 "Nicollet Island - East Bank","Total",3,4,3,2,7,1
-"North Loop","Total",3,5,5,11,6,5
+"North Loop","Total",3,5,5,11,6,6
 "Northeast Park","Total",2,1,4,2,1,1
 "Northrop","Total",2,1,6,4,1,2
 "Phillips West","Total",13,13,6,23,19,7
@@ -150,7 +150,7 @@ NA,"Domestic Aggravated Assault - Subset of Assault",3,4,4,4,7,2
 "Seward","Total",9,11,5,14,17,8
 "Sheridan","Total",2,7,6,5,2,0
 "Shingle Creek","Total",11,7,7,4,5,7
-"South Uptown","Total",4,6,14,4,9,6
+"South Uptown","Total",4,6,14,4,9,7
 "St. Anthony East","Total",6,1,2,2,1,3
 "St. Anthony West","Total",3,2,1,1,1,1
 "Standish","Total",4,5,1,8,3,4
