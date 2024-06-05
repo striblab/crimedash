@@ -1,6 +1,6 @@
 "Neighborhood","Offense","2019","2020","2021","2022","2023","2024"
 "Audubon Park","Drug/Narcotic Violations",12,7,2,3,3,1
-"Bancroft","Drug/Narcotic Violations",6,2,3,2,1,1
+"Bancroft","Drug/Narcotic Violations",6,2,3,2,1,2
 "Beltrami","Drug/Narcotic Violations",9,3,2,3,1,1
 "Bottineau","Drug/Narcotic Violations",3,2,1,5,2,0
 "Bryant","Drug/Narcotic Violations",3,3,1,1,0,1
@@ -16,12 +16,12 @@
 "Corcoran","Drug/Narcotic Violations",14,5,6,8,9,5
 "Diamond Lake","Drug/Narcotic Violations",2,2,0,0,0,1
 "Downtown East","Drug/Narcotic Violations",32,18,16,20,27,4
-"Downtown West","Drug/Narcotic Violations",244,114,61,117,146,37
+"Downtown West","Drug/Narcotic Violations",244,114,61,117,146,38
 "East Bde Maka Ska","Drug/Narcotic Violations",1,3,0,0,4,3
 "East Harriet","Drug/Narcotic Violations",4,0,3,2,4,1
 "East Isles","Drug/Narcotic Violations",11,2,7,3,16,6
 "East Phillips","Drug/Narcotic Violations",78,44,33,43,81,30
-"Elliot Park","Drug/Narcotic Violations",56,29,29,46,50,31
+"Elliot Park","Drug/Narcotic Violations",56,29,29,46,50,32
 "Ericsson","Drug/Narcotic Violations",4,5,2,0,3,1
 "Field","Drug/Narcotic Violations",1,3,1,0,0,1
 "Folwell","Drug/Narcotic Violations",36,41,25,20,42,12
@@ -31,7 +31,7 @@
 "Hiawatha","Drug/Narcotic Violations",8,5,8,4,10,1
 "Holland","Drug/Narcotic Violations",37,22,9,9,13,2
 "Howe","Drug/Narcotic Violations",9,9,5,5,4,1
-"Jordan","Drug/Narcotic Violations",51,60,31,38,47,7
+"Jordan","Drug/Narcotic Violations",51,60,31,38,47,8
 "Keewaydin","Drug/Narcotic Violations",2,1,1,2,1,2
 "Kenwood","Drug/Narcotic Violations",3,4,4,0,0,0
 "King Field","Drug/Narcotic Violations",10,4,6,1,8,2
@@ -52,8 +52,8 @@
 "Morris Park","Drug/Narcotic Violations",2,3,0,2,1,0
 "Near - North","Drug/Narcotic Violations",65,56,37,57,24,4
 "Nicollet Island - East Bank","Drug/Narcotic Violations",11,3,5,4,1,1
-"North Loop","Drug/Narcotic Violations",26,18,17,14,21,5
-"Northeast Park","Drug/Narcotic Violations",12,6,10,8,7,2
+"North Loop","Drug/Narcotic Violations",26,18,17,14,21,6
+"Northeast Park","Drug/Narcotic Violations",12,6,10,8,7,3
 "Northrop","Drug/Narcotic Violations",1,3,4,1,1,1
 "Phillips West","Drug/Narcotic Violations",26,8,9,14,27,5
 "Powderhorn Park","Drug/Narcotic Violations",27,24,13,22,24,8
@@ -76,7 +76,7 @@
 "Webber - Camden","Drug/Narcotic Violations",36,27,12,20,32,8
 "Wenonah","Drug/Narcotic Violations",4,4,7,3,1,0
 "West Maka Ska","Drug/Narcotic Violations",1,1,0,0,0,1
-"Whittier","Drug/Narcotic Violations",69,46,38,62,83,28
+"Whittier","Drug/Narcotic Violations",69,46,38,62,83,29
 "Willard - Hay","Drug/Narcotic Violations",27,43,11,8,18,9
 "Windom","Drug/Narcotic Violations",8,8,2,1,3,0
 "Windom Park","Drug/Narcotic Violations",27,10,5,8,3,0
@@ -87,7 +87,7 @@ NA,"Drug/Narcotic Violations",69,47,34,31,19,10
 "Page","Drug/Narcotic Violations",0,1,0,0,0,0
 "Kenny","Drug/Narcotic Violations",0,0,2,0,0,0
 "Audubon Park","Total",12,7,2,3,3,1
-"Bancroft","Total",6,2,3,2,1,1
+"Bancroft","Total",6,2,3,2,1,2
 "Beltrami","Total",9,3,2,3,1,1
 "Bottineau","Total",3,2,1,5,2,0
 "Bryant","Total",3,3,1,1,0,1
@@ -103,12 +103,12 @@ NA,"Drug/Narcotic Violations",69,47,34,31,19,10
 "Corcoran","Total",14,5,6,8,9,5
 "Diamond Lake","Total",2,2,0,0,0,1
 "Downtown East","Total",32,18,16,20,27,4
-"Downtown West","Total",244,114,61,117,146,37
+"Downtown West","Total",244,114,61,117,146,38
 "East Bde Maka Ska","Total",1,3,0,0,4,3
 "East Harriet","Total",4,0,3,2,4,1
 "East Isles","Total",11,2,7,3,16,6
 "East Phillips","Total",78,44,33,43,81,30
-"Elliot Park","Total",56,29,29,46,50,31
+"Elliot Park","Total",56,29,29,46,50,32
 "Ericsson","Total",4,5,2,0,3,1
 "Field","Total",1,3,1,0,0,1
 "Folwell","Total",36,41,25,20,42,12
@@ -118,7 +118,7 @@ NA,"Drug/Narcotic Violations",69,47,34,31,19,10
 "Hiawatha","Total",8,5,8,4,10,1
 "Holland","Total",37,22,9,9,13,2
 "Howe","Total",9,9,5,5,4,1
-"Jordan","Total",51,60,31,38,47,7
+"Jordan","Total",51,60,31,38,47,8
 "Keewaydin","Total",2,1,1,2,1,2
 "Kenwood","Total",3,4,4,0,0,0
 "King Field","Total",10,4,6,1,8,2
@@ -139,8 +139,8 @@ NA,"Drug/Narcotic Violations",69,47,34,31,19,10
 "Morris Park","Total",2,3,0,2,1,0
 "Near - North","Total",65,56,37,57,24,4
 "Nicollet Island - East Bank","Total",11,3,5,4,1,1
-"North Loop","Total",26,18,17,14,21,5
-"Northeast Park","Total",12,6,10,8,7,2
+"North Loop","Total",26,18,17,14,21,6
+"Northeast Park","Total",12,6,10,8,7,3
 "Northrop","Total",1,3,4,1,1,1
 "Phillips West","Total",26,8,9,14,27,5
 "Powderhorn Park","Total",27,24,13,22,24,8
@@ -163,7 +163,7 @@ NA,"Drug/Narcotic Violations",69,47,34,31,19,10
 "Webber - Camden","Total",36,27,12,20,32,8
 "Wenonah","Total",4,4,7,3,1,0
 "West Maka Ska","Total",1,1,0,0,0,1
-"Whittier","Total",69,46,38,62,83,28
+"Whittier","Total",69,46,38,62,83,29
 "Willard - Hay","Total",27,43,11,8,18,9
 "Windom","Total",8,8,2,1,3,0
 "Windom Park","Total",27,10,5,8,3,0

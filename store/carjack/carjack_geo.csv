@@ -4,7 +4,7 @@
 "Bottineau","Carjacking - Subset of Robbery",1,3,1,0,1
 "Bryant","Carjacking - Subset of Robbery",3,6,2,0,0
 "Bryn - Mawr","Carjacking - Subset of Robbery",1,2,4,1,0
-"Cedar Riverside","Carjacking - Subset of Robbery",3,6,7,6,1
+"Cedar Riverside","Carjacking - Subset of Robbery",3,6,7,6,2
 "Central","Carjacking - Subset of Robbery",11,40,24,11,4
 "Cleveland","Carjacking - Subset of Robbery",1,6,3,3,1
 "Como","Carjacking - Subset of Robbery",1,3,1,1,1
@@ -26,30 +26,30 @@
 "King Field","Carjacking - Subset of Robbery",4,11,2,5,2
 "Longfellow","Carjacking - Subset of Robbery",1,9,3,5,1
 "Loring Park","Carjacking - Subset of Robbery",1,7,8,7,3
-"Lowry Hill","Carjacking - Subset of Robbery",4,14,7,2,1
+"Lowry Hill","Carjacking - Subset of Robbery",4,14,7,2,2
 "Lowry Hill East","Carjacking - Subset of Robbery",5,17,24,16,6
 "Lyndale","Carjacking - Subset of Robbery",3,10,9,6,6
-"Marcy Holmes","Carjacking - Subset of Robbery",3,13,22,5,1
+"Marcy Holmes","Carjacking - Subset of Robbery",3,13,22,5,2
 "McKinley","Carjacking - Subset of Robbery",2,10,2,5,1
-"Midtown Phillips","Carjacking - Subset of Robbery",10,20,27,8,2
+"Midtown Phillips","Carjacking - Subset of Robbery",10,20,27,8,3
 "Near - North","Carjacking - Subset of Robbery",3,23,14,9,2
 "Northeast Park","Carjacking - Subset of Robbery",1,0,2,1,1
 "Northrop","Carjacking - Subset of Robbery",3,9,6,3,2
 "Phillips West","Carjacking - Subset of Robbery",5,8,13,11,1
 "Powderhorn Park","Carjacking - Subset of Robbery",6,38,27,6,6
 "Prospect Park - East River Road","Carjacking - Subset of Robbery",2,5,1,0,0
-"Seward","Carjacking - Subset of Robbery",12,24,12,7,4
+"Seward","Carjacking - Subset of Robbery",12,24,12,7,6
 "Sheridan","Carjacking - Subset of Robbery",3,5,3,1,0
 "South Uptown","Carjacking - Subset of Robbery",7,9,8,3,3
 "Standish","Carjacking - Subset of Robbery",4,7,1,2,1
 "Sumner - Glenwood","Carjacking - Subset of Robbery",1,12,6,3,3
 "Tangletown","Carjacking - Subset of Robbery",1,2,1,2,0
-"Ventura Village","Carjacking - Subset of Robbery",12,36,29,14,5
+"Ventura Village","Carjacking - Subset of Robbery",12,36,29,14,6
 "Webber - Camden","Carjacking - Subset of Robbery",1,6,5,4,1
 "Whittier","Carjacking - Subset of Robbery",13,46,41,25,7
 "Willard - Hay","Carjacking - Subset of Robbery",4,9,17,13,3
 "Windom Park","Carjacking - Subset of Robbery",1,4,2,1,0
-NA,"Carjacking - Subset of Robbery",2,3,2,2,0
+NA,"Carjacking - Subset of Robbery",2,3,2,2,1
 "Armatage","Carjacking - Subset of Robbery",0,1,1,1,0
 "Audubon Park","Carjacking - Subset of Robbery",0,4,3,2,0
 "Camden Industrial","Carjacking - Subset of Robbery",0,1,0,0,0
@@ -91,7 +91,7 @@ NA,"Carjacking - Subset of Robbery",2,3,2,2,0
 "Bottineau","Total",1,3,1,0,1
 "Bryant","Total",3,6,2,0,0
 "Bryn - Mawr","Total",1,2,4,1,0
-"Cedar Riverside","Total",3,6,7,6,1
+"Cedar Riverside","Total",3,6,7,6,2
 "Central","Total",11,40,24,11,4
 "Cleveland","Total",1,6,3,3,1
 "Como","Total",1,3,1,1,1
@@ -113,30 +113,30 @@ NA,"Carjacking - Subset of Robbery",2,3,2,2,0
 "King Field","Total",4,11,2,5,2
 "Longfellow","Total",1,9,3,5,1
 "Loring Park","Total",1,7,8,7,3
-"Lowry Hill","Total",4,14,7,2,1
+"Lowry Hill","Total",4,14,7,2,2
 "Lowry Hill East","Total",5,17,24,16,6
 "Lyndale","Total",3,10,9,6,6
-"Marcy Holmes","Total",3,13,22,5,1
+"Marcy Holmes","Total",3,13,22,5,2
 "McKinley","Total",2,10,2,5,1
-"Midtown Phillips","Total",10,20,27,8,2
+"Midtown Phillips","Total",10,20,27,8,3
 "Near - North","Total",3,23,14,9,2
 "Northeast Park","Total",1,0,2,1,1
 "Northrop","Total",3,9,6,3,2
 "Phillips West","Total",5,8,13,11,1
 "Powderhorn Park","Total",6,38,27,6,6
 "Prospect Park - East River Road","Total",2,5,1,0,0
-"Seward","Total",12,24,12,7,4
+"Seward","Total",12,24,12,7,6
 "Sheridan","Total",3,5,3,1,0
 "South Uptown","Total",7,9,8,3,3
 "Standish","Total",4,7,1,2,1
 "Sumner - Glenwood","Total",1,12,6,3,3
 "Tangletown","Total",1,2,1,2,0
-"Ventura Village","Total",12,36,29,14,5
+"Ventura Village","Total",12,36,29,14,6
 "Webber - Camden","Total",1,6,5,4,1
 "Whittier","Total",13,46,41,25,7
 "Willard - Hay","Total",4,9,17,13,3
 "Windom Park","Total",1,4,2,1,0
-NA,"Total",2,3,2,2,0
+NA,"Total",2,3,2,2,1
 "Armatage","Total",0,1,1,1,0
 "Audubon Park","Total",0,4,3,2,0
 "Camden Industrial","Total",0,1,0,0,0
