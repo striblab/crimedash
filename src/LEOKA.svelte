@@ -103,7 +103,7 @@ onMount(() => {
 
 <h4 class="source">Data sources: Minnesota Bureau of Criminal Apprehension, FBI</h4>
 
-<p>Assaults against police in Minnesota are up about <strong>160%</strong> since 2010, the spike starting in 2020.</p>
+<p>Assault incidents against police in Minnesota are up about <strong>160%</strong> since 2010, the spike starting in 2020.</p>
 
 <div class="chart-container">
   <canvas id="assaultChart"></canvas>
@@ -112,23 +112,43 @@ onMount(() => {
 
 <p>&nbsp;</p>
 
-<p>Since 2021, BCA reports more 3,500 assaults against police officers. About 70% were simple assaults like punches, kicks, slaps, bites, etc. About a quarter were aggravated assaults with a deadly weapon like firearms, knives or automobiles. The rest were recorded as intimidation.</p>
+<p>This is an increase we see statewide, in aggregate, and trendlines may look different for specific departments. Mid-year trends are difficult to isolate since assaults on police follow crime trends, which swell during the summer months.</p>
 
-<p>Of those more than 3,500 assaults, police were responding to disturbance calls about 30% of the time.</p>
+<p>Since 2021, BCA reports about 4,000 assault offenses against police officers. About 70% were simple assaults like punches, kicks, slaps, shoving, spitting, biting, etc or attempts at any of those. About a quarter were aggravated assaults where suspect used deadly weapon like firearms, knives and automobiles to threaten or inflict harm upon officers. The remaining offenses were recorded as intimidation.</p>
+
+<p>Of those roughly 4,000 assault offenses, police were responding to disturbance calls about a third of the time.</p>
 
 <div class="chart-container">
   <canvas id="incidentsChart"></canvas>
 </div>
-<div class="download"><a href="../store/leoka/mn_leoka.xlsx">Download Minnesota LEOKA statistics 2021-2023</a></div>
 
 <p>&nbsp;</p>
 
-<p>About <strong class="fel">{totalFelonious}</strong> Minnesota police officers have been killed feloniously and <strong class="acc">{totalAccidental}</strong> accidentally since 1970.</p>
+<p>About <strong class="fel">{totalFelonious}</strong> Minnesota police officers have been slain in the line of duty and <strong class="acc">{totalAccidental}</strong> have died in accidents while performing their duties since 1970.</p>
 
 <div class="chart-container">
   <canvas id="killedChart"></canvas>
 </div>
 <div class="download"><a href="../store/leoka/mn_leo_killed.csv">Download Minnesota LEO killed data 1970-2024</a></div>
+
+<h4>Some notes about LEOKA data:</h4>
+
+<ul id="tips" style="list-style-type: square;">
+    <li>LEOKA data appears in annual Minnesota Uniform Crime Reports dating back decades, the earliest clear example appearing in 1970-1971.</li>
+    <li>LEOKA statistics are almost always broken down by assault incidents against police, and individual assault offenses within those incidents – be cautious describing the metric you're using (e.g. 2023 recorded 980 assault incidents against officers, and 1,233 separate offenses against officers).</li>
+    <li>Because LEOKA already differentiated between incidents and offenses, it seems statistically unaffected by statewide shifts to NIBRS. The only protocol change to LEOKA <a href="https://ucr.fbi.gov/nibrs/nibrsadd_leoka.pdf">required additional details on the submission form</a>.</li>
+    <li>NIBRS does allow LEOKA statistics to be reotractively updated, so don't be surprised if <a href="https://cde.state.mn.us/LawEnforcementOfficersKilledandAssaulted/LawEnforcementOfficersKilledandAssaulted">dashboards</a> show varying numbers over time.</li>
+    <li>Some feel that using LEOKA numbers in a vaccuum is faulty – but isolating relevant comparable baseline metrics is challenging. The reasons behind increased attacks on police seem to be myriad, and rising crime rates and police calls are likely among the drivers.</li>
+    <li>But since most LEOKA incidents occur while officers are attempting to arrest or pursue suspects, arrests seem to provide the best (however imperfect) baseline for comparson. Arrests have been declining for years, even amid this jump in assaults on police.</li>
+    <img src="./store/leoka/arrests.png" /> 
+    <li>Aggravated assaults have also started falling from their 2021 peak as assaults on police rise.</li>
+    <img src="./store/leoka/assaults.png" />
+    <li>Even just isolating assaults on police with firearms, the trendline rises rapidly from 2020 onward. <em><a href="https://minnesotareformer.com/2024/02/19/more-criminal-suspects-are-shooting-at-minnesota-police-officers-data-show/">The Minnesota Reformer</a></em> has a solid piece on this.</li>
+    <img src="./store/leoka/fireams.png" />
+    <li>Critics also argue LEOKA numbers are relatively small, particularly slayings of officers. But this is the same argument used against quantifying police use-of-force, particularly deadly force. The number of police-involved killings, justified and unjustified, could be easily washed out in rates of overall law enforcement activity. But we don't assign statistical relevance to human lives, and record every murder regardless of circumstance.</li>
+</ul>
+
+<div class="download"><a href="../store/leoka/mn_leoka.xlsx">Download Minnesota LEOKA statistics over time</a></div>
 
 <p>&nbsp;</p>
 
@@ -149,4 +169,12 @@ onMount(() => {
   .fel {
     color:#ff7994;
   }
+  span {
+    text-decoration-line: underline;
+}
+#tips li {
+    line-height:180%;
+    margin-top:10px;
+    margin-bottom:10px
+}
 </style>
