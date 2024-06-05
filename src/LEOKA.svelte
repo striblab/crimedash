@@ -112,9 +112,9 @@ onMount(() => {
 
 <p>&nbsp;</p>
 
-<p>This is an increase we see statewide, in aggregate, and trendlines may look different for specific departments. Mid-year trends are difficult to isolate since assaults on police follow crime trends, which swell during the summer months.</p>
+<p>This increase is a statewide aggregate, so trendlines may look different for specific departments. Midyear trends are difficult to isolate since assaults on police follow crime trends, which swell during summer months.</p>
 
-<p>Since 2021, BCA reports about 4,000 assault offenses against police officers. About 70% were simple assaults like punches, kicks, slaps, shoving, spitting, biting, etc or attempts at any of those. About a quarter were aggravated assaults where suspect used deadly weapon like firearms, knives and automobiles to threaten or inflict harm upon officers. The remaining offenses were recorded as intimidation.</p>
+<p>Since 2021, the BCA reports about 4,000 assault offenses against police officers. About 70% were simple assaults like punches, kicks, slaps, shoving, spitting, biting, etc or attempts at any of those. About a quarter were aggravated assaults where suspect used deadly weapon like firearms, knives and automobiles to threaten or inflict harm upon officers. The remaining offenses were recorded as intimidation.</p>
 
 <p>Of those roughly 4,000 assault offenses, police were responding to disturbance calls about a third of the time.</p>
 
