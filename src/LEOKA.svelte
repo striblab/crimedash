@@ -140,11 +140,11 @@ onMount(() => {
     <li>NIBRS does allow LEOKA statistics to be reotractively updated, so don't be surprised if <a href="https://cde.state.mn.us/LawEnforcementOfficersKilledandAssaulted/LawEnforcementOfficersKilledandAssaulted">dashboards</a> show varying numbers over time.</li>
     <li>Some feel that using LEOKA numbers in a vaccuum is faulty – but isolating relevant comparable baseline metrics is challenging. The reasons behind increased attacks on police seem to be myriad, and rising crime rates and police calls are likely among the drivers.</li>
     <li>But since most LEOKA incidents occur while officers are attempting to arrest or pursue suspects, arrests seem to provide the best (however imperfect) baseline for comparson. Arrests have been declining for years, even amid this jump in assaults on police.</li>
-    <img src="./store/leoka/arrests.png" /> 
+    <img src="../store/leoka/arrests.png" /> 
     <li>Aggravated assaults have also started falling from their 2021 peak as assaults on police rise.</li>
-    <img src="./store/leoka/assaults.png" />
+    <img src="../store/leoka/assaults.png" />
     <li>Even just isolating assaults on police with firearms, the trendline rises rapidly from 2020 onward. <em><a href="https://minnesotareformer.com/2024/02/19/more-criminal-suspects-are-shooting-at-minnesota-police-officers-data-show/">The Minnesota Reformer</a></em> has a solid piece on this.</li>
-    <img src="./store/leoka/fireams.png" />
+    <img src="../store/leoka/fireams.png" />
     <li>Critics also argue LEOKA numbers are relatively small, particularly slayings of officers. But this is the same argument used against quantifying police use-of-force, particularly deadly force. The number of police-involved killings, justified and unjustified, could be easily washed out in rates of overall law enforcement activity. But we don't assign statistical relevance to human lives, and record every murder regardless of circumstance.</li>
 </ul>
 
