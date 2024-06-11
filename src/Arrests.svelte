@@ -1,10 +1,58 @@
 <script>
+  import { onMount } from 'svelte';
+  import Chart from 'chart.js/auto';
+  import arrests from '../store/arrests/arrests.json';
 
+  let arrestsChart;
+
+  function createChart(ctx, chartData, title, type = 'line') {
+      return new Chart(ctx, {
+      type: type,
+      data: {
+          labels: chartData.map(item => item.year.toString()),
+          datasets: [{
+          label: title,
+          data: chartData.map(item => item.incidents), 
+          backgroundColor: 'rgba(70, 130, 180, 0.8)',
+          borderColor: 'rgba(70, 130, 180, 1)',
+          borderWidth: 1
+          }]
+      },
+      options: {
+          responsive: true,
+          maintainAspectRatio: false,
+          scales: {
+          y: {
+              beginAtZero: true,
+              title: {
+              display: true,
+              text: ' '
+              }
+          }
+          }
+      }
+      });
+  }
+
+  onMount(() => {
+      const ctxArrests = document.getElementById('arrestsChart').getContext('2d');
+      arrestsChart = createChart(ctxArrests, arrests, 'Statewide Arrests');
+  });
 </script>
-
 <h3>Minnesota Arrests</h3>
 
 <h4 class="source">Data sources: Minnesota Bureau of Criminal Apprehension</h4>
+
+<p>Volumes of arrests across Minnesota have been declining for years.</p>
+
+<div class="chart-container">
+  <canvas id="arrestsChart"></canvas>
+</div>
+<div class="download"><a href="../store/arrests/arrests.xlsx">Download Minnesota arrests data, 2004-2023</a></div>
+
+<p>&nbsp;</p>
+
+<p>Arrest counts can be found in the annual Minnesota Uniform Crime Report from the BCA. Since 2021, under NIBRS, comparable arrest counts are listed under Group A Arrests.</p>
 
 <p>Granulated arrest data is hard to come by, but a lot of broad statistics are available from the BCA. Here are the most recent arrest sheets available:</p>
 
@@ -120,7 +168,6 @@
 <h4>Links</h4>
 <ul>
     <li><a href="https:/cde.state.mn.us/">Minnesota Crime Data Explorer</a></li>
-    <li><a href="https:/tableau.minneapolismn.gov/views/MPDMStatArrestData/ArrestDashboard-byDate:iid=1&:isGuestRedirectFromVizportal=y&:embed=y">Minneapolis Arrests Dashboard</a></li>
 </ul>
 
 <style>
