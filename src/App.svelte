@@ -1,4 +1,5 @@
 <script>
+	import { onMount } from 'svelte';
 	import About from './About.svelte';
 	import Murder from './Murder.svelte';
 	import Manslaughter from './Manslaughter.svelte';
@@ -65,8 +66,21 @@
 	  { id: 'national', name: 'National Public Safety',  component: National },
 	  { id: 'practices', name: 'Notes & Best Practices',  component: Practices },
 	];
-  
+
 	let selectedModule = null;
+
+	function changeURL(value){
+		let queryParams = new URLSearchParams(window.location.search);
+		queryParams.set("s", value);
+		history.replaceState(null, null, "?"+queryParams.toString());
+	}
+
+   onMount(() => {
+
+	let params = new URLSearchParams(window.location.search);
+		selectedModule = params.get('s');
+
+   });
   </script>
 
   <div id="about"><About /></div>
@@ -84,6 +98,7 @@
 	{#each modules as module}
 	  {#if module.id === selectedModule}
 		<div id={module.id}>
+		  <div style="display:none">{changeURL(module.id)}</div>
 		  <svelte:component this={module.component} />
 		  <hr>
 		</div>
