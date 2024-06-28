@@ -102,6 +102,8 @@
   <h4 class="source">Data sources: Minneapolis Police Department</h4>
   
   <div class="def"><p>Counts both fatal and nonfatal gunshot victims.</p></div>
+
+  <div class="disclaimer"><p>Canonical shooting victim data is hard to pindown. Cities, states, feds and private orgs all have similar-yet-differing numbers of fatal and nonfatal shootings. Choose a source and stick with it. Accuracy is vital, precision is impossible.</p></div>
   
   {#if shotvictimsYTDComparison && shotvictimsYTDComparison.length > 0}
   <p>
