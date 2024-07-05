@@ -444,7 +444,7 @@
     "Year": 2024,
     "Month": 4,
     "Offense": "Drug/Narcotic Violations",
-    "IncidentCount": 70,
+    "IncidentCount": 69,
     "Date": "2024-04-01"
   },
   {
@@ -460,5 +460,12 @@
     "Offense": "Drug/Narcotic Violations",
     "IncidentCount": 73,
     "Date": "2024-06-01"
+  },
+  {
+    "Year": 2024,
+    "Month": 7,
+    "Offense": "Drug/Narcotic Violations",
+    "IncidentCount": 10,
+    "Date": "2024-07-01"
   }
 ]

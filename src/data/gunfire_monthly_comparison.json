@@ -924,6 +924,13 @@
     "Date": "2024-06-01"
   },
   {
+    "Year": 2024,
+    "Month": 7,
+    "Offense": "Shooting Report Only (P)",
+    "IncidentCount": 2,
+    "Date": "2024-07-01"
+  },
+  {
     "Year": 2019,
     "Month": 1,
     "Offense": "ShotSpotter Activation (P)",
@@ -1386,6 +1393,13 @@
     "Date": "2024-06-01"
   },
   {
+    "Year": 2024,
+    "Month": 7,
+    "Offense": "ShotSpotter Activation (P)",
+    "IncidentCount": 22,
+    "Date": "2024-07-01"
+  },
+  {
     "Year": 2019,
     "Month": 1,
     "Offense": "Sound of Shots Fired (P)",
@@ -1846,5 +1860,12 @@
     "Offense": "Sound of Shots Fired (P)",
     "IncidentCount": 338,
     "Date": "2024-06-01"
+  },
+  {
+    "Year": 2024,
+    "Month": 7,
+    "Offense": "Sound of Shots Fired (P)",
+    "IncidentCount": 24,
+    "Date": "2024-07-01"
   }
 ]
