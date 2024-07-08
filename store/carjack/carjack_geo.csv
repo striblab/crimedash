@@ -18,7 +18,7 @@
 "Folwell","Carjacking - Subset of Robbery",1,9,6,6,5
 "Fulton","Carjacking - Subset of Robbery",1,3,0,1,0
 "Harrison","Carjacking - Subset of Robbery",1,17,13,6,0
-"Hawthorne","Carjacking - Subset of Robbery",7,17,19,7,5
+"Hawthorne","Carjacking - Subset of Robbery",7,17,19,7,6
 "Hiawatha","Carjacking - Subset of Robbery",3,3,5,2,1
 "Holland","Carjacking - Subset of Robbery",1,11,4,6,2
 "Howe","Carjacking - Subset of Robbery",2,3,2,0,0
@@ -36,7 +36,7 @@
 "Northeast Park","Carjacking - Subset of Robbery",1,0,2,1,1
 "Northrop","Carjacking - Subset of Robbery",3,9,6,3,2
 "Phillips West","Carjacking - Subset of Robbery",5,8,13,11,2
-"Powderhorn Park","Carjacking - Subset of Robbery",6,38,27,6,7
+"Powderhorn Park","Carjacking - Subset of Robbery",6,38,27,6,8
 "Prospect Park - East River Road","Carjacking - Subset of Robbery",2,5,1,0,0
 "Seward","Carjacking - Subset of Robbery",12,24,12,7,6
 "Sheridan","Carjacking - Subset of Robbery",3,5,3,1,1
@@ -61,7 +61,7 @@ NA,"Carjacking - Subset of Robbery",2,3,2,2,0
 "Ericsson","Carjacking - Subset of Robbery",0,2,0,0,1
 "Hale","Carjacking - Subset of Robbery",0,2,0,1,0
 "Keewaydin","Carjacking - Subset of Robbery",0,2,1,2,0
-"Kenwood","Carjacking - Subset of Robbery",0,1,2,1,0
+"Kenwood","Carjacking - Subset of Robbery",0,1,2,1,1
 "Lind - Bohanon","Carjacking - Subset of Robbery",0,5,4,2,1
 "Linden Hills","Carjacking - Subset of Robbery",0,2,4,1,0
 "Logan Park","Carjacking - Subset of Robbery",0,1,4,0,0
@@ -75,7 +75,7 @@ NA,"Carjacking - Subset of Robbery",2,3,2,2,0
 "Shingle Creek","Carjacking - Subset of Robbery",0,7,1,2,0
 "St. Anthony East","Carjacking - Subset of Robbery",0,1,1,2,0
 "St. Anthony West","Carjacking - Subset of Robbery",0,1,1,1,0
-"Steven's Square - Loring Heights","Carjacking - Subset of Robbery",0,2,15,13,3
+"Steven's Square - Loring Heights","Carjacking - Subset of Robbery",0,2,15,13,4
 "University of Minnesota","Carjacking - Subset of Robbery",0,1,0,0,0
 "Victory","Carjacking - Subset of Robbery",0,8,1,3,0
 "Waite Park","Carjacking - Subset of Robbery",0,1,1,1,0
@@ -105,7 +105,7 @@ NA,"Carjacking - Subset of Robbery",2,3,2,2,0
 "Folwell","Total",1,9,6,6,5
 "Fulton","Total",1,3,0,1,0
 "Harrison","Total",1,17,13,6,0
-"Hawthorne","Total",7,17,19,7,5
+"Hawthorne","Total",7,17,19,7,6
 "Hiawatha","Total",3,3,5,2,1
 "Holland","Total",1,11,4,6,2
 "Howe","Total",2,3,2,0,0
@@ -123,7 +123,7 @@ NA,"Carjacking - Subset of Robbery",2,3,2,2,0
 "Northeast Park","Total",1,0,2,1,1
 "Northrop","Total",3,9,6,3,2
 "Phillips West","Total",5,8,13,11,2
-"Powderhorn Park","Total",6,38,27,6,7
+"Powderhorn Park","Total",6,38,27,6,8
 "Prospect Park - East River Road","Total",2,5,1,0,0
 "Seward","Total",12,24,12,7,6
 "Sheridan","Total",3,5,3,1,1
@@ -148,7 +148,7 @@ NA,"Total",2,3,2,2,0
 "Ericsson","Total",0,2,0,0,1
 "Hale","Total",0,2,0,1,0
 "Keewaydin","Total",0,2,1,2,0
-"Kenwood","Total",0,1,2,1,0
+"Kenwood","Total",0,1,2,1,1
 "Lind - Bohanon","Total",0,5,4,2,1
 "Linden Hills","Total",0,2,4,1,0
 "Logan Park","Total",0,1,4,0,0
@@ -162,7 +162,7 @@ NA,"Total",2,3,2,2,0
 "Shingle Creek","Total",0,7,1,2,0
 "St. Anthony East","Total",0,1,1,2,0
 "St. Anthony West","Total",0,1,1,1,0
-"Steven's Square - Loring Heights","Total",0,2,15,13,3
+"Steven's Square - Loring Heights","Total",0,2,15,13,4
 "University of Minnesota","Total",0,1,0,0,0
 "Victory","Total",0,8,1,3,0
 "Waite Park","Total",0,1,1,1,0
