@@ -444,7 +444,7 @@
     "Year": 2024,
     "Month": 5,
     "Offense": "Murder and Nonnegligent Manslaughter",
-    "IncidentCount": 10,
+    "IncidentCount": 11,
     "Date": "2024-05-01"
   },
   {
@@ -453,5 +453,12 @@
     "Offense": "Murder and Nonnegligent Manslaughter",
     "IncidentCount": 4,
     "Date": "2024-06-01"
+  },
+  {
+    "Year": 2024,
+    "Month": 7,
+    "Offense": "Murder and Nonnegligent Manslaughter",
+    "IncidentCount": 1,
+    "Date": "2024-07-01"
   }
 ]
