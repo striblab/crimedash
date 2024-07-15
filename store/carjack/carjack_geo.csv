@@ -5,7 +5,7 @@
 "Bryant","Carjacking - Subset of Robbery",3,6,2,0,0
 "Bryn - Mawr","Carjacking - Subset of Robbery",1,2,4,1,0
 "Cedar Riverside","Carjacking - Subset of Robbery",3,6,7,6,2
-"Central","Carjacking - Subset of Robbery",11,40,24,11,5
+"Central","Carjacking - Subset of Robbery",11,40,24,11,6
 "Cleveland","Carjacking - Subset of Robbery",1,6,3,3,1
 "Como","Carjacking - Subset of Robbery",1,3,1,1,1
 "Corcoran","Carjacking - Subset of Robbery",3,8,3,3,0
@@ -23,10 +23,10 @@
 "Holland","Carjacking - Subset of Robbery",1,11,4,6,2
 "Howe","Carjacking - Subset of Robbery",2,3,2,0,0
 "Jordan","Carjacking - Subset of Robbery",6,18,7,8,2
-"King Field","Carjacking - Subset of Robbery",4,11,2,5,3
+"King Field","Carjacking - Subset of Robbery",4,11,2,5,4
 "Longfellow","Carjacking - Subset of Robbery",1,9,3,5,1
 "Loring Park","Carjacking - Subset of Robbery",1,7,8,7,4
-"Lowry Hill","Carjacking - Subset of Robbery",4,14,7,2,1
+"Lowry Hill","Carjacking - Subset of Robbery",4,14,7,2,2
 "Lowry Hill East","Carjacking - Subset of Robbery",5,17,24,16,6
 "Lyndale","Carjacking - Subset of Robbery",3,10,9,6,6
 "Marcy Holmes","Carjacking - Subset of Robbery",3,13,22,5,4
@@ -36,7 +36,7 @@
 "Northeast Park","Carjacking - Subset of Robbery",1,0,2,1,1
 "Northrop","Carjacking - Subset of Robbery",3,9,6,3,2
 "Phillips West","Carjacking - Subset of Robbery",5,8,13,11,2
-"Powderhorn Park","Carjacking - Subset of Robbery",6,38,27,6,8
+"Powderhorn Park","Carjacking - Subset of Robbery",6,38,27,6,9
 "Prospect Park - East River Road","Carjacking - Subset of Robbery",2,5,1,0,0
 "Seward","Carjacking - Subset of Robbery",12,24,12,7,6
 "Sheridan","Carjacking - Subset of Robbery",3,5,3,1,1
@@ -92,7 +92,7 @@ NA,"Carjacking - Subset of Robbery",2,3,2,2,0
 "Bryant","Total",3,6,2,0,0
 "Bryn - Mawr","Total",1,2,4,1,0
 "Cedar Riverside","Total",3,6,7,6,2
-"Central","Total",11,40,24,11,5
+"Central","Total",11,40,24,11,6
 "Cleveland","Total",1,6,3,3,1
 "Como","Total",1,3,1,1,1
 "Corcoran","Total",3,8,3,3,0
@@ -110,10 +110,10 @@ NA,"Carjacking - Subset of Robbery",2,3,2,2,0
 "Holland","Total",1,11,4,6,2
 "Howe","Total",2,3,2,0,0
 "Jordan","Total",6,18,7,8,2
-"King Field","Total",4,11,2,5,3
+"King Field","Total",4,11,2,5,4
 "Longfellow","Total",1,9,3,5,1
 "Loring Park","Total",1,7,8,7,4
-"Lowry Hill","Total",4,14,7,2,1
+"Lowry Hill","Total",4,14,7,2,2
 "Lowry Hill East","Total",5,17,24,16,6
 "Lyndale","Total",3,10,9,6,6
 "Marcy Holmes","Total",3,13,22,5,4
@@ -123,7 +123,7 @@ NA,"Carjacking - Subset of Robbery",2,3,2,2,0
 "Northeast Park","Total",1,0,2,1,1
 "Northrop","Total",3,9,6,3,2
 "Phillips West","Total",5,8,13,11,2
-"Powderhorn Park","Total",6,38,27,6,8
+"Powderhorn Park","Total",6,38,27,6,9
 "Prospect Park - East River Road","Total",2,5,1,0,0
 "Seward","Total",12,24,12,7,6
 "Sheridan","Total",3,5,3,1,1

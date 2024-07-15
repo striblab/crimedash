@@ -21,10 +21,10 @@
 "East Harriet","Domestic Aggravated Assault - Subset of Assault",3,2,2,2,3,0
 "East Isles","Domestic Aggravated Assault - Subset of Assault",3,3,2,1,4,5
 "East Phillips","Domestic Aggravated Assault - Subset of Assault",27,29,29,40,33,15
-"Elliot Park","Domestic Aggravated Assault - Subset of Assault",26,26,21,37,30,10
+"Elliot Park","Domestic Aggravated Assault - Subset of Assault",26,26,21,37,30,12
 "Ericsson","Domestic Aggravated Assault - Subset of Assault",2,2,0,0,2,2
 "Field","Domestic Aggravated Assault - Subset of Assault",1,4,3,6,2,2
-"Folwell","Domestic Aggravated Assault - Subset of Assault",54,44,35,41,29,15
+"Folwell","Domestic Aggravated Assault - Subset of Assault",54,44,35,41,29,17
 "Fulton","Domestic Aggravated Assault - Subset of Assault",2,2,0,1,0,1
 "Harrison","Domestic Aggravated Assault - Subset of Assault",10,10,14,18,13,6
 "Hawthorne","Domestic Aggravated Assault - Subset of Assault",47,53,29,42,33,20
@@ -62,7 +62,7 @@
 "Seward","Domestic Aggravated Assault - Subset of Assault",9,11,5,14,17,10
 "Sheridan","Domestic Aggravated Assault - Subset of Assault",2,7,6,5,2,0
 "Shingle Creek","Domestic Aggravated Assault - Subset of Assault",11,7,7,4,5,8
-"South Uptown","Domestic Aggravated Assault - Subset of Assault",4,6,14,4,9,7
+"South Uptown","Domestic Aggravated Assault - Subset of Assault",4,6,14,4,9,8
 "St. Anthony East","Domestic Aggravated Assault - Subset of Assault",6,1,2,2,1,4
 "St. Anthony West","Domestic Aggravated Assault - Subset of Assault",3,2,1,1,1,1
 "Standish","Domestic Aggravated Assault - Subset of Assault",4,5,1,8,3,5
@@ -109,10 +109,10 @@ NA,"Domestic Aggravated Assault - Subset of Assault",3,4,4,4,7,3
 "East Harriet","Total",3,2,2,2,3,0
 "East Isles","Total",3,3,2,1,4,5
 "East Phillips","Total",27,29,29,40,33,15
-"Elliot Park","Total",26,26,21,37,30,10
+"Elliot Park","Total",26,26,21,37,30,12
 "Ericsson","Total",2,2,0,0,2,2
 "Field","Total",1,4,3,6,2,2
-"Folwell","Total",54,44,35,41,29,15
+"Folwell","Total",54,44,35,41,29,17
 "Fulton","Total",2,2,0,1,0,1
 "Harrison","Total",10,10,14,18,13,6
 "Hawthorne","Total",47,53,29,42,33,20
@@ -150,7 +150,7 @@ NA,"Domestic Aggravated Assault - Subset of Assault",3,4,4,4,7,3
 "Seward","Total",9,11,5,14,17,10
 "Sheridan","Total",2,7,6,5,2,0
 "Shingle Creek","Total",11,7,7,4,5,8
-"South Uptown","Total",4,6,14,4,9,7
+"South Uptown","Total",4,6,14,4,9,8
 "St. Anthony East","Total",6,1,2,2,1,4
 "St. Anthony West","Total",3,2,1,1,1,1
 "Standish","Total",4,5,1,8,3,5

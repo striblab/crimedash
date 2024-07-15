@@ -41,12 +41,12 @@
 "Cedar - Isles - Dean","Arson",0,1,0,0,1,1
 "Cleveland","Arson",0,4,1,1,3,0
 "Columbia Park","Arson",0,1,0,0,0,0
-"Corcoran","Arson",0,1,2,0,1,1
+"Corcoran","Arson",0,1,2,0,1,2
 "Downtown East","Arson",0,2,0,0,1,1
 "Ericsson","Arson",0,1,0,1,0,0
 "Hiawatha","Arson",0,1,1,6,0,0
 "Holland","Arson",0,3,1,0,0,1
-"Midtown Phillips","Arson",0,3,4,3,2,2
+"Midtown Phillips","Arson",0,3,4,3,2,3
 "Northrop","Arson",0,1,0,0,1,1
 "Powderhorn Park","Arson",0,4,3,3,6,1
 "Sheridan","Arson",0,1,0,1,0,0
@@ -76,7 +76,7 @@ NA,"Arson",0,2,1,1,1,0
 "Humboldt Industrial Area","Arson",0,0,0,0,1,0
 "Prospect Park - East River Road","Arson",0,0,0,0,3,0
 "Waite Park","Arson",0,0,0,0,1,0
-"Cooper","Arson",0,0,0,0,0,1
+"Cooper","Arson",0,0,0,0,0,2
 "Mid - City Industrial","Arson",0,0,0,0,0,1
 "Beltrami","Total",1,1,0,1,0,0
 "Cedar Riverside","Total",1,2,0,1,0,0
@@ -120,12 +120,12 @@ NA,"Arson",0,2,1,1,1,0
 "Cedar - Isles - Dean","Total",0,1,0,0,1,1
 "Cleveland","Total",0,4,1,1,3,0
 "Columbia Park","Total",0,1,0,0,0,0
-"Corcoran","Total",0,1,2,0,1,1
+"Corcoran","Total",0,1,2,0,1,2
 "Downtown East","Total",0,2,0,0,1,1
 "Ericsson","Total",0,1,0,1,0,0
 "Hiawatha","Total",0,1,1,6,0,0
 "Holland","Total",0,3,1,0,0,1
-"Midtown Phillips","Total",0,3,4,3,2,2
+"Midtown Phillips","Total",0,3,4,3,2,3
 "Northrop","Total",0,1,0,0,1,1
 "Powderhorn Park","Total",0,4,3,3,6,1
 "Sheridan","Total",0,1,0,1,0,0
@@ -155,5 +155,5 @@ NA,"Total",0,2,1,1,1,0
 "Humboldt Industrial Area","Total",0,0,0,0,1,0
 "Prospect Park - East River Road","Total",0,0,0,0,3,0
 "Waite Park","Total",0,0,0,0,1,0
-"Cooper","Total",0,0,0,0,0,1
+"Cooper","Total",0,0,0,0,0,2
 "Mid - City Industrial","Total",0,0,0,0,0,1
