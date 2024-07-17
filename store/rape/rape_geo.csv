@@ -19,8 +19,8 @@
 "Downtown West","Sex Offenses",84,52,41,59,64,27
 "East Harriet","Sex Offenses",2,6,1,6,3,3
 "East Isles","Sex Offenses",2,0,6,1,3,1
-"East Phillips","Sex Offenses",29,16,19,19,16,12
-"Elliot Park","Sex Offenses",29,19,26,22,22,15
+"East Phillips","Sex Offenses",29,16,19,19,16,13
+"Elliot Park","Sex Offenses",29,19,26,22,22,16
 "Ericsson","Sex Offenses",7,2,5,3,2,1
 "Folwell","Sex Offenses",24,42,20,16,24,6
 "Fulton","Sex Offenses",3,0,2,4,4,0
@@ -37,7 +37,7 @@
 "Linden Hills","Sex Offenses",2,3,5,2,5,3
 "Logan Park","Sex Offenses",2,3,6,4,12,1
 "Longfellow","Sex Offenses",7,12,5,11,13,3
-"Loring Park","Sex Offenses",21,17,21,19,23,11
+"Loring Park","Sex Offenses",21,17,21,19,23,12
 "Lowry Hill","Sex Offenses",4,2,0,3,2,3
 "Lowry Hill East","Sex Offenses",16,12,21,13,18,10
 "Lyndale","Sex Offenses",19,16,15,11,13,8
@@ -46,7 +46,7 @@
 "Marshall Terrace","Sex Offenses",6,0,6,3,4,0
 "McKinley","Sex Offenses",13,12,8,15,13,8
 "Mid - City Industrial","Sex Offenses",2,3,8,3,1,0
-"Midtown Phillips","Sex Offenses",23,18,21,25,8,16
+"Midtown Phillips","Sex Offenses",23,18,21,25,8,17
 "Minnehaha","Sex Offenses",4,2,2,3,3,0
 "Morris Park","Sex Offenses",3,2,5,1,1,1
 "Near - North","Sex Offenses",29,27,27,40,27,12
@@ -56,13 +56,13 @@
 "Northrop","Sex Offenses",3,2,6,5,7,0
 "Page","Sex Offenses",2,1,1,1,0,0
 "Phillips West","Sex Offenses",17,12,17,8,18,8
-"Powderhorn Park","Sex Offenses",19,23,14,14,17,4
+"Powderhorn Park","Sex Offenses",19,23,14,14,17,5
 "Prospect Park - East River Road","Sex Offenses",16,8,6,9,11,7
 "Regina","Sex Offenses",3,1,3,3,0,4
 "Seward","Sex Offenses",7,10,14,5,20,11
 "Sheridan","Sex Offenses",5,2,3,3,4,1
 "Shingle Creek","Sex Offenses",12,8,5,6,4,2
-"South Uptown","Sex Offenses",11,5,4,5,6,2
+"South Uptown","Sex Offenses",11,5,4,5,6,3
 "St. Anthony East","Sex Offenses",6,4,2,2,5,0
 "St. Anthony West","Sex Offenses",6,1,3,1,3,1
 "Standish","Sex Offenses",15,3,3,16,7,6
@@ -75,7 +75,7 @@
 "Webber - Camden","Sex Offenses",18,20,19,18,14,6
 "Wenonah","Sex Offenses",29,4,10,13,9,5
 "West Maka Ska","Sex Offenses",2,3,2,3,1,0
-"Whittier","Sex Offenses",49,32,31,37,41,17
+"Whittier","Sex Offenses",49,32,31,37,41,18
 "Willard - Hay","Sex Offenses",30,37,21,24,30,16
 "Windom","Sex Offenses",6,12,9,6,5,1
 "Windom Park","Sex Offenses",11,11,4,5,7,5
@@ -106,8 +106,8 @@ NA,"Sex Offenses",36,29,63,66,40,20
 "Downtown West","Total",84,52,41,59,64,27
 "East Harriet","Total",2,6,1,6,3,3
 "East Isles","Total",2,0,6,1,3,1
-"East Phillips","Total",29,16,19,19,16,12
-"Elliot Park","Total",29,19,26,22,22,15
+"East Phillips","Total",29,16,19,19,16,13
+"Elliot Park","Total",29,19,26,22,22,16
 "Ericsson","Total",7,2,5,3,2,1
 "Folwell","Total",24,42,20,16,24,6
 "Fulton","Total",3,0,2,4,4,0
@@ -124,7 +124,7 @@ NA,"Sex Offenses",36,29,63,66,40,20
 "Linden Hills","Total",2,3,5,2,5,3
 "Logan Park","Total",2,3,6,4,12,1
 "Longfellow","Total",7,12,5,11,13,3
-"Loring Park","Total",21,17,21,19,23,11
+"Loring Park","Total",21,17,21,19,23,12
 "Lowry Hill","Total",4,2,0,3,2,3
 "Lowry Hill East","Total",16,12,21,13,18,10
 "Lyndale","Total",19,16,15,11,13,8
@@ -133,7 +133,7 @@ NA,"Sex Offenses",36,29,63,66,40,20
 "Marshall Terrace","Total",6,0,6,3,4,0
 "McKinley","Total",13,12,8,15,13,8
 "Mid - City Industrial","Total",2,3,8,3,1,0
-"Midtown Phillips","Total",23,18,21,25,8,16
+"Midtown Phillips","Total",23,18,21,25,8,17
 "Minnehaha","Total",4,2,2,3,3,0
 "Morris Park","Total",3,2,5,1,1,1
 "Near - North","Total",29,27,27,40,27,12
@@ -143,13 +143,13 @@ NA,"Sex Offenses",36,29,63,66,40,20
 "Northrop","Total",3,2,6,5,7,0
 "Page","Total",2,1,1,1,0,0
 "Phillips West","Total",17,12,17,8,18,8
-"Powderhorn Park","Total",19,23,14,14,17,4
+"Powderhorn Park","Total",19,23,14,14,17,5
 "Prospect Park - East River Road","Total",16,8,6,9,11,7
 "Regina","Total",3,1,3,3,0,4
 "Seward","Total",7,10,14,5,20,11
 "Sheridan","Total",5,2,3,3,4,1
 "Shingle Creek","Total",12,8,5,6,4,2
-"South Uptown","Total",11,5,4,5,6,2
+"South Uptown","Total",11,5,4,5,6,3
 "St. Anthony East","Total",6,4,2,2,5,0
 "St. Anthony West","Total",6,1,3,1,3,1
 "Standish","Total",15,3,3,16,7,6
@@ -162,7 +162,7 @@ NA,"Sex Offenses",36,29,63,66,40,20
 "Webber - Camden","Total",18,20,19,18,14,6
 "Wenonah","Total",29,4,10,13,9,5
 "West Maka Ska","Total",2,3,2,3,1,0
-"Whittier","Total",49,32,31,37,41,17
+"Whittier","Total",49,32,31,37,41,18
 "Willard - Hay","Total",30,37,21,24,30,16
 "Windom","Total",6,12,9,6,5,1
 "Windom Park","Total",11,11,4,5,7,5
