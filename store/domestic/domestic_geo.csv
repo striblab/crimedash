@@ -27,7 +27,7 @@
 "Folwell","Domestic Aggravated Assault - Subset of Assault",54,44,35,41,29,17
 "Fulton","Domestic Aggravated Assault - Subset of Assault",2,2,0,1,0,1
 "Harrison","Domestic Aggravated Assault - Subset of Assault",10,10,14,18,13,6
-"Hawthorne","Domestic Aggravated Assault - Subset of Assault",47,53,29,42,33,21
+"Hawthorne","Domestic Aggravated Assault - Subset of Assault",47,53,29,42,33,22
 "Hiawatha","Domestic Aggravated Assault - Subset of Assault",11,7,4,1,11,3
 "Holland","Domestic Aggravated Assault - Subset of Assault",10,15,18,10,19,10
 "Howe","Domestic Aggravated Assault - Subset of Assault",4,8,5,5,3,6
@@ -50,7 +50,7 @@
 "Midtown Phillips","Domestic Aggravated Assault - Subset of Assault",26,8,8,21,11,8
 "Minnehaha","Domestic Aggravated Assault - Subset of Assault",3,8,3,5,8,3
 "Morris Park","Domestic Aggravated Assault - Subset of Assault",3,1,6,1,2,1
-"Near - North","Domestic Aggravated Assault - Subset of Assault",65,45,31,40,41,19
+"Near - North","Domestic Aggravated Assault - Subset of Assault",65,45,31,40,41,20
 "Nicollet Island - East Bank","Domestic Aggravated Assault - Subset of Assault",3,4,3,2,7,2
 "North Loop","Domestic Aggravated Assault - Subset of Assault",3,5,5,11,6,6
 "Northeast Park","Domestic Aggravated Assault - Subset of Assault",2,1,4,2,1,1
@@ -79,7 +79,7 @@
 "Willard - Hay","Domestic Aggravated Assault - Subset of Assault",60,48,33,52,48,24
 "Windom","Domestic Aggravated Assault - Subset of Assault",8,12,14,8,11,6
 "Windom Park","Domestic Aggravated Assault - Subset of Assault",5,4,10,8,7,5
-NA,"Domestic Aggravated Assault - Subset of Assault",3,4,4,4,7,3
+NA,"Domestic Aggravated Assault - Subset of Assault",3,4,4,4,7,5
 "Kenny","Domestic Aggravated Assault - Subset of Assault",0,2,1,0,1,0
 "Keewaydin","Domestic Aggravated Assault - Subset of Assault",0,0,1,1,0,1
 "Page","Domestic Aggravated Assault - Subset of Assault",0,0,1,0,0,0
@@ -115,7 +115,7 @@ NA,"Domestic Aggravated Assault - Subset of Assault",3,4,4,4,7,3
 "Folwell","Total",54,44,35,41,29,17
 "Fulton","Total",2,2,0,1,0,1
 "Harrison","Total",10,10,14,18,13,6
-"Hawthorne","Total",47,53,29,42,33,21
+"Hawthorne","Total",47,53,29,42,33,22
 "Hiawatha","Total",11,7,4,1,11,3
 "Holland","Total",10,15,18,10,19,10
 "Howe","Total",4,8,5,5,3,6
@@ -138,7 +138,7 @@ NA,"Domestic Aggravated Assault - Subset of Assault",3,4,4,4,7,3
 "Midtown Phillips","Total",26,8,8,21,11,8
 "Minnehaha","Total",3,8,3,5,8,3
 "Morris Park","Total",3,1,6,1,2,1
-"Near - North","Total",65,45,31,40,41,19
+"Near - North","Total",65,45,31,40,41,20
 "Nicollet Island - East Bank","Total",3,4,3,2,7,2
 "North Loop","Total",3,5,5,11,6,6
 "Northeast Park","Total",2,1,4,2,1,1
@@ -167,7 +167,7 @@ NA,"Domestic Aggravated Assault - Subset of Assault",3,4,4,4,7,3
 "Willard - Hay","Total",60,48,33,52,48,24
 "Windom","Total",8,12,14,8,11,6
 "Windom Park","Total",5,4,10,8,7,5
-NA,"Total",3,4,4,4,7,3
+NA,"Total",3,4,4,4,7,5
 "Kenny","Total",0,2,1,0,1,0
 "Keewaydin","Total",0,0,1,1,0,1
 "Page","Total",0,0,1,0,0,0
