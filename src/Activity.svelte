@@ -105,7 +105,7 @@
 
 <p>&nbsp;</p>
 
-<p>Minneapolis police have also gradually reduced their number of traffic stops in recent years, though that activity has started picking back up.</p>
+<p>Minneapolis police have also gradually reduced their number of traffic stops in recent years.</p>
 
 <div class="chart-container">
     <canvas id="stopsChart"></canvas>
