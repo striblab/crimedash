@@ -8,33 +8,33 @@
 "Camden Industrial","Drug/Narcotic Violations",6,3,4,3,1,0
 "Cedar - Isles - Dean","Drug/Narcotic Violations",4,7,1,3,3,2
 "Cedar Riverside","Drug/Narcotic Violations",26,25,19,40,27,8
-"Central","Drug/Narcotic Violations",11,7,5,5,10,10
-"Cleveland","Drug/Narcotic Violations",9,10,6,6,12,4
+"Central","Drug/Narcotic Violations",11,7,5,5,10,11
+"Cleveland","Drug/Narcotic Violations",9,10,6,6,12,5
 "Columbia Park","Drug/Narcotic Violations",9,7,3,1,1,1
 "Como","Drug/Narcotic Violations",13,9,7,4,3,0
 "Cooper","Drug/Narcotic Violations",3,3,1,0,1,1
-"Corcoran","Drug/Narcotic Violations",14,5,6,8,9,5
+"Corcoran","Drug/Narcotic Violations",14,5,6,8,9,6
 "Diamond Lake","Drug/Narcotic Violations",2,2,0,0,0,1
 "Downtown East","Drug/Narcotic Violations",32,18,16,20,27,5
 "Downtown West","Drug/Narcotic Violations",244,114,61,117,146,54
-"East Bde Maka Ska","Drug/Narcotic Violations",1,3,0,0,4,3
+"East Bde Maka Ska","Drug/Narcotic Violations",1,3,0,0,4,4
 "East Harriet","Drug/Narcotic Violations",4,0,3,2,4,1
 "East Isles","Drug/Narcotic Violations",11,2,7,3,16,6
 "East Phillips","Drug/Narcotic Violations",78,44,33,43,81,35
-"Elliot Park","Drug/Narcotic Violations",56,29,29,46,50,43
+"Elliot Park","Drug/Narcotic Violations",56,29,29,46,50,44
 "Ericsson","Drug/Narcotic Violations",4,5,2,0,3,1
 "Field","Drug/Narcotic Violations",1,3,1,0,0,2
-"Folwell","Drug/Narcotic Violations",36,41,25,20,42,15
+"Folwell","Drug/Narcotic Violations",36,41,25,20,42,16
 "Fulton","Drug/Narcotic Violations",4,1,2,0,1,0
 "Harrison","Drug/Narcotic Violations",22,15,5,5,4,2
 "Hawthorne","Drug/Narcotic Violations",142,133,67,74,55,10
 "Hiawatha","Drug/Narcotic Violations",8,5,8,4,10,3
-"Holland","Drug/Narcotic Violations",37,22,9,9,13,2
+"Holland","Drug/Narcotic Violations",37,22,9,9,13,3
 "Howe","Drug/Narcotic Violations",9,9,5,5,4,1
 "Jordan","Drug/Narcotic Violations",51,60,31,38,47,15
 "Keewaydin","Drug/Narcotic Violations",2,1,1,2,1,2
 "Kenwood","Drug/Narcotic Violations",3,4,4,0,0,0
-"King Field","Drug/Narcotic Violations",10,4,6,1,8,4
+"King Field","Drug/Narcotic Violations",10,4,6,1,8,5
 "Lind - Bohanon","Drug/Narcotic Violations",19,12,6,7,9,1
 "Linden Hills","Drug/Narcotic Violations",2,3,2,0,0,0
 "Logan Park","Drug/Narcotic Violations",9,5,3,4,2,2
@@ -42,7 +42,7 @@
 "Loring Park","Drug/Narcotic Violations",26,34,32,28,45,16
 "Lowry Hill","Drug/Narcotic Violations",3,3,1,3,2,8
 "Lowry Hill East","Drug/Narcotic Violations",43,16,22,29,36,21
-"Lyndale","Drug/Narcotic Violations",32,18,8,5,28,9
+"Lyndale","Drug/Narcotic Violations",32,18,8,5,28,10
 "Marcy Holmes","Drug/Narcotic Violations",37,31,23,10,12,3
 "Marshall Terrace","Drug/Narcotic Violations",14,9,7,6,3,0
 "McKinley","Drug/Narcotic Violations",36,31,8,7,15,2
@@ -50,7 +50,7 @@
 "Midtown Phillips","Drug/Narcotic Violations",41,19,30,33,26,10
 "Minnehaha","Drug/Narcotic Violations",3,5,4,2,1,1
 "Morris Park","Drug/Narcotic Violations",2,3,0,2,1,0
-"Near - North","Drug/Narcotic Violations",65,56,37,57,24,4
+"Near - North","Drug/Narcotic Violations",65,56,37,57,24,5
 "Nicollet Island - East Bank","Drug/Narcotic Violations",11,3,5,4,1,1
 "North Loop","Drug/Narcotic Violations",26,18,17,14,21,9
 "Northeast Park","Drug/Narcotic Violations",12,6,10,8,7,4
@@ -95,33 +95,33 @@ NA,"Drug/Narcotic Violations",69,47,34,31,19,14
 "Camden Industrial","Total",6,3,4,3,1,0
 "Cedar - Isles - Dean","Total",4,7,1,3,3,2
 "Cedar Riverside","Total",26,25,19,40,27,8
-"Central","Total",11,7,5,5,10,10
-"Cleveland","Total",9,10,6,6,12,4
+"Central","Total",11,7,5,5,10,11
+"Cleveland","Total",9,10,6,6,12,5
 "Columbia Park","Total",9,7,3,1,1,1
 "Como","Total",13,9,7,4,3,0
 "Cooper","Total",3,3,1,0,1,1
-"Corcoran","Total",14,5,6,8,9,5
+"Corcoran","Total",14,5,6,8,9,6
 "Diamond Lake","Total",2,2,0,0,0,1
 "Downtown East","Total",32,18,16,20,27,5
 "Downtown West","Total",244,114,61,117,146,54
-"East Bde Maka Ska","Total",1,3,0,0,4,3
+"East Bde Maka Ska","Total",1,3,0,0,4,4
 "East Harriet","Total",4,0,3,2,4,1
 "East Isles","Total",11,2,7,3,16,6
 "East Phillips","Total",78,44,33,43,81,35
-"Elliot Park","Total",56,29,29,46,50,43
+"Elliot Park","Total",56,29,29,46,50,44
 "Ericsson","Total",4,5,2,0,3,1
 "Field","Total",1,3,1,0,0,2
-"Folwell","Total",36,41,25,20,42,15
+"Folwell","Total",36,41,25,20,42,16
 "Fulton","Total",4,1,2,0,1,0
 "Harrison","Total",22,15,5,5,4,2
 "Hawthorne","Total",142,133,67,74,55,10
 "Hiawatha","Total",8,5,8,4,10,3
-"Holland","Total",37,22,9,9,13,2
+"Holland","Total",37,22,9,9,13,3
 "Howe","Total",9,9,5,5,4,1
 "Jordan","Total",51,60,31,38,47,15
 "Keewaydin","Total",2,1,1,2,1,2
 "Kenwood","Total",3,4,4,0,0,0
-"King Field","Total",10,4,6,1,8,4
+"King Field","Total",10,4,6,1,8,5
 "Lind - Bohanon","Total",19,12,6,7,9,1
 "Linden Hills","Total",2,3,2,0,0,0
 "Logan Park","Total",9,5,3,4,2,2
@@ -129,7 +129,7 @@ NA,"Drug/Narcotic Violations",69,47,34,31,19,14
 "Loring Park","Total",26,34,32,28,45,16
 "Lowry Hill","Total",3,3,1,3,2,8
 "Lowry Hill East","Total",43,16,22,29,36,21
-"Lyndale","Total",32,18,8,5,28,9
+"Lyndale","Total",32,18,8,5,28,10
 "Marcy Holmes","Total",37,31,23,10,12,3
 "Marshall Terrace","Total",14,9,7,6,3,0
 "McKinley","Total",36,31,8,7,15,2
@@ -137,7 +137,7 @@ NA,"Drug/Narcotic Violations",69,47,34,31,19,14
 "Midtown Phillips","Total",41,19,30,33,26,10
 "Minnehaha","Total",3,5,4,2,1,1
 "Morris Park","Total",2,3,0,2,1,0
-"Near - North","Total",65,56,37,57,24,4
+"Near - North","Total",65,56,37,57,24,5
 "Nicollet Island - East Bank","Total",11,3,5,4,1,1
 "North Loop","Total",26,18,17,14,21,9
 "Northeast Park","Total",12,6,10,8,7,4
