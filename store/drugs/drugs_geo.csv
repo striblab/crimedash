@@ -20,8 +20,8 @@
 "East Bde Maka Ska","Drug/Narcotic Violations",1,3,0,0,4,4
 "East Harriet","Drug/Narcotic Violations",4,0,3,2,4,1
 "East Isles","Drug/Narcotic Violations",11,2,7,3,16,6
-"East Phillips","Drug/Narcotic Violations",78,44,33,43,81,35
-"Elliot Park","Drug/Narcotic Violations",56,29,29,46,50,44
+"East Phillips","Drug/Narcotic Violations",78,44,33,43,81,37
+"Elliot Park","Drug/Narcotic Violations",56,29,29,46,50,45
 "Ericsson","Drug/Narcotic Violations",4,5,2,0,3,1
 "Field","Drug/Narcotic Violations",1,3,1,0,0,2
 "Folwell","Drug/Narcotic Violations",36,41,25,20,42,16
@@ -31,7 +31,7 @@
 "Hiawatha","Drug/Narcotic Violations",8,5,8,4,10,4
 "Holland","Drug/Narcotic Violations",37,22,9,9,13,3
 "Howe","Drug/Narcotic Violations",9,9,5,5,4,1
-"Jordan","Drug/Narcotic Violations",51,60,31,38,47,15
+"Jordan","Drug/Narcotic Violations",51,60,31,38,47,16
 "Keewaydin","Drug/Narcotic Violations",2,1,1,2,1,2
 "Kenwood","Drug/Narcotic Violations",3,4,4,0,0,0
 "King Field","Drug/Narcotic Violations",10,4,6,1,8,5
@@ -55,7 +55,7 @@
 "North Loop","Drug/Narcotic Violations",26,18,17,14,21,9
 "Northeast Park","Drug/Narcotic Violations",12,6,10,8,7,4
 "Northrop","Drug/Narcotic Violations",1,3,4,1,1,1
-"Phillips West","Drug/Narcotic Violations",26,8,9,14,27,7
+"Phillips West","Drug/Narcotic Violations",26,8,9,14,27,8
 "Powderhorn Park","Drug/Narcotic Violations",27,24,13,22,24,12
 "Prospect Park - East River Road","Drug/Narcotic Violations",10,12,10,4,6,3
 "Regina","Drug/Narcotic Violations",2,5,1,0,0,0
@@ -107,8 +107,8 @@ NA,"Drug/Narcotic Violations",69,47,34,31,19,14
 "East Bde Maka Ska","Total",1,3,0,0,4,4
 "East Harriet","Total",4,0,3,2,4,1
 "East Isles","Total",11,2,7,3,16,6
-"East Phillips","Total",78,44,33,43,81,35
-"Elliot Park","Total",56,29,29,46,50,44
+"East Phillips","Total",78,44,33,43,81,37
+"Elliot Park","Total",56,29,29,46,50,45
 "Ericsson","Total",4,5,2,0,3,1
 "Field","Total",1,3,1,0,0,2
 "Folwell","Total",36,41,25,20,42,16
@@ -118,7 +118,7 @@ NA,"Drug/Narcotic Violations",69,47,34,31,19,14
 "Hiawatha","Total",8,5,8,4,10,4
 "Holland","Total",37,22,9,9,13,3
 "Howe","Total",9,9,5,5,4,1
-"Jordan","Total",51,60,31,38,47,15
+"Jordan","Total",51,60,31,38,47,16
 "Keewaydin","Total",2,1,1,2,1,2
 "Kenwood","Total",3,4,4,0,0,0
 "King Field","Total",10,4,6,1,8,5
@@ -142,7 +142,7 @@ NA,"Drug/Narcotic Violations",69,47,34,31,19,14
 "North Loop","Total",26,18,17,14,21,9
 "Northeast Park","Total",12,6,10,8,7,4
 "Northrop","Total",1,3,4,1,1,1
-"Phillips West","Total",26,8,9,14,27,7
+"Phillips West","Total",26,8,9,14,27,8
 "Powderhorn Park","Total",27,24,13,22,24,12
 "Prospect Park - East River Road","Total",10,12,10,4,6,3
 "Regina","Total",2,5,1,0,0,0

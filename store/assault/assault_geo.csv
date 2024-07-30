@@ -2,7 +2,7 @@
 "Armatage","Aggravated Assault",5,5,6,6,12,2
 "Audubon Park","Aggravated Assault",12,10,8,7,4,10
 "Bancroft","Aggravated Assault",4,13,7,16,4,6
-"Beltrami","Aggravated Assault",4,4,11,4,5,5
+"Beltrami","Aggravated Assault",4,4,11,4,5,6
 "Bottineau","Aggravated Assault",2,5,5,12,6,9
 "Bryant","Aggravated Assault",7,10,10,8,4,6
 "Bryn - Mawr","Aggravated Assault",7,5,3,3,1,3
@@ -21,18 +21,18 @@
 "East Bde Maka Ska","Aggravated Assault",1,0,5,2,4,2
 "East Harriet","Aggravated Assault",5,5,7,4,6,3
 "East Isles","Aggravated Assault",6,7,11,4,12,9
-"East Phillips","Aggravated Assault",73,109,127,106,126,52
+"East Phillips","Aggravated Assault",73,109,127,106,126,53
 "Elliot Park","Aggravated Assault",60,74,79,74,99,42
 "Ericsson","Aggravated Assault",5,6,4,5,5,7
 "Field","Aggravated Assault",1,7,7,7,3,2
-"Folwell","Aggravated Assault",128,155,138,154,115,77
+"Folwell","Aggravated Assault",128,155,138,154,115,78
 "Fulton","Aggravated Assault",2,2,1,2,0,3
 "Harrison","Aggravated Assault",22,34,37,37,41,19
 "Hawthorne","Aggravated Assault",172,221,198,181,159,76
 "Hiawatha","Aggravated Assault",16,16,13,16,21,11
 "Holland","Aggravated Assault",24,32,39,28,40,24
 "Howe","Aggravated Assault",11,19,10,12,17,9
-"Jordan","Aggravated Assault",132,220,229,199,197,111
+"Jordan","Aggravated Assault",132,220,229,199,197,113
 "Keewaydin","Aggravated Assault",2,6,2,4,1,2
 "Kenny","Aggravated Assault",1,2,1,0,1,0
 "Kenwood","Aggravated Assault",1,4,3,4,1,1
@@ -79,18 +79,18 @@
 "Webber - Camden","Aggravated Assault",87,84,101,74,96,40
 "Wenonah","Aggravated Assault",19,27,22,33,23,3
 "West Maka Ska","Aggravated Assault",8,4,1,8,5,5
-"Whittier","Aggravated Assault",99,114,123,168,156,113
-"Willard - Hay","Aggravated Assault",128,116,121,100,124,93
+"Whittier","Aggravated Assault",99,114,123,168,156,114
+"Willard - Hay","Aggravated Assault",128,116,121,100,124,95
 "Windom","Aggravated Assault",9,18,25,14,16,7
 "Windom Park","Aggravated Assault",12,11,19,13,11,15
-NA,"Aggravated Assault",9,14,20,23,21,6
+NA,"Aggravated Assault",9,14,20,23,21,7
 "Hale","Aggravated Assault",0,1,1,2,1,0
 "Page","Aggravated Assault",0,1,1,0,0,0
 "Humboldt Industrial Area","Aggravated Assault",0,0,0,1,1,0
 "Armatage","Total",5,5,6,6,12,2
 "Audubon Park","Total",12,10,8,7,4,10
 "Bancroft","Total",4,13,7,16,4,6
-"Beltrami","Total",4,4,11,4,5,5
+"Beltrami","Total",4,4,11,4,5,6
 "Bottineau","Total",2,5,5,12,6,9
 "Bryant","Total",7,10,10,8,4,6
 "Bryn - Mawr","Total",7,5,3,3,1,3
@@ -109,18 +109,18 @@ NA,"Aggravated Assault",9,14,20,23,21,6
 "East Bde Maka Ska","Total",1,0,5,2,4,2
 "East Harriet","Total",5,5,7,4,6,3
 "East Isles","Total",6,7,11,4,12,9
-"East Phillips","Total",73,109,127,106,126,52
+"East Phillips","Total",73,109,127,106,126,53
 "Elliot Park","Total",60,74,79,74,99,42
 "Ericsson","Total",5,6,4,5,5,7
 "Field","Total",1,7,7,7,3,2
-"Folwell","Total",128,155,138,154,115,77
+"Folwell","Total",128,155,138,154,115,78
 "Fulton","Total",2,2,1,2,0,3
 "Harrison","Total",22,34,37,37,41,19
 "Hawthorne","Total",172,221,198,181,159,76
 "Hiawatha","Total",16,16,13,16,21,11
 "Holland","Total",24,32,39,28,40,24
 "Howe","Total",11,19,10,12,17,9
-"Jordan","Total",132,220,229,199,197,111
+"Jordan","Total",132,220,229,199,197,113
 "Keewaydin","Total",2,6,2,4,1,2
 "Kenny","Total",1,2,1,0,1,0
 "Kenwood","Total",1,4,3,4,1,1
@@ -167,11 +167,11 @@ NA,"Aggravated Assault",9,14,20,23,21,6
 "Webber - Camden","Total",87,84,101,74,96,40
 "Wenonah","Total",19,27,22,33,23,3
 "West Maka Ska","Total",8,4,1,8,5,5
-"Whittier","Total",99,114,123,168,156,113
-"Willard - Hay","Total",128,116,121,100,124,93
+"Whittier","Total",99,114,123,168,156,114
+"Willard - Hay","Total",128,116,121,100,124,95
 "Windom","Total",9,18,25,14,16,7
 "Windom Park","Total",12,11,19,13,11,15
-NA,"Total",9,14,20,23,21,6
+NA,"Total",9,14,20,23,21,7
 "Hale","Total",0,1,1,2,1,0
 "Page","Total",0,1,1,0,0,0
 "Humboldt Industrial Area","Total",0,0,0,1,1,0
