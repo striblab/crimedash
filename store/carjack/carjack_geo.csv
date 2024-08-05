@@ -4,8 +4,8 @@
 "Bottineau","Carjacking - Subset of Robbery",1,3,1,0,1
 "Bryant","Carjacking - Subset of Robbery",3,6,2,0,1
 "Bryn - Mawr","Carjacking - Subset of Robbery",1,2,4,1,0
-"Cedar Riverside","Carjacking - Subset of Robbery",3,6,7,6,2
-"Central","Carjacking - Subset of Robbery",11,40,24,11,6
+"Cedar Riverside","Carjacking - Subset of Robbery",3,6,7,6,3
+"Central","Carjacking - Subset of Robbery",11,40,24,11,7
 "Cleveland","Carjacking - Subset of Robbery",1,6,3,3,1
 "Como","Carjacking - Subset of Robbery",1,3,1,1,1
 "Corcoran","Carjacking - Subset of Robbery",3,8,3,3,0
@@ -18,7 +18,7 @@
 "Folwell","Carjacking - Subset of Robbery",1,9,6,6,5
 "Fulton","Carjacking - Subset of Robbery",1,3,0,1,1
 "Harrison","Carjacking - Subset of Robbery",1,17,13,6,0
-"Hawthorne","Carjacking - Subset of Robbery",7,17,19,7,6
+"Hawthorne","Carjacking - Subset of Robbery",7,17,19,7,7
 "Hiawatha","Carjacking - Subset of Robbery",3,3,5,2,1
 "Holland","Carjacking - Subset of Robbery",1,11,4,6,3
 "Howe","Carjacking - Subset of Robbery",2,3,2,0,0
@@ -91,8 +91,8 @@ NA,"Carjacking - Subset of Robbery",2,3,2,2,0
 "Bottineau","Total",1,3,1,0,1
 "Bryant","Total",3,6,2,0,1
 "Bryn - Mawr","Total",1,2,4,1,0
-"Cedar Riverside","Total",3,6,7,6,2
-"Central","Total",11,40,24,11,6
+"Cedar Riverside","Total",3,6,7,6,3
+"Central","Total",11,40,24,11,7
 "Cleveland","Total",1,6,3,3,1
 "Como","Total",1,3,1,1,1
 "Corcoran","Total",3,8,3,3,0
@@ -105,7 +105,7 @@ NA,"Carjacking - Subset of Robbery",2,3,2,2,0
 "Folwell","Total",1,9,6,6,5
 "Fulton","Total",1,3,0,1,1
 "Harrison","Total",1,17,13,6,0
-"Hawthorne","Total",7,17,19,7,6
+"Hawthorne","Total",7,17,19,7,7
 "Hiawatha","Total",3,3,5,2,1
 "Holland","Total",1,11,4,6,3
 "Howe","Total",2,3,2,0,0

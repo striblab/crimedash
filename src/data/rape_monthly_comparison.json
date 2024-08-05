@@ -458,14 +458,21 @@
     "Year": 2024,
     "Month": 6,
     "Offense": "Sex Offenses",
-    "IncidentCount": 50,
+    "IncidentCount": 51,
     "Date": "2024-06-01"
   },
   {
     "Year": 2024,
     "Month": 7,
     "Offense": "Sex Offenses",
-    "IncidentCount": 79,
+    "IncidentCount": 76,
     "Date": "2024-07-01"
+  },
+  {
+    "Year": 2024,
+    "Month": 8,
+    "Offense": "Sex Offenses",
+    "IncidentCount": 6,
+    "Date": "2024-08-01"
   }
 ]

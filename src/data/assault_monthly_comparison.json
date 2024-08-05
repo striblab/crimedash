@@ -437,7 +437,7 @@
     "Year": 2024,
     "Month": 3,
     "Offense": "Aggravated Assault",
-    "IncidentCount": 209,
+    "IncidentCount": 208,
     "Date": "2024-03-01"
   },
   {
@@ -458,14 +458,21 @@
     "Year": 2024,
     "Month": 6,
     "Offense": "Aggravated Assault",
-    "IncidentCount": 307,
+    "IncidentCount": 306,
     "Date": "2024-06-01"
   },
   {
     "Year": 2024,
     "Month": 7,
     "Offense": "Aggravated Assault",
-    "IncidentCount": 276,
+    "IncidentCount": 280,
     "Date": "2024-07-01"
+  },
+  {
+    "Year": 2024,
+    "Month": 8,
+    "Offense": "Aggravated Assault",
+    "IncidentCount": 25,
+    "Date": "2024-08-01"
   }
 ]
