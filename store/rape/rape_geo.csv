@@ -1,17 +1,17 @@
 "Neighborhood","Offense","2019","2020","2021","2022","2023","2024"
 "Armatage","Sex Offenses",3,8,2,0,2,1
-"Audubon Park","Sex Offenses",10,5,3,7,1,2
+"Audubon Park","Sex Offenses",10,5,3,7,1,3
 "Bancroft","Sex Offenses",4,7,6,2,3,2
 "Beltrami","Sex Offenses",2,1,2,0,0,1
 "Bottineau","Sex Offenses",2,3,2,4,3,4
-"Bryant","Sex Offenses",5,6,8,8,0,2
+"Bryant","Sex Offenses",5,6,8,8,0,3
 "Bryn - Mawr","Sex Offenses",2,0,1,2,1,1
 "Camden Industrial","Sex Offenses",2,0,1,0,1,0
 "Cedar - Isles - Dean","Sex Offenses",1,2,1,3,4,1
-"Cedar Riverside","Sex Offenses",13,15,21,8,19,5
+"Cedar Riverside","Sex Offenses",13,15,21,8,19,6
 "Central","Sex Offenses",22,10,24,19,19,10
 "Cleveland","Sex Offenses",7,5,2,9,13,4
-"Como","Sex Offenses",8,10,8,4,6,3
+"Como","Sex Offenses",8,10,8,4,6,4
 "Cooper","Sex Offenses",2,1,2,3,4,0
 "Corcoran","Sex Offenses",7,5,8,8,6,5
 "Diamond Lake","Sex Offenses",2,2,5,4,4,4
@@ -29,7 +29,7 @@
 "Hiawatha","Sex Offenses",3,7,5,3,6,3
 "Holland","Sex Offenses",5,7,9,6,7,2
 "Howe","Sex Offenses",5,6,5,1,0,7
-"Jordan","Sex Offenses",37,34,29,28,39,14
+"Jordan","Sex Offenses",37,34,29,28,39,15
 "Keewaydin","Sex Offenses",1,3,0,0,4,1
 "Kenny","Sex Offenses",2,3,2,2,0,0
 "King Field","Sex Offenses",7,6,4,2,10,1
@@ -43,7 +43,7 @@
 "Lyndale","Sex Offenses",19,16,15,11,13,9
 "Lynnhurst","Sex Offenses",7,3,2,1,0,1
 "Marcy Holmes","Sex Offenses",26,15,25,15,11,17
-"Marshall Terrace","Sex Offenses",6,0,6,3,4,0
+"Marshall Terrace","Sex Offenses",6,0,6,3,4,1
 "McKinley","Sex Offenses",13,12,8,15,13,8
 "Mid - City Industrial","Sex Offenses",2,3,8,3,1,0
 "Midtown Phillips","Sex Offenses",23,18,21,25,8,23
@@ -79,7 +79,7 @@
 "Willard - Hay","Sex Offenses",30,37,21,24,30,18
 "Windom","Sex Offenses",6,12,9,6,5,1
 "Windom Park","Sex Offenses",11,11,4,5,7,5
-NA,"Sex Offenses",36,29,63,66,40,24
+NA,"Sex Offenses",36,29,63,66,40,26
 "Columbia Park","Sex Offenses",0,8,1,3,1,0
 "East Bde Maka Ska","Sex Offenses",0,3,3,7,0,9
 "Field","Sex Offenses",0,4,1,5,7,2
@@ -87,18 +87,18 @@ NA,"Sex Offenses",36,29,63,66,40,24
 "Tangletown","Sex Offenses",0,2,2,1,3,1
 "Hale","Sex Offenses",0,0,1,2,4,1
 "Armatage","Total",3,8,2,0,2,1
-"Audubon Park","Total",10,5,3,7,1,2
+"Audubon Park","Total",10,5,3,7,1,3
 "Bancroft","Total",4,7,6,2,3,2
 "Beltrami","Total",2,1,2,0,0,1
 "Bottineau","Total",2,3,2,4,3,4
-"Bryant","Total",5,6,8,8,0,2
+"Bryant","Total",5,6,8,8,0,3
 "Bryn - Mawr","Total",2,0,1,2,1,1
 "Camden Industrial","Total",2,0,1,0,1,0
 "Cedar - Isles - Dean","Total",1,2,1,3,4,1
-"Cedar Riverside","Total",13,15,21,8,19,5
+"Cedar Riverside","Total",13,15,21,8,19,6
 "Central","Total",22,10,24,19,19,10
 "Cleveland","Total",7,5,2,9,13,4
-"Como","Total",8,10,8,4,6,3
+"Como","Total",8,10,8,4,6,4
 "Cooper","Total",2,1,2,3,4,0
 "Corcoran","Total",7,5,8,8,6,5
 "Diamond Lake","Total",2,2,5,4,4,4
@@ -116,7 +116,7 @@ NA,"Sex Offenses",36,29,63,66,40,24
 "Hiawatha","Total",3,7,5,3,6,3
 "Holland","Total",5,7,9,6,7,2
 "Howe","Total",5,6,5,1,0,7
-"Jordan","Total",37,34,29,28,39,14
+"Jordan","Total",37,34,29,28,39,15
 "Keewaydin","Total",1,3,0,0,4,1
 "Kenny","Total",2,3,2,2,0,0
 "King Field","Total",7,6,4,2,10,1
@@ -130,7 +130,7 @@ NA,"Sex Offenses",36,29,63,66,40,24
 "Lyndale","Total",19,16,15,11,13,9
 "Lynnhurst","Total",7,3,2,1,0,1
 "Marcy Holmes","Total",26,15,25,15,11,17
-"Marshall Terrace","Total",6,0,6,3,4,0
+"Marshall Terrace","Total",6,0,6,3,4,1
 "McKinley","Total",13,12,8,15,13,8
 "Mid - City Industrial","Total",2,3,8,3,1,0
 "Midtown Phillips","Total",23,18,21,25,8,23
@@ -166,7 +166,7 @@ NA,"Sex Offenses",36,29,63,66,40,24
 "Willard - Hay","Total",30,37,21,24,30,18
 "Windom","Total",6,12,9,6,5,1
 "Windom Park","Total",11,11,4,5,7,5
-NA,"Total",36,29,63,66,40,24
+NA,"Total",36,29,63,66,40,26
 "Columbia Park","Total",0,8,1,3,1,0
 "East Bde Maka Ska","Total",0,3,3,7,0,9
 "Field","Total",0,4,1,5,7,2
