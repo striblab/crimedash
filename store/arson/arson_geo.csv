@@ -9,7 +9,7 @@
 "Folwell","Arson",2,5,7,4,4,6
 "Hale","Arson",1,1,0,1,0,0
 "Harrison","Arson",1,1,3,0,3,0
-"Hawthorne","Arson",4,6,4,8,7,3
+"Hawthorne","Arson",4,6,4,8,7,4
 "Howe","Arson",1,0,0,3,0,1
 "Jordan","Arson",9,6,8,4,4,5
 "King Field","Arson",1,0,0,0,1,1
@@ -24,10 +24,10 @@
 "Phillips West","Arson",1,3,1,2,4,0
 "Seward","Arson",4,3,2,1,0,0
 "Standish","Arson",1,0,0,0,1,0
-"Steven's Square - Loring Heights","Arson",2,1,0,4,5,2
+"Steven's Square - Loring Heights","Arson",2,1,0,4,5,3
 "Sumner - Glenwood","Arson",2,0,0,1,0,0
 "University of Minnesota","Arson",1,1,1,0,0,0
-"Ventura Village","Arson",2,2,6,6,6,2
+"Ventura Village","Arson",2,2,6,6,6,3
 "Victory","Arson",2,3,0,2,0,0
 "Webber - Camden","Arson",4,5,2,4,1,1
 "Whittier","Arson",1,5,4,1,6,3
@@ -56,7 +56,7 @@
 NA,"Arson",0,2,1,1,1,0
 "Kenny","Arson",0,0,1,0,0,0
 "Lowry Hill","Arson",0,0,3,1,0,0
-"Lowry Hill East","Arson",0,0,5,4,2,1
+"Lowry Hill East","Arson",0,0,5,4,2,2
 "Minnehaha","Arson",0,0,1,0,1,0
 "Morris Park","Arson",0,0,1,0,0,0
 "North Loop","Arson",0,0,3,3,3,2
@@ -88,7 +88,7 @@ NA,"Arson",0,2,1,1,1,0
 "Folwell","Total",2,5,7,4,4,6
 "Hale","Total",1,1,0,1,0,0
 "Harrison","Total",1,1,3,0,3,0
-"Hawthorne","Total",4,6,4,8,7,3
+"Hawthorne","Total",4,6,4,8,7,4
 "Howe","Total",1,0,0,3,0,1
 "Jordan","Total",9,6,8,4,4,5
 "King Field","Total",1,0,0,0,1,1
@@ -103,10 +103,10 @@ NA,"Arson",0,2,1,1,1,0
 "Phillips West","Total",1,3,1,2,4,0
 "Seward","Total",4,3,2,1,0,0
 "Standish","Total",1,0,0,0,1,0
-"Steven's Square - Loring Heights","Total",2,1,0,4,5,2
+"Steven's Square - Loring Heights","Total",2,1,0,4,5,3
 "Sumner - Glenwood","Total",2,0,0,1,0,0
 "University of Minnesota","Total",1,1,1,0,0,0
-"Ventura Village","Total",2,2,6,6,6,2
+"Ventura Village","Total",2,2,6,6,6,3
 "Victory","Total",2,3,0,2,0,0
 "Webber - Camden","Total",4,5,2,4,1,1
 "Whittier","Total",1,5,4,1,6,3
@@ -135,7 +135,7 @@ NA,"Arson",0,2,1,1,1,0
 NA,"Total",0,2,1,1,1,0
 "Kenny","Total",0,0,1,0,0,0
 "Lowry Hill","Total",0,0,3,1,0,0
-"Lowry Hill East","Total",0,0,5,4,2,1
+"Lowry Hill East","Total",0,0,5,4,2,2
 "Minnehaha","Total",0,0,1,0,1,0
 "Morris Park","Total",0,0,1,0,0,0
 "North Loop","Total",0,0,3,3,3,2
