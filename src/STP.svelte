@@ -80,7 +80,10 @@
 <div class="download"><a href="../store/stp/stp_property.csv">Download St. Paul 1985-2022 property crimes data (includes clearances)</a></div>
 
 <h4>Links</h4>
+
+
 <ul>
+    <li><a href="https://information.stpaul.gov/datasets/stpaul::crime-incident-report/explore">SPPD Crime Incident Reports</a></li>
     <li><a href="https://information.stpaul.gov/apps/crime-incidents-by-neighborhood/explore">SPPD Police Incidents</a></li>
     <li><a href="https://docs.google.com/spreadsheets/d/1dGId7vn3iwESAXkVbNY58lP0-u10qh5qvFx6HE4HUAM/edit#gid=0">Star Tribune: St. Paul homicides spreadsheet</a></li>
     <li><a href="https://saintpaulmn.mycusthelp.com/WEBAPP/_rs/(S(3bgsui0ryccasua2zoohdy5k))/supporthome.aspx">St. Paul DPA requests</a></li>
