@@ -2,7 +2,7 @@
 "Bryn - Mawr","Gunshot Wound Victims",1,1,1,0,0,0
 "Cedar - Isles - Dean","Gunshot Wound Victims",1,0,0,0,0,1
 "Cedar Riverside","Gunshot Wound Victims",6,6,13,20,5,3
-"Central","Gunshot Wound Victims",10,14,10,7,5,2
+"Central","Gunshot Wound Victims",10,14,10,7,5,3
 "Cleveland","Gunshot Wound Victims",4,3,6,6,2,5
 "Downtown West","Gunshot Wound Victims",20,33,30,44,19,11
 "East Harriet","Gunshot Wound Victims",1,0,2,0,1,0
@@ -20,10 +20,10 @@
 "Marcy Holmes","Gunshot Wound Victims",4,3,17,7,5,1
 "McKinley","Gunshot Wound Victims",5,20,15,11,10,4
 "Midtown Phillips","Gunshot Wound Victims",9,19,30,20,12,8
-"Near - North","Gunshot Wound Victims",13,40,38,36,20,11
+"Near - North","Gunshot Wound Victims",13,40,38,36,20,12
 "North Loop","Gunshot Wound Victims",2,2,3,6,4,4
 "Northeast Park","Gunshot Wound Victims",2,0,1,1,0,1
-"Phillips West","Gunshot Wound Victims",11,7,17,9,3,10
+"Phillips West","Gunshot Wound Victims",11,7,17,9,3,12
 "Powderhorn Park","Gunshot Wound Victims",2,27,16,19,6,4
 "Prospect Park - East River Road","Gunshot Wound Victims",2,0,3,1,2,1
 "Seward","Gunshot Wound Victims",9,4,10,5,18,3
@@ -78,7 +78,7 @@ NA,"Gunshot Wound Victims",0,3,6,4,6,3
 "Bryn - Mawr","Total",1,1,1,0,0,0
 "Cedar - Isles - Dean","Total",1,0,0,0,0,1
 "Cedar Riverside","Total",6,6,13,20,5,3
-"Central","Total",10,14,10,7,5,2
+"Central","Total",10,14,10,7,5,3
 "Cleveland","Total",4,3,6,6,2,5
 "Downtown West","Total",20,33,30,44,19,11
 "East Harriet","Total",1,0,2,0,1,0
@@ -96,10 +96,10 @@ NA,"Gunshot Wound Victims",0,3,6,4,6,3
 "Marcy Holmes","Total",4,3,17,7,5,1
 "McKinley","Total",5,20,15,11,10,4
 "Midtown Phillips","Total",9,19,30,20,12,8
-"Near - North","Total",13,40,38,36,20,11
+"Near - North","Total",13,40,38,36,20,12
 "North Loop","Total",2,2,3,6,4,4
 "Northeast Park","Total",2,0,1,1,0,1
-"Phillips West","Total",11,7,17,9,3,10
+"Phillips West","Total",11,7,17,9,3,12
 "Powderhorn Park","Total",2,27,16,19,6,4
 "Prospect Park - East River Road","Total",2,0,3,1,2,1
 "Seward","Total",9,4,10,5,18,3

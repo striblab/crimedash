@@ -8,17 +8,17 @@
 "Central","Carjacking - Subset of Robbery",11,40,24,11,7
 "Cleveland","Carjacking - Subset of Robbery",1,6,3,3,1
 "Como","Carjacking - Subset of Robbery",1,3,1,1,1
-"Corcoran","Carjacking - Subset of Robbery",3,8,3,3,0
+"Corcoran","Carjacking - Subset of Robbery",3,8,3,3,1
 "Diamond Lake","Carjacking - Subset of Robbery",1,1,0,0,0
 "Downtown West","Carjacking - Subset of Robbery",2,4,5,1,0
-"East Isles","Carjacking - Subset of Robbery",5,16,13,3,3
+"East Isles","Carjacking - Subset of Robbery",5,16,13,3,4
 "East Phillips","Carjacking - Subset of Robbery",2,25,18,10,5
 "Elliot Park","Carjacking - Subset of Robbery",1,2,9,8,1
 "Field","Carjacking - Subset of Robbery",1,5,1,2,1
 "Folwell","Carjacking - Subset of Robbery",1,9,6,6,5
 "Fulton","Carjacking - Subset of Robbery",1,3,0,1,1
 "Harrison","Carjacking - Subset of Robbery",1,17,13,6,0
-"Hawthorne","Carjacking - Subset of Robbery",7,17,19,7,7
+"Hawthorne","Carjacking - Subset of Robbery",7,17,19,7,8
 "Hiawatha","Carjacking - Subset of Robbery",3,3,5,2,1
 "Holland","Carjacking - Subset of Robbery",1,11,4,6,3
 "Howe","Carjacking - Subset of Robbery",2,3,2,0,0
@@ -40,7 +40,7 @@
 "Prospect Park - East River Road","Carjacking - Subset of Robbery",2,5,1,0,0
 "Seward","Carjacking - Subset of Robbery",12,24,12,7,9
 "Sheridan","Carjacking - Subset of Robbery",3,5,3,1,1
-"South Uptown","Carjacking - Subset of Robbery",7,9,8,3,5
+"South Uptown","Carjacking - Subset of Robbery",7,9,8,3,6
 "Standish","Carjacking - Subset of Robbery",4,7,1,2,1
 "Sumner - Glenwood","Carjacking - Subset of Robbery",1,12,6,3,5
 "Tangletown","Carjacking - Subset of Robbery",1,2,1,2,1
@@ -95,17 +95,17 @@ NA,"Carjacking - Subset of Robbery",2,3,2,2,0
 "Central","Total",11,40,24,11,7
 "Cleveland","Total",1,6,3,3,1
 "Como","Total",1,3,1,1,1
-"Corcoran","Total",3,8,3,3,0
+"Corcoran","Total",3,8,3,3,1
 "Diamond Lake","Total",1,1,0,0,0
 "Downtown West","Total",2,4,5,1,0
-"East Isles","Total",5,16,13,3,3
+"East Isles","Total",5,16,13,3,4
 "East Phillips","Total",2,25,18,10,5
 "Elliot Park","Total",1,2,9,8,1
 "Field","Total",1,5,1,2,1
 "Folwell","Total",1,9,6,6,5
 "Fulton","Total",1,3,0,1,1
 "Harrison","Total",1,17,13,6,0
-"Hawthorne","Total",7,17,19,7,7
+"Hawthorne","Total",7,17,19,7,8
 "Hiawatha","Total",3,3,5,2,1
 "Holland","Total",1,11,4,6,3
 "Howe","Total",2,3,2,0,0
@@ -127,7 +127,7 @@ NA,"Carjacking - Subset of Robbery",2,3,2,2,0
 "Prospect Park - East River Road","Total",2,5,1,0,0
 "Seward","Total",12,24,12,7,9
 "Sheridan","Total",3,5,3,1,1
-"South Uptown","Total",7,9,8,3,5
+"South Uptown","Total",7,9,8,3,6
 "Standish","Total",4,7,1,2,1
 "Sumner - Glenwood","Total",1,12,6,3,5
 "Tangletown","Total",1,2,1,2,1
