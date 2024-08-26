@@ -16,12 +16,12 @@
 "Corcoran","Domestic Aggravated Assault - Subset of Assault",5,5,6,12,18,9
 "Diamond Lake","Domestic Aggravated Assault - Subset of Assault",7,2,3,1,3,1
 "Downtown East","Domestic Aggravated Assault - Subset of Assault",3,1,4,6,13,0
-"Downtown West","Domestic Aggravated Assault - Subset of Assault",24,19,33,27,25,20
+"Downtown West","Domestic Aggravated Assault - Subset of Assault",24,19,33,27,25,21
 "East Bde Maka Ska","Domestic Aggravated Assault - Subset of Assault",1,0,2,0,2,0
 "East Harriet","Domestic Aggravated Assault - Subset of Assault",3,2,2,2,3,0
 "East Isles","Domestic Aggravated Assault - Subset of Assault",3,3,2,1,4,5
 "East Phillips","Domestic Aggravated Assault - Subset of Assault",27,29,29,40,33,16
-"Elliot Park","Domestic Aggravated Assault - Subset of Assault",26,26,21,37,30,14
+"Elliot Park","Domestic Aggravated Assault - Subset of Assault",26,26,21,37,30,15
 "Ericsson","Domestic Aggravated Assault - Subset of Assault",2,2,0,0,2,2
 "Field","Domestic Aggravated Assault - Subset of Assault",1,4,3,6,2,2
 "Folwell","Domestic Aggravated Assault - Subset of Assault",54,44,35,41,29,23
@@ -40,14 +40,14 @@
 "Longfellow","Domestic Aggravated Assault - Subset of Assault",17,5,10,14,15,6
 "Loring Park","Domestic Aggravated Assault - Subset of Assault",19,19,21,35,29,21
 "Lowry Hill","Domestic Aggravated Assault - Subset of Assault",3,0,1,3,7,4
-"Lowry Hill East","Domestic Aggravated Assault - Subset of Assault",8,12,15,28,23,15
+"Lowry Hill East","Domestic Aggravated Assault - Subset of Assault",8,12,15,28,23,16
 "Lyndale","Domestic Aggravated Assault - Subset of Assault",10,15,11,12,20,9
 "Lynnhurst","Domestic Aggravated Assault - Subset of Assault",1,0,0,0,0,0
 "Marcy Holmes","Domestic Aggravated Assault - Subset of Assault",12,15,16,19,19,11
 "Marshall Terrace","Domestic Aggravated Assault - Subset of Assault",1,5,1,2,2,3
 "McKinley","Domestic Aggravated Assault - Subset of Assault",26,24,16,17,17,8
 "Mid - City Industrial","Domestic Aggravated Assault - Subset of Assault",1,0,1,1,0,0
-"Midtown Phillips","Domestic Aggravated Assault - Subset of Assault",26,8,8,21,11,10
+"Midtown Phillips","Domestic Aggravated Assault - Subset of Assault",26,8,8,21,11,12
 "Minnehaha","Domestic Aggravated Assault - Subset of Assault",3,8,3,5,8,3
 "Morris Park","Domestic Aggravated Assault - Subset of Assault",3,1,6,1,2,1
 "Near - North","Domestic Aggravated Assault - Subset of Assault",65,45,31,40,41,26
@@ -57,7 +57,7 @@
 "Northrop","Domestic Aggravated Assault - Subset of Assault",2,1,6,4,1,2
 "Phillips West","Domestic Aggravated Assault - Subset of Assault",13,13,6,23,19,8
 "Powderhorn Park","Domestic Aggravated Assault - Subset of Assault",24,12,18,20,37,25
-"Prospect Park - East River Road","Domestic Aggravated Assault - Subset of Assault",6,8,9,6,12,9
+"Prospect Park - East River Road","Domestic Aggravated Assault - Subset of Assault",6,8,9,6,12,10
 "Regina","Domestic Aggravated Assault - Subset of Assault",2,4,3,6,4,1
 "Seward","Domestic Aggravated Assault - Subset of Assault",9,11,5,14,17,10
 "Sheridan","Domestic Aggravated Assault - Subset of Assault",2,7,6,5,2,2
@@ -104,12 +104,12 @@ NA,"Domestic Aggravated Assault - Subset of Assault",3,4,4,4,7,3
 "Corcoran","Total",5,5,6,12,18,9
 "Diamond Lake","Total",7,2,3,1,3,1
 "Downtown East","Total",3,1,4,6,13,0
-"Downtown West","Total",24,19,33,27,25,20
+"Downtown West","Total",24,19,33,27,25,21
 "East Bde Maka Ska","Total",1,0,2,0,2,0
 "East Harriet","Total",3,2,2,2,3,0
 "East Isles","Total",3,3,2,1,4,5
 "East Phillips","Total",27,29,29,40,33,16
-"Elliot Park","Total",26,26,21,37,30,14
+"Elliot Park","Total",26,26,21,37,30,15
 "Ericsson","Total",2,2,0,0,2,2
 "Field","Total",1,4,3,6,2,2
 "Folwell","Total",54,44,35,41,29,23
@@ -128,14 +128,14 @@ NA,"Domestic Aggravated Assault - Subset of Assault",3,4,4,4,7,3
 "Longfellow","Total",17,5,10,14,15,6
 "Loring Park","Total",19,19,21,35,29,21
 "Lowry Hill","Total",3,0,1,3,7,4
-"Lowry Hill East","Total",8,12,15,28,23,15
+"Lowry Hill East","Total",8,12,15,28,23,16
 "Lyndale","Total",10,15,11,12,20,9
 "Lynnhurst","Total",1,0,0,0,0,0
 "Marcy Holmes","Total",12,15,16,19,19,11
 "Marshall Terrace","Total",1,5,1,2,2,3
 "McKinley","Total",26,24,16,17,17,8
 "Mid - City Industrial","Total",1,0,1,1,0,0
-"Midtown Phillips","Total",26,8,8,21,11,10
+"Midtown Phillips","Total",26,8,8,21,11,12
 "Minnehaha","Total",3,8,3,5,8,3
 "Morris Park","Total",3,1,6,1,2,1
 "Near - North","Total",65,45,31,40,41,26
@@ -145,7 +145,7 @@ NA,"Domestic Aggravated Assault - Subset of Assault",3,4,4,4,7,3
 "Northrop","Total",2,1,6,4,1,2
 "Phillips West","Total",13,13,6,23,19,8
 "Powderhorn Park","Total",24,12,18,20,37,25
-"Prospect Park - East River Road","Total",6,8,9,6,12,9
+"Prospect Park - East River Road","Total",6,8,9,6,12,10
 "Regina","Total",2,4,3,6,4,1
 "Seward","Total",9,11,5,14,17,10
 "Sheridan","Total",2,7,6,5,2,2

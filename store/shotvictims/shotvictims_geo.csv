@@ -44,7 +44,7 @@
 "Keewaydin","Gunshot Wound Victims",0,2,0,0,0,0
 "Linden Hills","Gunshot Wound Victims",0,2,0,0,1,0
 "Loring Park","Gunshot Wound Victims",0,4,10,15,12,4
-"Lyndale","Gunshot Wound Victims",0,2,1,8,3,2
+"Lyndale","Gunshot Wound Victims",0,2,1,8,3,3
 "Morris Park","Gunshot Wound Victims",0,1,2,0,0,0
 "Regina","Gunshot Wound Victims",0,1,1,0,0,0
 "Shingle Creek","Gunshot Wound Victims",0,6,3,3,2,0
@@ -75,6 +75,7 @@ NA,"Gunshot Wound Victims",0,3,6,4,6,3
 "St. Anthony East","Gunshot Wound Victims",0,0,0,2,2,0
 "University of Minnesota","Gunshot Wound Victims",0,0,0,2,0,0
 "Columbia Park","Gunshot Wound Victims",0,0,0,0,1,0
+"Page","Gunshot Wound Victims",0,0,0,0,0,2
 "Bryn - Mawr","Total",1,1,1,0,0,0
 "Cedar - Isles - Dean","Total",1,0,0,0,0,1
 "Cedar Riverside","Total",6,6,13,20,5,3
@@ -120,7 +121,7 @@ NA,"Gunshot Wound Victims",0,3,6,4,6,3
 "Keewaydin","Total",0,2,0,0,0,0
 "Linden Hills","Total",0,2,0,0,1,0
 "Loring Park","Total",0,4,10,15,12,4
-"Lyndale","Total",0,2,1,8,3,2
+"Lyndale","Total",0,2,1,8,3,3
 "Morris Park","Total",0,1,2,0,0,0
 "Regina","Total",0,1,1,0,0,0
 "Shingle Creek","Total",0,6,3,3,2,0
@@ -151,3 +152,4 @@ NA,"Total",0,3,6,4,6,3
 "St. Anthony East","Total",0,0,0,2,2,0
 "University of Minnesota","Total",0,0,0,2,0,0
 "Columbia Park","Total",0,0,0,0,1,0
+"Page","Total",0,0,0,0,0,2
