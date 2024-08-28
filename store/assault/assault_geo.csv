@@ -9,7 +9,7 @@
 "Camden Industrial","Aggravated Assault",5,4,3,4,4,0
 "Cedar - Isles - Dean","Aggravated Assault",4,5,2,1,4,3
 "Cedar Riverside","Aggravated Assault",33,36,49,74,39,20
-"Central","Aggravated Assault",62,52,74,67,56,28
+"Central","Aggravated Assault",62,52,74,67,56,30
 "Cleveland","Aggravated Assault",24,26,28,34,21,27
 "Columbia Park","Aggravated Assault",3,4,12,8,4,5
 "Como","Aggravated Assault",16,14,27,28,38,10
@@ -20,19 +20,19 @@
 "Downtown West","Aggravated Assault",157,132,153,179,160,116
 "East Bde Maka Ska","Aggravated Assault",1,0,5,2,4,3
 "East Harriet","Aggravated Assault",5,5,7,4,6,3
-"East Isles","Aggravated Assault",6,7,11,4,12,9
+"East Isles","Aggravated Assault",6,7,11,4,12,10
 "East Phillips","Aggravated Assault",73,109,127,106,126,60
-"Elliot Park","Aggravated Assault",60,74,79,74,99,47
+"Elliot Park","Aggravated Assault",60,74,79,74,99,48
 "Ericsson","Aggravated Assault",5,6,4,5,5,7
 "Field","Aggravated Assault",1,7,7,7,3,2
 "Folwell","Aggravated Assault",128,155,138,154,115,86
 "Fulton","Aggravated Assault",2,2,1,2,0,3
-"Harrison","Aggravated Assault",22,34,37,37,41,21
+"Harrison","Aggravated Assault",22,34,37,37,41,22
 "Hawthorne","Aggravated Assault",172,221,198,181,159,85
-"Hiawatha","Aggravated Assault",16,16,13,16,21,11
+"Hiawatha","Aggravated Assault",16,16,13,16,21,12
 "Holland","Aggravated Assault",24,32,39,28,40,26
 "Howe","Aggravated Assault",11,19,10,12,17,12
-"Jordan","Aggravated Assault",132,220,229,199,197,129
+"Jordan","Aggravated Assault",132,220,229,199,197,130
 "Keewaydin","Aggravated Assault",2,6,2,4,1,2
 "Kenny","Aggravated Assault",1,2,1,0,1,0
 "Kenwood","Aggravated Assault",1,4,3,4,1,1
@@ -42,7 +42,7 @@
 "Logan Park","Aggravated Assault",2,8,5,13,11,5
 "Longfellow","Aggravated Assault",32,34,27,32,45,18
 "Loring Park","Aggravated Assault",42,83,91,82,70,51
-"Lowry Hill","Aggravated Assault",6,3,8,8,15,5
+"Lowry Hill","Aggravated Assault",6,3,8,8,15,6
 "Lowry Hill East","Aggravated Assault",32,55,59,75,83,44
 "Lyndale","Aggravated Assault",17,35,32,40,48,49
 "Lynnhurst","Aggravated Assault",3,0,0,2,0,1
@@ -53,7 +53,7 @@
 "Midtown Phillips","Aggravated Assault",62,58,72,71,69,39
 "Minnehaha","Aggravated Assault",4,12,11,9,14,5
 "Morris Park","Aggravated Assault",3,2,13,1,3,1
-"Near - North","Aggravated Assault",117,157,134,175,135,63
+"Near - North","Aggravated Assault",117,157,134,175,135,64
 "Nicollet Island - East Bank","Aggravated Assault",8,8,13,10,13,11
 "North Loop","Aggravated Assault",16,26,44,50,49,24
 "Northeast Park","Aggravated Assault",5,4,9,9,6,5
@@ -66,10 +66,10 @@
 "Sheridan","Aggravated Assault",4,13,12,15,5,5
 "Shingle Creek","Aggravated Assault",21,36,19,11,12,15
 "South Uptown","Aggravated Assault",8,14,26,19,16,18
-"St. Anthony East","Aggravated Assault",9,2,4,4,7,10
+"St. Anthony East","Aggravated Assault",9,2,4,4,7,11
 "St. Anthony West","Aggravated Assault",8,3,8,13,10,3
 "Standish","Aggravated Assault",8,10,15,15,11,11
-"Steven's Square - Loring Heights","Aggravated Assault",31,53,61,51,72,41
+"Steven's Square - Loring Heights","Aggravated Assault",31,53,61,51,72,42
 "Sumner - Glenwood","Aggravated Assault",27,33,22,38,23,14
 "Tangletown","Aggravated Assault",1,4,10,1,10,6
 "University of Minnesota","Aggravated Assault",6,0,3,15,3,7
@@ -97,7 +97,7 @@ NA,"Aggravated Assault",9,14,20,23,21,8
 "Camden Industrial","Total",5,4,3,4,4,0
 "Cedar - Isles - Dean","Total",4,5,2,1,4,3
 "Cedar Riverside","Total",33,36,49,74,39,20
-"Central","Total",62,52,74,67,56,28
+"Central","Total",62,52,74,67,56,30
 "Cleveland","Total",24,26,28,34,21,27
 "Columbia Park","Total",3,4,12,8,4,5
 "Como","Total",16,14,27,28,38,10
@@ -108,19 +108,19 @@ NA,"Aggravated Assault",9,14,20,23,21,8
 "Downtown West","Total",157,132,153,179,160,116
 "East Bde Maka Ska","Total",1,0,5,2,4,3
 "East Harriet","Total",5,5,7,4,6,3
-"East Isles","Total",6,7,11,4,12,9
+"East Isles","Total",6,7,11,4,12,10
 "East Phillips","Total",73,109,127,106,126,60
-"Elliot Park","Total",60,74,79,74,99,47
+"Elliot Park","Total",60,74,79,74,99,48
 "Ericsson","Total",5,6,4,5,5,7
 "Field","Total",1,7,7,7,3,2
 "Folwell","Total",128,155,138,154,115,86
 "Fulton","Total",2,2,1,2,0,3
-"Harrison","Total",22,34,37,37,41,21
+"Harrison","Total",22,34,37,37,41,22
 "Hawthorne","Total",172,221,198,181,159,85
-"Hiawatha","Total",16,16,13,16,21,11
+"Hiawatha","Total",16,16,13,16,21,12
 "Holland","Total",24,32,39,28,40,26
 "Howe","Total",11,19,10,12,17,12
-"Jordan","Total",132,220,229,199,197,129
+"Jordan","Total",132,220,229,199,197,130
 "Keewaydin","Total",2,6,2,4,1,2
 "Kenny","Total",1,2,1,0,1,0
 "Kenwood","Total",1,4,3,4,1,1
@@ -130,7 +130,7 @@ NA,"Aggravated Assault",9,14,20,23,21,8
 "Logan Park","Total",2,8,5,13,11,5
 "Longfellow","Total",32,34,27,32,45,18
 "Loring Park","Total",42,83,91,82,70,51
-"Lowry Hill","Total",6,3,8,8,15,5
+"Lowry Hill","Total",6,3,8,8,15,6
 "Lowry Hill East","Total",32,55,59,75,83,44
 "Lyndale","Total",17,35,32,40,48,49
 "Lynnhurst","Total",3,0,0,2,0,1
@@ -141,7 +141,7 @@ NA,"Aggravated Assault",9,14,20,23,21,8
 "Midtown Phillips","Total",62,58,72,71,69,39
 "Minnehaha","Total",4,12,11,9,14,5
 "Morris Park","Total",3,2,13,1,3,1
-"Near - North","Total",117,157,134,175,135,63
+"Near - North","Total",117,157,134,175,135,64
 "Nicollet Island - East Bank","Total",8,8,13,10,13,11
 "North Loop","Total",16,26,44,50,49,24
 "Northeast Park","Total",5,4,9,9,6,5
@@ -154,10 +154,10 @@ NA,"Aggravated Assault",9,14,20,23,21,8
 "Sheridan","Total",4,13,12,15,5,5
 "Shingle Creek","Total",21,36,19,11,12,15
 "South Uptown","Total",8,14,26,19,16,18
-"St. Anthony East","Total",9,2,4,4,7,10
+"St. Anthony East","Total",9,2,4,4,7,11
 "St. Anthony West","Total",8,3,8,13,10,3
 "Standish","Total",8,10,15,15,11,11
-"Steven's Square - Loring Heights","Total",31,53,61,51,72,41
+"Steven's Square - Loring Heights","Total",31,53,61,51,72,42
 "Sumner - Glenwood","Total",27,33,22,38,23,14
 "Tangletown","Total",1,4,10,1,10,6
 "University of Minnesota","Total",6,0,3,15,3,7

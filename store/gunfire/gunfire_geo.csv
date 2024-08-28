@@ -96,7 +96,7 @@ NA,"Shooting (PFE)",1,2,1,2,1,0
 "King Field","Shooting Report Only (P)",1,0,0,0,0,0
 "Lind - Bohanon","Shooting Report Only (P)",1,2,6,1,2,0
 "McKinley","Shooting Report Only (P)",3,5,5,3,1,1
-"Midtown Phillips","Shooting Report Only (P)",7,16,19,16,14,4
+"Midtown Phillips","Shooting Report Only (P)",7,16,19,16,14,5
 "Phillips West","Shooting Report Only (P)",2,4,5,5,0,1
 "Powderhorn Park","Shooting Report Only (P)",1,7,3,3,0,0
 "Prospect Park - East River Road","Shooting Report Only (P)",1,0,2,0,1,0
@@ -154,18 +154,18 @@ NA,"Shooting Report Only (P)",1,9,11,13,10,7
 "Corcoran","ShotSpotter Activation (P)",3,3,12,2,5,1
 "East Phillips","ShotSpotter Activation (P)",87,131,174,180,112,55
 "Folwell","ShotSpotter Activation (P)",222,486,657,381,304,169
-"Harrison","ShotSpotter Activation (P)",20,78,55,43,49,24
-"Hawthorne","ShotSpotter Activation (P)",238,465,623,473,270,150
+"Harrison","ShotSpotter Activation (P)",20,78,55,43,49,25
+"Hawthorne","ShotSpotter Activation (P)",238,465,623,473,270,151
 "Humboldt Industrial Area","ShotSpotter Activation (P)",1,6,6,8,5,1
 "Jordan","ShotSpotter Activation (P)",264,647,880,696,517,300
 "King Field","ShotSpotter Activation (P)",1,0,1,0,0,0
-"Lind - Bohanon","ShotSpotter Activation (P)",28,227,397,230,156,98
+"Lind - Bohanon","ShotSpotter Activation (P)",28,227,397,230,156,100
 "Longfellow","ShotSpotter Activation (P)",1,1,0,1,1,2
 "Lyndale","ShotSpotter Activation (P)",1,2,1,2,0,0
 "Lynnhurst","ShotSpotter Activation (P)",1,0,0,0,0,0
 "McKinley","ShotSpotter Activation (P)",114,246,347,213,142,54
-"Midtown Phillips","ShotSpotter Activation (P)",40,115,150,168,91,67
-"Near - North","ShotSpotter Activation (P)",185,329,487,386,289,141
+"Midtown Phillips","ShotSpotter Activation (P)",40,115,150,168,91,68
+"Near - North","ShotSpotter Activation (P)",185,329,487,386,289,142
 "North Loop","ShotSpotter Activation (P)",3,5,5,2,1,0
 "Northrop","ShotSpotter Activation (P)",1,0,0,1,0,0
 "Phillips West","ShotSpotter Activation (P)",37,81,119,57,47,32
@@ -213,14 +213,14 @@ NA,"ShotSpotter Activation (P)",3,4,16,7,6,1
 "East Bde Maka Ska","Sound of Shots Fired (P)",2,9,11,8,15,5
 "East Harriet","Sound of Shots Fired (P)",7,8,7,6,4,3
 "East Isles","Sound of Shots Fired (P)",10,15,30,25,18,11
-"East Phillips","Sound of Shots Fired (P)",67,121,125,103,97,63
+"East Phillips","Sound of Shots Fired (P)",67,121,125,103,97,64
 "Elliot Park","Sound of Shots Fired (P)",33,54,78,58,49,28
 "Ericsson","Sound of Shots Fired (P)",7,8,6,12,9,9
 "Field","Sound of Shots Fired (P)",7,13,8,6,7,4
 "Folwell","Sound of Shots Fired (P)",91,238,261,143,76,64
 "Fulton","Sound of Shots Fired (P)",6,6,5,6,6,2
 "Hale","Sound of Shots Fired (P)",2,2,4,3,7,1
-"Harrison","Sound of Shots Fired (P)",40,62,88,60,39,22
+"Harrison","Sound of Shots Fired (P)",40,62,88,60,39,23
 "Hawthorne","Sound of Shots Fired (P)",163,342,378,245,156,89
 "Hiawatha","Sound of Shots Fired (P)",16,33,30,16,17,17
 "Holland","Sound of Shots Fired (P)",13,26,32,42,27,19
@@ -233,8 +233,8 @@ NA,"ShotSpotter Activation (P)",3,4,16,7,6,1
 "Lind - Bohanon","Sound of Shots Fired (P)",114,110,178,111,59,42
 "Linden Hills","Sound of Shots Fired (P)",2,13,15,9,8,3
 "Logan Park","Sound of Shots Fired (P)",2,11,9,9,15,4
-"Longfellow","Sound of Shots Fired (P)",20,62,45,34,28,26
-"Loring Park","Sound of Shots Fired (P)",31,83,139,141,68,52
+"Longfellow","Sound of Shots Fired (P)",20,62,45,34,28,27
+"Loring Park","Sound of Shots Fired (P)",31,83,139,141,68,53
 "Lowry Hill","Sound of Shots Fired (P)",4,11,39,32,16,10
 "Lowry Hill East","Sound of Shots Fired (P)",24,55,86,98,92,54
 "Lyndale","Sound of Shots Fired (P)",23,60,51,70,64,36
@@ -243,7 +243,7 @@ NA,"ShotSpotter Activation (P)",3,4,16,7,6,1
 "Marshall Terrace","Sound of Shots Fired (P)",9,8,10,8,7,4
 "McKinley","Sound of Shots Fired (P)",55,91,92,55,41,21
 "Mid - City Industrial","Sound of Shots Fired (P)",3,2,6,3,1,0
-"Midtown Phillips","Sound of Shots Fired (P)",56,115,153,161,49,68
+"Midtown Phillips","Sound of Shots Fired (P)",56,115,153,161,49,70
 "Minnehaha","Sound of Shots Fired (P)",4,19,16,20,8,7
 "Morris Park","Sound of Shots Fired (P)",11,6,10,7,4,2
 "Near - North","Sound of Shots Fired (P)",93,212,209,220,116,67
@@ -301,15 +301,15 @@ NA,"Sound of Shots Fired (P)",4,2,3,2,2,1
 "East Bde Maka Ska","Total",2,9,11,8,16,5
 "East Harriet","Total",8,8,10,6,5,3
 "East Isles","Total",11,15,33,26,23,11
-"East Phillips","Total",167,292,338,309,227,133
+"East Phillips","Total",167,292,338,309,227,134
 "Elliot Park","Total",55,112,165,110,100,51
 "Ericsson","Total",7,8,6,13,10,10
 "Field","Total",7,13,11,7,7,4
 "Folwell","Total",330,752,946,555,405,253
 "Fulton","Total",6,6,5,6,6,2
 "Hale","Total",2,2,5,3,8,1
-"Harrison","Total",62,149,152,110,93,51
-"Hawthorne","Total",437,875,1066,765,461,251
+"Harrison","Total",62,149,152,110,93,53
+"Hawthorne","Total",437,875,1066,765,461,252
 "Hiawatha","Total",16,39,31,20,19,17
 "Holland","Total",16,26,34,49,30,21
 "Howe","Total",22,44,26,33,31,24
@@ -319,11 +319,11 @@ NA,"Sound of Shots Fired (P)",4,2,3,2,2,1
 "Kenny","Total",1,5,3,1,1,0
 "Kenwood","Total",3,6,5,4,10,1
 "King Field","Total",27,60,41,42,25,18
-"Lind - Bohanon","Total",151,349,598,351,220,142
+"Lind - Bohanon","Total",151,349,598,351,220,144
 "Linden Hills","Total",2,14,15,9,9,3
 "Logan Park","Total",2,11,9,10,15,6
-"Longfellow","Total",23,70,49,36,35,31
-"Loring Park","Total",34,90,149,161,77,61
+"Longfellow","Total",23,70,49,36,35,32
+"Loring Park","Total",34,90,149,161,77,62
 "Lowry Hill","Total",4,12,39,33,17,11
 "Lowry Hill East","Total",29,61,94,111,109,59
 "Lyndale","Total",24,66,54,80,69,39
@@ -332,10 +332,10 @@ NA,"Sound of Shots Fired (P)",4,2,3,2,2,1
 "Marshall Terrace","Total",9,8,12,8,8,7
 "McKinley","Total",176,355,457,281,189,78
 "Mid - City Industrial","Total",3,2,6,5,1,1
-"Midtown Phillips","Total",110,262,342,359,161,148
+"Midtown Phillips","Total",110,262,342,359,161,152
 "Minnehaha","Total",4,19,17,20,9,7
 "Morris Park","Total",11,7,12,7,4,2
-"Near - North","Total",294,581,733,641,427,218
+"Near - North","Total",294,581,733,641,427,219
 "Nicollet Island - East Bank","Total",4,4,9,6,6,3
 "North Loop","Total",17,27,53,32,17,13
 "Northeast Park","Total",3,8,5,4,4,2
