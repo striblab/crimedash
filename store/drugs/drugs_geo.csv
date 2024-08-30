@@ -7,7 +7,7 @@
 "Bryn - Mawr","Drug/Narcotic Violations",4,6,2,2,2,1
 "Camden Industrial","Drug/Narcotic Violations",6,3,4,3,1,0
 "Cedar - Isles - Dean","Drug/Narcotic Violations",4,7,1,3,3,3
-"Cedar Riverside","Drug/Narcotic Violations",26,25,19,40,27,9
+"Cedar Riverside","Drug/Narcotic Violations",26,25,19,40,27,10
 "Central","Drug/Narcotic Violations",11,7,5,5,10,16
 "Cleveland","Drug/Narcotic Violations",9,10,6,6,12,5
 "Columbia Park","Drug/Narcotic Violations",9,7,3,1,1,1
@@ -24,14 +24,14 @@
 "Elliot Park","Drug/Narcotic Violations",56,29,29,46,50,51
 "Ericsson","Drug/Narcotic Violations",4,5,2,0,3,1
 "Field","Drug/Narcotic Violations",1,3,1,0,0,2
-"Folwell","Drug/Narcotic Violations",36,41,25,20,42,16
+"Folwell","Drug/Narcotic Violations",36,41,25,20,42,17
 "Fulton","Drug/Narcotic Violations",4,1,2,0,1,0
 "Harrison","Drug/Narcotic Violations",22,15,5,5,4,2
 "Hawthorne","Drug/Narcotic Violations",142,133,67,74,55,13
 "Hiawatha","Drug/Narcotic Violations",8,5,8,4,10,3
 "Holland","Drug/Narcotic Violations",37,22,9,9,13,3
 "Howe","Drug/Narcotic Violations",9,9,5,5,4,1
-"Jordan","Drug/Narcotic Violations",51,60,31,38,47,16
+"Jordan","Drug/Narcotic Violations",51,60,31,38,47,17
 "Keewaydin","Drug/Narcotic Violations",2,1,1,2,1,2
 "Kenwood","Drug/Narcotic Violations",3,4,4,0,0,1
 "King Field","Drug/Narcotic Violations",10,4,6,1,8,7
@@ -41,13 +41,13 @@
 "Longfellow","Drug/Narcotic Violations",36,15,14,11,18,11
 "Loring Park","Drug/Narcotic Violations",26,34,32,28,45,16
 "Lowry Hill","Drug/Narcotic Violations",3,3,1,3,2,8
-"Lowry Hill East","Drug/Narcotic Violations",43,16,22,29,36,22
+"Lowry Hill East","Drug/Narcotic Violations",43,16,22,29,36,24
 "Lyndale","Drug/Narcotic Violations",32,18,8,5,28,14
 "Marcy Holmes","Drug/Narcotic Violations",37,31,23,10,12,3
-"Marshall Terrace","Drug/Narcotic Violations",14,9,7,6,3,0
+"Marshall Terrace","Drug/Narcotic Violations",14,9,7,6,3,1
 "McKinley","Drug/Narcotic Violations",36,31,8,7,15,3
 "Mid - City Industrial","Drug/Narcotic Violations",7,8,4,3,3,1
-"Midtown Phillips","Drug/Narcotic Violations",41,19,30,33,26,11
+"Midtown Phillips","Drug/Narcotic Violations",41,19,30,33,26,12
 "Minnehaha","Drug/Narcotic Violations",3,5,4,2,1,2
 "Morris Park","Drug/Narcotic Violations",2,3,0,2,1,0
 "Near - North","Drug/Narcotic Violations",65,56,37,57,24,9
@@ -66,20 +66,20 @@
 "St. Anthony East","Drug/Narcotic Violations",7,1,0,2,3,3
 "St. Anthony West","Drug/Narcotic Violations",11,1,5,5,2,0
 "Standish","Drug/Narcotic Violations",5,8,2,4,6,2
-"Steven's Square - Loring Heights","Drug/Narcotic Violations",19,28,27,39,26,17
+"Steven's Square - Loring Heights","Drug/Narcotic Violations",19,28,27,39,26,19
 "Sumner - Glenwood","Drug/Narcotic Violations",7,8,2,4,3,2
 "Tangletown","Drug/Narcotic Violations",9,6,0,0,1,1
 "University of Minnesota","Drug/Narcotic Violations",4,2,4,1,1,0
-"Ventura Village","Drug/Narcotic Violations",67,55,28,33,60,34
+"Ventura Village","Drug/Narcotic Violations",67,55,28,33,60,35
 "Victory","Drug/Narcotic Violations",5,5,4,0,3,2
 "Waite Park","Drug/Narcotic Violations",8,4,6,1,1,0
 "Webber - Camden","Drug/Narcotic Violations",36,27,12,20,32,12
 "Wenonah","Drug/Narcotic Violations",4,4,7,3,1,1
 "West Maka Ska","Drug/Narcotic Violations",1,1,0,0,0,1
-"Whittier","Drug/Narcotic Violations",69,46,38,62,83,47
-"Willard - Hay","Drug/Narcotic Violations",27,43,11,8,18,11
+"Whittier","Drug/Narcotic Violations",69,46,38,62,83,48
+"Willard - Hay","Drug/Narcotic Violations",27,43,11,8,18,12
 "Windom","Drug/Narcotic Violations",8,8,2,1,3,0
-"Windom Park","Drug/Narcotic Violations",27,10,5,8,3,1
+"Windom Park","Drug/Narcotic Violations",27,10,5,8,3,2
 NA,"Drug/Narcotic Violations",69,47,34,31,19,15
 "Armatage","Drug/Narcotic Violations",0,3,1,2,2,0
 "Hale","Drug/Narcotic Violations",0,2,0,1,0,0
@@ -94,7 +94,7 @@ NA,"Drug/Narcotic Violations",69,47,34,31,19,15
 "Bryn - Mawr","Total",4,6,2,2,2,1
 "Camden Industrial","Total",6,3,4,3,1,0
 "Cedar - Isles - Dean","Total",4,7,1,3,3,3
-"Cedar Riverside","Total",26,25,19,40,27,9
+"Cedar Riverside","Total",26,25,19,40,27,10
 "Central","Total",11,7,5,5,10,16
 "Cleveland","Total",9,10,6,6,12,5
 "Columbia Park","Total",9,7,3,1,1,1
@@ -111,14 +111,14 @@ NA,"Drug/Narcotic Violations",69,47,34,31,19,15
 "Elliot Park","Total",56,29,29,46,50,51
 "Ericsson","Total",4,5,2,0,3,1
 "Field","Total",1,3,1,0,0,2
-"Folwell","Total",36,41,25,20,42,16
+"Folwell","Total",36,41,25,20,42,17
 "Fulton","Total",4,1,2,0,1,0
 "Harrison","Total",22,15,5,5,4,2
 "Hawthorne","Total",142,133,67,74,55,13
 "Hiawatha","Total",8,5,8,4,10,3
 "Holland","Total",37,22,9,9,13,3
 "Howe","Total",9,9,5,5,4,1
-"Jordan","Total",51,60,31,38,47,16
+"Jordan","Total",51,60,31,38,47,17
 "Keewaydin","Total",2,1,1,2,1,2
 "Kenwood","Total",3,4,4,0,0,1
 "King Field","Total",10,4,6,1,8,7
@@ -128,13 +128,13 @@ NA,"Drug/Narcotic Violations",69,47,34,31,19,15
 "Longfellow","Total",36,15,14,11,18,11
 "Loring Park","Total",26,34,32,28,45,16
 "Lowry Hill","Total",3,3,1,3,2,8
-"Lowry Hill East","Total",43,16,22,29,36,22
+"Lowry Hill East","Total",43,16,22,29,36,24
 "Lyndale","Total",32,18,8,5,28,14
 "Marcy Holmes","Total",37,31,23,10,12,3
-"Marshall Terrace","Total",14,9,7,6,3,0
+"Marshall Terrace","Total",14,9,7,6,3,1
 "McKinley","Total",36,31,8,7,15,3
 "Mid - City Industrial","Total",7,8,4,3,3,1
-"Midtown Phillips","Total",41,19,30,33,26,11
+"Midtown Phillips","Total",41,19,30,33,26,12
 "Minnehaha","Total",3,5,4,2,1,2
 "Morris Park","Total",2,3,0,2,1,0
 "Near - North","Total",65,56,37,57,24,9
@@ -153,20 +153,20 @@ NA,"Drug/Narcotic Violations",69,47,34,31,19,15
 "St. Anthony East","Total",7,1,0,2,3,3
 "St. Anthony West","Total",11,1,5,5,2,0
 "Standish","Total",5,8,2,4,6,2
-"Steven's Square - Loring Heights","Total",19,28,27,39,26,17
+"Steven's Square - Loring Heights","Total",19,28,27,39,26,19
 "Sumner - Glenwood","Total",7,8,2,4,3,2
 "Tangletown","Total",9,6,0,0,1,1
 "University of Minnesota","Total",4,2,4,1,1,0
-"Ventura Village","Total",67,55,28,33,60,34
+"Ventura Village","Total",67,55,28,33,60,35
 "Victory","Total",5,5,4,0,3,2
 "Waite Park","Total",8,4,6,1,1,0
 "Webber - Camden","Total",36,27,12,20,32,12
 "Wenonah","Total",4,4,7,3,1,1
 "West Maka Ska","Total",1,1,0,0,0,1
-"Whittier","Total",69,46,38,62,83,47
-"Willard - Hay","Total",27,43,11,8,18,11
+"Whittier","Total",69,46,38,62,83,48
+"Willard - Hay","Total",27,43,11,8,18,12
 "Windom","Total",8,8,2,1,3,0
-"Windom Park","Total",27,10,5,8,3,1
+"Windom Park","Total",27,10,5,8,3,2
 NA,"Total",69,47,34,31,19,15
 "Armatage","Total",0,3,1,2,2,0
 "Hale","Total",0,2,0,1,0,0
