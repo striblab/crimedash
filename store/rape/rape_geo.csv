@@ -11,7 +11,7 @@
 "Cedar Riverside","Sex Offenses",13,15,21,8,19,6
 "Central","Sex Offenses",22,10,24,19,19,11
 "Cleveland","Sex Offenses",7,5,2,9,13,4
-"Como","Sex Offenses",8,10,8,4,6,5
+"Como","Sex Offenses",8,10,8,4,6,6
 "Cooper","Sex Offenses",2,1,2,3,4,0
 "Corcoran","Sex Offenses",7,5,8,8,6,5
 "Diamond Lake","Sex Offenses",2,2,5,4,4,4
@@ -19,7 +19,7 @@
 "Downtown West","Sex Offenses",84,52,41,59,64,33
 "East Harriet","Sex Offenses",2,6,1,6,3,3
 "East Isles","Sex Offenses",2,0,6,1,3,1
-"East Phillips","Sex Offenses",29,16,19,19,16,18
+"East Phillips","Sex Offenses",29,16,19,19,16,19
 "Elliot Park","Sex Offenses",29,19,26,22,22,21
 "Ericsson","Sex Offenses",7,2,5,3,2,1
 "Folwell","Sex Offenses",24,42,20,16,24,9
@@ -29,7 +29,7 @@
 "Hiawatha","Sex Offenses",3,7,5,3,6,5
 "Holland","Sex Offenses",5,7,9,6,7,3
 "Howe","Sex Offenses",5,6,5,1,0,8
-"Jordan","Sex Offenses",37,34,29,28,39,16
+"Jordan","Sex Offenses",37,34,29,28,39,17
 "Keewaydin","Sex Offenses",1,3,0,0,4,1
 "Kenny","Sex Offenses",2,3,2,2,0,0
 "King Field","Sex Offenses",7,6,4,2,10,1
@@ -56,7 +56,7 @@
 "Northrop","Sex Offenses",3,2,6,5,7,1
 "Page","Sex Offenses",2,1,1,1,0,0
 "Phillips West","Sex Offenses",17,12,17,8,18,8
-"Powderhorn Park","Sex Offenses",19,23,14,14,17,6
+"Powderhorn Park","Sex Offenses",19,23,14,14,17,5
 "Prospect Park - East River Road","Sex Offenses",16,8,6,9,11,8
 "Regina","Sex Offenses",3,1,3,3,0,5
 "Seward","Sex Offenses",7,10,14,5,20,10
@@ -79,7 +79,7 @@
 "Willard - Hay","Sex Offenses",30,37,21,24,30,22
 "Windom","Sex Offenses",6,12,9,6,5,1
 "Windom Park","Sex Offenses",11,11,4,5,7,5
-NA,"Sex Offenses",36,29,63,66,40,29
+NA,"Sex Offenses",36,29,63,66,40,30
 "Columbia Park","Sex Offenses",0,8,1,3,1,0
 "East Bde Maka Ska","Sex Offenses",0,3,3,7,0,9
 "Field","Sex Offenses",0,4,1,5,7,3
@@ -98,7 +98,7 @@ NA,"Sex Offenses",36,29,63,66,40,29
 "Cedar Riverside","Total",13,15,21,8,19,6
 "Central","Total",22,10,24,19,19,11
 "Cleveland","Total",7,5,2,9,13,4
-"Como","Total",8,10,8,4,6,5
+"Como","Total",8,10,8,4,6,6
 "Cooper","Total",2,1,2,3,4,0
 "Corcoran","Total",7,5,8,8,6,5
 "Diamond Lake","Total",2,2,5,4,4,4
@@ -106,7 +106,7 @@ NA,"Sex Offenses",36,29,63,66,40,29
 "Downtown West","Total",84,52,41,59,64,33
 "East Harriet","Total",2,6,1,6,3,3
 "East Isles","Total",2,0,6,1,3,1
-"East Phillips","Total",29,16,19,19,16,18
+"East Phillips","Total",29,16,19,19,16,19
 "Elliot Park","Total",29,19,26,22,22,21
 "Ericsson","Total",7,2,5,3,2,1
 "Folwell","Total",24,42,20,16,24,9
@@ -116,7 +116,7 @@ NA,"Sex Offenses",36,29,63,66,40,29
 "Hiawatha","Total",3,7,5,3,6,5
 "Holland","Total",5,7,9,6,7,3
 "Howe","Total",5,6,5,1,0,8
-"Jordan","Total",37,34,29,28,39,16
+"Jordan","Total",37,34,29,28,39,17
 "Keewaydin","Total",1,3,0,0,4,1
 "Kenny","Total",2,3,2,2,0,0
 "King Field","Total",7,6,4,2,10,1
@@ -143,7 +143,7 @@ NA,"Sex Offenses",36,29,63,66,40,29
 "Northrop","Total",3,2,6,5,7,1
 "Page","Total",2,1,1,1,0,0
 "Phillips West","Total",17,12,17,8,18,8
-"Powderhorn Park","Total",19,23,14,14,17,6
+"Powderhorn Park","Total",19,23,14,14,17,5
 "Prospect Park - East River Road","Total",16,8,6,9,11,8
 "Regina","Total",3,1,3,3,0,5
 "Seward","Total",7,10,14,5,20,10
@@ -166,7 +166,7 @@ NA,"Sex Offenses",36,29,63,66,40,29
 "Willard - Hay","Total",30,37,21,24,30,22
 "Windom","Total",6,12,9,6,5,1
 "Windom Park","Total",11,11,4,5,7,5
-NA,"Total",36,29,63,66,40,29
+NA,"Total",36,29,63,66,40,30
 "Columbia Park","Total",0,8,1,3,1,0
 "East Bde Maka Ska","Total",0,3,3,7,0,9
 "Field","Total",0,4,1,5,7,3

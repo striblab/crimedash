@@ -7,7 +7,7 @@
 "Bryant","All Other Larceny",16,14,10,15,22,18
 "Bryn - Mawr","All Other Larceny",16,9,26,22,22,31
 "Camden Industrial","All Other Larceny",8,6,6,6,9,1
-"Cedar - Isles - Dean","All Other Larceny",37,35,70,48,62,53
+"Cedar - Isles - Dean","All Other Larceny",37,35,70,48,62,54
 "Cedar Riverside","All Other Larceny",102,84,91,95,83,53
 "Central","All Other Larceny",55,71,58,66,75,63
 "Cleveland","All Other Larceny",27,24,24,25,37,29
@@ -15,21 +15,21 @@
 "Como","All Other Larceny",56,56,102,76,75,50
 "Cooper","All Other Larceny",26,14,28,26,39,32
 "Corcoran","All Other Larceny",47,47,34,43,47,34
-"Diamond Lake","All Other Larceny",16,22,23,15,31,15
-"Downtown East","All Other Larceny",110,100,79,124,112,72
+"Diamond Lake","All Other Larceny",16,22,23,15,31,16
+"Downtown East","All Other Larceny",110,100,79,124,112,73
 "Downtown West","All Other Larceny",1316,541,653,767,579,370
 "East Bde Maka Ska","All Other Larceny",64,26,39,32,29,38
 "East Harriet","All Other Larceny",36,30,20,27,38,29
 "East Isles","All Other Larceny",122,80,74,91,82,49
 "East Phillips","All Other Larceny",77,78,65,68,72,53
 "Elliot Park","All Other Larceny",191,151,127,150,159,123
-"Ericsson","All Other Larceny",35,26,35,28,30,30
+"Ericsson","All Other Larceny",35,26,35,28,30,32
 "Field","All Other Larceny",11,7,19,11,24,15
-"Folwell","All Other Larceny",76,45,64,66,63,59
+"Folwell","All Other Larceny",76,45,64,66,63,60
 "Fulton","All Other Larceny",29,23,16,17,26,16
 "Hale","All Other Larceny",8,12,7,6,19,10
 "Harrison","All Other Larceny",49,40,37,40,40,32
-"Hawthorne","All Other Larceny",137,79,79,78,81,55
+"Hawthorne","All Other Larceny",137,79,79,78,81,54
 "Hiawatha","All Other Larceny",78,71,94,127,83,68
 "Holland","All Other Larceny",52,56,67,40,69,54
 "Howe","All Other Larceny",66,43,44,58,65,50
@@ -37,13 +37,13 @@
 "Jordan","All Other Larceny",106,79,79,93,99,71
 "Keewaydin","All Other Larceny",12,17,18,19,18,19
 "Kenny","All Other Larceny",6,3,6,7,21,12
-"Kenwood","All Other Larceny",13,12,15,16,14,17
-"King Field","All Other Larceny",48,52,49,59,84,59
+"Kenwood","All Other Larceny",13,12,15,16,14,18
+"King Field","All Other Larceny",48,52,49,59,84,60
 "Lind - Bohanon","All Other Larceny",63,51,40,45,54,32
 "Linden Hills","All Other Larceny",36,37,32,36,31,17
 "Logan Park","All Other Larceny",27,17,25,31,35,21
 "Longfellow","All Other Larceny",157,99,114,125,121,85
-"Loring Park","All Other Larceny",204,199,187,177,201,115
+"Loring Park","All Other Larceny",204,199,187,177,201,116
 "Lowry Hill","All Other Larceny",43,35,39,45,44,41
 "Lowry Hill East","All Other Larceny",299,181,291,243,254,164
 "Lyndale","All Other Larceny",105,77,71,98,138,104
@@ -53,13 +53,13 @@
 "McKinley","All Other Larceny",33,28,35,38,23,20
 "Mid - City Industrial","All Other Larceny",30,23,33,25,39,21
 "Midtown Phillips","All Other Larceny",119,104,72,71,72,62
-"Minnehaha","All Other Larceny",26,34,15,35,24,22
-"Morris Park","All Other Larceny",6,11,12,7,8,3
+"Minnehaha","All Other Larceny",26,34,15,35,24,23
+"Morris Park","All Other Larceny",6,11,12,7,8,4
 "Near - North","All Other Larceny",135,102,79,124,106,57
-"Nicollet Island - East Bank","All Other Larceny",42,70,38,71,73,48
+"Nicollet Island - East Bank","All Other Larceny",42,70,38,71,73,49
 "North Loop","All Other Larceny",189,209,202,248,224,150
 "Northeast Park","All Other Larceny",58,67,78,114,69,48
-"Northrop","All Other Larceny",36,44,32,47,45,32
+"Northrop","All Other Larceny",36,44,32,47,45,34
 "Page","All Other Larceny",7,4,6,7,14,15
 "Phillips West","All Other Larceny",75,41,48,68,48,38
 "Powderhorn Park","All Other Larceny",89,89,82,72,102,60
@@ -91,11 +91,11 @@ NA,"All Other Larceny",14,13,29,33,27,18
 "Audubon Park","Theft From Motor Vehicle",21,29,24,9,6,9
 "Bancroft","Theft From Motor Vehicle",30,24,19,14,34,21
 "Beltrami","Theft From Motor Vehicle",29,28,7,18,8,4
-"Bottineau","Theft From Motor Vehicle",43,53,19,14,11,10
+"Bottineau","Theft From Motor Vehicle",43,53,19,14,11,11
 "Bryant","Theft From Motor Vehicle",11,18,4,15,18,12
 "Bryn - Mawr","Theft From Motor Vehicle",20,22,15,26,30,9
 "Camden Industrial","Theft From Motor Vehicle",3,2,2,7,3,2
-"Cedar - Isles - Dean","Theft From Motor Vehicle",24,55,45,48,45,25
+"Cedar - Isles - Dean","Theft From Motor Vehicle",24,55,45,48,45,26
 "Cedar Riverside","Theft From Motor Vehicle",100,91,67,134,67,41
 "Central","Theft From Motor Vehicle",58,55,33,42,56,60
 "Cleveland","Theft From Motor Vehicle",14,24,15,11,13,20
@@ -105,9 +105,9 @@ NA,"All Other Larceny",14,13,29,33,27,18
 "Corcoran","Theft From Motor Vehicle",48,40,30,39,47,32
 "Diamond Lake","Theft From Motor Vehicle",34,23,30,21,25,17
 "Downtown East","Theft From Motor Vehicle",83,52,59,61,47,43
-"Downtown West","Theft From Motor Vehicle",315,180,187,300,283,150
+"Downtown West","Theft From Motor Vehicle",315,180,187,300,283,151
 "East Bde Maka Ska","Theft From Motor Vehicle",28,25,26,48,42,22
-"East Harriet","Theft From Motor Vehicle",45,43,48,51,61,32
+"East Harriet","Theft From Motor Vehicle",45,43,48,51,61,33
 "East Isles","Theft From Motor Vehicle",50,53,50,39,66,33
 "East Phillips","Theft From Motor Vehicle",85,82,39,33,26,20
 "Elliot Park","Theft From Motor Vehicle",81,83,90,85,80,58
@@ -117,7 +117,7 @@ NA,"All Other Larceny",14,13,29,33,27,18
 "Fulton","Theft From Motor Vehicle",38,17,21,12,36,12
 "Hale","Theft From Motor Vehicle",17,21,8,10,17,9
 "Harrison","Theft From Motor Vehicle",18,32,18,28,19,14
-"Hawthorne","Theft From Motor Vehicle",74,50,39,31,40,29
+"Hawthorne","Theft From Motor Vehicle",74,50,39,31,40,30
 "Hiawatha","Theft From Motor Vehicle",68,99,94,121,113,73
 "Holland","Theft From Motor Vehicle",40,48,28,20,11,14
 "Howe","Theft From Motor Vehicle",64,44,45,54,67,34
@@ -125,13 +125,13 @@ NA,"All Other Larceny",14,13,29,33,27,18
 "Jordan","Theft From Motor Vehicle",44,50,47,48,37,37
 "Keewaydin","Theft From Motor Vehicle",28,45,52,48,40,17
 "Kenny","Theft From Motor Vehicle",11,15,8,10,11,10
-"Kenwood","Theft From Motor Vehicle",13,18,22,20,31,26
+"Kenwood","Theft From Motor Vehicle",13,18,22,20,31,27
 "King Field","Theft From Motor Vehicle",57,49,38,35,77,40
 "Lind - Bohanon","Theft From Motor Vehicle",34,29,16,17,14,13
-"Linden Hills","Theft From Motor Vehicle",46,42,40,41,65,39
+"Linden Hills","Theft From Motor Vehicle",46,42,40,41,65,40
 "Logan Park","Theft From Motor Vehicle",31,26,15,32,20,21
 "Longfellow","Theft From Motor Vehicle",108,74,43,54,70,63
-"Loring Park","Theft From Motor Vehicle",91,102,113,93,55,42
+"Loring Park","Theft From Motor Vehicle",91,102,113,93,55,43
 "Lowry Hill","Theft From Motor Vehicle",69,43,72,39,67,36
 "Lowry Hill East","Theft From Motor Vehicle",211,132,112,143,180,84
 "Lyndale","Theft From Motor Vehicle",69,59,46,43,96,65
@@ -145,7 +145,7 @@ NA,"All Other Larceny",14,13,29,33,27,18
 "Morris Park","Theft From Motor Vehicle",12,7,4,10,12,2
 "Near - North","Theft From Motor Vehicle",43,59,59,85,43,30
 "Nicollet Island - East Bank","Theft From Motor Vehicle",23,28,20,22,18,24
-"North Loop","Theft From Motor Vehicle",109,100,93,149,109,72
+"North Loop","Theft From Motor Vehicle",109,100,93,149,109,73
 "Northeast Park","Theft From Motor Vehicle",41,31,15,35,31,13
 "Northrop","Theft From Motor Vehicle",46,39,18,27,45,29
 "Page","Theft From Motor Vehicle",8,11,12,9,11,4
@@ -153,7 +153,7 @@ NA,"All Other Larceny",14,13,29,33,27,18
 "Powderhorn Park","Theft From Motor Vehicle",69,77,53,73,83,72
 "Prospect Park - East River Road","Theft From Motor Vehicle",124,123,93,107,82,67
 "Regina","Theft From Motor Vehicle",15,13,4,11,27,17
-"Seward","Theft From Motor Vehicle",173,117,80,88,99,71
+"Seward","Theft From Motor Vehicle",173,117,80,88,99,72
 "Sheridan","Theft From Motor Vehicle",54,39,26,21,23,18
 "Shingle Creek","Theft From Motor Vehicle",14,12,15,9,11,3
 "South Uptown","Theft From Motor Vehicle",91,74,52,52,64,41
@@ -164,7 +164,7 @@ NA,"All Other Larceny",14,13,29,33,27,18
 "Sumner - Glenwood","Theft From Motor Vehicle",6,14,9,9,9,6
 "Tangletown","Theft From Motor Vehicle",24,30,18,27,22,17
 "University of Minnesota","Theft From Motor Vehicle",13,16,14,28,17,14
-"Ventura Village","Theft From Motor Vehicle",78,78,38,37,52,43
+"Ventura Village","Theft From Motor Vehicle",78,78,38,37,52,44
 "Victory","Theft From Motor Vehicle",30,33,25,17,12,27
 "Waite Park","Theft From Motor Vehicle",19,26,22,10,12,13
 "Webber - Camden","Theft From Motor Vehicle",33,37,36,24,16,23
@@ -214,7 +214,7 @@ NA,"Theft From Motor Vehicle",6,41,34,64,29,18
 "Loring Park","Purse-snatching",11,12,8,3,5,0
 "Lowry Hill","Purse-snatching",1,0,2,0,0,0
 "Lowry Hill East","Purse-snatching",8,9,10,2,2,1
-"Lyndale","Purse-snatching",4,4,3,2,3,1
+"Lyndale","Purse-snatching",4,4,3,2,3,2
 "Marcy Holmes","Purse-snatching",10,26,28,7,1,2
 "McKinley","Purse-snatching",1,0,1,0,1,0
 "Mid - City Industrial","Purse-snatching",1,0,2,2,0,0
@@ -274,10 +274,10 @@ NA,"Purse-snatching",2,1,0,0,0,1
 "Cooper","Shoplifting",5,2,0,1,0,1
 "Diamond Lake","Shoplifting",8,6,2,1,1,1
 "Downtown East","Shoplifting",4,1,2,2,4,3
-"Downtown West","Shoplifting",124,129,73,109,145,131
+"Downtown West","Shoplifting",124,129,73,109,145,133
 "East Bde Maka Ska","Shoplifting",22,2,1,5,7,0
 "East Harriet","Shoplifting",1,1,0,0,0,0
-"East Isles","Shoplifting",46,27,20,68,59,29
+"East Isles","Shoplifting",46,27,20,68,59,30
 "East Phillips","Shoplifting",11,6,0,8,8,2
 "Folwell","Shoplifting",1,1,0,0,0,0
 "Fulton","Shoplifting",1,1,1,3,4,1
@@ -303,11 +303,11 @@ NA,"Purse-snatching",2,1,0,0,0,1
 "Near - North","Shoplifting",34,28,8,9,4,6
 "Nicollet Island - East Bank","Shoplifting",15,6,4,20,14,12
 "North Loop","Shoplifting",7,0,2,10,4,8
-"Northeast Park","Shoplifting",69,89,73,220,123,56
+"Northeast Park","Shoplifting",69,89,73,220,123,58
 "Northrop","Shoplifting",10,6,2,48,34,9
 "Phillips West","Shoplifting",7,2,0,2,0,0
 "Powderhorn Park","Shoplifting",14,2,3,2,4,0
-"Prospect Park - East River Road","Shoplifting",3,18,13,5,6,6
+"Prospect Park - East River Road","Shoplifting",3,18,13,5,6,7
 "Regina","Shoplifting",1,0,1,0,1,0
 "Seward","Shoplifting",9,3,1,5,3,2
 "Sheridan","Shoplifting",1,3,2,1,1,1
@@ -497,7 +497,7 @@ NA,"Theft From Building",0,0,0,1,1,0
 "Camden Industrial","Theft of Motor Vehicle Parts or Accessories",0,3,1,3,4,0
 "Cedar - Isles - Dean","Theft of Motor Vehicle Parts or Accessories",0,5,9,17,9,4
 "Columbia Park","Theft of Motor Vehicle Parts or Accessories",0,3,14,11,3,0
-"Downtown East","Theft of Motor Vehicle Parts or Accessories",0,4,12,15,4,5
+"Downtown East","Theft of Motor Vehicle Parts or Accessories",0,4,12,15,4,6
 "East Harriet","Theft of Motor Vehicle Parts or Accessories",0,8,22,42,11,1
 "Fulton","Theft of Motor Vehicle Parts or Accessories",0,18,12,21,17,0
 "Hale","Theft of Motor Vehicle Parts or Accessories",0,13,11,17,12,3
@@ -519,11 +519,11 @@ NA,"Theft of Motor Vehicle Parts or Accessories",0,7,6,14,9,2
 "Audubon Park","Total",57,74,100,73,57,30
 "Bancroft","Total",65,90,70,65,73,53
 "Beltrami","Total",37,45,33,51,23,12
-"Bottineau","Total",67,73,60,46,35,22
+"Bottineau","Total",67,73,60,46,35,23
 "Bryant","Total",32,49,32,48,54,35
 "Bryn - Mawr","Total",38,42,51,63,62,42
 "Camden Industrial","Total",11,11,9,16,17,4
-"Cedar - Isles - Dean","Total",66,99,130,117,120,99
+"Cedar - Isles - Dean","Total",66,99,130,117,120,101
 "Cedar Riverside","Total",224,215,200,299,180,116
 "Central","Total",129,166,140,170,167,143
 "Cleveland","Total",44,56,57,58,59,53
@@ -531,17 +531,17 @@ NA,"Theft of Motor Vehicle Parts or Accessories",0,7,6,14,9,2
 "Como","Total",114,186,199,205,160,98
 "Cooper","Total",85,87,80,86,92,57
 "Corcoran","Total",107,116,86,128,115,73
-"Diamond Lake","Total",61,71,75,73,69,34
-"Downtown East","Total",207,160,154,206,168,126
-"Downtown West","Total",1969,923,1009,1295,1085,679
+"Diamond Lake","Total",61,71,75,73,69,35
+"Downtown East","Total",207,160,154,206,168,128
+"Downtown West","Total",1969,923,1009,1295,1085,682
 "East Bde Maka Ska","Total",118,67,78,111,91,66
-"East Harriet","Total",85,82,91,120,110,63
-"East Isles","Total",227,192,171,247,221,121
+"East Harriet","Total",85,82,91,120,110,64
+"East Isles","Total",227,192,171,247,221,122
 "East Phillips","Total",184,198,158,154,123,89
 "Elliot Park","Total",295,284,263,304,274,204
-"Ericsson","Total",72,63,76,88,78,46
+"Ericsson","Total",72,63,76,88,78,48
 "Field","Total",35,33,41,38,50,35
-"Folwell","Total",113,92,107,115,112,93
+"Folwell","Total",113,92,107,115,112,94
 "Fulton","Total",69,60,50,54,84,29
 "Hale","Total",25,46,26,33,49,22
 "Harrison","Total",78,92,73,95,76,55
@@ -553,35 +553,35 @@ NA,"Theft of Motor Vehicle Parts or Accessories",0,7,6,14,9,2
 "Jordan","Total",169,146,160,185,177,128
 "Keewaydin","Total",48,73,93,96,65,41
 "Kenny","Total",20,28,23,28,37,23
-"Kenwood","Total",26,33,41,45,48,44
-"King Field","Total",114,169,134,164,211,115
+"Kenwood","Total",26,33,41,45,48,46
+"King Field","Total",114,169,134,164,211,116
 "Lind - Bohanon","Total",102,96,81,84,86,50
-"Linden Hills","Total",84,100,87,99,121,56
+"Linden Hills","Total",84,100,87,99,121,57
 "Logan Park","Total",63,56,52,88,71,49
 "Longfellow","Total",571,305,228,274,263,202
-"Loring Park","Total",326,352,349,328,329,206
+"Loring Park","Total",326,352,349,328,329,208
 "Lowry Hill","Total",117,100,141,134,131,87
 "Lowry Hill East","Total",615,422,525,513,524,272
-"Lyndale","Total",217,191,167,215,283,193
+"Lyndale","Total",217,191,167,215,283,194
 "Lynnhurst","Total",52,58,51,68,79,39
 "Marcy Holmes","Total",440,593,634,565,422,388
 "Marshall Terrace","Total",40,56,50,45,35,32
 "McKinley","Total",61,57,70,68,34,40
 "Mid - City Industrial","Total",66,72,84,114,63,59
 "Midtown Phillips","Total",247,219,155,169,128,142
-"Minnehaha","Total",75,119,80,98,76,53
-"Morris Park","Total",19,29,33,34,25,6
+"Minnehaha","Total",75,119,80,98,76,54
+"Morris Park","Total",19,29,33,34,25,7
 "Near - North","Total",230,209,176,267,184,104
-"Nicollet Island - East Bank","Total",86,109,66,122,111,90
-"North Loop","Total",335,322,336,453,369,242
-"Northeast Park","Total",173,199,180,391,229,121
-"Northrop","Total",96,113,73,147,138,81
+"Nicollet Island - East Bank","Total",86,109,66,122,111,91
+"North Loop","Total",335,322,336,453,369,243
+"Northeast Park","Total",173,199,180,391,229,123
+"Northrop","Total",96,113,73,147,138,83
 "Page","Total",16,23,19,27,27,19
 "Phillips West","Total",175,118,119,147,123,85
 "Powderhorn Park","Total",184,236,211,243,238,151
-"Prospect Park - East River Road","Total",306,367,353,431,277,196
+"Prospect Park - East River Road","Total",306,367,353,431,277,197
 "Regina","Total",32,37,36,49,57,31
-"Seward","Total",346,284,275,302,261,186
+"Seward","Total",346,284,275,302,261,187
 "Sheridan","Total",87,80,127,98,82,55
 "Shingle Creek","Total",27,35,37,33,42,20
 "South Uptown","Total",245,212,186,222,200,125
@@ -592,7 +592,7 @@ NA,"Theft of Motor Vehicle Parts or Accessories",0,7,6,14,9,2
 "Sumner - Glenwood","Total",28,40,35,35,28,15
 "Tangletown","Total",67,89,69,88,76,58
 "University of Minnesota","Total",85,64,64,108,104,56
-"Ventura Village","Total",215,227,150,200,190,145
+"Ventura Village","Total",215,227,150,200,190,146
 "Victory","Total",54,75,69,78,77,71
 "Waite Park","Total",47,95,61,62,45,25
 "Webber - Camden","Total",112,107,97,113,97,73

@@ -8,20 +8,20 @@
 "Camden Industrial","Drug/Narcotic Violations",6,3,4,3,1,0
 "Cedar - Isles - Dean","Drug/Narcotic Violations",4,7,1,3,3,3
 "Cedar Riverside","Drug/Narcotic Violations",26,25,19,40,27,11
-"Central","Drug/Narcotic Violations",11,7,5,5,10,16
+"Central","Drug/Narcotic Violations",11,7,5,5,10,17
 "Cleveland","Drug/Narcotic Violations",9,10,6,6,12,5
 "Columbia Park","Drug/Narcotic Violations",9,7,3,1,1,1
 "Como","Drug/Narcotic Violations",13,9,7,4,3,0
 "Cooper","Drug/Narcotic Violations",3,3,1,0,1,1
 "Corcoran","Drug/Narcotic Violations",14,5,6,8,9,6
 "Diamond Lake","Drug/Narcotic Violations",2,2,0,0,0,1
-"Downtown East","Drug/Narcotic Violations",32,18,16,20,27,8
-"Downtown West","Drug/Narcotic Violations",244,114,61,117,146,69
+"Downtown East","Drug/Narcotic Violations",32,18,16,20,27,9
+"Downtown West","Drug/Narcotic Violations",244,114,61,117,146,71
 "East Bde Maka Ska","Drug/Narcotic Violations",1,3,0,0,4,6
 "East Harriet","Drug/Narcotic Violations",4,0,3,2,4,1
 "East Isles","Drug/Narcotic Violations",11,2,7,3,16,7
-"East Phillips","Drug/Narcotic Violations",78,44,33,43,81,43
-"Elliot Park","Drug/Narcotic Violations",56,29,29,46,50,52
+"East Phillips","Drug/Narcotic Violations",78,44,33,43,81,45
+"Elliot Park","Drug/Narcotic Violations",56,29,29,46,50,54
 "Ericsson","Drug/Narcotic Violations",4,5,2,0,3,1
 "Field","Drug/Narcotic Violations",1,3,1,0,0,2
 "Folwell","Drug/Narcotic Violations",36,41,25,20,42,17
@@ -76,7 +76,7 @@
 "Webber - Camden","Drug/Narcotic Violations",36,27,12,20,32,13
 "Wenonah","Drug/Narcotic Violations",4,4,7,3,1,1
 "West Maka Ska","Drug/Narcotic Violations",1,1,0,0,0,1
-"Whittier","Drug/Narcotic Violations",69,46,38,62,83,48
+"Whittier","Drug/Narcotic Violations",69,46,38,62,83,50
 "Willard - Hay","Drug/Narcotic Violations",27,43,11,8,18,12
 "Windom","Drug/Narcotic Violations",8,8,2,1,3,0
 "Windom Park","Drug/Narcotic Violations",27,10,5,8,3,2
@@ -95,20 +95,20 @@ NA,"Drug/Narcotic Violations",69,47,34,31,19,15
 "Camden Industrial","Total",6,3,4,3,1,0
 "Cedar - Isles - Dean","Total",4,7,1,3,3,3
 "Cedar Riverside","Total",26,25,19,40,27,11
-"Central","Total",11,7,5,5,10,16
+"Central","Total",11,7,5,5,10,17
 "Cleveland","Total",9,10,6,6,12,5
 "Columbia Park","Total",9,7,3,1,1,1
 "Como","Total",13,9,7,4,3,0
 "Cooper","Total",3,3,1,0,1,1
 "Corcoran","Total",14,5,6,8,9,6
 "Diamond Lake","Total",2,2,0,0,0,1
-"Downtown East","Total",32,18,16,20,27,8
-"Downtown West","Total",244,114,61,117,146,69
+"Downtown East","Total",32,18,16,20,27,9
+"Downtown West","Total",244,114,61,117,146,71
 "East Bde Maka Ska","Total",1,3,0,0,4,6
 "East Harriet","Total",4,0,3,2,4,1
 "East Isles","Total",11,2,7,3,16,7
-"East Phillips","Total",78,44,33,43,81,43
-"Elliot Park","Total",56,29,29,46,50,52
+"East Phillips","Total",78,44,33,43,81,45
+"Elliot Park","Total",56,29,29,46,50,54
 "Ericsson","Total",4,5,2,0,3,1
 "Field","Total",1,3,1,0,0,2
 "Folwell","Total",36,41,25,20,42,17
@@ -163,7 +163,7 @@ NA,"Drug/Narcotic Violations",69,47,34,31,19,15
 "Webber - Camden","Total",36,27,12,20,32,13
 "Wenonah","Total",4,4,7,3,1,1
 "West Maka Ska","Total",1,1,0,0,0,1
-"Whittier","Total",69,46,38,62,83,48
+"Whittier","Total",69,46,38,62,83,50
 "Willard - Hay","Total",27,43,11,8,18,12
 "Windom","Total",8,8,2,1,3,0
 "Windom Park","Total",27,10,5,8,3,2
