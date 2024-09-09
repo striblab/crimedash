@@ -1,7 +1,7 @@
 "Neighborhood","Offense","2019","2020","2021","2022","2023","2024"
 "Armatage","Sex Offenses",3,8,2,0,2,1
 "Audubon Park","Sex Offenses",10,5,3,7,1,5
-"Bancroft","Sex Offenses",4,7,6,2,3,2
+"Bancroft","Sex Offenses",4,7,6,2,3,3
 "Beltrami","Sex Offenses",2,1,2,0,0,3
 "Bottineau","Sex Offenses",2,3,2,4,3,5
 "Bryant","Sex Offenses",5,6,8,8,0,3
@@ -16,7 +16,7 @@
 "Corcoran","Sex Offenses",7,5,8,8,6,5
 "Diamond Lake","Sex Offenses",2,2,5,4,4,4
 "Downtown East","Sex Offenses",10,15,5,12,6,8
-"Downtown West","Sex Offenses",84,52,41,59,64,33
+"Downtown West","Sex Offenses",84,52,41,59,64,34
 "East Harriet","Sex Offenses",2,6,1,6,3,3
 "East Isles","Sex Offenses",2,0,6,1,3,1
 "East Phillips","Sex Offenses",29,16,19,19,16,19
@@ -26,7 +26,7 @@
 "Fulton","Sex Offenses",3,0,2,4,4,0
 "Harrison","Sex Offenses",14,10,9,8,10,3
 "Hawthorne","Sex Offenses",40,25,29,25,37,17
-"Hiawatha","Sex Offenses",3,7,5,3,6,5
+"Hiawatha","Sex Offenses",3,7,5,3,6,6
 "Holland","Sex Offenses",5,7,9,6,7,3
 "Howe","Sex Offenses",5,6,5,1,0,8
 "Jordan","Sex Offenses",37,34,29,28,39,17
@@ -37,7 +37,7 @@
 "Linden Hills","Sex Offenses",2,3,5,2,5,5
 "Logan Park","Sex Offenses",2,3,6,4,12,4
 "Longfellow","Sex Offenses",7,12,5,11,13,11
-"Loring Park","Sex Offenses",21,17,21,19,23,17
+"Loring Park","Sex Offenses",21,17,21,19,23,18
 "Lowry Hill","Sex Offenses",4,2,0,3,2,3
 "Lowry Hill East","Sex Offenses",16,12,21,13,18,12
 "Lyndale","Sex Offenses",19,16,15,11,13,10
@@ -59,16 +59,16 @@
 "Powderhorn Park","Sex Offenses",19,23,14,14,17,5
 "Prospect Park - East River Road","Sex Offenses",16,8,6,9,11,8
 "Regina","Sex Offenses",3,1,3,3,0,5
-"Seward","Sex Offenses",7,10,14,5,20,10
+"Seward","Sex Offenses",7,10,14,5,20,11
 "Sheridan","Sex Offenses",5,2,3,3,4,1
 "Shingle Creek","Sex Offenses",12,8,5,6,4,2
 "South Uptown","Sex Offenses",11,5,4,5,6,3
 "St. Anthony East","Sex Offenses",6,4,2,2,5,0
 "St. Anthony West","Sex Offenses",6,1,3,1,3,1
-"Standish","Sex Offenses",15,3,3,16,7,6
-"Steven's Square - Loring Heights","Sex Offenses",12,8,6,10,11,11
+"Standish","Sex Offenses",15,3,3,16,7,9
+"Steven's Square - Loring Heights","Sex Offenses",12,8,6,10,11,10
 "Sumner - Glenwood","Sex Offenses",9,7,4,0,2,0
-"University of Minnesota","Sex Offenses",6,2,4,3,4,2
+"University of Minnesota","Sex Offenses",6,2,4,3,4,3
 "Ventura Village","Sex Offenses",28,13,17,21,21,10
 "Victory","Sex Offenses",6,9,5,7,3,2
 "Waite Park","Sex Offenses",5,4,1,2,3,2
@@ -88,7 +88,7 @@ NA,"Sex Offenses",36,29,63,66,40,30
 "Hale","Sex Offenses",0,0,1,2,4,1
 "Armatage","Total",3,8,2,0,2,1
 "Audubon Park","Total",10,5,3,7,1,5
-"Bancroft","Total",4,7,6,2,3,2
+"Bancroft","Total",4,7,6,2,3,3
 "Beltrami","Total",2,1,2,0,0,3
 "Bottineau","Total",2,3,2,4,3,5
 "Bryant","Total",5,6,8,8,0,3
@@ -103,7 +103,7 @@ NA,"Sex Offenses",36,29,63,66,40,30
 "Corcoran","Total",7,5,8,8,6,5
 "Diamond Lake","Total",2,2,5,4,4,4
 "Downtown East","Total",10,15,5,12,6,8
-"Downtown West","Total",84,52,41,59,64,33
+"Downtown West","Total",84,52,41,59,64,34
 "East Harriet","Total",2,6,1,6,3,3
 "East Isles","Total",2,0,6,1,3,1
 "East Phillips","Total",29,16,19,19,16,19
@@ -113,7 +113,7 @@ NA,"Sex Offenses",36,29,63,66,40,30
 "Fulton","Total",3,0,2,4,4,0
 "Harrison","Total",14,10,9,8,10,3
 "Hawthorne","Total",40,25,29,25,37,17
-"Hiawatha","Total",3,7,5,3,6,5
+"Hiawatha","Total",3,7,5,3,6,6
 "Holland","Total",5,7,9,6,7,3
 "Howe","Total",5,6,5,1,0,8
 "Jordan","Total",37,34,29,28,39,17
@@ -124,7 +124,7 @@ NA,"Sex Offenses",36,29,63,66,40,30
 "Linden Hills","Total",2,3,5,2,5,5
 "Logan Park","Total",2,3,6,4,12,4
 "Longfellow","Total",7,12,5,11,13,11
-"Loring Park","Total",21,17,21,19,23,17
+"Loring Park","Total",21,17,21,19,23,18
 "Lowry Hill","Total",4,2,0,3,2,3
 "Lowry Hill East","Total",16,12,21,13,18,12
 "Lyndale","Total",19,16,15,11,13,10
@@ -146,16 +146,16 @@ NA,"Sex Offenses",36,29,63,66,40,30
 "Powderhorn Park","Total",19,23,14,14,17,5
 "Prospect Park - East River Road","Total",16,8,6,9,11,8
 "Regina","Total",3,1,3,3,0,5
-"Seward","Total",7,10,14,5,20,10
+"Seward","Total",7,10,14,5,20,11
 "Sheridan","Total",5,2,3,3,4,1
 "Shingle Creek","Total",12,8,5,6,4,2
 "South Uptown","Total",11,5,4,5,6,3
 "St. Anthony East","Total",6,4,2,2,5,0
 "St. Anthony West","Total",6,1,3,1,3,1
-"Standish","Total",15,3,3,16,7,6
-"Steven's Square - Loring Heights","Total",12,8,6,10,11,11
+"Standish","Total",15,3,3,16,7,9
+"Steven's Square - Loring Heights","Total",12,8,6,10,11,10
 "Sumner - Glenwood","Total",9,7,4,0,2,0
-"University of Minnesota","Total",6,2,4,3,4,2
+"University of Minnesota","Total",6,2,4,3,4,3
 "Ventura Village","Total",28,13,17,21,21,10
 "Victory","Total",6,9,5,7,3,2
 "Waite Park","Total",5,4,1,2,3,2

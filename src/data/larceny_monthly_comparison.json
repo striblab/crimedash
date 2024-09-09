@@ -479,7 +479,7 @@
     "Year": 2024,
     "Month": 9,
     "Offense": "All Other Larceny",
-    "IncidentCount": 24,
+    "IncidentCount": 132,
     "Date": "2024-09-01"
   },
   {
@@ -955,14 +955,14 @@
     "Year": 2024,
     "Month": 8,
     "Offense": "Theft From Motor Vehicle",
-    "IncidentCount": 437,
+    "IncidentCount": 441,
     "Date": "2024-08-01"
   },
   {
     "Year": 2024,
     "Month": 9,
     "Offense": "Theft From Motor Vehicle",
-    "IncidentCount": 22,
+    "IncidentCount": 78,
     "Date": "2024-09-01"
   },
   {
@@ -1606,7 +1606,7 @@
     "Year": 2024,
     "Month": 9,
     "Offense": "Purse-snatching",
-    "IncidentCount": 1,
+    "IncidentCount": 3,
     "Date": "2024-09-01"
   },
   {
@@ -2089,7 +2089,7 @@
     "Year": 2024,
     "Month": 9,
     "Offense": "Shoplifting",
-    "IncidentCount": 7,
+    "IncidentCount": 10,
     "Date": "2024-09-01"
   },
   {
@@ -2567,6 +2567,13 @@
     "Offense": "Theft From Building",
     "IncidentCount": 15,
     "Date": "2024-08-01"
+  },
+  {
+    "Year": 2024,
+    "Month": 9,
+    "Offense": "Theft From Building",
+    "IncidentCount": 2,
+    "Date": "2024-09-01"
   },
   {
     "Year": 2019,
@@ -3125,7 +3132,7 @@
     "Year": 2024,
     "Month": 9,
     "Offense": "Theft of Motor Vehicle Parts or Accessories",
-    "IncidentCount": 3,
+    "IncidentCount": 18,
     "Date": "2024-09-01"
   }
 ]
