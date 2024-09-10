@@ -89,7 +89,7 @@
 <div class="def"><p>Police activity includes any call police are dispatched to or initiate themselves, including traffic stops.</p></div>
 
 
-<p>Post-Floyd, Minneapolis police have fallen back into a largely reactive mode as 911 calls spiked and officer-initiated proactive operations flatlined.</p>
+<p>Post-Floyd, Minneapolis police have fallen back into a largely reactive mode as 911 calls spiked and officer-initiated proactive operations flatlined. Since 2023, MECC has apparently stopped indicating whether a call came from 911 or officer-initiated.</p>
 
 <div class="chart-container">
     <canvas id="dispatchChart"></canvas>
@@ -102,7 +102,9 @@
 <div class="download"><a href="../store/activity/mpd_2022_b.zip">Download Minneapolis police dispatch data, Q2 2022</a></div>
 <div class="download"><a href="../store/activity/mpd_2022_c.zip">Download Minneapolis police dispatch data, Q3 2022</a></div>
 <div class="download"><a href="../store/activity/mpd_2022_d.zip">Download Minneapolis police dispatch data, Q4 2022</a></div>
-
+<div class="download"><a href="../store/activity/mpd_2023_a.zip">Download Minneapolis police dispatch data, Jan-Jun 2023</a></div>
+<div class="download"><a href="../store/activity/mpd_2023_b.zip">Download Minneapolis police dispatch data, July-Dec 2023</a></div>
+<div class="download"><a href="../store/activity/mpd_2024_a.zip">Download Minneapolis police dispatch data, Jan-Jun 2024</a></div>
 <p>&nbsp;</p>
 
 <p>Minneapolis police have also gradually reduced their number of traffic stops in recent years.</p>
