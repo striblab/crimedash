@@ -47,11 +47,11 @@
 "Lowry Hill East","Robbery",36,55,78,95,52,62
 "Lyndale","Robbery",15,34,44,19,41,39
 "Lynnhurst","Robbery",1,4,4,0,2,5
-"Marcy Holmes","Robbery",31,42,99,64,33,29
+"Marcy Holmes","Robbery",31,42,99,64,33,30
 "Marshall Terrace","Robbery",2,1,3,6,2,3
 "McKinley","Robbery",19,21,26,10,7,6
 "Mid - City Industrial","Robbery",1,1,4,5,1,1
-"Midtown Phillips","Robbery",38,81,79,73,52,33
+"Midtown Phillips","Robbery",38,81,79,73,52,34
 "Minnehaha","Robbery",2,6,5,6,7,3
 "Near - North","Robbery",48,44,53,39,30,23
 "North Loop","Robbery",21,9,34,23,18,4
@@ -65,7 +65,7 @@
 "Seward","Robbery",17,73,68,34,33,37
 "Sheridan","Robbery",4,14,20,8,11,9
 "Shingle Creek","Robbery",2,8,12,3,3,1
-"South Uptown","Robbery",13,26,36,30,19,37
+"South Uptown","Robbery",13,26,36,30,19,39
 "St. Anthony East","Robbery",5,1,4,7,6,1
 "St. Anthony West","Robbery",2,4,6,2,8,4
 "Standish","Robbery",4,21,25,12,14,6
@@ -79,7 +79,7 @@
 "Webber - Camden","Robbery",29,24,16,19,12,14
 "Wenonah","Robbery",2,5,6,7,2,1
 "West Maka Ska","Robbery",1,4,5,0,2,0
-"Whittier","Robbery",63,112,159,127,103,104
+"Whittier","Robbery",63,112,159,127,103,105
 "Willard - Hay","Robbery",32,25,35,31,40,17
 "Windom","Robbery",8,11,9,2,7,4
 "Windom Park","Robbery",8,9,13,13,6,9
@@ -134,11 +134,11 @@ NA,"Robbery",6,9,8,11,8,6
 "Lowry Hill East","Total",36,55,78,95,52,62
 "Lyndale","Total",15,34,44,19,41,39
 "Lynnhurst","Total",1,4,4,0,2,5
-"Marcy Holmes","Total",31,42,99,64,33,29
+"Marcy Holmes","Total",31,42,99,64,33,30
 "Marshall Terrace","Total",2,1,3,6,2,3
 "McKinley","Total",19,21,26,10,7,6
 "Mid - City Industrial","Total",1,1,4,5,1,1
-"Midtown Phillips","Total",38,81,79,73,52,33
+"Midtown Phillips","Total",38,81,79,73,52,34
 "Minnehaha","Total",2,6,5,6,7,3
 "Near - North","Total",48,44,53,39,30,23
 "North Loop","Total",21,9,34,23,18,4
@@ -152,7 +152,7 @@ NA,"Robbery",6,9,8,11,8,6
 "Seward","Total",17,73,68,34,33,37
 "Sheridan","Total",4,14,20,8,11,9
 "Shingle Creek","Total",2,8,12,3,3,1
-"South Uptown","Total",13,26,36,30,19,37
+"South Uptown","Total",13,26,36,30,19,39
 "St. Anthony East","Total",5,1,4,7,6,1
 "St. Anthony West","Total",2,4,6,2,8,4
 "Standish","Total",4,21,25,12,14,6
@@ -166,7 +166,7 @@ NA,"Robbery",6,9,8,11,8,6
 "Webber - Camden","Total",29,24,16,19,12,14
 "Wenonah","Total",2,5,6,7,2,1
 "West Maka Ska","Total",1,4,5,0,2,0
-"Whittier","Total",63,112,159,127,103,104
+"Whittier","Total",63,112,159,127,103,105
 "Willard - Hay","Total",32,25,35,31,40,17
 "Windom","Total",8,11,9,2,7,4
 "Windom Park","Total",8,9,13,13,6,9

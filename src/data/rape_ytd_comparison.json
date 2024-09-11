@@ -1,42 +1,42 @@
 [
   {
-    "YTDCount": 700,
+    "YTDCount": 705,
     "Year": 2019,
     "Offense": "Sex Offenses"
   },
   {
-    "YTDCount": 598,
+    "YTDCount": 601,
     "Year": 2020,
     "Offense": "Sex Offenses",
-    "PrevYTDCount": 700,
-    "YTDPercentageChange": -14.5714
+    "PrevYTDCount": 705,
+    "YTDPercentageChange": -14.7518
   },
   {
-    "YTDCount": 565,
+    "YTDCount": 566,
     "Year": 2021,
     "Offense": "Sex Offenses",
-    "PrevYTDCount": 598,
-    "YTDPercentageChange": -5.5184
+    "PrevYTDCount": 601,
+    "YTDPercentageChange": -5.8236
   },
   {
-    "YTDCount": 542,
+    "YTDCount": 545,
     "Year": 2022,
     "Offense": "Sex Offenses",
-    "PrevYTDCount": 565,
-    "YTDPercentageChange": -4.0708
+    "PrevYTDCount": 566,
+    "YTDPercentageChange": -3.7102
   },
   {
-    "YTDCount": 613,
+    "YTDCount": 614,
     "Year": 2023,
     "Offense": "Sex Offenses",
-    "PrevYTDCount": 542,
-    "YTDPercentageChange": 13.0996
+    "PrevYTDCount": 545,
+    "YTDPercentageChange": 12.6606
   },
   {
-    "YTDCount": 580,
+    "YTDCount": 583,
     "Year": 2024,
     "Offense": "Sex Offenses",
-    "PrevYTDCount": 613,
-    "YTDPercentageChange": -5.3834
+    "PrevYTDCount": 614,
+    "YTDPercentageChange": -5.0489
   }
 ]

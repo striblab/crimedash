@@ -1,6 +1,6 @@
 "Neighborhood","Offense","2019","2020","2021","2022","2023","2024"
 "Armatage","Burglary/Breaking & Entering",16,17,19,6,16,6
-"Audubon Park","Burglary/Breaking & Entering",36,17,19,22,18,7
+"Audubon Park","Burglary/Breaking & Entering",36,17,19,22,18,8
 "Bancroft","Burglary/Breaking & Entering",60,24,8,16,17,18
 "Beltrami","Burglary/Breaking & Entering",8,6,6,1,2,9
 "Bottineau","Burglary/Breaking & Entering",7,12,10,14,8,9
@@ -20,19 +20,19 @@
 "Downtown West","Burglary/Breaking & Entering",99,139,67,81,65,40
 "East Bde Maka Ska","Burglary/Breaking & Entering",32,46,21,19,18,14
 "East Harriet","Burglary/Breaking & Entering",18,20,9,7,21,20
-"East Isles","Burglary/Breaking & Entering",48,72,37,24,54,27
+"East Isles","Burglary/Breaking & Entering",48,72,37,24,54,28
 "East Phillips","Burglary/Breaking & Entering",47,73,58,37,32,29
-"Elliot Park","Burglary/Breaking & Entering",41,47,32,45,35,27
+"Elliot Park","Burglary/Breaking & Entering",41,47,32,45,35,29
 "Ericsson","Burglary/Breaking & Entering",51,37,24,17,30,10
 "Field","Burglary/Breaking & Entering",26,18,13,15,15,16
-"Folwell","Burglary/Breaking & Entering",39,37,25,56,66,61
+"Folwell","Burglary/Breaking & Entering",39,37,25,56,66,62
 "Fulton","Burglary/Breaking & Entering",38,23,19,14,6,3
 "Hale","Burglary/Breaking & Entering",28,23,11,14,12,7
 "Harrison","Burglary/Breaking & Entering",21,21,20,18,22,17
 "Hawthorne","Burglary/Breaking & Entering",48,52,32,57,53,32
 "Hiawatha","Burglary/Breaking & Entering",51,47,44,66,64,32
-"Holland","Burglary/Breaking & Entering",35,25,28,23,28,18
-"Howe","Burglary/Breaking & Entering",59,60,35,66,50,32
+"Holland","Burglary/Breaking & Entering",35,25,28,23,28,19
+"Howe","Burglary/Breaking & Entering",59,60,35,66,50,33
 "Humboldt Industrial Area","Burglary/Breaking & Entering",2,1,1,1,0,1
 "Jordan","Burglary/Breaking & Entering",66,68,57,82,101,63
 "Keewaydin","Burglary/Breaking & Entering",17,20,12,25,10,11
@@ -43,7 +43,7 @@
 "Linden Hills","Burglary/Breaking & Entering",32,38,30,21,16,6
 "Logan Park","Burglary/Breaking & Entering",10,22,21,11,19,13
 "Longfellow","Burglary/Breaking & Entering",63,88,44,63,67,46
-"Loring Park","Burglary/Breaking & Entering",55,96,49,51,43,27
+"Loring Park","Burglary/Breaking & Entering",55,96,49,51,43,28
 "Lowry Hill","Burglary/Breaking & Entering",31,46,27,29,32,16
 "Lowry Hill East","Burglary/Breaking & Entering",75,209,115,77,93,36
 "Lyndale","Burglary/Breaking & Entering",63,84,40,75,66,56
@@ -65,7 +65,7 @@
 "Powderhorn Park","Burglary/Breaking & Entering",119,113,46,86,65,56
 "Prospect Park - East River Road","Burglary/Breaking & Entering",44,63,70,59,32,16
 "Regina","Burglary/Breaking & Entering",27,27,12,9,13,16
-"Seward","Burglary/Breaking & Entering",72,90,70,73,99,28
+"Seward","Burglary/Breaking & Entering",72,90,70,73,99,30
 "Sheridan","Burglary/Breaking & Entering",15,22,26,15,16,5
 "Shingle Creek","Burglary/Breaking & Entering",17,21,14,3,9,5
 "South Uptown","Burglary/Breaking & Entering",63,71,53,45,44,33
@@ -88,7 +88,7 @@
 "Windom Park","Burglary/Breaking & Entering",34,24,15,14,11,12
 NA,"Burglary/Breaking & Entering",1,1,5,5,6,2
 "Armatage","Total",16,17,19,6,16,6
-"Audubon Park","Total",36,17,19,22,18,7
+"Audubon Park","Total",36,17,19,22,18,8
 "Bancroft","Total",60,24,8,16,17,18
 "Beltrami","Total",8,6,6,1,2,9
 "Bottineau","Total",7,12,10,14,8,9
@@ -108,19 +108,19 @@ NA,"Burglary/Breaking & Entering",1,1,5,5,6,2
 "Downtown West","Total",99,139,67,81,65,40
 "East Bde Maka Ska","Total",32,46,21,19,18,14
 "East Harriet","Total",18,20,9,7,21,20
-"East Isles","Total",48,72,37,24,54,27
+"East Isles","Total",48,72,37,24,54,28
 "East Phillips","Total",47,73,58,37,32,29
-"Elliot Park","Total",41,47,32,45,35,27
+"Elliot Park","Total",41,47,32,45,35,29
 "Ericsson","Total",51,37,24,17,30,10
 "Field","Total",26,18,13,15,15,16
-"Folwell","Total",39,37,25,56,66,61
+"Folwell","Total",39,37,25,56,66,62
 "Fulton","Total",38,23,19,14,6,3
 "Hale","Total",28,23,11,14,12,7
 "Harrison","Total",21,21,20,18,22,17
 "Hawthorne","Total",48,52,32,57,53,32
 "Hiawatha","Total",51,47,44,66,64,32
-"Holland","Total",35,25,28,23,28,18
-"Howe","Total",59,60,35,66,50,32
+"Holland","Total",35,25,28,23,28,19
+"Howe","Total",59,60,35,66,50,33
 "Humboldt Industrial Area","Total",2,1,1,1,0,1
 "Jordan","Total",66,68,57,82,101,63
 "Keewaydin","Total",17,20,12,25,10,11
@@ -131,7 +131,7 @@ NA,"Burglary/Breaking & Entering",1,1,5,5,6,2
 "Linden Hills","Total",32,38,30,21,16,6
 "Logan Park","Total",10,22,21,11,19,13
 "Longfellow","Total",63,88,44,63,67,46
-"Loring Park","Total",55,96,49,51,43,27
+"Loring Park","Total",55,96,49,51,43,28
 "Lowry Hill","Total",31,46,27,29,32,16
 "Lowry Hill East","Total",75,209,115,77,93,36
 "Lyndale","Total",63,84,40,75,66,56
@@ -153,7 +153,7 @@ NA,"Burglary/Breaking & Entering",1,1,5,5,6,2
 "Powderhorn Park","Total",119,113,46,86,65,56
 "Prospect Park - East River Road","Total",44,63,70,59,32,16
 "Regina","Total",27,27,12,9,13,16
-"Seward","Total",72,90,70,73,99,28
+"Seward","Total",72,90,70,73,99,30
 "Sheridan","Total",15,22,26,15,16,5
 "Shingle Creek","Total",17,21,14,3,9,5
 "South Uptown","Total",63,71,53,45,44,33

@@ -140,7 +140,7 @@
 <div class="download"><a href="../store/murder/murder_ytd_comparison.csv">Download Minneapolis murders year-to-date data</a></div> 
 
 <p>&nbsp;</p>
-<h4>Monthly monthly trend</h4>
+<h4>Monthly murder trend</h4>
 <div class="chart-container">
   <canvas id="monthlyChart"></canvas>
 </div>

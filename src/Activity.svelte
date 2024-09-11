@@ -118,6 +118,7 @@
 <h4>Links</h4>
 <ul>
     <li><a href="https://tableau.minneapolismn.gov/views/MPDStopDataOpenDataInsideMPD/MPDStopInformation?:embed=y&:display_count=no&:showAppBanner=false&:showVizHome=no&:origin=viz_share_link">Minneapolis Police Stops</a> | <a href="https://opendata.minneapolismn.gov/datasets/police-stop-data">DATA</a></li>
+    <li><a href="https://minneapolis.service-now.com/opencityportal">Minneapolis Open City</a></li>
 </ul>
 
 <style>
