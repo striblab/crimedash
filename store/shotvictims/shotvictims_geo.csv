@@ -7,11 +7,11 @@
 "Downtown West","Gunshot Wound Victims",20,33,30,44,19,14
 "East Harriet","Gunshot Wound Victims",1,0,2,0,1,0
 "East Isles","Gunshot Wound Victims",2,0,4,0,2,0
-"East Phillips","Gunshot Wound Victims",9,35,46,28,18,13
+"East Phillips","Gunshot Wound Victims",9,35,46,28,18,14
 "Elliot Park","Gunshot Wound Victims",8,14,14,6,9,7
 "Folwell","Gunshot Wound Victims",18,28,33,35,23,20
 "Harrison","Gunshot Wound Victims",2,7,10,4,4,5
-"Hawthorne","Gunshot Wound Victims",34,71,65,57,33,13
+"Hawthorne","Gunshot Wound Victims",34,71,65,57,33,14
 "Holland","Gunshot Wound Victims",2,0,2,7,0,2
 "Jordan","Gunshot Wound Victims",18,62,51,33,29,17
 "Lind - Bohanon","Gunshot Wound Victims",9,11,20,9,3,2
@@ -19,14 +19,14 @@
 "Lowry Hill East","Gunshot Wound Victims",3,15,8,13,20,5
 "Marcy Holmes","Gunshot Wound Victims",4,3,17,7,5,1
 "McKinley","Gunshot Wound Victims",5,20,15,11,10,4
-"Midtown Phillips","Gunshot Wound Victims",9,19,30,20,12,9
-"Near - North","Gunshot Wound Victims",13,40,38,36,20,12
+"Midtown Phillips","Gunshot Wound Victims",9,19,30,20,12,11
+"Near - North","Gunshot Wound Victims",13,40,38,36,20,13
 "North Loop","Gunshot Wound Victims",2,2,3,6,4,4
 "Northeast Park","Gunshot Wound Victims",2,0,1,1,0,1
 "Phillips West","Gunshot Wound Victims",11,7,17,9,3,15
 "Powderhorn Park","Gunshot Wound Victims",2,27,16,19,6,4
 "Prospect Park - East River Road","Gunshot Wound Victims",2,0,3,1,2,1
-"Seward","Gunshot Wound Victims",9,4,10,5,18,3
+"Seward","Gunshot Wound Victims",9,4,10,5,18,4
 "Sheridan","Gunshot Wound Victims",1,0,2,0,0,1
 "Steven's Square - Loring Heights","Gunshot Wound Victims",1,5,10,11,6,5
 "Sumner - Glenwood","Gunshot Wound Victims",6,3,5,3,1,0
@@ -44,7 +44,7 @@
 "Keewaydin","Gunshot Wound Victims",0,2,0,0,0,0
 "Linden Hills","Gunshot Wound Victims",0,2,0,0,1,0
 "Loring Park","Gunshot Wound Victims",0,4,10,15,12,4
-"Lyndale","Gunshot Wound Victims",0,2,1,8,3,3
+"Lyndale","Gunshot Wound Victims",0,2,1,8,3,4
 "Morris Park","Gunshot Wound Victims",0,1,2,0,0,0
 "Regina","Gunshot Wound Victims",0,1,1,0,0,0
 "Shingle Creek","Gunshot Wound Victims",0,6,3,3,2,0
@@ -67,7 +67,7 @@ NA,"Gunshot Wound Victims",0,3,6,4,6,3
 "Victory","Gunshot Wound Victims",0,0,4,2,4,1
 "Windom Park","Gunshot Wound Victims",0,0,2,0,0,0
 "Diamond Lake","Gunshot Wound Victims",0,0,0,1,1,0
-"Ericsson","Gunshot Wound Victims",0,0,0,1,0,0
+"Ericsson","Gunshot Wound Victims",0,0,0,1,0,1
 "King Field","Gunshot Wound Victims",0,0,0,2,0,2
 "Logan Park","Gunshot Wound Victims",0,0,0,1,0,1
 "Lowry Hill","Gunshot Wound Victims",0,0,0,1,2,0
@@ -84,11 +84,11 @@ NA,"Gunshot Wound Victims",0,3,6,4,6,3
 "Downtown West","Total",20,33,30,44,19,14
 "East Harriet","Total",1,0,2,0,1,0
 "East Isles","Total",2,0,4,0,2,0
-"East Phillips","Total",9,35,46,28,18,13
+"East Phillips","Total",9,35,46,28,18,14
 "Elliot Park","Total",8,14,14,6,9,7
 "Folwell","Total",18,28,33,35,23,20
 "Harrison","Total",2,7,10,4,4,5
-"Hawthorne","Total",34,71,65,57,33,13
+"Hawthorne","Total",34,71,65,57,33,14
 "Holland","Total",2,0,2,7,0,2
 "Jordan","Total",18,62,51,33,29,17
 "Lind - Bohanon","Total",9,11,20,9,3,2
@@ -96,14 +96,14 @@ NA,"Gunshot Wound Victims",0,3,6,4,6,3
 "Lowry Hill East","Total",3,15,8,13,20,5
 "Marcy Holmes","Total",4,3,17,7,5,1
 "McKinley","Total",5,20,15,11,10,4
-"Midtown Phillips","Total",9,19,30,20,12,9
-"Near - North","Total",13,40,38,36,20,12
+"Midtown Phillips","Total",9,19,30,20,12,11
+"Near - North","Total",13,40,38,36,20,13
 "North Loop","Total",2,2,3,6,4,4
 "Northeast Park","Total",2,0,1,1,0,1
 "Phillips West","Total",11,7,17,9,3,15
 "Powderhorn Park","Total",2,27,16,19,6,4
 "Prospect Park - East River Road","Total",2,0,3,1,2,1
-"Seward","Total",9,4,10,5,18,3
+"Seward","Total",9,4,10,5,18,4
 "Sheridan","Total",1,0,2,0,0,1
 "Steven's Square - Loring Heights","Total",1,5,10,11,6,5
 "Sumner - Glenwood","Total",6,3,5,3,1,0
@@ -121,7 +121,7 @@ NA,"Gunshot Wound Victims",0,3,6,4,6,3
 "Keewaydin","Total",0,2,0,0,0,0
 "Linden Hills","Total",0,2,0,0,1,0
 "Loring Park","Total",0,4,10,15,12,4
-"Lyndale","Total",0,2,1,8,3,3
+"Lyndale","Total",0,2,1,8,3,4
 "Morris Park","Total",0,1,2,0,0,0
 "Regina","Total",0,1,1,0,0,0
 "Shingle Creek","Total",0,6,3,3,2,0
@@ -144,7 +144,7 @@ NA,"Total",0,3,6,4,6,3
 "Victory","Total",0,0,4,2,4,1
 "Windom Park","Total",0,0,2,0,0,0
 "Diamond Lake","Total",0,0,0,1,1,0
-"Ericsson","Total",0,0,0,1,0,0
+"Ericsson","Total",0,0,0,1,0,1
 "King Field","Total",0,0,0,2,0,2
 "Logan Park","Total",0,0,0,1,0,1
 "Lowry Hill","Total",0,0,0,1,2,0

@@ -12,7 +12,7 @@
 "Diamond Lake","Carjacking - Subset of Robbery",1,1,0,0,0
 "Downtown West","Carjacking - Subset of Robbery",2,4,5,1,1
 "East Isles","Carjacking - Subset of Robbery",5,16,13,3,4
-"East Phillips","Carjacking - Subset of Robbery",2,25,18,10,7
+"East Phillips","Carjacking - Subset of Robbery",2,25,18,10,8
 "Elliot Park","Carjacking - Subset of Robbery",1,2,9,8,2
 "Field","Carjacking - Subset of Robbery",1,5,1,2,1
 "Folwell","Carjacking - Subset of Robbery",1,9,6,6,5
@@ -35,7 +35,7 @@
 "Near - North","Carjacking - Subset of Robbery",3,23,14,9,5
 "Northeast Park","Carjacking - Subset of Robbery",1,0,2,1,1
 "Northrop","Carjacking - Subset of Robbery",3,9,6,3,2
-"Phillips West","Carjacking - Subset of Robbery",5,8,13,11,2
+"Phillips West","Carjacking - Subset of Robbery",5,8,13,11,4
 "Powderhorn Park","Carjacking - Subset of Robbery",6,38,27,6,10
 "Prospect Park - East River Road","Carjacking - Subset of Robbery",2,5,1,0,0
 "Seward","Carjacking - Subset of Robbery",12,24,12,7,9
@@ -55,7 +55,7 @@ NA,"Carjacking - Subset of Robbery",2,3,2,2,0
 "Camden Industrial","Carjacking - Subset of Robbery",0,1,0,0,0
 "Columbia Park","Carjacking - Subset of Robbery",0,1,0,1,0
 "Cooper","Carjacking - Subset of Robbery",0,2,1,2,0
-"Downtown East","Carjacking - Subset of Robbery",0,2,0,0,0
+"Downtown East","Carjacking - Subset of Robbery",0,2,0,0,1
 "East Bde Maka Ska","Carjacking - Subset of Robbery",0,4,5,1,5
 "East Harriet","Carjacking - Subset of Robbery",0,5,4,3,2
 "Ericsson","Carjacking - Subset of Robbery",0,2,0,0,1
@@ -99,7 +99,7 @@ NA,"Carjacking - Subset of Robbery",2,3,2,2,0
 "Diamond Lake","Total",1,1,0,0,0
 "Downtown West","Total",2,4,5,1,1
 "East Isles","Total",5,16,13,3,4
-"East Phillips","Total",2,25,18,10,7
+"East Phillips","Total",2,25,18,10,8
 "Elliot Park","Total",1,2,9,8,2
 "Field","Total",1,5,1,2,1
 "Folwell","Total",1,9,6,6,5
@@ -122,7 +122,7 @@ NA,"Carjacking - Subset of Robbery",2,3,2,2,0
 "Near - North","Total",3,23,14,9,5
 "Northeast Park","Total",1,0,2,1,1
 "Northrop","Total",3,9,6,3,2
-"Phillips West","Total",5,8,13,11,2
+"Phillips West","Total",5,8,13,11,4
 "Powderhorn Park","Total",6,38,27,6,10
 "Prospect Park - East River Road","Total",2,5,1,0,0
 "Seward","Total",12,24,12,7,9
@@ -142,7 +142,7 @@ NA,"Total",2,3,2,2,0
 "Camden Industrial","Total",0,1,0,0,0
 "Columbia Park","Total",0,1,0,1,0
 "Cooper","Total",0,2,1,2,0
-"Downtown East","Total",0,2,0,0,0
+"Downtown East","Total",0,2,0,0,1
 "East Bde Maka Ska","Total",0,4,5,1,5
 "East Harriet","Total",0,5,4,3,2
 "Ericsson","Total",0,2,0,0,1
