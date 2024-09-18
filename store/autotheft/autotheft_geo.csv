@@ -19,8 +19,8 @@
 "Downtown East","Motor Vehicle Theft",22,30,39,41,41,33
 "Downtown West","Motor Vehicle Theft",127,95,109,163,167,118
 "East Bde Maka Ska","Motor Vehicle Theft",12,14,22,42,47,27
-"East Harriet","Motor Vehicle Theft",11,22,13,29,56,29
-"East Isles","Motor Vehicle Theft",29,34,42,59,108,54
+"East Harriet","Motor Vehicle Theft",11,22,13,29,56,30
+"East Isles","Motor Vehicle Theft",29,34,42,59,108,56
 "East Phillips","Motor Vehicle Theft",82,115,111,99,136,81
 "Elliot Park","Motor Vehicle Theft",69,70,65,92,118,101
 "Ericsson","Motor Vehicle Theft",15,25,19,32,60,28
@@ -46,9 +46,9 @@
 "Loring Park","Motor Vehicle Theft",45,58,99,124,145,97
 "Lowry Hill","Motor Vehicle Theft",22,24,43,67,83,51
 "Lowry Hill East","Motor Vehicle Theft",78,94,133,229,300,166
-"Lyndale","Motor Vehicle Theft",54,68,100,175,261,162
+"Lyndale","Motor Vehicle Theft",54,68,100,175,261,164
 "Lynnhurst","Motor Vehicle Theft",7,19,8,18,25,21
-"Marcy Holmes","Motor Vehicle Theft",127,223,228,202,273,179
+"Marcy Holmes","Motor Vehicle Theft",127,223,228,202,273,180
 "Marshall Terrace","Motor Vehicle Theft",11,18,20,18,32,38
 "McKinley","Motor Vehicle Theft",44,52,34,63,88,46
 "Mid - City Industrial","Motor Vehicle Theft",6,13,25,30,31,21
@@ -61,9 +61,9 @@
 "Northeast Park","Motor Vehicle Theft",2,13,16,21,43,24
 "Northrop","Motor Vehicle Theft",19,27,29,60,61,27
 "Page","Motor Vehicle Theft",2,9,9,9,11,3
-"Phillips West","Motor Vehicle Theft",61,80,70,80,149,79
+"Phillips West","Motor Vehicle Theft",61,80,70,80,149,80
 "Powderhorn Park","Motor Vehicle Theft",89,143,147,175,182,96
-"Prospect Park - East River Road","Motor Vehicle Theft",45,67,86,133,138,58
+"Prospect Park - East River Road","Motor Vehicle Theft",45,67,86,133,138,59
 "Regina","Motor Vehicle Theft",11,26,19,26,49,11
 "Seward","Motor Vehicle Theft",82,135,109,139,192,98
 "Sheridan","Motor Vehicle Theft",11,18,34,33,68,39
@@ -83,7 +83,7 @@
 "Wenonah","Motor Vehicle Theft",22,28,22,31,38,21
 "West Maka Ska","Motor Vehicle Theft",5,18,31,19,36,29
 "Whittier","Motor Vehicle Theft",138,196,243,547,560,356
-"Willard - Hay","Motor Vehicle Theft",52,89,69,139,173,84
+"Willard - Hay","Motor Vehicle Theft",52,89,69,139,173,85
 "Windom","Motor Vehicle Theft",20,35,39,42,72,54
 "Windom Park","Motor Vehicle Theft",30,28,37,52,74,39
 NA,"Motor Vehicle Theft",5,4,18,15,13,10
@@ -107,8 +107,8 @@ NA,"Motor Vehicle Theft",5,4,18,15,13,10
 "Downtown East","Total",22,30,39,41,41,33
 "Downtown West","Total",127,95,109,163,167,118
 "East Bde Maka Ska","Total",12,14,22,42,47,27
-"East Harriet","Total",11,22,13,29,56,29
-"East Isles","Total",29,34,42,59,108,54
+"East Harriet","Total",11,22,13,29,56,30
+"East Isles","Total",29,34,42,59,108,56
 "East Phillips","Total",82,115,111,99,136,81
 "Elliot Park","Total",69,70,65,92,118,101
 "Ericsson","Total",15,25,19,32,60,28
@@ -134,9 +134,9 @@ NA,"Motor Vehicle Theft",5,4,18,15,13,10
 "Loring Park","Total",45,58,99,124,145,97
 "Lowry Hill","Total",22,24,43,67,83,51
 "Lowry Hill East","Total",78,94,133,229,300,166
-"Lyndale","Total",54,68,100,175,261,162
+"Lyndale","Total",54,68,100,175,261,164
 "Lynnhurst","Total",7,19,8,18,25,21
-"Marcy Holmes","Total",127,223,228,202,273,179
+"Marcy Holmes","Total",127,223,228,202,273,180
 "Marshall Terrace","Total",11,18,20,18,32,38
 "McKinley","Total",44,52,34,63,88,46
 "Mid - City Industrial","Total",6,13,25,30,31,21
@@ -149,9 +149,9 @@ NA,"Motor Vehicle Theft",5,4,18,15,13,10
 "Northeast Park","Total",2,13,16,21,43,24
 "Northrop","Total",19,27,29,60,61,27
 "Page","Total",2,9,9,9,11,3
-"Phillips West","Total",61,80,70,80,149,79
+"Phillips West","Total",61,80,70,80,149,80
 "Powderhorn Park","Total",89,143,147,175,182,96
-"Prospect Park - East River Road","Total",45,67,86,133,138,58
+"Prospect Park - East River Road","Total",45,67,86,133,138,59
 "Regina","Total",11,26,19,26,49,11
 "Seward","Total",82,135,109,139,192,98
 "Sheridan","Total",11,18,34,33,68,39
@@ -171,7 +171,7 @@ NA,"Motor Vehicle Theft",5,4,18,15,13,10
 "Wenonah","Total",22,28,22,31,38,21
 "West Maka Ska","Total",5,18,31,19,36,29
 "Whittier","Total",138,196,243,547,560,356
-"Willard - Hay","Total",52,89,69,139,173,84
+"Willard - Hay","Total",52,89,69,139,173,85
 "Windom","Total",20,35,39,42,72,54
 "Windom Park","Total",30,28,37,52,74,39
 NA,"Total",5,4,18,15,13,10
