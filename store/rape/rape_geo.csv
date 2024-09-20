@@ -9,9 +9,9 @@
 "Camden Industrial","Sex Offenses",2,0,1,0,1,0
 "Cedar - Isles - Dean","Sex Offenses",1,2,1,3,4,1
 "Cedar Riverside","Sex Offenses",13,15,21,8,19,6
-"Central","Sex Offenses",22,10,24,19,19,11
+"Central","Sex Offenses",22,10,24,19,19,12
 "Cleveland","Sex Offenses",7,5,2,9,13,4
-"Como","Sex Offenses",8,10,8,4,6,6
+"Como","Sex Offenses",8,10,8,4,6,5
 "Cooper","Sex Offenses",2,1,2,3,4,0
 "Corcoran","Sex Offenses",7,5,8,8,6,5
 "Diamond Lake","Sex Offenses",2,2,5,4,4,4
@@ -24,12 +24,12 @@
 "Ericsson","Sex Offenses",7,2,5,3,2,1
 "Folwell","Sex Offenses",24,42,20,16,24,9
 "Fulton","Sex Offenses",3,0,2,4,4,0
-"Harrison","Sex Offenses",14,10,9,8,10,3
-"Hawthorne","Sex Offenses",40,25,29,25,37,17
-"Hiawatha","Sex Offenses",3,7,5,3,6,6
+"Harrison","Sex Offenses",14,10,9,8,10,4
+"Hawthorne","Sex Offenses",40,25,29,25,37,18
+"Hiawatha","Sex Offenses",3,7,5,3,6,7
 "Holland","Sex Offenses",5,7,9,6,7,3
 "Howe","Sex Offenses",5,6,5,1,0,8
-"Jordan","Sex Offenses",37,34,29,28,39,18
+"Jordan","Sex Offenses",37,34,29,28,39,19
 "Keewaydin","Sex Offenses",1,3,0,0,4,1
 "Kenny","Sex Offenses",2,3,2,2,0,0
 "King Field","Sex Offenses",7,6,4,2,10,1
@@ -45,13 +45,13 @@
 "Marcy Holmes","Sex Offenses",26,15,25,15,11,18
 "Marshall Terrace","Sex Offenses",6,0,6,3,4,2
 "McKinley","Sex Offenses",13,12,8,15,13,12
-"Mid - City Industrial","Sex Offenses",2,3,8,3,1,0
+"Mid - City Industrial","Sex Offenses",2,3,8,3,1,1
 "Midtown Phillips","Sex Offenses",23,18,21,25,8,26
-"Minnehaha","Sex Offenses",4,2,2,3,3,1
+"Minnehaha","Sex Offenses",4,2,2,3,3,2
 "Morris Park","Sex Offenses",3,2,5,1,1,1
 "Near - North","Sex Offenses",29,27,27,40,27,14
 "Nicollet Island - East Bank","Sex Offenses",2,4,2,5,1,5
-"North Loop","Sex Offenses",12,19,22,10,16,17
+"North Loop","Sex Offenses",12,19,22,10,16,18
 "Northeast Park","Sex Offenses",2,1,2,0,1,4
 "Northrop","Sex Offenses",3,2,6,5,7,1
 "Page","Sex Offenses",2,1,1,1,0,0
@@ -69,8 +69,8 @@
 "Steven's Square - Loring Heights","Sex Offenses",12,8,6,10,11,11
 "Sumner - Glenwood","Sex Offenses",9,7,4,0,2,1
 "University of Minnesota","Sex Offenses",6,2,4,3,4,3
-"Ventura Village","Sex Offenses",28,13,17,21,21,11
-"Victory","Sex Offenses",6,9,5,7,3,2
+"Ventura Village","Sex Offenses",28,13,17,21,21,12
+"Victory","Sex Offenses",6,9,5,7,3,4
 "Waite Park","Sex Offenses",5,4,1,2,3,2
 "Webber - Camden","Sex Offenses",18,20,19,18,14,8
 "Wenonah","Sex Offenses",29,4,10,13,9,7
@@ -78,8 +78,8 @@
 "Whittier","Sex Offenses",49,32,31,37,41,26
 "Willard - Hay","Sex Offenses",30,37,21,24,30,22
 "Windom","Sex Offenses",6,12,9,6,5,1
-"Windom Park","Sex Offenses",11,11,4,5,7,5
-NA,"Sex Offenses",36,29,63,66,40,30
+"Windom Park","Sex Offenses",11,11,4,5,7,6
+NA,"Sex Offenses",36,29,63,66,40,31
 "Columbia Park","Sex Offenses",0,8,1,3,1,0
 "East Bde Maka Ska","Sex Offenses",0,3,3,7,0,9
 "Field","Sex Offenses",0,4,1,5,7,3
@@ -96,9 +96,9 @@ NA,"Sex Offenses",36,29,63,66,40,30
 "Camden Industrial","Total",2,0,1,0,1,0
 "Cedar - Isles - Dean","Total",1,2,1,3,4,1
 "Cedar Riverside","Total",13,15,21,8,19,6
-"Central","Total",22,10,24,19,19,11
+"Central","Total",22,10,24,19,19,12
 "Cleveland","Total",7,5,2,9,13,4
-"Como","Total",8,10,8,4,6,6
+"Como","Total",8,10,8,4,6,5
 "Cooper","Total",2,1,2,3,4,0
 "Corcoran","Total",7,5,8,8,6,5
 "Diamond Lake","Total",2,2,5,4,4,4
@@ -111,12 +111,12 @@ NA,"Sex Offenses",36,29,63,66,40,30
 "Ericsson","Total",7,2,5,3,2,1
 "Folwell","Total",24,42,20,16,24,9
 "Fulton","Total",3,0,2,4,4,0
-"Harrison","Total",14,10,9,8,10,3
-"Hawthorne","Total",40,25,29,25,37,17
-"Hiawatha","Total",3,7,5,3,6,6
+"Harrison","Total",14,10,9,8,10,4
+"Hawthorne","Total",40,25,29,25,37,18
+"Hiawatha","Total",3,7,5,3,6,7
 "Holland","Total",5,7,9,6,7,3
 "Howe","Total",5,6,5,1,0,8
-"Jordan","Total",37,34,29,28,39,18
+"Jordan","Total",37,34,29,28,39,19
 "Keewaydin","Total",1,3,0,0,4,1
 "Kenny","Total",2,3,2,2,0,0
 "King Field","Total",7,6,4,2,10,1
@@ -132,13 +132,13 @@ NA,"Sex Offenses",36,29,63,66,40,30
 "Marcy Holmes","Total",26,15,25,15,11,18
 "Marshall Terrace","Total",6,0,6,3,4,2
 "McKinley","Total",13,12,8,15,13,12
-"Mid - City Industrial","Total",2,3,8,3,1,0
+"Mid - City Industrial","Total",2,3,8,3,1,1
 "Midtown Phillips","Total",23,18,21,25,8,26
-"Minnehaha","Total",4,2,2,3,3,1
+"Minnehaha","Total",4,2,2,3,3,2
 "Morris Park","Total",3,2,5,1,1,1
 "Near - North","Total",29,27,27,40,27,14
 "Nicollet Island - East Bank","Total",2,4,2,5,1,5
-"North Loop","Total",12,19,22,10,16,17
+"North Loop","Total",12,19,22,10,16,18
 "Northeast Park","Total",2,1,2,0,1,4
 "Northrop","Total",3,2,6,5,7,1
 "Page","Total",2,1,1,1,0,0
@@ -156,8 +156,8 @@ NA,"Sex Offenses",36,29,63,66,40,30
 "Steven's Square - Loring Heights","Total",12,8,6,10,11,11
 "Sumner - Glenwood","Total",9,7,4,0,2,1
 "University of Minnesota","Total",6,2,4,3,4,3
-"Ventura Village","Total",28,13,17,21,21,11
-"Victory","Total",6,9,5,7,3,2
+"Ventura Village","Total",28,13,17,21,21,12
+"Victory","Total",6,9,5,7,3,4
 "Waite Park","Total",5,4,1,2,3,2
 "Webber - Camden","Total",18,20,19,18,14,8
 "Wenonah","Total",29,4,10,13,9,7
@@ -165,8 +165,8 @@ NA,"Sex Offenses",36,29,63,66,40,30
 "Whittier","Total",49,32,31,37,41,26
 "Willard - Hay","Total",30,37,21,24,30,22
 "Windom","Total",6,12,9,6,5,1
-"Windom Park","Total",11,11,4,5,7,5
-NA,"Total",36,29,63,66,40,30
+"Windom Park","Total",11,11,4,5,7,6
+NA,"Total",36,29,63,66,40,31
 "Columbia Park","Total",0,8,1,3,1,0
 "East Bde Maka Ska","Total",0,3,3,7,0,9
 "Field","Total",0,4,1,5,7,3

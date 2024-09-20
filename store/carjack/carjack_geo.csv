@@ -36,9 +36,9 @@
 "Northeast Park","Carjacking - Subset of Robbery",1,0,2,1,1
 "Northrop","Carjacking - Subset of Robbery",3,9,6,3,2
 "Phillips West","Carjacking - Subset of Robbery",5,8,13,11,4
-"Powderhorn Park","Carjacking - Subset of Robbery",6,38,27,6,10
+"Powderhorn Park","Carjacking - Subset of Robbery",6,38,27,6,11
 "Prospect Park - East River Road","Carjacking - Subset of Robbery",2,5,1,0,0
-"Seward","Carjacking - Subset of Robbery",12,24,12,7,9
+"Seward","Carjacking - Subset of Robbery",12,24,12,7,10
 "Sheridan","Carjacking - Subset of Robbery",3,5,3,1,1
 "South Uptown","Carjacking - Subset of Robbery",7,9,8,3,7
 "Standish","Carjacking - Subset of Robbery",4,7,1,2,1
@@ -55,7 +55,7 @@ NA,"Carjacking - Subset of Robbery",2,3,2,2,0
 "Camden Industrial","Carjacking - Subset of Robbery",0,1,0,0,0
 "Columbia Park","Carjacking - Subset of Robbery",0,1,0,1,0
 "Cooper","Carjacking - Subset of Robbery",0,2,1,2,0
-"Downtown East","Carjacking - Subset of Robbery",0,2,0,0,1
+"Downtown East","Carjacking - Subset of Robbery",0,2,0,0,0
 "East Bde Maka Ska","Carjacking - Subset of Robbery",0,4,5,1,5
 "East Harriet","Carjacking - Subset of Robbery",0,5,4,3,2
 "Ericsson","Carjacking - Subset of Robbery",0,2,0,0,1
@@ -123,9 +123,9 @@ NA,"Carjacking - Subset of Robbery",2,3,2,2,0
 "Northeast Park","Total",1,0,2,1,1
 "Northrop","Total",3,9,6,3,2
 "Phillips West","Total",5,8,13,11,4
-"Powderhorn Park","Total",6,38,27,6,10
+"Powderhorn Park","Total",6,38,27,6,11
 "Prospect Park - East River Road","Total",2,5,1,0,0
-"Seward","Total",12,24,12,7,9
+"Seward","Total",12,24,12,7,10
 "Sheridan","Total",3,5,3,1,1
 "South Uptown","Total",7,9,8,3,7
 "Standish","Total",4,7,1,2,1
@@ -142,7 +142,7 @@ NA,"Total",2,3,2,2,0
 "Camden Industrial","Total",0,1,0,0,0
 "Columbia Park","Total",0,1,0,1,0
 "Cooper","Total",0,2,1,2,0
-"Downtown East","Total",0,2,0,0,1
+"Downtown East","Total",0,2,0,0,0
 "East Bde Maka Ska","Total",0,4,5,1,5
 "East Harriet","Total",0,5,4,3,2
 "Ericsson","Total",0,2,0,0,1
