@@ -89,7 +89,7 @@
 <div class="def"><p>Police activity includes any call police are dispatched to or initiate themselves, including traffic stops.</p></div>
 
 
-<p>Post-Floyd, Minneapolis police have fallen back into a largely reactive mode as 911 calls spiked and officer-initiated proactive operations flatlined. Since 2023, MECC has apparently stopped indicating whether a call came from 911 or officer-initiated.</p>
+<p>Post-Floyd, Minneapolis police have fallen back into a largely reactive mode as 911 calls spiked and officer-initiated proactive operations flatlined..</p>
 
 <div class="chart-container">
     <canvas id="dispatchChart"></canvas>

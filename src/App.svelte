@@ -32,6 +32,7 @@
 	import Force from './Force.svelte';
 	import Staff from './Staff.svelte';
 	import Practices from './Practices.svelte';
+	import Courts from './Courts.svelte';
   
 	let modules = [
 	  { id: 'murder', name: 'Minneapolis: Murder', component: Murder },
@@ -54,16 +55,17 @@
 	  { id: 'conduct', name: 'Minneapolis: Officer Conduct',  component: Conduct },
 	  { id: 'staff', name: 'Minneapolis: Police Staffing',  component: Staff },
 	  { id: 'park', name: 'Minneapolis: Park Police',  component: Park },
-	  { id: 'transit', name: 'Metro Transit Police Department',  component: Transit },
-	  { id: 'umpd', name: 'University of Minnesota Police Department',  component: UMPD },
-	  { id: 'msp', name: 'MSP Airport Police Department',  component: MSP },
+	  { id: 'umpd', name: 'Minneapolis: University of Minnesota Police Department',  component: UMPD },
 	  { id: 'stp', name: 'St. Paul: Public Safety Trends',  component: STP },
-	  { id: 'suburbs', name: 'Suburban Public Safety',  component: Suburbs },
-	  { id: 'statewide', name: 'Statewide Public Safety',  component: Statewide },
-	  { id: 'arrests', name: 'Statewide Arrests',  component: Arrests },
-	  { id: 'leoka', name: 'Statewide LEOKA',  component: LEOKA },
-	  { id: 'force', name: 'Statewide Police Use-of-Force',  component: Force },
-	  { id: 'national', name: 'National Public Safety',  component: National },
+	  { id: 'transit', name: 'Twin Cities Metro: Metro Transit Police Department',  component: Transit },
+	  { id: 'msp', name: 'Twin Cities Metro: MSP Airport Police Department',  component: MSP },
+	  { id: 'suburbs', name: 'Twin Cities Metro: Suburban Public Safety Trends',  component: Suburbs },
+	  { id: 'statewide', name: 'Statewide: Public Safety Trends',  component: Statewide },
+	  { id: 'arrests', name: 'Statewide: Arrests',  component: Arrests },
+	  { id: 'leoka', name: 'Statewide: LEOKA',  component: LEOKA },
+	  { id: 'force', name: 'Statewide: Police Use-of-Force',  component: Force },
+	  { id: 'courts', name: 'Statewide: Minnesota Courts',  component: Courts },
+	  { id: 'national', name: 'National: Public Safety Trends',  component: National },
 	  { id: 'practices', name: 'Notes & Best Practices',  component: Practices },
 	];
 
