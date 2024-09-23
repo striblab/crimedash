@@ -4,7 +4,7 @@
 "Cedar Riverside","Gunshot Wound Victims",6,6,13,20,5,3
 "Central","Gunshot Wound Victims",10,14,10,7,5,4
 "Cleveland","Gunshot Wound Victims",4,3,6,6,2,5
-"Downtown West","Gunshot Wound Victims",20,33,30,44,19,15
+"Downtown West","Gunshot Wound Victims",20,33,30,44,19,18
 "East Harriet","Gunshot Wound Victims",1,0,2,0,1,0
 "East Isles","Gunshot Wound Victims",2,0,4,0,2,0
 "East Phillips","Gunshot Wound Victims",9,35,46,28,18,17
@@ -44,7 +44,7 @@
 "Keewaydin","Gunshot Wound Victims",0,2,0,0,0,0
 "Linden Hills","Gunshot Wound Victims",0,2,0,0,1,0
 "Loring Park","Gunshot Wound Victims",0,4,10,15,12,4
-"Lyndale","Gunshot Wound Victims",0,2,1,8,3,4
+"Lyndale","Gunshot Wound Victims",0,2,1,8,3,5
 "Morris Park","Gunshot Wound Victims",0,1,2,0,0,0
 "Regina","Gunshot Wound Victims",0,1,1,0,0,0
 "Shingle Creek","Gunshot Wound Victims",0,6,3,3,2,0
@@ -81,7 +81,7 @@ NA,"Gunshot Wound Victims",0,3,6,4,6,3
 "Cedar Riverside","Total",6,6,13,20,5,3
 "Central","Total",10,14,10,7,5,4
 "Cleveland","Total",4,3,6,6,2,5
-"Downtown West","Total",20,33,30,44,19,15
+"Downtown West","Total",20,33,30,44,19,18
 "East Harriet","Total",1,0,2,0,1,0
 "East Isles","Total",2,0,4,0,2,0
 "East Phillips","Total",9,35,46,28,18,17
@@ -121,7 +121,7 @@ NA,"Gunshot Wound Victims",0,3,6,4,6,3
 "Keewaydin","Total",0,2,0,0,0,0
 "Linden Hills","Total",0,2,0,0,1,0
 "Loring Park","Total",0,4,10,15,12,4
-"Lyndale","Total",0,2,1,8,3,4
+"Lyndale","Total",0,2,1,8,3,5
 "Morris Park","Total",0,1,2,0,0,0
 "Regina","Total",0,1,1,0,0,0
 "Shingle Creek","Total",0,6,3,3,2,0

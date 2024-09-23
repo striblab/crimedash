@@ -13,7 +13,7 @@
 "Cleveland","Sex Offenses",7,5,2,9,13,4
 "Como","Sex Offenses",8,10,8,4,6,5
 "Cooper","Sex Offenses",2,1,2,3,4,0
-"Corcoran","Sex Offenses",7,5,8,8,6,5
+"Corcoran","Sex Offenses",7,5,8,8,6,6
 "Diamond Lake","Sex Offenses",2,2,5,4,4,4
 "Downtown East","Sex Offenses",10,15,5,12,6,8
 "Downtown West","Sex Offenses",84,52,41,59,64,34
@@ -41,7 +41,7 @@
 "Lowry Hill","Sex Offenses",4,2,0,3,2,3
 "Lowry Hill East","Sex Offenses",16,12,21,13,18,13
 "Lyndale","Sex Offenses",19,16,15,11,13,11
-"Lynnhurst","Sex Offenses",7,3,2,1,0,1
+"Lynnhurst","Sex Offenses",7,3,2,1,0,2
 "Marcy Holmes","Sex Offenses",26,15,25,15,11,18
 "Marshall Terrace","Sex Offenses",6,0,6,3,4,2
 "McKinley","Sex Offenses",13,12,8,15,13,12
@@ -59,7 +59,7 @@
 "Powderhorn Park","Sex Offenses",19,23,14,14,17,5
 "Prospect Park - East River Road","Sex Offenses",16,8,6,9,11,9
 "Regina","Sex Offenses",3,1,3,3,0,5
-"Seward","Sex Offenses",7,10,14,5,20,11
+"Seward","Sex Offenses",7,10,14,5,20,12
 "Sheridan","Sex Offenses",5,2,3,3,4,1
 "Shingle Creek","Sex Offenses",12,8,5,6,4,2
 "South Uptown","Sex Offenses",11,5,4,5,6,3
@@ -79,7 +79,7 @@
 "Willard - Hay","Sex Offenses",30,37,21,24,30,22
 "Windom","Sex Offenses",6,12,9,6,5,1
 "Windom Park","Sex Offenses",11,11,4,5,7,6
-NA,"Sex Offenses",36,29,63,66,40,31
+NA,"Sex Offenses",36,29,63,66,40,32
 "Columbia Park","Sex Offenses",0,8,1,3,1,0
 "East Bde Maka Ska","Sex Offenses",0,3,3,7,0,9
 "Field","Sex Offenses",0,4,1,5,7,3
@@ -100,7 +100,7 @@ NA,"Sex Offenses",36,29,63,66,40,31
 "Cleveland","Total",7,5,2,9,13,4
 "Como","Total",8,10,8,4,6,5
 "Cooper","Total",2,1,2,3,4,0
-"Corcoran","Total",7,5,8,8,6,5
+"Corcoran","Total",7,5,8,8,6,6
 "Diamond Lake","Total",2,2,5,4,4,4
 "Downtown East","Total",10,15,5,12,6,8
 "Downtown West","Total",84,52,41,59,64,34
@@ -128,7 +128,7 @@ NA,"Sex Offenses",36,29,63,66,40,31
 "Lowry Hill","Total",4,2,0,3,2,3
 "Lowry Hill East","Total",16,12,21,13,18,13
 "Lyndale","Total",19,16,15,11,13,11
-"Lynnhurst","Total",7,3,2,1,0,1
+"Lynnhurst","Total",7,3,2,1,0,2
 "Marcy Holmes","Total",26,15,25,15,11,18
 "Marshall Terrace","Total",6,0,6,3,4,2
 "McKinley","Total",13,12,8,15,13,12
@@ -146,7 +146,7 @@ NA,"Sex Offenses",36,29,63,66,40,31
 "Powderhorn Park","Total",19,23,14,14,17,5
 "Prospect Park - East River Road","Total",16,8,6,9,11,9
 "Regina","Total",3,1,3,3,0,5
-"Seward","Total",7,10,14,5,20,11
+"Seward","Total",7,10,14,5,20,12
 "Sheridan","Total",5,2,3,3,4,1
 "Shingle Creek","Total",12,8,5,6,4,2
 "South Uptown","Total",11,5,4,5,6,3
@@ -166,7 +166,7 @@ NA,"Sex Offenses",36,29,63,66,40,31
 "Willard - Hay","Total",30,37,21,24,30,22
 "Windom","Total",6,12,9,6,5,1
 "Windom Park","Total",11,11,4,5,7,6
-NA,"Total",36,29,63,66,40,31
+NA,"Total",36,29,63,66,40,32
 "Columbia Park","Total",0,8,1,3,1,0
 "East Bde Maka Ska","Total",0,3,3,7,0,9
 "Field","Total",0,4,1,5,7,3
