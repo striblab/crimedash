@@ -4,7 +4,7 @@
 "Cedar Riverside","Gunshot Wound Victims",6,6,13,20,5,3
 "Central","Gunshot Wound Victims",10,14,10,7,5,4
 "Cleveland","Gunshot Wound Victims",4,3,6,6,2,5
-"Downtown West","Gunshot Wound Victims",20,33,30,44,19,18
+"Downtown West","Gunshot Wound Victims",20,33,30,44,19,20
 "East Harriet","Gunshot Wound Victims",1,0,2,0,1,0
 "East Isles","Gunshot Wound Victims",2,0,4,0,2,0
 "East Phillips","Gunshot Wound Victims",9,35,46,28,18,17
@@ -23,7 +23,7 @@
 "Near - North","Gunshot Wound Victims",13,40,38,36,20,13
 "North Loop","Gunshot Wound Victims",2,2,3,6,4,4
 "Northeast Park","Gunshot Wound Victims",2,0,1,1,0,1
-"Phillips West","Gunshot Wound Victims",11,7,17,9,3,15
+"Phillips West","Gunshot Wound Victims",11,7,17,9,3,17
 "Powderhorn Park","Gunshot Wound Victims",2,27,16,19,6,4
 "Prospect Park - East River Road","Gunshot Wound Victims",2,0,3,1,2,1
 "Seward","Gunshot Wound Victims",9,4,10,5,18,4
@@ -50,7 +50,7 @@
 "Shingle Creek","Gunshot Wound Victims",0,6,3,3,2,0
 "South Uptown","Gunshot Wound Victims",0,1,9,2,1,1
 "Standish","Gunshot Wound Victims",0,1,2,0,1,0
-"Tangletown","Gunshot Wound Victims",0,1,1,0,0,0
+"Tangletown","Gunshot Wound Victims",0,1,1,0,0,2
 "Wenonah","Gunshot Wound Victims",0,2,1,6,6,1
 "Windom","Gunshot Wound Victims",0,2,1,1,1,0
 NA,"Gunshot Wound Victims",0,3,6,4,6,3
@@ -81,7 +81,7 @@ NA,"Gunshot Wound Victims",0,3,6,4,6,3
 "Cedar Riverside","Total",6,6,13,20,5,3
 "Central","Total",10,14,10,7,5,4
 "Cleveland","Total",4,3,6,6,2,5
-"Downtown West","Total",20,33,30,44,19,18
+"Downtown West","Total",20,33,30,44,19,20
 "East Harriet","Total",1,0,2,0,1,0
 "East Isles","Total",2,0,4,0,2,0
 "East Phillips","Total",9,35,46,28,18,17
@@ -100,7 +100,7 @@ NA,"Gunshot Wound Victims",0,3,6,4,6,3
 "Near - North","Total",13,40,38,36,20,13
 "North Loop","Total",2,2,3,6,4,4
 "Northeast Park","Total",2,0,1,1,0,1
-"Phillips West","Total",11,7,17,9,3,15
+"Phillips West","Total",11,7,17,9,3,17
 "Powderhorn Park","Total",2,27,16,19,6,4
 "Prospect Park - East River Road","Total",2,0,3,1,2,1
 "Seward","Total",9,4,10,5,18,4
@@ -127,7 +127,7 @@ NA,"Gunshot Wound Victims",0,3,6,4,6,3
 "Shingle Creek","Total",0,6,3,3,2,0
 "South Uptown","Total",0,1,9,2,1,1
 "Standish","Total",0,1,2,0,1,0
-"Tangletown","Total",0,1,1,0,0,0
+"Tangletown","Total",0,1,1,0,0,2
 "Wenonah","Total",0,2,1,6,6,1
 "Windom","Total",0,2,1,1,1,0
 NA,"Total",0,3,6,4,6,3

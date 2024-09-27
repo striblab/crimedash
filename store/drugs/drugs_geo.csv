@@ -16,18 +16,18 @@
 "Corcoran","Drug/Narcotic Violations",14,5,6,8,9,7
 "Diamond Lake","Drug/Narcotic Violations",2,2,0,0,0,1
 "Downtown East","Drug/Narcotic Violations",32,18,16,20,27,8
-"Downtown West","Drug/Narcotic Violations",244,114,61,117,146,74
+"Downtown West","Drug/Narcotic Violations",244,114,61,117,146,76
 "East Bde Maka Ska","Drug/Narcotic Violations",1,3,0,0,4,6
 "East Harriet","Drug/Narcotic Violations",4,0,3,2,4,1
 "East Isles","Drug/Narcotic Violations",11,2,7,3,16,7
 "East Phillips","Drug/Narcotic Violations",78,44,33,43,81,47
-"Elliot Park","Drug/Narcotic Violations",56,29,29,46,50,57
+"Elliot Park","Drug/Narcotic Violations",56,29,29,46,50,59
 "Ericsson","Drug/Narcotic Violations",4,5,2,0,3,2
 "Field","Drug/Narcotic Violations",1,3,1,0,0,2
 "Folwell","Drug/Narcotic Violations",36,41,25,20,42,17
 "Fulton","Drug/Narcotic Violations",4,1,2,0,1,0
 "Harrison","Drug/Narcotic Violations",22,15,5,5,4,2
-"Hawthorne","Drug/Narcotic Violations",142,133,67,74,55,16
+"Hawthorne","Drug/Narcotic Violations",142,133,67,74,55,17
 "Hiawatha","Drug/Narcotic Violations",8,5,8,4,10,3
 "Holland","Drug/Narcotic Violations",37,22,9,9,13,3
 "Howe","Drug/Narcotic Violations",9,9,5,5,4,1
@@ -42,13 +42,13 @@
 "Loring Park","Drug/Narcotic Violations",26,34,32,28,45,19
 "Lowry Hill","Drug/Narcotic Violations",3,3,1,3,2,9
 "Lowry Hill East","Drug/Narcotic Violations",43,16,22,29,36,28
-"Lyndale","Drug/Narcotic Violations",32,18,8,5,28,15
+"Lyndale","Drug/Narcotic Violations",32,18,8,5,28,16
 "Marcy Holmes","Drug/Narcotic Violations",37,31,23,10,12,3
 "Marshall Terrace","Drug/Narcotic Violations",14,9,7,6,3,1
 "McKinley","Drug/Narcotic Violations",36,31,8,7,15,3
 "Mid - City Industrial","Drug/Narcotic Violations",7,8,4,3,3,1
 "Midtown Phillips","Drug/Narcotic Violations",41,19,30,33,26,12
-"Minnehaha","Drug/Narcotic Violations",3,5,4,2,1,2
+"Minnehaha","Drug/Narcotic Violations",3,5,4,2,2,2
 "Morris Park","Drug/Narcotic Violations",2,3,0,2,1,1
 "Near - North","Drug/Narcotic Violations",65,56,37,57,24,10
 "Nicollet Island - East Bank","Drug/Narcotic Violations",11,3,5,4,1,1
@@ -56,7 +56,7 @@
 "Northeast Park","Drug/Narcotic Violations",12,6,10,8,7,5
 "Northrop","Drug/Narcotic Violations",1,3,4,1,1,1
 "Phillips West","Drug/Narcotic Violations",26,8,9,14,27,12
-"Powderhorn Park","Drug/Narcotic Violations",27,24,13,22,24,16
+"Powderhorn Park","Drug/Narcotic Violations",27,24,13,22,24,17
 "Prospect Park - East River Road","Drug/Narcotic Violations",10,12,10,4,6,3
 "Regina","Drug/Narcotic Violations",2,5,1,0,0,0
 "Seward","Drug/Narcotic Violations",21,14,12,13,22,3
@@ -103,18 +103,18 @@ NA,"Drug/Narcotic Violations",69,47,34,31,19,15
 "Corcoran","Total",14,5,6,8,9,7
 "Diamond Lake","Total",2,2,0,0,0,1
 "Downtown East","Total",32,18,16,20,27,8
-"Downtown West","Total",244,114,61,117,146,74
+"Downtown West","Total",244,114,61,117,146,76
 "East Bde Maka Ska","Total",1,3,0,0,4,6
 "East Harriet","Total",4,0,3,2,4,1
 "East Isles","Total",11,2,7,3,16,7
 "East Phillips","Total",78,44,33,43,81,47
-"Elliot Park","Total",56,29,29,46,50,57
+"Elliot Park","Total",56,29,29,46,50,59
 "Ericsson","Total",4,5,2,0,3,2
 "Field","Total",1,3,1,0,0,2
 "Folwell","Total",36,41,25,20,42,17
 "Fulton","Total",4,1,2,0,1,0
 "Harrison","Total",22,15,5,5,4,2
-"Hawthorne","Total",142,133,67,74,55,16
+"Hawthorne","Total",142,133,67,74,55,17
 "Hiawatha","Total",8,5,8,4,10,3
 "Holland","Total",37,22,9,9,13,3
 "Howe","Total",9,9,5,5,4,1
@@ -129,13 +129,13 @@ NA,"Drug/Narcotic Violations",69,47,34,31,19,15
 "Loring Park","Total",26,34,32,28,45,19
 "Lowry Hill","Total",3,3,1,3,2,9
 "Lowry Hill East","Total",43,16,22,29,36,28
-"Lyndale","Total",32,18,8,5,28,15
+"Lyndale","Total",32,18,8,5,28,16
 "Marcy Holmes","Total",37,31,23,10,12,3
 "Marshall Terrace","Total",14,9,7,6,3,1
 "McKinley","Total",36,31,8,7,15,3
 "Mid - City Industrial","Total",7,8,4,3,3,1
 "Midtown Phillips","Total",41,19,30,33,26,12
-"Minnehaha","Total",3,5,4,2,1,2
+"Minnehaha","Total",3,5,4,2,2,2
 "Morris Park","Total",2,3,0,2,1,1
 "Near - North","Total",65,56,37,57,24,10
 "Nicollet Island - East Bank","Total",11,3,5,4,1,1
@@ -143,7 +143,7 @@ NA,"Drug/Narcotic Violations",69,47,34,31,19,15
 "Northeast Park","Total",12,6,10,8,7,5
 "Northrop","Total",1,3,4,1,1,1
 "Phillips West","Total",26,8,9,14,27,12
-"Powderhorn Park","Total",27,24,13,22,24,16
+"Powderhorn Park","Total",27,24,13,22,24,17
 "Prospect Park - East River Road","Total",10,12,10,4,6,3
 "Regina","Total",2,5,1,0,0,0
 "Seward","Total",21,14,12,13,22,3

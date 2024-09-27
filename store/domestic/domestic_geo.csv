@@ -9,7 +9,7 @@
 "Cedar - Isles - Dean","Domestic Aggravated Assault - Subset of Assault",1,2,0,1,3,0
 "Cedar Riverside","Domestic Aggravated Assault - Subset of Assault",10,10,11,9,15,5
 "Central","Domestic Aggravated Assault - Subset of Assault",20,17,14,15,8,17
-"Cleveland","Domestic Aggravated Assault - Subset of Assault",14,9,15,13,7,3
+"Cleveland","Domestic Aggravated Assault - Subset of Assault",14,9,15,13,7,4
 "Columbia Park","Domestic Aggravated Assault - Subset of Assault",3,1,8,5,3,2
 "Como","Domestic Aggravated Assault - Subset of Assault",7,10,16,15,13,5
 "Cooper","Domestic Aggravated Assault - Subset of Assault",4,1,2,2,2,0
@@ -21,13 +21,13 @@
 "East Harriet","Domestic Aggravated Assault - Subset of Assault",3,2,2,2,3,0
 "East Isles","Domestic Aggravated Assault - Subset of Assault",3,3,2,1,4,5
 "East Phillips","Domestic Aggravated Assault - Subset of Assault",27,29,29,40,33,16
-"Elliot Park","Domestic Aggravated Assault - Subset of Assault",26,26,21,37,30,18
+"Elliot Park","Domestic Aggravated Assault - Subset of Assault",26,26,21,37,30,19
 "Ericsson","Domestic Aggravated Assault - Subset of Assault",2,2,0,0,2,2
 "Field","Domestic Aggravated Assault - Subset of Assault",1,4,3,6,2,2
 "Folwell","Domestic Aggravated Assault - Subset of Assault",54,44,35,41,29,23
 "Fulton","Domestic Aggravated Assault - Subset of Assault",2,2,0,1,0,1
 "Harrison","Domestic Aggravated Assault - Subset of Assault",10,10,14,18,13,10
-"Hawthorne","Domestic Aggravated Assault - Subset of Assault",47,53,29,42,33,34
+"Hawthorne","Domestic Aggravated Assault - Subset of Assault",47,53,29,42,33,35
 "Hiawatha","Domestic Aggravated Assault - Subset of Assault",11,7,4,1,11,3
 "Holland","Domestic Aggravated Assault - Subset of Assault",10,15,18,10,19,13
 "Howe","Domestic Aggravated Assault - Subset of Assault",4,8,5,5,3,7
@@ -55,7 +55,7 @@
 "North Loop","Domestic Aggravated Assault - Subset of Assault",3,5,5,11,6,7
 "Northeast Park","Domestic Aggravated Assault - Subset of Assault",2,1,4,2,1,1
 "Northrop","Domestic Aggravated Assault - Subset of Assault",2,1,6,4,1,2
-"Phillips West","Domestic Aggravated Assault - Subset of Assault",13,13,6,23,19,10
+"Phillips West","Domestic Aggravated Assault - Subset of Assault",13,13,6,23,19,12
 "Powderhorn Park","Domestic Aggravated Assault - Subset of Assault",24,12,18,20,37,26
 "Prospect Park - East River Road","Domestic Aggravated Assault - Subset of Assault",6,8,9,6,12,10
 "Regina","Domestic Aggravated Assault - Subset of Assault",2,4,3,6,4,1
@@ -66,8 +66,8 @@
 "St. Anthony East","Domestic Aggravated Assault - Subset of Assault",6,1,2,2,1,4
 "St. Anthony West","Domestic Aggravated Assault - Subset of Assault",3,2,1,1,1,2
 "Standish","Domestic Aggravated Assault - Subset of Assault",4,5,1,8,3,7
-"Steven's Square - Loring Heights","Domestic Aggravated Assault - Subset of Assault",21,19,18,21,32,19
-"Sumner - Glenwood","Domestic Aggravated Assault - Subset of Assault",9,14,6,12,8,7
+"Steven's Square - Loring Heights","Domestic Aggravated Assault - Subset of Assault",21,19,18,21,32,20
+"Sumner - Glenwood","Domestic Aggravated Assault - Subset of Assault",9,14,6,12,8,8
 "Tangletown","Domestic Aggravated Assault - Subset of Assault",1,3,2,0,4,0
 "Ventura Village","Domestic Aggravated Assault - Subset of Assault",29,19,17,37,27,15
 "Victory","Domestic Aggravated Assault - Subset of Assault",3,9,9,3,8,8
@@ -75,8 +75,8 @@
 "Webber - Camden","Domestic Aggravated Assault - Subset of Assault",46,38,20,21,31,22
 "Wenonah","Domestic Aggravated Assault - Subset of Assault",11,13,13,13,8,5
 "West Maka Ska","Domestic Aggravated Assault - Subset of Assault",7,3,1,3,3,4
-"Whittier","Domestic Aggravated Assault - Subset of Assault",48,45,40,65,53,35
-"Willard - Hay","Domestic Aggravated Assault - Subset of Assault",60,48,33,52,48,31
+"Whittier","Domestic Aggravated Assault - Subset of Assault",48,45,40,65,53,36
+"Willard - Hay","Domestic Aggravated Assault - Subset of Assault",60,48,33,52,48,32
 "Windom","Domestic Aggravated Assault - Subset of Assault",8,12,14,8,11,7
 "Windom Park","Domestic Aggravated Assault - Subset of Assault",5,4,10,8,7,5
 NA,"Domestic Aggravated Assault - Subset of Assault",3,4,4,4,7,3
@@ -97,7 +97,7 @@ NA,"Domestic Aggravated Assault - Subset of Assault",3,4,4,4,7,3
 "Cedar - Isles - Dean","Total",1,2,0,1,3,0
 "Cedar Riverside","Total",10,10,11,9,15,5
 "Central","Total",20,17,14,15,8,17
-"Cleveland","Total",14,9,15,13,7,3
+"Cleveland","Total",14,9,15,13,7,4
 "Columbia Park","Total",3,1,8,5,3,2
 "Como","Total",7,10,16,15,13,5
 "Cooper","Total",4,1,2,2,2,0
@@ -109,13 +109,13 @@ NA,"Domestic Aggravated Assault - Subset of Assault",3,4,4,4,7,3
 "East Harriet","Total",3,2,2,2,3,0
 "East Isles","Total",3,3,2,1,4,5
 "East Phillips","Total",27,29,29,40,33,16
-"Elliot Park","Total",26,26,21,37,30,18
+"Elliot Park","Total",26,26,21,37,30,19
 "Ericsson","Total",2,2,0,0,2,2
 "Field","Total",1,4,3,6,2,2
 "Folwell","Total",54,44,35,41,29,23
 "Fulton","Total",2,2,0,1,0,1
 "Harrison","Total",10,10,14,18,13,10
-"Hawthorne","Total",47,53,29,42,33,34
+"Hawthorne","Total",47,53,29,42,33,35
 "Hiawatha","Total",11,7,4,1,11,3
 "Holland","Total",10,15,18,10,19,13
 "Howe","Total",4,8,5,5,3,7
@@ -143,7 +143,7 @@ NA,"Domestic Aggravated Assault - Subset of Assault",3,4,4,4,7,3
 "North Loop","Total",3,5,5,11,6,7
 "Northeast Park","Total",2,1,4,2,1,1
 "Northrop","Total",2,1,6,4,1,2
-"Phillips West","Total",13,13,6,23,19,10
+"Phillips West","Total",13,13,6,23,19,12
 "Powderhorn Park","Total",24,12,18,20,37,26
 "Prospect Park - East River Road","Total",6,8,9,6,12,10
 "Regina","Total",2,4,3,6,4,1
@@ -154,8 +154,8 @@ NA,"Domestic Aggravated Assault - Subset of Assault",3,4,4,4,7,3
 "St. Anthony East","Total",6,1,2,2,1,4
 "St. Anthony West","Total",3,2,1,1,1,2
 "Standish","Total",4,5,1,8,3,7
-"Steven's Square - Loring Heights","Total",21,19,18,21,32,19
-"Sumner - Glenwood","Total",9,14,6,12,8,7
+"Steven's Square - Loring Heights","Total",21,19,18,21,32,20
+"Sumner - Glenwood","Total",9,14,6,12,8,8
 "Tangletown","Total",1,3,2,0,4,0
 "Ventura Village","Total",29,19,17,37,27,15
 "Victory","Total",3,9,9,3,8,8
@@ -163,8 +163,8 @@ NA,"Domestic Aggravated Assault - Subset of Assault",3,4,4,4,7,3
 "Webber - Camden","Total",46,38,20,21,31,22
 "Wenonah","Total",11,13,13,13,8,5
 "West Maka Ska","Total",7,3,1,3,3,4
-"Whittier","Total",48,45,40,65,53,35
-"Willard - Hay","Total",60,48,33,52,48,31
+"Whittier","Total",48,45,40,65,53,36
+"Willard - Hay","Total",60,48,33,52,48,32
 "Windom","Total",8,12,14,8,11,7
 "Windom Park","Total",5,4,10,8,7,5
 NA,"Total",3,4,4,4,7,3
