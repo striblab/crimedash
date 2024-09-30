@@ -33,6 +33,7 @@
 	import Staff from './Staff.svelte';
 	import Practices from './Practices.svelte';
 	import Courts from './Courts.svelte';
+	import Links from './Links.svelte';
   
 	let modules = [
 	  { id: 'murder', name: 'Minneapolis: Murder', component: Murder },
@@ -67,6 +68,7 @@
 	  { id: 'courts', name: 'Statewide: Minnesota Courts',  component: Courts },
 	  { id: 'national', name: 'National: Public Safety Trends',  component: National },
 	  { id: 'practices', name: 'Notes & Best Practices',  component: Practices },
+	  { id: 'linkd', name: 'Other Links',  component: Links },
 	];
 
 	let selectedModule = null;
