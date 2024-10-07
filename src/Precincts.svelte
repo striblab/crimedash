@@ -30,7 +30,9 @@
   <li>Fifth Precinct: Southeast Minneapolis/Uptown area</li>
 </ul>
 
-<p>&nbsp;</p>
+<div><p>Minneapolis has 83 officially recognized neighborhoods and four industrial districts.</p></div>
+
+<div><p>Those 87 neighborhoods are clustered into 11 communities.</p></div>
 
 <h4>Precinct map</h4>
 
@@ -49,6 +51,7 @@
 <p>&nbsp;</p>
 
 <div class="download"><a href="../store/precincts/mpls_precincts.geojson">Download Minneapolis police precincts GEOJSON shapefile</a></div>
+<div class="download"><a href="../store/precincts/mpls_communities.geojson">Download Minneapolis communities GEOJSON shapefile</a></div>
 <div class="download"><a href="../store/precincts/mpls_neighborhoods.geojson">Download Minneapolis neighborhoods GEOJSON shapefile</a></div>
 
 
