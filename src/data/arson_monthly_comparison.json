@@ -227,7 +227,7 @@
     "Year": 2021,
     "Month": 9,
     "Offense": "Arson",
-    "IncidentCount": 13,
+    "IncidentCount": 12,
     "Date": "2021-09-01"
   },
   {
@@ -269,7 +269,7 @@
     "Year": 2022,
     "Month": 3,
     "Offense": "Arson",
-    "IncidentCount": 13,
+    "IncidentCount": 10,
     "Date": "2022-03-01"
   },
   {
@@ -290,7 +290,7 @@
     "Year": 2022,
     "Month": 6,
     "Offense": "Arson",
-    "IncidentCount": 9,
+    "IncidentCount": 8,
     "Date": "2022-06-01"
   },
   {
@@ -318,7 +318,7 @@
     "Year": 2022,
     "Month": 10,
     "Offense": "Arson",
-    "IncidentCount": 13,
+    "IncidentCount": 12,
     "Date": "2022-10-01"
   },
   {
@@ -360,7 +360,7 @@
     "Year": 2023,
     "Month": 4,
     "Offense": "Arson",
-    "IncidentCount": 16,
+    "IncidentCount": 17,
     "Date": "2023-04-01"
   },
   {
@@ -374,21 +374,21 @@
     "Year": 2023,
     "Month": 6,
     "Offense": "Arson",
-    "IncidentCount": 14,
+    "IncidentCount": 15,
     "Date": "2023-06-01"
   },
   {
     "Year": 2023,
     "Month": 7,
     "Offense": "Arson",
-    "IncidentCount": 15,
+    "IncidentCount": 17,
     "Date": "2023-07-01"
   },
   {
     "Year": 2023,
     "Month": 8,
     "Offense": "Arson",
-    "IncidentCount": 17,
+    "IncidentCount": 19,
     "Date": "2023-08-01"
   },
   {
@@ -481,5 +481,12 @@
     "Offense": "Arson",
     "IncidentCount": 10,
     "Date": "2024-09-01"
+  },
+  {
+    "Year": 2024,
+    "Month": 10,
+    "Offense": "Arson",
+    "IncidentCount": 2,
+    "Date": "2024-10-01"
   }
 ]

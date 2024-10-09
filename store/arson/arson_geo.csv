@@ -1,17 +1,17 @@
 "Neighborhood","Offense","2019","2020","2021","2022","2023","2024"
 "Beltrami","Arson",1,1,0,1,0,0
 "Cedar Riverside","Arson",1,2,0,1,0,0
-"Central","Arson",1,3,1,2,6,2
+"Central","Arson",1,3,1,2,7,2
 "Como","Arson",1,0,0,1,1,0
 "Downtown West","Arson",5,3,2,2,6,5
-"East Phillips","Arson",2,5,0,2,9,2
-"Elliot Park","Arson",3,1,2,2,4,4
-"Folwell","Arson",2,5,7,4,4,7
+"East Phillips","Arson",2,5,0,2,10,2
+"Elliot Park","Arson",3,1,2,2,5,4
+"Folwell","Arson",2,5,7,3,4,7
 "Hale","Arson",1,1,0,1,0,0
 "Harrison","Arson",1,1,3,0,3,0
 "Hawthorne","Arson",4,6,4,8,7,6
 "Howe","Arson",1,0,0,3,0,1
-"Jordan","Arson",9,6,8,4,4,7
+"Jordan","Arson",9,6,8,4,4,8
 "King Field","Arson",1,0,0,0,1,1
 "Lind - Bohanon","Arson",4,6,6,0,4,2
 "Linden Hills","Arson",1,0,0,0,0,0
@@ -20,7 +20,7 @@
 "Lyndale","Arson",3,3,2,1,3,2
 "Marcy Holmes","Arson",2,0,3,1,1,0
 "McKinley","Arson",2,4,3,1,2,0
-"Near - North","Arson",4,3,7,5,1,1
+"Near - North","Arson",4,3,7,4,1,1
 "Phillips West","Arson",1,3,1,2,4,0
 "Seward","Arson",4,3,2,1,0,1
 "Standish","Arson",1,0,0,0,1,0
@@ -28,27 +28,27 @@
 "Sumner - Glenwood","Arson",2,0,0,1,0,0
 "University of Minnesota","Arson",1,1,1,0,0,0
 "Ventura Village","Arson",2,2,6,6,6,4
-"Victory","Arson",2,3,0,2,0,1
+"Victory","Arson",2,3,0,1,0,2
 "Webber - Camden","Arson",4,5,2,4,1,2
-"Whittier","Arson",1,5,4,1,6,6
+"Whittier","Arson",1,5,4,1,7,6
 "Willard - Hay","Arson",2,6,7,6,6,1
 "Windom","Arson",1,1,0,0,0,0
 "Windom Park","Arson",1,0,0,0,0,0
 "Audubon Park","Arson",0,1,0,0,0,0
 "Bancroft","Arson",0,1,1,0,1,0
 "Bryant","Arson",0,2,0,0,2,0
-"Camden Industrial","Arson",0,1,1,0,1,0
+"Camden Industrial","Arson",0,1,0,0,1,0
 "Cedar - Isles - Dean","Arson",0,1,0,0,1,1
 "Cleveland","Arson",0,4,1,1,3,1
 "Columbia Park","Arson",0,1,0,0,0,0
 "Corcoran","Arson",0,1,2,0,1,2
 "Downtown East","Arson",0,2,0,0,1,1
-"Ericsson","Arson",0,1,0,1,0,0
+"Ericsson","Arson",0,1,0,0,0,0
 "Hiawatha","Arson",0,1,1,6,0,1
 "Holland","Arson",0,3,1,0,0,1
 "Midtown Phillips","Arson",0,3,4,3,2,4
 "Northrop","Arson",0,1,0,0,1,1
-"Powderhorn Park","Arson",0,4,3,3,6,1
+"Powderhorn Park","Arson",0,4,3,3,7,1
 "Sheridan","Arson",0,1,0,1,0,0
 "Shingle Creek","Arson",0,1,1,1,2,0
 "St. Anthony West","Arson",0,2,1,0,0,0
@@ -59,7 +59,7 @@ NA,"Arson",0,2,1,1,1,0
 "Lowry Hill East","Arson",0,0,5,4,2,2
 "Minnehaha","Arson",0,0,1,0,1,0
 "Morris Park","Arson",0,0,1,0,0,0
-"North Loop","Arson",0,0,3,3,3,2
+"North Loop","Arson",0,0,3,2,3,2
 "Page","Arson",0,0,1,0,0,0
 "South Uptown","Arson",0,0,1,0,2,1
 "St. Anthony East","Arson",0,0,1,2,0,0
@@ -67,7 +67,7 @@ NA,"Arson",0,2,1,1,1,0
 "Bryn - Mawr","Arson",0,0,0,1,0,0
 "East Bde Maka Ska","Arson",0,0,0,1,3,0
 "Keewaydin","Arson",0,0,0,1,0,0
-"Kenwood","Arson",0,0,0,1,1,1
+"Kenwood","Arson",0,0,0,1,2,1
 "Marshall Terrace","Arson",0,0,0,2,0,0
 "Northeast Park","Arson",0,0,0,1,0,0
 "Regina","Arson",0,0,0,1,1,1
@@ -80,17 +80,17 @@ NA,"Arson",0,2,1,1,1,0
 "Mid - City Industrial","Arson",0,0,0,0,0,1
 "Beltrami","Total",1,1,0,1,0,0
 "Cedar Riverside","Total",1,2,0,1,0,0
-"Central","Total",1,3,1,2,6,2
+"Central","Total",1,3,1,2,7,2
 "Como","Total",1,0,0,1,1,0
 "Downtown West","Total",5,3,2,2,6,5
-"East Phillips","Total",2,5,0,2,9,2
-"Elliot Park","Total",3,1,2,2,4,4
-"Folwell","Total",2,5,7,4,4,7
+"East Phillips","Total",2,5,0,2,10,2
+"Elliot Park","Total",3,1,2,2,5,4
+"Folwell","Total",2,5,7,3,4,7
 "Hale","Total",1,1,0,1,0,0
 "Harrison","Total",1,1,3,0,3,0
 "Hawthorne","Total",4,6,4,8,7,6
 "Howe","Total",1,0,0,3,0,1
-"Jordan","Total",9,6,8,4,4,7
+"Jordan","Total",9,6,8,4,4,8
 "King Field","Total",1,0,0,0,1,1
 "Lind - Bohanon","Total",4,6,6,0,4,2
 "Linden Hills","Total",1,0,0,0,0,0
@@ -99,7 +99,7 @@ NA,"Arson",0,2,1,1,1,0
 "Lyndale","Total",3,3,2,1,3,2
 "Marcy Holmes","Total",2,0,3,1,1,0
 "McKinley","Total",2,4,3,1,2,0
-"Near - North","Total",4,3,7,5,1,1
+"Near - North","Total",4,3,7,4,1,1
 "Phillips West","Total",1,3,1,2,4,0
 "Seward","Total",4,3,2,1,0,1
 "Standish","Total",1,0,0,0,1,0
@@ -107,27 +107,27 @@ NA,"Arson",0,2,1,1,1,0
 "Sumner - Glenwood","Total",2,0,0,1,0,0
 "University of Minnesota","Total",1,1,1,0,0,0
 "Ventura Village","Total",2,2,6,6,6,4
-"Victory","Total",2,3,0,2,0,1
+"Victory","Total",2,3,0,1,0,2
 "Webber - Camden","Total",4,5,2,4,1,2
-"Whittier","Total",1,5,4,1,6,6
+"Whittier","Total",1,5,4,1,7,6
 "Willard - Hay","Total",2,6,7,6,6,1
 "Windom","Total",1,1,0,0,0,0
 "Windom Park","Total",1,0,0,0,0,0
 "Audubon Park","Total",0,1,0,0,0,0
 "Bancroft","Total",0,1,1,0,1,0
 "Bryant","Total",0,2,0,0,2,0
-"Camden Industrial","Total",0,1,1,0,1,0
+"Camden Industrial","Total",0,1,0,0,1,0
 "Cedar - Isles - Dean","Total",0,1,0,0,1,1
 "Cleveland","Total",0,4,1,1,3,1
 "Columbia Park","Total",0,1,0,0,0,0
 "Corcoran","Total",0,1,2,0,1,2
 "Downtown East","Total",0,2,0,0,1,1
-"Ericsson","Total",0,1,0,1,0,0
+"Ericsson","Total",0,1,0,0,0,0
 "Hiawatha","Total",0,1,1,6,0,1
 "Holland","Total",0,3,1,0,0,1
 "Midtown Phillips","Total",0,3,4,3,2,4
 "Northrop","Total",0,1,0,0,1,1
-"Powderhorn Park","Total",0,4,3,3,6,1
+"Powderhorn Park","Total",0,4,3,3,7,1
 "Sheridan","Total",0,1,0,1,0,0
 "Shingle Creek","Total",0,1,1,1,2,0
 "St. Anthony West","Total",0,2,1,0,0,0
@@ -138,7 +138,7 @@ NA,"Total",0,2,1,1,1,0
 "Lowry Hill East","Total",0,0,5,4,2,2
 "Minnehaha","Total",0,0,1,0,1,0
 "Morris Park","Total",0,0,1,0,0,0
-"North Loop","Total",0,0,3,3,3,2
+"North Loop","Total",0,0,3,2,3,2
 "Page","Total",0,0,1,0,0,0
 "South Uptown","Total",0,0,1,0,2,1
 "St. Anthony East","Total",0,0,1,2,0,0
@@ -146,7 +146,7 @@ NA,"Total",0,2,1,1,1,0
 "Bryn - Mawr","Total",0,0,0,1,0,0
 "East Bde Maka Ska","Total",0,0,0,1,3,0
 "Keewaydin","Total",0,0,0,1,0,0
-"Kenwood","Total",0,0,0,1,1,1
+"Kenwood","Total",0,0,0,1,2,1
 "Marshall Terrace","Total",0,0,0,2,0,0
 "Northeast Park","Total",0,0,0,1,0,0
 "Regina","Total",0,0,0,1,1,1

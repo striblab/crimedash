@@ -3,7 +3,7 @@
     "Year": 2019,
     "Month": 1,
     "Offense": "Motor Vehicle Theft",
-    "IncidentCount": 226,
+    "IncidentCount": 238,
     "Date": "2019-01-01"
   },
   {
@@ -227,14 +227,14 @@
     "Year": 2021,
     "Month": 9,
     "Offense": "Motor Vehicle Theft",
-    "IncidentCount": 384,
+    "IncidentCount": 380,
     "Date": "2021-09-01"
   },
   {
     "Year": 2021,
     "Month": 10,
     "Offense": "Motor Vehicle Theft",
-    "IncidentCount": 373,
+    "IncidentCount": 355,
     "Date": "2021-10-01"
   },
   {
@@ -262,35 +262,35 @@
     "Year": 2022,
     "Month": 2,
     "Offense": "Motor Vehicle Theft",
-    "IncidentCount": 398,
+    "IncidentCount": 370,
     "Date": "2022-02-01"
   },
   {
     "Year": 2022,
     "Month": 3,
     "Offense": "Motor Vehicle Theft",
-    "IncidentCount": 349,
+    "IncidentCount": 273,
     "Date": "2022-03-01"
   },
   {
     "Year": 2022,
     "Month": 4,
     "Offense": "Motor Vehicle Theft",
-    "IncidentCount": 334,
+    "IncidentCount": 308,
     "Date": "2022-04-01"
   },
   {
     "Year": 2022,
     "Month": 5,
     "Offense": "Motor Vehicle Theft",
-    "IncidentCount": 393,
+    "IncidentCount": 392,
     "Date": "2022-05-01"
   },
   {
     "Year": 2022,
     "Month": 6,
     "Offense": "Motor Vehicle Theft",
-    "IncidentCount": 591,
+    "IncidentCount": 583,
     "Date": "2022-06-01"
   },
   {
@@ -304,21 +304,21 @@
     "Year": 2022,
     "Month": 8,
     "Offense": "Motor Vehicle Theft",
-    "IncidentCount": 549,
+    "IncidentCount": 547,
     "Date": "2022-08-01"
   },
   {
     "Year": 2022,
     "Month": 9,
     "Offense": "Motor Vehicle Theft",
-    "IncidentCount": 602,
+    "IncidentCount": 587,
     "Date": "2022-09-01"
   },
   {
     "Year": 2022,
     "Month": 10,
     "Offense": "Motor Vehicle Theft",
-    "IncidentCount": 731,
+    "IncidentCount": 656,
     "Date": "2022-10-01"
   },
   {
@@ -332,7 +332,7 @@
     "Year": 2022,
     "Month": 12,
     "Offense": "Motor Vehicle Theft",
-    "IncidentCount": 616,
+    "IncidentCount": 553,
     "Date": "2022-12-01"
   },
   {
@@ -346,21 +346,21 @@
     "Year": 2023,
     "Month": 2,
     "Offense": "Motor Vehicle Theft",
-    "IncidentCount": 810,
+    "IncidentCount": 848,
     "Date": "2023-02-01"
   },
   {
     "Year": 2023,
     "Month": 3,
     "Offense": "Motor Vehicle Theft",
-    "IncidentCount": 907,
+    "IncidentCount": 981,
     "Date": "2023-03-01"
   },
   {
     "Year": 2023,
     "Month": 4,
     "Offense": "Motor Vehicle Theft",
-    "IncidentCount": 799,
+    "IncidentCount": 848,
     "Date": "2023-04-01"
   },
   {
@@ -374,21 +374,21 @@
     "Year": 2023,
     "Month": 6,
     "Offense": "Motor Vehicle Theft",
-    "IncidentCount": 502,
+    "IncidentCount": 539,
     "Date": "2023-06-01"
   },
   {
     "Year": 2023,
     "Month": 7,
     "Offense": "Motor Vehicle Theft",
-    "IncidentCount": 640,
+    "IncidentCount": 744,
     "Date": "2023-07-01"
   },
   {
     "Year": 2023,
     "Month": 8,
     "Offense": "Motor Vehicle Theft",
-    "IncidentCount": 695,
+    "IncidentCount": 739,
     "Date": "2023-08-01"
   },
   {
@@ -402,7 +402,7 @@
     "Year": 2023,
     "Month": 10,
     "Offense": "Motor Vehicle Theft",
-    "IncidentCount": 574,
+    "IncidentCount": 579,
     "Date": "2023-10-01"
   },
   {
@@ -444,7 +444,7 @@
     "Year": 2024,
     "Month": 4,
     "Offense": "Motor Vehicle Theft",
-    "IncidentCount": 556,
+    "IncidentCount": 557,
     "Date": "2024-04-01"
   },
   {
@@ -479,7 +479,14 @@
     "Year": 2024,
     "Month": 9,
     "Offense": "Motor Vehicle Theft",
-    "IncidentCount": 457,
+    "IncidentCount": 609,
     "Date": "2024-09-01"
+  },
+  {
+    "Year": 2024,
+    "Month": 10,
+    "Offense": "Motor Vehicle Theft",
+    "IncidentCount": 105,
+    "Date": "2024-10-01"
   }
 ]

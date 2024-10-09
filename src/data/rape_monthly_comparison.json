@@ -3,7 +3,7 @@
     "Year": 2019,
     "Month": 1,
     "Offense": "Sex Offenses",
-    "IncidentCount": 73,
+    "IncidentCount": 79,
     "Date": "2019-01-01"
   },
   {
@@ -234,7 +234,7 @@
     "Year": 2021,
     "Month": 10,
     "Offense": "Sex Offenses",
-    "IncidentCount": 78,
+    "IncidentCount": 76,
     "Date": "2021-10-01"
   },
   {
@@ -255,49 +255,49 @@
     "Year": 2022,
     "Month": 1,
     "Offense": "Sex Offenses",
-    "IncidentCount": 57,
+    "IncidentCount": 56,
     "Date": "2022-01-01"
   },
   {
     "Year": 2022,
     "Month": 2,
     "Offense": "Sex Offenses",
-    "IncidentCount": 55,
+    "IncidentCount": 49,
     "Date": "2022-02-01"
   },
   {
     "Year": 2022,
     "Month": 3,
     "Offense": "Sex Offenses",
-    "IncidentCount": 69,
+    "IncidentCount": 55,
     "Date": "2022-03-01"
   },
   {
     "Year": 2022,
     "Month": 4,
     "Offense": "Sex Offenses",
-    "IncidentCount": 48,
+    "IncidentCount": 43,
     "Date": "2022-04-01"
   },
   {
     "Year": 2022,
     "Month": 5,
     "Offense": "Sex Offenses",
-    "IncidentCount": 79,
+    "IncidentCount": 78,
     "Date": "2022-05-01"
   },
   {
     "Year": 2022,
     "Month": 6,
     "Offense": "Sex Offenses",
-    "IncidentCount": 76,
+    "IncidentCount": 61,
     "Date": "2022-06-01"
   },
   {
     "Year": 2022,
     "Month": 7,
     "Offense": "Sex Offenses",
-    "IncidentCount": 67,
+    "IncidentCount": 63,
     "Date": "2022-07-01"
   },
   {
@@ -311,14 +311,14 @@
     "Year": 2022,
     "Month": 9,
     "Offense": "Sex Offenses",
-    "IncidentCount": 60,
+    "IncidentCount": 58,
     "Date": "2022-09-01"
   },
   {
     "Year": 2022,
     "Month": 10,
     "Offense": "Sex Offenses",
-    "IncidentCount": 78,
+    "IncidentCount": 67,
     "Date": "2022-10-01"
   },
   {
@@ -332,63 +332,63 @@
     "Year": 2022,
     "Month": 12,
     "Offense": "Sex Offenses",
-    "IncidentCount": 77,
+    "IncidentCount": 69,
     "Date": "2022-12-01"
   },
   {
     "Year": 2023,
     "Month": 1,
     "Offense": "Sex Offenses",
-    "IncidentCount": 60,
+    "IncidentCount": 62,
     "Date": "2023-01-01"
   },
   {
     "Year": 2023,
     "Month": 2,
     "Offense": "Sex Offenses",
-    "IncidentCount": 71,
+    "IncidentCount": 81,
     "Date": "2023-02-01"
   },
   {
     "Year": 2023,
     "Month": 3,
     "Offense": "Sex Offenses",
-    "IncidentCount": 63,
+    "IncidentCount": 69,
     "Date": "2023-03-01"
   },
   {
     "Year": 2023,
     "Month": 4,
     "Offense": "Sex Offenses",
-    "IncidentCount": 76,
+    "IncidentCount": 77,
     "Date": "2023-04-01"
   },
   {
     "Year": 2023,
     "Month": 5,
     "Offense": "Sex Offenses",
-    "IncidentCount": 97,
+    "IncidentCount": 98,
     "Date": "2023-05-01"
   },
   {
     "Year": 2023,
     "Month": 6,
     "Offense": "Sex Offenses",
-    "IncidentCount": 71,
+    "IncidentCount": 74,
     "Date": "2023-06-01"
   },
   {
     "Year": 2023,
     "Month": 7,
     "Offense": "Sex Offenses",
-    "IncidentCount": 82,
+    "IncidentCount": 93,
     "Date": "2023-07-01"
   },
   {
     "Year": 2023,
     "Month": 8,
     "Offense": "Sex Offenses",
-    "IncidentCount": 73,
+    "IncidentCount": 77,
     "Date": "2023-08-01"
   },
   {
@@ -402,7 +402,7 @@
     "Year": 2023,
     "Month": 10,
     "Offense": "Sex Offenses",
-    "IncidentCount": 65,
+    "IncidentCount": 66,
     "Date": "2023-10-01"
   },
   {
@@ -479,7 +479,14 @@
     "Year": 2024,
     "Month": 9,
     "Offense": "Sex Offenses",
-    "IncidentCount": 37,
+    "IncidentCount": 60,
     "Date": "2024-09-01"
+  },
+  {
+    "Year": 2024,
+    "Month": 10,
+    "Offense": "Sex Offenses",
+    "IncidentCount": 12,
+    "Date": "2024-10-01"
   }
 ]

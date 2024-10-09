@@ -3,7 +3,7 @@
     "Year": 2019,
     "Month": 1,
     "Offense": "Robbery",
-    "IncidentCount": 71,
+    "IncidentCount": 78,
     "Date": "2019-01-01"
   },
   {
@@ -199,7 +199,7 @@
     "Year": 2021,
     "Month": 5,
     "Offense": "Robbery",
-    "IncidentCount": 192,
+    "IncidentCount": 191,
     "Date": "2021-05-01"
   },
   {
@@ -213,7 +213,7 @@
     "Year": 2021,
     "Month": 7,
     "Offense": "Robbery",
-    "IncidentCount": 171,
+    "IncidentCount": 170,
     "Date": "2021-07-01"
   },
   {
@@ -227,14 +227,14 @@
     "Year": 2021,
     "Month": 9,
     "Offense": "Robbery",
-    "IncidentCount": 208,
+    "IncidentCount": 204,
     "Date": "2021-09-01"
   },
   {
     "Year": 2021,
     "Month": 10,
     "Offense": "Robbery",
-    "IncidentCount": 298,
+    "IncidentCount": 289,
     "Date": "2021-10-01"
   },
   {
@@ -262,35 +262,35 @@
     "Year": 2022,
     "Month": 2,
     "Offense": "Robbery",
-    "IncidentCount": 124,
+    "IncidentCount": 118,
     "Date": "2022-02-01"
   },
   {
     "Year": 2022,
     "Month": 3,
     "Offense": "Robbery",
-    "IncidentCount": 115,
+    "IncidentCount": 83,
     "Date": "2022-03-01"
   },
   {
     "Year": 2022,
     "Month": 4,
     "Offense": "Robbery",
-    "IncidentCount": 106,
+    "IncidentCount": 98,
     "Date": "2022-04-01"
   },
   {
     "Year": 2022,
     "Month": 5,
     "Offense": "Robbery",
-    "IncidentCount": 148,
+    "IncidentCount": 147,
     "Date": "2022-05-01"
   },
   {
     "Year": 2022,
     "Month": 6,
     "Offense": "Robbery",
-    "IncidentCount": 185,
+    "IncidentCount": 181,
     "Date": "2022-06-01"
   },
   {
@@ -311,14 +311,14 @@
     "Year": 2022,
     "Month": 9,
     "Offense": "Robbery",
-    "IncidentCount": 164,
+    "IncidentCount": 157,
     "Date": "2022-09-01"
   },
   {
     "Year": 2022,
     "Month": 10,
     "Offense": "Robbery",
-    "IncidentCount": 158,
+    "IncidentCount": 139,
     "Date": "2022-10-01"
   },
   {
@@ -332,7 +332,7 @@
     "Year": 2022,
     "Month": 12,
     "Offense": "Robbery",
-    "IncidentCount": 124,
+    "IncidentCount": 109,
     "Date": "2022-12-01"
   },
   {
@@ -346,21 +346,21 @@
     "Year": 2023,
     "Month": 2,
     "Offense": "Robbery",
-    "IncidentCount": 72,
+    "IncidentCount": 77,
     "Date": "2023-02-01"
   },
   {
     "Year": 2023,
     "Month": 3,
     "Offense": "Robbery",
-    "IncidentCount": 81,
+    "IncidentCount": 88,
     "Date": "2023-03-01"
   },
   {
     "Year": 2023,
     "Month": 4,
     "Offense": "Robbery",
-    "IncidentCount": 112,
+    "IncidentCount": 116,
     "Date": "2023-04-01"
   },
   {
@@ -374,21 +374,21 @@
     "Year": 2023,
     "Month": 6,
     "Offense": "Robbery",
-    "IncidentCount": 126,
+    "IncidentCount": 138,
     "Date": "2023-06-01"
   },
   {
     "Year": 2023,
     "Month": 7,
     "Offense": "Robbery",
-    "IncidentCount": 143,
+    "IncidentCount": 159,
     "Date": "2023-07-01"
   },
   {
     "Year": 2023,
     "Month": 8,
     "Offense": "Robbery",
-    "IncidentCount": 141,
+    "IncidentCount": 155,
     "Date": "2023-08-01"
   },
   {
@@ -402,7 +402,7 @@
     "Year": 2023,
     "Month": 10,
     "Offense": "Robbery",
-    "IncidentCount": 140,
+    "IncidentCount": 142,
     "Date": "2023-10-01"
   },
   {
@@ -479,7 +479,14 @@
     "Year": 2024,
     "Month": 9,
     "Offense": "Robbery",
-    "IncidentCount": 93,
+    "IncidentCount": 127,
     "Date": "2024-09-01"
+  },
+  {
+    "Year": 2024,
+    "Month": 10,
+    "Offense": "Robbery",
+    "IncidentCount": 12,
+    "Date": "2024-10-01"
   }
 ]
