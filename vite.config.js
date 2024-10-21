@@ -8,7 +8,7 @@ export default defineConfig({
   plugins: [svelte(), viteCompression()],
   experimental: {
     renderBuiltUrl(filename, type) {
-      return `${filename}.gz` // To use gzipped assets in the built index.html
+      return `${filename}` // To use gzipped assets in the built index.html
     }
   }
 })
