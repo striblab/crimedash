@@ -9,21 +9,21 @@
 "East Isles","Gunshot Wound Victims",2,0,4,0,2,0
 "East Phillips","Gunshot Wound Victims",9,35,46,28,18,17
 "Elliot Park","Gunshot Wound Victims",8,14,14,6,9,7
-"Folwell","Gunshot Wound Victims",18,28,33,35,23,20
+"Folwell","Gunshot Wound Victims",18,28,33,35,23,21
 "Harrison","Gunshot Wound Victims",2,7,10,4,4,5
 "Hawthorne","Gunshot Wound Victims",34,71,65,57,33,15
-"Holland","Gunshot Wound Victims",2,0,2,7,0,2
-"Jordan","Gunshot Wound Victims",18,62,51,33,29,19
+"Holland","Gunshot Wound Victims",2,0,2,7,0,5
+"Jordan","Gunshot Wound Victims",18,62,51,33,29,20
 "Lind - Bohanon","Gunshot Wound Victims",9,11,20,9,3,3
 "Longfellow","Gunshot Wound Victims",2,2,3,1,4,4
-"Lowry Hill East","Gunshot Wound Victims",3,15,8,13,20,5
+"Lowry Hill East","Gunshot Wound Victims",3,15,8,13,20,6
 "Marcy Holmes","Gunshot Wound Victims",4,3,17,7,5,1
 "McKinley","Gunshot Wound Victims",5,20,15,11,10,4
 "Midtown Phillips","Gunshot Wound Victims",9,19,30,20,12,16
 "Near - North","Gunshot Wound Victims",13,40,38,36,20,13
 "North Loop","Gunshot Wound Victims",2,2,3,6,4,4
 "Northeast Park","Gunshot Wound Victims",2,0,1,1,0,1
-"Phillips West","Gunshot Wound Victims",11,7,17,9,3,18
+"Phillips West","Gunshot Wound Victims",11,7,17,9,3,19
 "Powderhorn Park","Gunshot Wound Victims",2,27,16,19,6,4
 "Prospect Park - East River Road","Gunshot Wound Victims",2,0,3,1,2,1
 "Seward","Gunshot Wound Victims",9,4,10,5,18,4
@@ -33,7 +33,7 @@
 "Ventura Village","Gunshot Wound Victims",11,24,33,21,40,18
 "Waite Park","Gunshot Wound Victims",1,0,2,0,0,0
 "Webber - Camden","Gunshot Wound Victims",13,18,23,12,13,7
-"Whittier","Gunshot Wound Victims",3,10,14,18,20,28
+"Whittier","Gunshot Wound Victims",3,10,14,18,20,29
 "Willard - Hay","Gunshot Wound Victims",21,23,31,13,19,15
 "Audubon Park","Gunshot Wound Victims",0,2,2,0,0,3
 "Bancroft","Gunshot Wound Victims",0,1,3,2,1,1
@@ -43,7 +43,7 @@
 "Howe","Gunshot Wound Victims",0,2,2,0,1,2
 "Keewaydin","Gunshot Wound Victims",0,2,0,0,0,0
 "Linden Hills","Gunshot Wound Victims",0,2,0,0,1,0
-"Loring Park","Gunshot Wound Victims",0,4,10,15,12,4
+"Loring Park","Gunshot Wound Victims",0,4,10,15,12,5
 "Lyndale","Gunshot Wound Victims",0,2,1,8,3,5
 "Morris Park","Gunshot Wound Victims",0,1,2,0,0,0
 "Regina","Gunshot Wound Victims",0,1,1,0,0,0
@@ -75,6 +75,7 @@ NA,"Gunshot Wound Victims",0,3,6,4,6,3
 "St. Anthony East","Gunshot Wound Victims",0,0,0,2,2,1
 "University of Minnesota","Gunshot Wound Victims",0,0,0,2,0,0
 "Columbia Park","Gunshot Wound Victims",0,0,0,0,1,0
+"Mid - City Industrial","Gunshot Wound Victims",0,0,0,0,0,1
 "Page","Gunshot Wound Victims",0,0,0,0,0,2
 "Bryn - Mawr","Total",1,1,1,0,0,0
 "Cedar - Isles - Dean","Total",1,0,0,0,0,1
@@ -86,21 +87,21 @@ NA,"Gunshot Wound Victims",0,3,6,4,6,3
 "East Isles","Total",2,0,4,0,2,0
 "East Phillips","Total",9,35,46,28,18,17
 "Elliot Park","Total",8,14,14,6,9,7
-"Folwell","Total",18,28,33,35,23,20
+"Folwell","Total",18,28,33,35,23,21
 "Harrison","Total",2,7,10,4,4,5
 "Hawthorne","Total",34,71,65,57,33,15
-"Holland","Total",2,0,2,7,0,2
-"Jordan","Total",18,62,51,33,29,19
+"Holland","Total",2,0,2,7,0,5
+"Jordan","Total",18,62,51,33,29,20
 "Lind - Bohanon","Total",9,11,20,9,3,3
 "Longfellow","Total",2,2,3,1,4,4
-"Lowry Hill East","Total",3,15,8,13,20,5
+"Lowry Hill East","Total",3,15,8,13,20,6
 "Marcy Holmes","Total",4,3,17,7,5,1
 "McKinley","Total",5,20,15,11,10,4
 "Midtown Phillips","Total",9,19,30,20,12,16
 "Near - North","Total",13,40,38,36,20,13
 "North Loop","Total",2,2,3,6,4,4
 "Northeast Park","Total",2,0,1,1,0,1
-"Phillips West","Total",11,7,17,9,3,18
+"Phillips West","Total",11,7,17,9,3,19
 "Powderhorn Park","Total",2,27,16,19,6,4
 "Prospect Park - East River Road","Total",2,0,3,1,2,1
 "Seward","Total",9,4,10,5,18,4
@@ -110,7 +111,7 @@ NA,"Gunshot Wound Victims",0,3,6,4,6,3
 "Ventura Village","Total",11,24,33,21,40,18
 "Waite Park","Total",1,0,2,0,0,0
 "Webber - Camden","Total",13,18,23,12,13,7
-"Whittier","Total",3,10,14,18,20,28
+"Whittier","Total",3,10,14,18,20,29
 "Willard - Hay","Total",21,23,31,13,19,15
 "Audubon Park","Total",0,2,2,0,0,3
 "Bancroft","Total",0,1,3,2,1,1
@@ -120,7 +121,7 @@ NA,"Gunshot Wound Victims",0,3,6,4,6,3
 "Howe","Total",0,2,2,0,1,2
 "Keewaydin","Total",0,2,0,0,0,0
 "Linden Hills","Total",0,2,0,0,1,0
-"Loring Park","Total",0,4,10,15,12,4
+"Loring Park","Total",0,4,10,15,12,5
 "Lyndale","Total",0,2,1,8,3,5
 "Morris Park","Total",0,1,2,0,0,0
 "Regina","Total",0,1,1,0,0,0
@@ -152,4 +153,5 @@ NA,"Total",0,3,6,4,6,3
 "St. Anthony East","Total",0,0,0,2,2,1
 "University of Minnesota","Total",0,0,0,2,0,0
 "Columbia Park","Total",0,0,0,0,1,0
+"Mid - City Industrial","Total",0,0,0,0,0,1
 "Page","Total",0,0,0,0,0,2

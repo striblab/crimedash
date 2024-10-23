@@ -1,18 +1,18 @@
 "Neighborhood","Offense","2020","2021","2022","2023","2024"
-"Bancroft","Carjacking - Subset of Robbery",4,5,9,4,2
+"Bancroft","Carjacking - Subset of Robbery",4,5,9,4,3
 "Beltrami","Carjacking - Subset of Robbery",1,0,0,0,0
 "Bottineau","Carjacking - Subset of Robbery",1,3,1,0,2
 "Bryant","Carjacking - Subset of Robbery",3,6,2,0,1
 "Bryn - Mawr","Carjacking - Subset of Robbery",1,2,4,1,0
 "Cedar Riverside","Carjacking - Subset of Robbery",3,6,7,6,6
-"Central","Carjacking - Subset of Robbery",11,40,24,11,7
+"Central","Carjacking - Subset of Robbery",11,40,24,11,8
 "Cleveland","Carjacking - Subset of Robbery",1,6,3,3,1
 "Como","Carjacking - Subset of Robbery",1,3,1,1,1
 "Corcoran","Carjacking - Subset of Robbery",3,8,3,3,1
 "Diamond Lake","Carjacking - Subset of Robbery",1,1,0,0,0
 "Downtown West","Carjacking - Subset of Robbery",2,4,5,1,1
 "East Isles","Carjacking - Subset of Robbery",5,16,13,3,4
-"East Phillips","Carjacking - Subset of Robbery",2,25,18,10,9
+"East Phillips","Carjacking - Subset of Robbery",2,25,18,10,10
 "Elliot Park","Carjacking - Subset of Robbery",1,2,9,8,3
 "Field","Carjacking - Subset of Robbery",1,5,1,2,1
 "Folwell","Carjacking - Subset of Robbery",1,9,6,6,6
@@ -23,12 +23,12 @@
 "Holland","Carjacking - Subset of Robbery",1,11,4,6,3
 "Howe","Carjacking - Subset of Robbery",2,3,2,0,0
 "Jordan","Carjacking - Subset of Robbery",6,18,7,8,3
-"King Field","Carjacking - Subset of Robbery",4,11,2,5,4
+"King Field","Carjacking - Subset of Robbery",4,11,2,5,5
 "Longfellow","Carjacking - Subset of Robbery",1,9,3,5,3
 "Loring Park","Carjacking - Subset of Robbery",1,7,8,7,6
 "Lowry Hill","Carjacking - Subset of Robbery",4,14,7,2,2
 "Lowry Hill East","Carjacking - Subset of Robbery",5,17,24,16,7
-"Lyndale","Carjacking - Subset of Robbery",3,10,9,6,10
+"Lyndale","Carjacking - Subset of Robbery",3,10,9,6,11
 "Marcy Holmes","Carjacking - Subset of Robbery",3,13,22,5,4
 "McKinley","Carjacking - Subset of Robbery",2,10,2,5,2
 "Midtown Phillips","Carjacking - Subset of Robbery",10,20,27,8,6
@@ -44,7 +44,7 @@
 "Standish","Carjacking - Subset of Robbery",4,7,1,2,1
 "Sumner - Glenwood","Carjacking - Subset of Robbery",1,12,6,3,5
 "Tangletown","Carjacking - Subset of Robbery",1,2,1,2,1
-"Ventura Village","Carjacking - Subset of Robbery",12,36,29,14,9
+"Ventura Village","Carjacking - Subset of Robbery",12,36,29,14,10
 "Webber - Camden","Carjacking - Subset of Robbery",1,6,5,4,2
 "Whittier","Carjacking - Subset of Robbery",13,46,41,25,12
 "Willard - Hay","Carjacking - Subset of Robbery",4,9,17,13,4
@@ -64,7 +64,7 @@ NA,"Carjacking - Subset of Robbery",2,3,2,2,0
 "Kenwood","Carjacking - Subset of Robbery",0,1,2,1,1
 "Lind - Bohanon","Carjacking - Subset of Robbery",0,5,4,2,1
 "Linden Hills","Carjacking - Subset of Robbery",0,2,4,1,0
-"Logan Park","Carjacking - Subset of Robbery",0,1,4,0,0
+"Logan Park","Carjacking - Subset of Robbery",0,1,4,0,1
 "Lynnhurst","Carjacking - Subset of Robbery",0,1,0,1,2
 "Marshall Terrace","Carjacking - Subset of Robbery",0,1,3,0,1
 "Mid - City Industrial","Carjacking - Subset of Robbery",0,3,2,0,0
@@ -86,20 +86,20 @@ NA,"Carjacking - Subset of Robbery",2,3,2,2,0
 "Cedar - Isles - Dean","Carjacking - Subset of Robbery",0,0,0,3,2
 "Kenny","Carjacking - Subset of Robbery",0,0,0,1,0
 "Page","Carjacking - Subset of Robbery",0,0,0,1,0
-"Bancroft","Total",4,5,9,4,2
+"Bancroft","Total",4,5,9,4,3
 "Beltrami","Total",1,0,0,0,0
 "Bottineau","Total",1,3,1,0,2
 "Bryant","Total",3,6,2,0,1
 "Bryn - Mawr","Total",1,2,4,1,0
 "Cedar Riverside","Total",3,6,7,6,6
-"Central","Total",11,40,24,11,7
+"Central","Total",11,40,24,11,8
 "Cleveland","Total",1,6,3,3,1
 "Como","Total",1,3,1,1,1
 "Corcoran","Total",3,8,3,3,1
 "Diamond Lake","Total",1,1,0,0,0
 "Downtown West","Total",2,4,5,1,1
 "East Isles","Total",5,16,13,3,4
-"East Phillips","Total",2,25,18,10,9
+"East Phillips","Total",2,25,18,10,10
 "Elliot Park","Total",1,2,9,8,3
 "Field","Total",1,5,1,2,1
 "Folwell","Total",1,9,6,6,6
@@ -110,12 +110,12 @@ NA,"Carjacking - Subset of Robbery",2,3,2,2,0
 "Holland","Total",1,11,4,6,3
 "Howe","Total",2,3,2,0,0
 "Jordan","Total",6,18,7,8,3
-"King Field","Total",4,11,2,5,4
+"King Field","Total",4,11,2,5,5
 "Longfellow","Total",1,9,3,5,3
 "Loring Park","Total",1,7,8,7,6
 "Lowry Hill","Total",4,14,7,2,2
 "Lowry Hill East","Total",5,17,24,16,7
-"Lyndale","Total",3,10,9,6,10
+"Lyndale","Total",3,10,9,6,11
 "Marcy Holmes","Total",3,13,22,5,4
 "McKinley","Total",2,10,2,5,2
 "Midtown Phillips","Total",10,20,27,8,6
@@ -131,7 +131,7 @@ NA,"Carjacking - Subset of Robbery",2,3,2,2,0
 "Standish","Total",4,7,1,2,1
 "Sumner - Glenwood","Total",1,12,6,3,5
 "Tangletown","Total",1,2,1,2,1
-"Ventura Village","Total",12,36,29,14,9
+"Ventura Village","Total",12,36,29,14,10
 "Webber - Camden","Total",1,6,5,4,2
 "Whittier","Total",13,46,41,25,12
 "Willard - Hay","Total",4,9,17,13,4
@@ -151,7 +151,7 @@ NA,"Total",2,3,2,2,0
 "Kenwood","Total",0,1,2,1,1
 "Lind - Bohanon","Total",0,5,4,2,1
 "Linden Hills","Total",0,2,4,1,0
-"Logan Park","Total",0,1,4,0,0
+"Logan Park","Total",0,1,4,0,1
 "Lynnhurst","Total",0,1,0,1,2
 "Marshall Terrace","Total",0,1,3,0,1
 "Mid - City Industrial","Total",0,3,2,0,0
