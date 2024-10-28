@@ -32,7 +32,7 @@
 "Marcy Holmes","Carjacking - Subset of Robbery",3,13,22,5,4
 "McKinley","Carjacking - Subset of Robbery",2,10,2,5,2
 "Midtown Phillips","Carjacking - Subset of Robbery",10,20,27,8,6
-"Near - North","Carjacking - Subset of Robbery",3,23,14,9,5
+"Near - North","Carjacking - Subset of Robbery",3,23,14,9,6
 "Northeast Park","Carjacking - Subset of Robbery",1,0,2,1,1
 "Northrop","Carjacking - Subset of Robbery",3,9,6,3,2
 "Phillips West","Carjacking - Subset of Robbery",5,8,13,11,4
@@ -45,7 +45,7 @@
 "Sumner - Glenwood","Carjacking - Subset of Robbery",1,12,6,3,5
 "Tangletown","Carjacking - Subset of Robbery",1,2,1,2,1
 "Ventura Village","Carjacking - Subset of Robbery",12,36,29,14,10
-"Webber - Camden","Carjacking - Subset of Robbery",1,6,5,4,2
+"Webber - Camden","Carjacking - Subset of Robbery",1,6,5,4,3
 "Whittier","Carjacking - Subset of Robbery",13,46,41,25,12
 "Willard - Hay","Carjacking - Subset of Robbery",4,9,17,13,4
 "Windom Park","Carjacking - Subset of Robbery",1,4,2,1,0
@@ -62,7 +62,7 @@ NA,"Carjacking - Subset of Robbery",2,3,2,2,0
 "Hale","Carjacking - Subset of Robbery",0,2,0,1,0
 "Keewaydin","Carjacking - Subset of Robbery",0,2,1,2,0
 "Kenwood","Carjacking - Subset of Robbery",0,1,2,1,1
-"Lind - Bohanon","Carjacking - Subset of Robbery",0,5,4,2,1
+"Lind - Bohanon","Carjacking - Subset of Robbery",0,5,4,2,2
 "Linden Hills","Carjacking - Subset of Robbery",0,2,4,1,0
 "Logan Park","Carjacking - Subset of Robbery",0,1,4,0,1
 "Lynnhurst","Carjacking - Subset of Robbery",0,1,0,1,2
@@ -119,7 +119,7 @@ NA,"Carjacking - Subset of Robbery",2,3,2,2,0
 "Marcy Holmes","Total",3,13,22,5,4
 "McKinley","Total",2,10,2,5,2
 "Midtown Phillips","Total",10,20,27,8,6
-"Near - North","Total",3,23,14,9,5
+"Near - North","Total",3,23,14,9,6
 "Northeast Park","Total",1,0,2,1,1
 "Northrop","Total",3,9,6,3,2
 "Phillips West","Total",5,8,13,11,4
@@ -132,7 +132,7 @@ NA,"Carjacking - Subset of Robbery",2,3,2,2,0
 "Sumner - Glenwood","Total",1,12,6,3,5
 "Tangletown","Total",1,2,1,2,1
 "Ventura Village","Total",12,36,29,14,10
-"Webber - Camden","Total",1,6,5,4,2
+"Webber - Camden","Total",1,6,5,4,3
 "Whittier","Total",13,46,41,25,12
 "Willard - Hay","Total",4,9,17,13,4
 "Windom Park","Total",1,4,2,1,0
@@ -149,7 +149,7 @@ NA,"Total",2,3,2,2,0
 "Hale","Total",0,2,0,1,0
 "Keewaydin","Total",0,2,1,2,0
 "Kenwood","Total",0,1,2,1,1
-"Lind - Bohanon","Total",0,5,4,2,1
+"Lind - Bohanon","Total",0,5,4,2,2
 "Linden Hills","Total",0,2,4,1,0
 "Logan Park","Total",0,1,4,0,1
 "Lynnhurst","Total",0,1,0,1,2
