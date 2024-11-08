@@ -472,7 +472,7 @@
     "Year": 2024,
     "Month": 8,
     "Offense": "Robbery",
-    "IncidentCount": 151,
+    "IncidentCount": 150,
     "Date": "2024-08-01"
   },
   {
@@ -486,7 +486,14 @@
     "Year": 2024,
     "Month": 10,
     "Offense": "Robbery",
-    "IncidentCount": 93,
+    "IncidentCount": 128,
     "Date": "2024-10-01"
+  },
+  {
+    "Year": 2024,
+    "Month": 11,
+    "Offense": "Robbery",
+    "IncidentCount": 31,
+    "Date": "2024-11-01"
   }
 ]

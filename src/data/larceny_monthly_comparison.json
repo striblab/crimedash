@@ -465,7 +465,7 @@
     "Year": 2024,
     "Month": 7,
     "Offense": "All Other Larceny",
-    "IncidentCount": 636,
+    "IncidentCount": 635,
     "Date": "2024-07-01"
   },
   {
@@ -486,8 +486,15 @@
     "Year": 2024,
     "Month": 10,
     "Offense": "All Other Larceny",
-    "IncidentCount": 583,
+    "IncidentCount": 726,
     "Date": "2024-10-01"
+  },
+  {
+    "Year": 2024,
+    "Month": 11,
+    "Offense": "All Other Larceny",
+    "IncidentCount": 100,
+    "Date": "2024-11-01"
   },
   {
     "Year": 2019,
@@ -976,8 +983,15 @@
     "Year": 2024,
     "Month": 10,
     "Offense": "Theft From Motor Vehicle",
-    "IncidentCount": 354,
+    "IncidentCount": 475,
     "Date": "2024-10-01"
+  },
+  {
+    "Year": 2024,
+    "Month": 11,
+    "Offense": "Theft From Motor Vehicle",
+    "IncidentCount": 72,
+    "Date": "2024-11-01"
   },
   {
     "Year": 2019,
@@ -1627,8 +1641,15 @@
     "Year": 2024,
     "Month": 10,
     "Offense": "Purse-snatching",
-    "IncidentCount": 3,
+    "IncidentCount": 5,
     "Date": "2024-10-01"
+  },
+  {
+    "Year": 2024,
+    "Month": 11,
+    "Offense": "Purse-snatching",
+    "IncidentCount": 1,
+    "Date": "2024-11-01"
   },
   {
     "Year": 2019,
@@ -2117,8 +2138,15 @@
     "Year": 2024,
     "Month": 10,
     "Offense": "Shoplifting",
-    "IncidentCount": 76,
+    "IncidentCount": 90,
     "Date": "2024-10-01"
+  },
+  {
+    "Year": 2024,
+    "Month": 11,
+    "Offense": "Shoplifting",
+    "IncidentCount": 6,
+    "Date": "2024-11-01"
   },
   {
     "Year": 2019,
@@ -2607,8 +2635,15 @@
     "Year": 2024,
     "Month": 10,
     "Offense": "Theft From Building",
-    "IncidentCount": 13,
+    "IncidentCount": 19,
     "Date": "2024-10-01"
+  },
+  {
+    "Year": 2024,
+    "Month": 11,
+    "Offense": "Theft From Building",
+    "IncidentCount": 2,
+    "Date": "2024-11-01"
   },
   {
     "Year": 2019,
@@ -3174,7 +3209,14 @@
     "Year": 2024,
     "Month": 10,
     "Offense": "Theft of Motor Vehicle Parts or Accessories",
-    "IncidentCount": 60,
+    "IncidentCount": 74,
     "Date": "2024-10-01"
+  },
+  {
+    "Year": 2024,
+    "Month": 11,
+    "Offense": "Theft of Motor Vehicle Parts or Accessories",
+    "IncidentCount": 6,
+    "Date": "2024-11-01"
   }
 ]

@@ -6,16 +6,16 @@
 "Bryn - Mawr","Carjacking - Subset of Robbery",1,2,4,1,0
 "Cedar Riverside","Carjacking - Subset of Robbery",3,6,7,6,6
 "Central","Carjacking - Subset of Robbery",11,40,24,11,8
-"Cleveland","Carjacking - Subset of Robbery",1,6,3,3,1
+"Cleveland","Carjacking - Subset of Robbery",1,6,3,3,3
 "Como","Carjacking - Subset of Robbery",1,3,1,1,1
 "Corcoran","Carjacking - Subset of Robbery",3,8,3,3,1
 "Diamond Lake","Carjacking - Subset of Robbery",1,1,0,0,0
 "Downtown West","Carjacking - Subset of Robbery",2,4,5,1,1
 "East Isles","Carjacking - Subset of Robbery",5,16,13,3,4
 "East Phillips","Carjacking - Subset of Robbery",2,25,18,10,10
-"Elliot Park","Carjacking - Subset of Robbery",1,2,9,8,3
+"Elliot Park","Carjacking - Subset of Robbery",1,2,9,8,4
 "Field","Carjacking - Subset of Robbery",1,5,1,2,1
-"Folwell","Carjacking - Subset of Robbery",1,9,6,6,6
+"Folwell","Carjacking - Subset of Robbery",1,9,6,6,7
 "Fulton","Carjacking - Subset of Robbery",1,3,0,1,1
 "Harrison","Carjacking - Subset of Robbery",1,17,13,6,0
 "Hawthorne","Carjacking - Subset of Robbery",7,17,19,7,9
@@ -36,7 +36,7 @@
 "Northeast Park","Carjacking - Subset of Robbery",1,0,2,1,1
 "Northrop","Carjacking - Subset of Robbery",3,9,6,3,2
 "Phillips West","Carjacking - Subset of Robbery",5,8,13,11,4
-"Powderhorn Park","Carjacking - Subset of Robbery",6,38,27,6,12
+"Powderhorn Park","Carjacking - Subset of Robbery",6,38,27,6,13
 "Prospect Park - East River Road","Carjacking - Subset of Robbery",2,5,1,0,0
 "Seward","Carjacking - Subset of Robbery",12,24,12,7,11
 "Sheridan","Carjacking - Subset of Robbery",3,5,3,1,3
@@ -93,16 +93,16 @@ NA,"Carjacking - Subset of Robbery",2,3,2,2,0
 "Bryn - Mawr","Total",1,2,4,1,0
 "Cedar Riverside","Total",3,6,7,6,6
 "Central","Total",11,40,24,11,8
-"Cleveland","Total",1,6,3,3,1
+"Cleveland","Total",1,6,3,3,3
 "Como","Total",1,3,1,1,1
 "Corcoran","Total",3,8,3,3,1
 "Diamond Lake","Total",1,1,0,0,0
 "Downtown West","Total",2,4,5,1,1
 "East Isles","Total",5,16,13,3,4
 "East Phillips","Total",2,25,18,10,10
-"Elliot Park","Total",1,2,9,8,3
+"Elliot Park","Total",1,2,9,8,4
 "Field","Total",1,5,1,2,1
-"Folwell","Total",1,9,6,6,6
+"Folwell","Total",1,9,6,6,7
 "Fulton","Total",1,3,0,1,1
 "Harrison","Total",1,17,13,6,0
 "Hawthorne","Total",7,17,19,7,9
@@ -123,7 +123,7 @@ NA,"Carjacking - Subset of Robbery",2,3,2,2,0
 "Northeast Park","Total",1,0,2,1,1
 "Northrop","Total",3,9,6,3,2
 "Phillips West","Total",5,8,13,11,4
-"Powderhorn Park","Total",6,38,27,6,12
+"Powderhorn Park","Total",6,38,27,6,13
 "Prospect Park - East River Road","Total",2,5,1,0,0
 "Seward","Total",12,24,12,7,11
 "Sheridan","Total",3,5,3,1,3
