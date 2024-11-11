@@ -9,24 +9,24 @@
 "East Isles","Gunshot Wound Victims",2,0,4,0,2,0
 "East Phillips","Gunshot Wound Victims",9,35,46,28,18,18
 "Elliot Park","Gunshot Wound Victims",8,14,14,6,9,7
-"Folwell","Gunshot Wound Victims",18,28,33,35,23,22
+"Folwell","Gunshot Wound Victims",18,28,33,35,23,23
 "Harrison","Gunshot Wound Victims",2,7,10,4,4,5
 "Hawthorne","Gunshot Wound Victims",34,71,65,57,33,15
 "Holland","Gunshot Wound Victims",2,0,2,7,0,5
-"Jordan","Gunshot Wound Victims",18,62,51,33,29,20
+"Jordan","Gunshot Wound Victims",18,62,51,33,29,21
 "Lind - Bohanon","Gunshot Wound Victims",9,11,20,9,3,3
 "Longfellow","Gunshot Wound Victims",2,2,3,1,4,4
 "Lowry Hill East","Gunshot Wound Victims",3,15,8,13,20,7
 "Marcy Holmes","Gunshot Wound Victims",4,3,17,7,5,4
 "McKinley","Gunshot Wound Victims",5,20,15,11,10,5
 "Midtown Phillips","Gunshot Wound Victims",9,19,30,20,12,16
-"Near - North","Gunshot Wound Victims",13,40,38,36,20,13
+"Near - North","Gunshot Wound Victims",13,40,38,36,20,14
 "North Loop","Gunshot Wound Victims",2,2,3,6,4,4
 "Northeast Park","Gunshot Wound Victims",2,0,1,1,0,1
 "Phillips West","Gunshot Wound Victims",11,7,17,9,3,20
 "Powderhorn Park","Gunshot Wound Victims",2,27,16,19,6,4
 "Prospect Park - East River Road","Gunshot Wound Victims",2,0,3,1,2,1
-"Seward","Gunshot Wound Victims",9,4,10,5,18,4
+"Seward","Gunshot Wound Victims",9,4,10,5,18,6
 "Sheridan","Gunshot Wound Victims",1,0,2,0,0,1
 "Steven's Square - Loring Heights","Gunshot Wound Victims",1,5,10,11,6,5
 "Sumner - Glenwood","Gunshot Wound Victims",6,3,5,3,1,0
@@ -40,7 +40,7 @@
 "Bottineau","Gunshot Wound Victims",0,1,0,0,0,0
 "Corcoran","Gunshot Wound Victims",0,6,1,2,2,0
 "Hiawatha","Gunshot Wound Victims",0,4,1,3,1,3
-"Howe","Gunshot Wound Victims",0,2,2,0,1,2
+"Howe","Gunshot Wound Victims",0,2,2,0,1,3
 "Keewaydin","Gunshot Wound Victims",0,2,0,0,0,0
 "Linden Hills","Gunshot Wound Victims",0,2,0,0,1,0
 "Loring Park","Gunshot Wound Victims",0,4,10,15,12,5
@@ -87,24 +87,24 @@ NA,"Gunshot Wound Victims",0,3,6,4,6,3
 "East Isles","Total",2,0,4,0,2,0
 "East Phillips","Total",9,35,46,28,18,18
 "Elliot Park","Total",8,14,14,6,9,7
-"Folwell","Total",18,28,33,35,23,22
+"Folwell","Total",18,28,33,35,23,23
 "Harrison","Total",2,7,10,4,4,5
 "Hawthorne","Total",34,71,65,57,33,15
 "Holland","Total",2,0,2,7,0,5
-"Jordan","Total",18,62,51,33,29,20
+"Jordan","Total",18,62,51,33,29,21
 "Lind - Bohanon","Total",9,11,20,9,3,3
 "Longfellow","Total",2,2,3,1,4,4
 "Lowry Hill East","Total",3,15,8,13,20,7
 "Marcy Holmes","Total",4,3,17,7,5,4
 "McKinley","Total",5,20,15,11,10,5
 "Midtown Phillips","Total",9,19,30,20,12,16
-"Near - North","Total",13,40,38,36,20,13
+"Near - North","Total",13,40,38,36,20,14
 "North Loop","Total",2,2,3,6,4,4
 "Northeast Park","Total",2,0,1,1,0,1
 "Phillips West","Total",11,7,17,9,3,20
 "Powderhorn Park","Total",2,27,16,19,6,4
 "Prospect Park - East River Road","Total",2,0,3,1,2,1
-"Seward","Total",9,4,10,5,18,4
+"Seward","Total",9,4,10,5,18,6
 "Sheridan","Total",1,0,2,0,0,1
 "Steven's Square - Loring Heights","Total",1,5,10,11,6,5
 "Sumner - Glenwood","Total",6,3,5,3,1,0
@@ -118,7 +118,7 @@ NA,"Gunshot Wound Victims",0,3,6,4,6,3
 "Bottineau","Total",0,1,0,0,0,0
 "Corcoran","Total",0,6,1,2,2,0
 "Hiawatha","Total",0,4,1,3,1,3
-"Howe","Total",0,2,2,0,1,2
+"Howe","Total",0,2,2,0,1,3
 "Keewaydin","Total",0,2,0,0,0,0
 "Linden Hills","Total",0,2,0,0,1,0
 "Loring Park","Total",0,4,10,15,12,5

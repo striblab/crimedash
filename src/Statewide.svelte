@@ -90,6 +90,7 @@
     <li><a href="https://www.lrl.mn.gov/edocs/edocs?oclcnumber=20080426">All Minnesota UCRs ever</a></li>
     <li><a href="https://cde.state.mn.us/">Minnesota Crime Data Explorer</a></li>
     <li><a href="https://cde.state.mn.us/DownloadData/OffenseCountyMunicipalByAgencyDownload/">Minnesota NIBRS data by year</a></li>
+    <li><a href="https://bcadataportal.state.mn.us/DWI">Minnesota DWI dashboard</a></li>
     <li><a href="https://cde.state.mn.us/Carjacking/Carjacking">Minnesota carjacking dashboard</a></li>
     <li><a href="https://cde.state.mn.us/LawEnforcementEmployeeInformation/LawEnforcementEmployeeInformation">Minnesota LEO employment dashboard</a></li>
     <li><a href="https://cde.state.mn.us/DrugArrests/DrugArrests">Minnesota drug arrests dashboard</a></li>
