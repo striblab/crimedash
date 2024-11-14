@@ -25,7 +25,7 @@
 
 <h4>Links</h4>
 <ul>
-    <li><a href="https://www.startribune.com/every-police-involved-death-in-minnesota-since-2000/502088871/">Star Tribune: Fatal Police Encounters</a> | <a href="https://airtable.com/appGpBm9hQMAGxLyS/tbleKygJLfJml8HWV/viwT0a6Fo6HmNyQJK?blocks=hide">AIRTABLE</a> – <a href="https://askmkfciftccmcuj2pr2rdy2ki0nbiif.lambda-url.us-east-2.on.aws/">UPDATE</a></li>
+    <li><a href="https://www.startribune.com/every-police-involved-death-in-minnesota-since-2000/502088871/">Star Tribune: Fatal Police Encounters</a> | <a href="https://airtable.com/appGpBm9hQMAGxLyS/tbleKygJLfJml8HWV/viwT0a6Fo6HmNyQJK?blocks=hide">AIRTABLE</a> – <a href="https://ixfpjdoi5ptmnqsfk6gl25n36e0oeqpk.lambda-url.us-east-2.on.aws/?slug=fatal-encounters">UPDATE</a></li>
     <li><a href="https://www.minneapolismn.gov/government/government-data/datasource/officer-involved-shooting-dashboard/">Minneapolis Officer Involved Shootings</a> | <a href="https://opendata.minneapolismn.gov/datasets/cityoflakes::police-officer-involved-shootings/about">DATA</a></li>
     <li><a href="https://tableau.minneapolismn.gov/views/MPDUseofForceOpenData/UseofForceDashboard?:isGuestRedirectFromVizportal=y&:embed=y">Minneapolis Police Use-of-Force Dashboard 2021-present</a></li>
     <li><a href="https://www.minneapolismn.gov/government/government-data/datasource/legacy-use-of-force-dashboard/">Minneapolis Police Use-of-Force Dashboard 2008-2020</a> | <a href="https://opendata.minneapolismn.gov/datasets/police-use-of-force">DATA</a></li>
