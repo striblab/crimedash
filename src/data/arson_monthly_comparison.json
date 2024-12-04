@@ -465,7 +465,7 @@
     "Year": 2024,
     "Month": 7,
     "Offense": "Arson",
-    "IncidentCount": 12,
+    "IncidentCount": 13,
     "Date": "2024-07-01"
   },
   {
@@ -493,7 +493,14 @@
     "Year": 2024,
     "Month": 11,
     "Offense": "Arson",
-    "IncidentCount": 5,
+    "IncidentCount": 6,
     "Date": "2024-11-01"
+  },
+  {
+    "Year": 2024,
+    "Month": 12,
+    "Offense": "Arson",
+    "IncidentCount": 1,
+    "Date": "2024-12-01"
   }
 ]

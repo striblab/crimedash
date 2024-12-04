@@ -1,10 +1,10 @@
 "Neighborhood","Offense","2020","2021","2022","2023","2024"
 "Bancroft","Carjacking - Subset of Robbery",4,5,9,4,3
 "Beltrami","Carjacking - Subset of Robbery",1,0,0,0,0
-"Bottineau","Carjacking - Subset of Robbery",1,3,1,0,2
+"Bottineau","Carjacking - Subset of Robbery",1,3,1,0,3
 "Bryant","Carjacking - Subset of Robbery",3,6,2,0,1
 "Bryn - Mawr","Carjacking - Subset of Robbery",1,2,4,1,0
-"Cedar Riverside","Carjacking - Subset of Robbery",3,6,7,6,6
+"Cedar Riverside","Carjacking - Subset of Robbery",3,6,7,6,7
 "Central","Carjacking - Subset of Robbery",11,40,24,11,9
 "Cleveland","Carjacking - Subset of Robbery",1,6,3,3,4
 "Como","Carjacking - Subset of Robbery",1,3,1,1,1
@@ -42,7 +42,7 @@
 "Sheridan","Carjacking - Subset of Robbery",3,5,3,1,4
 "South Uptown","Carjacking - Subset of Robbery",7,9,8,3,10
 "Standish","Carjacking - Subset of Robbery",4,7,1,2,1
-"Sumner - Glenwood","Carjacking - Subset of Robbery",1,12,6,3,6
+"Sumner - Glenwood","Carjacking - Subset of Robbery",1,12,6,3,7
 "Tangletown","Carjacking - Subset of Robbery",1,2,1,2,1
 "Ventura Village","Carjacking - Subset of Robbery",12,36,29,14,10
 "Webber - Camden","Carjacking - Subset of Robbery",1,6,5,4,3
@@ -88,10 +88,10 @@ NA,"Carjacking - Subset of Robbery",2,3,2,2,0
 "Page","Carjacking - Subset of Robbery",0,0,0,1,0
 "Bancroft","Total",4,5,9,4,3
 "Beltrami","Total",1,0,0,0,0
-"Bottineau","Total",1,3,1,0,2
+"Bottineau","Total",1,3,1,0,3
 "Bryant","Total",3,6,2,0,1
 "Bryn - Mawr","Total",1,2,4,1,0
-"Cedar Riverside","Total",3,6,7,6,6
+"Cedar Riverside","Total",3,6,7,6,7
 "Central","Total",11,40,24,11,9
 "Cleveland","Total",1,6,3,3,4
 "Como","Total",1,3,1,1,1
@@ -129,7 +129,7 @@ NA,"Carjacking - Subset of Robbery",2,3,2,2,0
 "Sheridan","Total",3,5,3,1,4
 "South Uptown","Total",7,9,8,3,10
 "Standish","Total",4,7,1,2,1
-"Sumner - Glenwood","Total",1,12,6,3,6
+"Sumner - Glenwood","Total",1,12,6,3,7
 "Tangletown","Total",1,2,1,2,1
 "Ventura Village","Total",12,36,29,14,10
 "Webber - Camden","Total",1,6,5,4,3
