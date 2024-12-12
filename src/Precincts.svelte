@@ -58,7 +58,7 @@
 
 <h4>Links</h4>
 <ul>
-  <li><a href="https://tableau.minneapolismn.gov/views/CrimeDashboard/Summary?%3Adisplay_count=n&%3Aiid=5&%3Aorigin=viz_share_link&%3AshowAppBanner=false&%3AshowVizHome=n&%3Atabs=yes&%3Atoolbar=no&%3AisGuestRedirectFromVizportal=y&%3Aembed=y">Minneapolis NIBRS Crime Dashboard</a> | <a href="https://opendata.minneapolismn.gov/datasets/cityoflakes::crime-data/about">raw data</a></li>
+  <li><a href="https://www.minneapolismn.gov/government/government-data/datasource/neighborhood-demographics-dashboard/">Minneapolis neighborhood demographics dashboard</a></li>
 </ul>
 
 <style>

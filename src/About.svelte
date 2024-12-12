@@ -38,7 +38,7 @@
 
 <p>Welcome to The Minnesota Star Tribune Public Safety Dashboard. Use this to browse crime, policing and other public safety statistics for Minneapolis and elsewhere in Minnesota. Data is updated Mondays, Wednesdays and Fridays. See the <a href="https://github.com/striblab/20240428-crimedash">the Github repo</a> for more documentation. <a href="mailto:jeff.hargarten@startribune.com">Email</a> or Slack any questions or issues to Jeff Hargarten.</p>
 
-<p>Also see <a href="https://static.startribune.com/news/projects/all/20230702-tcmap/">the Star Tribune Placefinder</a> to pinpoint what Twin Cities neighborhood an address lands in.</p>
+<p>Also see <a href="https://static.startribune.com/news/projects/all/placefinder/build/">the Star Tribune Placefinder</a> to pinpoint what Twin Cities neighborhood an address lands in.</p>
   
 <p>The Star Tribune's <a href="https://www.startribune.com/every-police-involved-death-in-minnesota-since-2000/502088871/">Fatal Police Encounters</a> database details officer-involved killings since 2000.</p>
 
