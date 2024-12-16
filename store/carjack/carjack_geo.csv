@@ -3,7 +3,7 @@
 "Beltrami","Carjacking - Subset of Robbery",1,0,0,0,0
 "Bottineau","Carjacking - Subset of Robbery",1,3,1,0,3
 "Bryant","Carjacking - Subset of Robbery",3,6,2,0,1
-"Bryn - Mawr","Carjacking - Subset of Robbery",1,2,4,1,0
+"Bryn - Mawr","Carjacking - Subset of Robbery",1,2,4,1,1
 "Cedar Riverside","Carjacking - Subset of Robbery",3,6,7,6,7
 "Central","Carjacking - Subset of Robbery",11,40,24,11,10
 "Cleveland","Carjacking - Subset of Robbery",1,6,3,3,4
@@ -18,7 +18,7 @@
 "Folwell","Carjacking - Subset of Robbery",1,9,6,6,9
 "Fulton","Carjacking - Subset of Robbery",1,3,0,1,1
 "Harrison","Carjacking - Subset of Robbery",1,17,13,6,0
-"Hawthorne","Carjacking - Subset of Robbery",7,17,19,7,10
+"Hawthorne","Carjacking - Subset of Robbery",7,17,19,7,11
 "Hiawatha","Carjacking - Subset of Robbery",3,3,5,2,1
 "Holland","Carjacking - Subset of Robbery",1,11,4,6,3
 "Howe","Carjacking - Subset of Robbery",2,3,2,0,2
@@ -44,12 +44,12 @@
 "Standish","Carjacking - Subset of Robbery",4,7,1,2,1
 "Sumner - Glenwood","Carjacking - Subset of Robbery",1,12,6,3,7
 "Tangletown","Carjacking - Subset of Robbery",1,2,1,2,1
-"Ventura Village","Carjacking - Subset of Robbery",12,36,29,14,10
+"Ventura Village","Carjacking - Subset of Robbery",12,36,29,14,11
 "Webber - Camden","Carjacking - Subset of Robbery",1,6,5,4,3
 "Whittier","Carjacking - Subset of Robbery",13,46,41,25,13
-"Willard - Hay","Carjacking - Subset of Robbery",4,9,17,13,4
+"Willard - Hay","Carjacking - Subset of Robbery",4,9,17,13,5
 "Windom Park","Carjacking - Subset of Robbery",1,4,2,1,1
-NA,"Carjacking - Subset of Robbery",2,3,2,2,0
+NA,"Carjacking - Subset of Robbery",2,3,2,2,1
 "Armatage","Carjacking - Subset of Robbery",0,1,1,1,0
 "Audubon Park","Carjacking - Subset of Robbery",0,4,3,2,1
 "Camden Industrial","Carjacking - Subset of Robbery",0,1,0,0,0
@@ -90,7 +90,7 @@ NA,"Carjacking - Subset of Robbery",2,3,2,2,0
 "Beltrami","Total",1,0,0,0,0
 "Bottineau","Total",1,3,1,0,3
 "Bryant","Total",3,6,2,0,1
-"Bryn - Mawr","Total",1,2,4,1,0
+"Bryn - Mawr","Total",1,2,4,1,1
 "Cedar Riverside","Total",3,6,7,6,7
 "Central","Total",11,40,24,11,10
 "Cleveland","Total",1,6,3,3,4
@@ -105,7 +105,7 @@ NA,"Carjacking - Subset of Robbery",2,3,2,2,0
 "Folwell","Total",1,9,6,6,9
 "Fulton","Total",1,3,0,1,1
 "Harrison","Total",1,17,13,6,0
-"Hawthorne","Total",7,17,19,7,10
+"Hawthorne","Total",7,17,19,7,11
 "Hiawatha","Total",3,3,5,2,1
 "Holland","Total",1,11,4,6,3
 "Howe","Total",2,3,2,0,2
@@ -131,12 +131,12 @@ NA,"Carjacking - Subset of Robbery",2,3,2,2,0
 "Standish","Total",4,7,1,2,1
 "Sumner - Glenwood","Total",1,12,6,3,7
 "Tangletown","Total",1,2,1,2,1
-"Ventura Village","Total",12,36,29,14,10
+"Ventura Village","Total",12,36,29,14,11
 "Webber - Camden","Total",1,6,5,4,3
 "Whittier","Total",13,46,41,25,13
-"Willard - Hay","Total",4,9,17,13,4
+"Willard - Hay","Total",4,9,17,13,5
 "Windom Park","Total",1,4,2,1,1
-NA,"Total",2,3,2,2,0
+NA,"Total",2,3,2,2,1
 "Armatage","Total",0,1,1,1,0
 "Audubon Park","Total",0,4,3,2,1
 "Camden Industrial","Total",0,1,0,0,0
