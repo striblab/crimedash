@@ -717,14 +717,17 @@ download_arrest_reports <- function() {
     "https://cde.state.mn.us/DownloadData/ArrestsGroupBByAgeSexDownloadData?ReportYear=2022",
     "https://cde.state.mn.us/DownloadData/ArrestsGroupBByAgeSexDownloadData?ReportYear=2023",
     "https://cde.state.mn.us/DownloadData/ArrestsGroupBByAgeSexDownloadData?ReportYear=2024",
+    "https://cde.state.mn.us/DownloadData/ArrestsGroupBByAgeSexDownloadData?ReportYear=2025",
     "https://cde.state.mn.us/DownloadData/ArrestsGroupBByAgeSexCountyDownloadData?ReportYear=2021",
     "https://cde.state.mn.us/DownloadData/ArrestsGroupBByAgeSexCountyDownloadData?ReportYear=2022",
     "https://cde.state.mn.us/DownloadData/ArrestsGroupBByAgeSexCountyDownloadData?ReportYear=2023",
     "https://cde.state.mn.us/DownloadData/ArrestsGroupBByAgeSexCountyDownloadData?ReportYear=2024",
+    "https://cde.state.mn.us/DownloadData/ArrestsGroupBByAgeSexCountyDownloadData?ReportYear=2025",
     "https://cde.state.mn.us/DownloadData/ArrestsAdultJuvenileGroupBByAgeRaceDownloadData?ReportYear=2021",
     "https://cde.state.mn.us/DownloadData/ArrestsAdultJuvenileGroupBByAgeRaceDownloadData?ReportYear=2022",
     "https://cde.state.mn.us/DownloadData/ArrestsAdultJuvenileGroupBByAgeRaceDownloadData?ReportYear=2023",
-    "https://cde.state.mn.us/DownloadData/ArrestsAdultJuvenileGroupBByAgeRaceDownloadData?ReportYear=2024"
+    "https://cde.state.mn.us/DownloadData/ArrestsAdultJuvenileGroupBByAgeRaceDownloadData?ReportYear=2024",
+    "https://cde.state.mn.us/DownloadData/ArrestsAdultJuvenileGroupBByAgeRaceDownloadData?ReportYear=2025"
   )
   
  map(urls, function(url) {
@@ -748,7 +751,8 @@ download_suburban_reports <- function() {
     "https://cde.state.mn.us/DownloadData/OffenseCountyMunicipalByAgencyDownloadData?ReportYear=2021",
     "https://cde.state.mn.us/DownloadData/OffenseCountyMunicipalByAgencyDownloadData?ReportYear=2022",
     "https://cde.state.mn.us/DownloadData/OffenseCountyMunicipalByAgencyDownloadData?ReportYear=2023",
-    "https://cde.state.mn.us/DownloadData/OffenseCountyMunicipalByAgencyDownloadData?ReportYear=2024"
+    "https://cde.state.mn.us/DownloadData/OffenseCountyMunicipalByAgencyDownloadData?ReportYear=2024",
+    "https://cde.state.mn.us/DownloadData/OffenseCountyMunicipalByAgencyDownloadData?ReportYear=2025"
   )
   
  map(urls, function(url) {

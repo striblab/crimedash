@@ -451,7 +451,7 @@
     "Year": 2024,
     "Month": 5,
     "Offense": "All Other Larceny",
-    "IncidentCount": 539,
+    "IncidentCount": 538,
     "Date": "2024-05-01"
   },
   {
@@ -500,8 +500,15 @@
     "Year": 2024,
     "Month": 12,
     "Offense": "All Other Larceny",
-    "IncidentCount": 480,
+    "IncidentCount": 520,
     "Date": "2024-12-01"
+  },
+  {
+    "Year": 2025,
+    "Month": 1,
+    "Offense": "All Other Larceny",
+    "IncidentCount": 61,
+    "Date": "2025-01-01"
   },
   {
     "Year": 2019,
@@ -962,7 +969,7 @@
     "Year": 2024,
     "Month": 6,
     "Offense": "Theft From Motor Vehicle",
-    "IncidentCount": 428,
+    "IncidentCount": 427,
     "Date": "2024-06-01"
   },
   {
@@ -1004,8 +1011,15 @@
     "Year": 2024,
     "Month": 12,
     "Offense": "Theft From Motor Vehicle",
-    "IncidentCount": 240,
+    "IncidentCount": 296,
     "Date": "2024-12-01"
+  },
+  {
+    "Year": 2025,
+    "Month": 1,
+    "Offense": "Theft From Motor Vehicle",
+    "IncidentCount": 36,
+    "Date": "2025-01-01"
   },
   {
     "Year": 2019,
@@ -1669,7 +1683,7 @@
     "Year": 2024,
     "Month": 12,
     "Offense": "Purse-snatching",
-    "IncidentCount": 1,
+    "IncidentCount": 2,
     "Date": "2024-12-01"
   },
   {
@@ -2166,15 +2180,22 @@
     "Year": 2024,
     "Month": 11,
     "Offense": "Shoplifting",
-    "IncidentCount": 80,
+    "IncidentCount": 81,
     "Date": "2024-11-01"
   },
   {
     "Year": 2024,
     "Month": 12,
     "Offense": "Shoplifting",
-    "IncidentCount": 71,
+    "IncidentCount": 77,
     "Date": "2024-12-01"
+  },
+  {
+    "Year": 2025,
+    "Month": 1,
+    "Offense": "Shoplifting",
+    "IncidentCount": 8,
+    "Date": "2025-01-01"
   },
   {
     "Year": 2019,
@@ -2677,8 +2698,15 @@
     "Year": 2024,
     "Month": 12,
     "Offense": "Theft From Building",
-    "IncidentCount": 13,
+    "IncidentCount": 16,
     "Date": "2024-12-01"
+  },
+  {
+    "Year": 2025,
+    "Month": 1,
+    "Offense": "Theft From Building",
+    "IncidentCount": 1,
+    "Date": "2025-01-01"
   },
   {
     "Year": 2019,
@@ -2756,6 +2784,13 @@
     "Offense": "Theft From Coin-Operated Machine or Device",
     "IncidentCount": 2,
     "Date": "2024-06-01"
+  },
+  {
+    "Year": 2024,
+    "Month": 12,
+    "Offense": "Theft From Coin-Operated Machine or Device",
+    "IncidentCount": 1,
+    "Date": "2024-12-01"
   },
   {
     "Year": 2019,
@@ -3258,7 +3293,14 @@
     "Year": 2024,
     "Month": 12,
     "Offense": "Theft of Motor Vehicle Parts or Accessories",
-    "IncidentCount": 61,
+    "IncidentCount": 78,
     "Date": "2024-12-01"
+  },
+  {
+    "Year": 2025,
+    "Month": 1,
+    "Offense": "Theft of Motor Vehicle Parts or Accessories",
+    "IncidentCount": 14,
+    "Date": "2025-01-01"
   }
 ]

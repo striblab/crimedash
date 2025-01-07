@@ -63,14 +63,15 @@
 2024,2,"All Other Larceny",434,2024-02-01
 2024,3,"All Other Larceny",426,2024-03-01
 2024,4,"All Other Larceny",447,2024-04-01
-2024,5,"All Other Larceny",539,2024-05-01
+2024,5,"All Other Larceny",538,2024-05-01
 2024,6,"All Other Larceny",562,2024-06-01
 2024,7,"All Other Larceny",635,2024-07-01
 2024,8,"All Other Larceny",711,2024-08-01
 2024,9,"All Other Larceny",667,2024-09-01
 2024,10,"All Other Larceny",727,2024-10-01
 2024,11,"All Other Larceny",525,2024-11-01
-2024,12,"All Other Larceny",480,2024-12-01
+2024,12,"All Other Larceny",520,2024-12-01
+2025,1,"All Other Larceny",61,2025-01-01
 2019,1,"Theft From Motor Vehicle",282,2019-01-01
 2019,2,"Theft From Motor Vehicle",266,2019-02-01
 2019,3,"Theft From Motor Vehicle",257,2019-03-01
@@ -136,13 +137,14 @@
 2024,3,"Theft From Motor Vehicle",232,2024-03-01
 2024,4,"Theft From Motor Vehicle",313,2024-04-01
 2024,5,"Theft From Motor Vehicle",339,2024-05-01
-2024,6,"Theft From Motor Vehicle",428,2024-06-01
+2024,6,"Theft From Motor Vehicle",427,2024-06-01
 2024,7,"Theft From Motor Vehicle",437,2024-07-01
 2024,8,"Theft From Motor Vehicle",442,2024-08-01
 2024,9,"Theft From Motor Vehicle",429,2024-09-01
 2024,10,"Theft From Motor Vehicle",477,2024-10-01
 2024,11,"Theft From Motor Vehicle",399,2024-11-01
-2024,12,"Theft From Motor Vehicle",240,2024-12-01
+2024,12,"Theft From Motor Vehicle",296,2024-12-01
+2025,1,"Theft From Motor Vehicle",36,2025-01-01
 2019,1,"Pocket-picking",2,2019-01-01
 2019,4,"Pocket-picking",4,2019-04-01
 2019,5,"Pocket-picking",2,2019-05-01
@@ -237,7 +239,7 @@
 2024,9,"Purse-snatching",8,2024-09-01
 2024,10,"Purse-snatching",5,2024-10-01
 2024,11,"Purse-snatching",4,2024-11-01
-2024,12,"Purse-snatching",1,2024-12-01
+2024,12,"Purse-snatching",2,2024-12-01
 2019,1,"Shoplifting",65,2019-01-01
 2019,2,"Shoplifting",85,2019-02-01
 2019,3,"Shoplifting",94,2019-03-01
@@ -308,8 +310,9 @@
 2024,8,"Shoplifting",77,2024-08-01
 2024,9,"Shoplifting",85,2024-09-01
 2024,10,"Shoplifting",91,2024-10-01
-2024,11,"Shoplifting",80,2024-11-01
-2024,12,"Shoplifting",71,2024-12-01
+2024,11,"Shoplifting",81,2024-11-01
+2024,12,"Shoplifting",77,2024-12-01
+2025,1,"Shoplifting",8,2025-01-01
 2019,1,"Theft From Building",24,2019-01-01
 2019,2,"Theft From Building",19,2019-02-01
 2019,3,"Theft From Building",16,2019-03-01
@@ -381,7 +384,8 @@
 2024,9,"Theft From Building",20,2024-09-01
 2024,10,"Theft From Building",19,2024-10-01
 2024,11,"Theft From Building",13,2024-11-01
-2024,12,"Theft From Building",13,2024-12-01
+2024,12,"Theft From Building",16,2024-12-01
+2025,1,"Theft From Building",1,2025-01-01
 2019,3,"Theft From Coin-Operated Machine or Device",2,2019-03-01
 2019,5,"Theft From Coin-Operated Machine or Device",1,2019-05-01
 2019,6,"Theft From Coin-Operated Machine or Device",1,2019-06-01
@@ -393,6 +397,7 @@
 2024,1,"Theft From Coin-Operated Machine or Device",1,2024-01-01
 2024,5,"Theft From Coin-Operated Machine or Device",1,2024-05-01
 2024,6,"Theft From Coin-Operated Machine or Device",2,2024-06-01
+2024,12,"Theft From Coin-Operated Machine or Device",1,2024-12-01
 2019,1,"Theft of Motor Vehicle Parts or Accessories",8,2019-01-01
 2019,2,"Theft of Motor Vehicle Parts or Accessories",11,2019-02-01
 2019,3,"Theft of Motor Vehicle Parts or Accessories",18,2019-03-01
@@ -464,4 +469,5 @@
 2024,9,"Theft of Motor Vehicle Parts or Accessories",75,2024-09-01
 2024,10,"Theft of Motor Vehicle Parts or Accessories",74,2024-10-01
 2024,11,"Theft of Motor Vehicle Parts or Accessories",46,2024-11-01
-2024,12,"Theft of Motor Vehicle Parts or Accessories",61,2024-12-01
+2024,12,"Theft of Motor Vehicle Parts or Accessories",78,2024-12-01
+2025,1,"Theft of Motor Vehicle Parts or Accessories",14,2025-01-01

@@ -27,7 +27,12 @@
   {
     "Year": 2024,
     "Offense": "All Other Larceny",
-    "OffenseCount": 6608
+    "OffenseCount": 6647
+  },
+  {
+    "Year": 2025,
+    "Offense": "All Other Larceny",
+    "OffenseCount": 61
   },
   {
     "Year": 2019,
@@ -57,7 +62,12 @@
   {
     "Year": 2024,
     "Offense": "Theft From Motor Vehicle",
-    "OffenseCount": 4221
+    "OffenseCount": 4276
+  },
+  {
+    "Year": 2025,
+    "Offense": "Theft From Motor Vehicle",
+    "OffenseCount": 36
   },
   {
     "Year": 2019,
@@ -117,7 +127,7 @@
   {
     "Year": 2024,
     "Offense": "Purse-snatching",
-    "OffenseCount": 80
+    "OffenseCount": 81
   },
   {
     "Year": 2019,
@@ -147,7 +157,12 @@
   {
     "Year": 2024,
     "Offense": "Shoplifting",
-    "OffenseCount": 824
+    "OffenseCount": 831
+  },
+  {
+    "Year": 2025,
+    "Offense": "Shoplifting",
+    "OffenseCount": 8
   },
   {
     "Year": 2019,
@@ -177,7 +192,12 @@
   {
     "Year": 2024,
     "Offense": "Theft From Building",
-    "OffenseCount": 161
+    "OffenseCount": 164
+  },
+  {
+    "Year": 2025,
+    "Offense": "Theft From Building",
+    "OffenseCount": 1
   },
   {
     "Year": 2019,
@@ -197,7 +217,7 @@
   {
     "Year": 2024,
     "Offense": "Theft From Coin-Operated Machine or Device",
-    "OffenseCount": 4
+    "OffenseCount": 5
   },
   {
     "Year": 2019,
@@ -227,6 +247,11 @@
   {
     "Year": 2024,
     "Offense": "Theft of Motor Vehicle Parts or Accessories",
-    "OffenseCount": 893
+    "OffenseCount": 910
+  },
+  {
+    "Year": 2025,
+    "Offense": "Theft of Motor Vehicle Parts or Accessories",
+    "OffenseCount": 14
   }
 ]

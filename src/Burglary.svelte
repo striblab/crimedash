@@ -165,7 +165,7 @@
   <h4>Burglaries by neighborhood</h4>
   <p>Click a map to expand.</p>
   <div class="map-container">
-    {#each ['../store/burglary/burglary_map_2019.svg', '../store/burglary/burglary_map_2020.svg', '../store/burglary/burglary_map_2021.svg', '../store/burglary/burglary_map_2022.svg', '../store/burglary/burglary_map_2023.svg', '../store/burglary/burglary_map_2024.svg'] as image}
+    {#each ['../store/burglary/burglary_map_2019.svg', '../store/burglary/burglary_map_2020.svg', '../store/burglary/burglary_map_2021.svg', '../store/burglary/burglary_map_2022.svg', '../store/burglary/burglary_map_2023.svg', '../store/burglary/burglary_map_2024.svg', '../store/burglary/burglary_map_2024.svg'] as image}
       <img src={image} alt={`burglary Map ${image.slice(-8, -4)}`} on:click={() => openLightbox(image)}>
     {/each}
   </div>

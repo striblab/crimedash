@@ -104,7 +104,9 @@
 
 <h4 class="source">Data sources: Minneapolis Police Department</h4>
 
-<div class="def"><p>The Star Tribune uses a speciaized calculation for its historical Minneapolis homicide rates that includes murder cases investigated by MPD, officer-involved deaths and self-defense killings. The following data is just murders investigated by MPD unless otherwise noted.</p></div>
+<div class="def">
+  <p>The following data reflects murders investigated by MPD.</p>
+  <p>For crime trend stories, the Star Tribune uses a speciaized calculation for its historical Minneapolis homicide rates that combines murder cases investigated by MPD, officer-involved deaths and self-defense killings.</p></div>
 
 {#if murderYTDComparison && murderYTDComparison.length > 0}
 <p>
@@ -174,7 +176,7 @@
 <h4>Murders by neighborhood</h4>
 <p>Click a map to expand.</p>
 <div class="map-container">
-  {#each ['../store/murder/murder_map_2019.svg', '../store/murder/murder_map_2020.svg', '../store/murder/murder_map_2021.svg', '../store/murder/murder_map_2022.svg', '../store/murder/murder_map_2023.svg', '../store/murder/murder_map_2024.svg'] as image}
+  {#each ['../store/murder/murder_map_2019.svg', '../store/murder/murder_map_2020.svg', '../store/murder/murder_map_2021.svg', '../store/murder/murder_map_2022.svg', '../store/murder/murder_map_2023.svg', '../store/murder/murder_map_2024.svg', '../store/murder/murder_map_2025.svg'] as image}
     <img src={image} alt={`Murder Map ${image.slice(-8, -4)}`} on:click={() => openLightbox(image)}>
   {/each}
 </div>

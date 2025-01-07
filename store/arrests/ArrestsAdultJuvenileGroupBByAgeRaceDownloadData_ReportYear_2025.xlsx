@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html lang="en" xml:lang="en">
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <meta name="keywords" content="MNCDE, MN-CDE, Minnesota Crime Data Explorer, crime data, law enforcement agencies, state statute, federal law, criminal activity, arrest information, bias motivated crime, firearms discharge, law enforcement employee information, law enforcement officers, killed, assaulted, missing persons, offense data, crimes against persons, crimes against property, crimes against society, pursuits, use-of-force, 5-year index crime trends, Minnesota Uniform Crime Report" />
+
+    
+
+    
+        <link href="/Assets/Bootstrap/bootstrap.css" rel="stylesheet" />
+        <link href="/Content/Site.css" rel="stylesheet" />
+        <link href="/Assets/Font-awesome/css/all.css" rel="stylesheet" />
+        <link href="/Assets/BcaBootstrap/bca-bootstrap-extensions.css" rel="stylesheet" />
+        <link href="/Assets/FontSource/roboto/400.css" rel="stylesheet" />
+        <link href="/Assets/FontSource/roboto/400-italic.css" rel="stylesheet" />
+        <link href="/Assets/FontSource/roboto/500.css" rel="stylesheet" />
+        <link href="/Assets/FontSource/roboto/500-italic.css" rel="stylesheet" />
+        <link href="/Assets/FontSource/roboto/700.css" rel="stylesheet" />
+        <link href="/Assets/FontSource/roboto/700-italic.css" rel="stylesheet" />
+        <link href="/Assets/FontSource/roboto-slab/500.css" rel="stylesheet" />
+    
+
+    <title>Group B Arrests by Race and Age Data | Minnesota Crime Data Explorer | Bureau of Criminal Apprehension</title>
+    <meta content="text/html; charset=utf-8" />
+</head>
+<body class="d-flex flex-column min-vh-100">
+
+    <nav class="navbar navbar-dark navbar-expand-lg navbar-custom sticky-top">
+        <div class="container">
+            <a class="navbar-brand  text-white font-weight-bold" href="/">Minnesota Crime Data Explorer</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#cdeNavbarContent" aria-controls="cdeNavbarContent" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+
+            <div class="collapse navbar-collapse" id="cdeNavbarContent">
+                <ul class="navbar-nav">
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle text-white ml-3" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="true">
+                            Reporting Areas
+                        </a>
+                        <ul class="dropdown-menu text-black-50" aria-labelledby="navbarDropdown">
+                            <li><a class="dropdown-item" href="/Arrests/Arrests">Arrests</a></li>
+                            <li><a class="dropdown-item" href="/BiasMotivatedCrimes/BiasMotivatedCrimes">Bias Motivated Crimes</a></li>
+                            <li><a class="dropdown-item" href="/Carjacking/Carjacking">Carjacking</a></li>
+                            <li><a class="dropdown-item" href="/CrimesAgainstPerson/CrimesAgainstPerson">Crimes Against Persons</a></li>
+                            <li><a class="dropdown-item" href="/CrimesAgainstProperty/CrimesAgainstProperty">Crimes Against Property</a></li>
+                            <li><a class="dropdown-item" href="/CrimesAgainstSociety/CrimesAgainstSociety">Crimes Against Society</a></li>
+                            <li><a class="dropdown-item" href="/DrugArrests/DrugArrests">Drug Arrests</a></li>
+                            <li><a class="dropdown-item" href="/FirearmsDischarge/FirearmsDischarge">Firearms Discharge</a></li>
+                            <li><a class="dropdown-item" href="/FiveYearIndexCrimeTrends/FiveYearIndexCrimeTrends">5-Year Index Crime Trends</a></li>
+                            <li><a class="dropdown-item" href="/LawEnforcementEmployeeInformation/LawEnforcementEmployeeInformation">Law Enforcement Employee Information</a></li>
+                            <li><a class="dropdown-item" href="/LawEnforcementOfficersKilledandAssaulted/LawEnforcementOfficersKilledandAssaulted">Law Enforcement Officers Killed and Assaulted</a></li>
+                            <li><a class="dropdown-item" href="/MissingPersons/MissingPersons">Missing Persons</a></li>
+                            <li><a class="dropdown-item" href="/Pursuits/Pursuits">Pursuits</a></li>
+                            <li><a class="dropdown-item" href="/UseOfForce/UseOfForce">Use-of-Force</a></li>
+                        </ul>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle text-white ml-3" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="true">
+                            Download Data
+                        </a>
+                        <ul class="dropdown-menu text-black-50" aria-labelledby="navbarDropdown">
+                            <li><a class="dropdown-item" href="/DownloadData/ArrestsByJudicialDistrictDownload">Arrests by Judicial Districts Data</a></li>
+                            <li><a class="dropdown-item" href="/DownloadData/BiasMotivatedCrimeDownload">Bias Motivated Crime Data</a></li>
+                            <li><a class="dropdown-item" href="/DownloadData/OffenseCountyMunicipalByAgencyDownload">County and Municipal Offense Information by Agencies</a></li>
+                            <li><a class="dropdown-item" href="/DownloadData/OffenseCountyMunicipalByCountyDownload">County and Municipal Offense Information by County</a></li>
+                            <li><a class="dropdown-item" href="/DownloadData/CrimeRateAndClearanceByAgencyDownload">Crime Rate and Clearances by Agency Data</a></li>
+                            <li><a class="dropdown-item" href="/DownloadData/CrimeRateClearanceByJudicialCountyDownload">Crime Rate and Clearances by Judicial District and County Data</a></li>
+                            <li><a class="dropdown-item" href="/DownloadData/OffenseByJudicialDistrictDownload">Crimes by Judicial Districts Data</a></li>
+                            <li><a class="dropdown-item" href="/DownloadData/ArrestsDrugByAgencyDownload">Drug Arrests by Agency</a></li>
+                            <li><a class="dropdown-item" href="/DownloadData/ArrestsDrugByCountyDownload">Drug Arrests by County</a></li>
+                            <li><a class="dropdown-item" href="/DownloadData/FirearmsDischargeDownload">Firearms Discharge Data</a></li>
+                            <li><a class="dropdown-item" href="/DownloadData/ArrestsGroupAByAgeSexDownload">Group A Arrests by Age and Sex Data</a></li>
+                            <li><a class="dropdown-item" href="/DownloadData/ArrestsGroupAByAgeSexCountyDownload">Group A Arrests by Age, Sex and by County Data</a></li>
+                            <li><a class="dropdown-item" href="/DownloadData/ArrestsAdultJuvenileGroupAByAgeRaceDownload">Group A Arrests by Race and Age Data</a></li>
+                            <li><a class="dropdown-item" href="/DownloadData/ArrestsGroupBByAgeSexDownload">Group B Arrests by Age and Sex Data</a></li>
+                            <li><a class="dropdown-item" href="/DownloadData/ArrestsGroupBByAgeSexCountyDownload">Group B Arrests by Age, Sex and by County Data</a></li>
+                            <li><a class="dropdown-item" href="/DownloadData/ArrestsAdultJuvenileGroupBByAgeRaceDownload">Group B Arrests by Race and Age Data</a></li>
+                            <li><a class="dropdown-item" href="/DownloadData/HistoricalCrimeIndexDownload">Historical Crime Index Summary</a></li>
+                            <li><a class="dropdown-item" href="/DownloadData/LawEnforcementEmployeeDataDownload">Law Enforcement Employee Data</a></li>
+                            <li><a class="dropdown-item" href="/DownloadData/PursuitDownload">Pursuit Data</a></li>
+                            <li><a class="dropdown-item" href="/DownloadData/PursuitDetailsDownload">Pursuit Details</a></li>
+                            <li><a class="dropdown-item" href="/DownloadData/ArrestsAdultJuvenileByAgencyDownload">Total Adult and Juvenile Arrests by Agency Data</a></li>
+                            <li><a class="dropdown-item" href="/DownloadData/TotalAdultandJuvenileArrestsbyCountyDownload">Total Adult and Juvenile Arrests by County Data</a></li>
+                            <li><a class="dropdown-item" href="/DownloadData/UseOfForceDownload">Use-of-Force Data</a></li>
+                        </ul>
+                    </li>
+                    <li class="nav-item ">
+                        <a class="nav-link  text-white ml-3" href="/home/DataUpdate">When is Data Updated?</a>
+                    </li>
+                    <li class="nav-item ">
+                        <a class="nav-link  text-white ml-3" href="/home/About">About CDE</a>
+                    </li>
+                    <li class="nav-item ">
+                        <a class="nav-link  text-white ml-3" href=https://youtu.be/7lebI-2AoLc target="_blank" rel="noopener">View Online Tutorial</a>
+                    </li>
+                    <li class="nav-item ">
+                        <a id="glossary" class="nav-link  text-white ml-3" href="#">Glossary</a>
+                    </li>
+
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <div class="container body-content">
+        <div class="flex-wrap flex-grow-1">
+            <div class="flex-column mt-4">
+    <p>
+        Data about new incidents are added to the Crime Data Explorer on the 15th of the following month. Once published, all data are updated on a daily basis. A CSV file containing all public data is available for download using the link below. The file contains race and age arrest data.
+    </p>
+
+    <div class="float-container">
+<form action="/DownloadData/ArrestsAdultJuvenileGroupBByAgeRaceDownloadData" method="get">            <div class="row">
+                <div class="col-lg-2 mt-3">
+                    <label class="col-form-label" for="ReportYear">Published Data by Year</label>
+                </div>
+                <div class="col-lg-2 mt-3">
+                    <select class="form-select" data-val="true" data-val-required="The Published Data by Year field is required." id="ReportYear" name="ReportYear"><option value="2021">2021</option>
+<option value="2022">2022</option>
+<option value="2023">2023</option>
+<option value="2024">2024</option>
+<option selected="selected" value="2025">2025</option>
+</select>
+                </div>
+                <div class="col-lg-8 mt-2">
+                    <button type="submit" id="downloadAJbyCountyData" class="btn btn-primary btn-lg">Download Group B Arrests by Race and Age Data</button>
+                </div>
+            </div>
+            <div class="float-child"><span id="noDataMessage" class="text-danger lead ">Data for this time period is not available</span></div>
+</form>    </div>
+</div>
+        </div>
+    </div>
+    <footer class="footer mt-auto py-3">
+        <div class="container">
+            <div class="d-flex justify-content-around flex-wrap">
+                <div class="d-flex flex-column w-30 flex-fill">
+
+                    <address>
+                        <a href="http://mn.gov/portal/" target="_blank" rel="noopener  noreferrer">State of Minnesota</a><br />
+                        <strong>Minnesota Bureau of Criminal Apprehension</strong><br />
+                        Minnesota Justice Information Services<br />
+                        <a href="https://goo.gl/maps/JYKnEHhRiBR2" target="_blank" rel="noopener  noreferrer">
+                            1430 Maryland Ave E, St. Paul, MN 55106
+                        </a><br />
+                    </address>
+                    <p>MN - Crime Data Explorer Version 1.7.1 - &copy; State of Minnesota 2025 </p>
+                </div>
+                <div class="d-flex flex-column w-30 p-2 flex-fill">
+                    <a href="https://dps.mn.gov/divisions/bca/Pages/default.aspx" target="_blank" rel="noopener  noreferrer"><img src="/Content/images/BCA-Logo-(clr).png" class="img-fluid" id="bca-logo" alt="Minnesota Bureau of Criminal Apprehension" /></a>
+                </div>
+                <div class="d-flex flex-column w-30 pt-2 p-2 flex-fill">
+                    <a href="https://dps.mn.gov/Pages/default.aspx" target="_blank" rel="noopener  noreferrer"><img src="/Content/images/dps-logo-full.png" id="dps-logo" class="img-fluid" alt="Minnesota Department of Public Safety" /></a>
+                </div>
+            </div>
+
+        </div>
+    </footer>
+
+
+
+    
+
+    
+        <script src="/Assets/Scripts/js/jquery.min.js"></script>
+        <script src="/Assets/Scripts/js/bootstrap.bundle.min.js"></script>
+        <script src="/Scripts/bca.js"></script>
+        <script type='text/javascript' src='/javascripts/api/viz_v1.js'></script>
+    
+
+</body>
+</html>

@@ -57,6 +57,9 @@
 <p>Granulated arrest data is hard to come by, but a lot of broad statistics are available from the BCA. Here are the most recent arrest sheets available:</p>
 
 <div class="download">
+  <a href="../store/arrests/ArrestsByJudicialDistrictDownloadDataReportYear2025.xlsx">Arrests by Judicial District 2025</a>
+</div>
+<div class="download">
     <a href="../store/arrests/ArrestsByJudicialDistrictDownloadDataReportYear2024.xlsx">Arrests by Judicial District 2024</a>
   </div>
   <div class="download">
@@ -76,6 +79,9 @@
   </div>
   <div class="download">
     <a href="../store/arrests/ArrestsDrugByAgencyDownloadDataReportYear2023.xlsx">Drug Arrests by Agency 2023</a>
+  </div>
+  <div class="download">
+    <a href="../store/arrests/ArrestsDrugByAgencyDownloadDataReportYear2025.xlsx">Drug Arrests by Agency 2025</a>
   </div>
   <div class="download">
     <a href="../store/arrests/ArrestsDrugByAgencyDownloadDataReportYear2024.xlsx">Drug Arrests by Agency 2024</a>
@@ -105,6 +111,9 @@
     <a href="../store/arrests/ArrestsGroupAByAgeSexDownloadDataReportYear2024.xlsx">Group A Arrests by Age and Sex 2024</a>
   </div>
   <div class="download">
+    <a href="../store/arrests/ArrestsGroupAByAgeSexDownloadDataReportYear2025.xlsx">Group A Arrests by Age and Sex 2025</a>
+  </div>
+  <div class="download">
     <a href="../store/arrests/ArrestsGroupAByAgeSexCountyDownloadDataReportYear2021.xlsx">Group A Arrests by Age, Sex, and County 2021</a>
   </div>
   <div class="download">
@@ -115,6 +124,9 @@
   </div>
   <div class="download">
     <a href="../store/arrests/ArrestsGroupAByAgeSexCountyDownloadDataReportYear2024.xlsx">Group A Arrests by Age, Sex, and County 2024</a>
+  </div>
+  <div class="download">
+    <a href="../store/arrests/ArrestsGroupAByAgeSexCountyDownloadDataReportYear2025.xlsx">Group A Arrests by Age, Sex, and County 2025</a>
   </div>
   <div class="download">
     <a href="../store/arrests/ArrestsAdultJuvenileGroupAByAgeRaceDownloadDataReportYear2021.xlsx">Adult and Juvenile Group A Arrests by Age and Race 2021</a>
@@ -129,6 +141,9 @@
     <a href="../store/arrests/ArrestsAdultJuvenileGroupAByAgeRaceDownloadDataReportYear2024.xlsx">Adult and Juvenile Group A Arrests by Age and Race 2024</a>
   </div>
   <div class="download">
+    <a href="../store/arrests/ArrestsAdultJuvenileGroupAByAgeRaceDownloadDataReportYear2025.xlsx">Adult and Juvenile Group A Arrests by Age and Race 2025</a>
+  </div>
+  <div class="download">
     <a href="../store/arrests/ArrestsGroupBByAgeSexDownloadDataReportYear2021.xlsx">Group B Arrests by Age and Sex 2021</a>
   </div>
   <div class="download">
@@ -139,6 +154,9 @@
   </div>
   <div class="download">
     <a href="../store/arrests/ArrestsGroupBByAgeSexDownloadDataReportYear2024.xlsx">Group B Arrests by Age and Sex 2024</a>
+  </div>
+  <div class="download">
+    <a href="../store/arrests/ArrestsGroupBByAgeSexDownloadDataReportYear2025.xlsx">Group B Arrests by Age and Sex 2025</a>
   </div>
   <div class="download">
     <a href="../store/arrests/ArrestsGroupBByAgeSexCountyDownloadDataReportYear2021.xlsx">Group B Arrests by Age, Sex, and County 2021</a>
@@ -153,6 +171,9 @@
     <a href="../store/arrests/ArrestsGroupBByAgeSexCountyDownloadDataReportYear2024.xlsx">Group B Arrests by Age, Sex, and County 2024</a>
   </div>
   <div class="download">
+    <a href="../store/arrests/ArrestsGroupBByAgeSexCountyDownloadDataReportYear2025.xlsx">Group B Arrests by Age, Sex, and County 2025</a>
+  </div>
+  <div class="download">
     <a href="../store/arrests/ArrestsAdultJuvenileGroupBByAgeRaceDownloadDataReportYear2021.xlsx">Adult and Juvenile Group B Arrests by Age and Race 2021</a>
   </div>
   <div class="download">
@@ -163,6 +184,9 @@
   </div>
   <div class="download">
     <a href="../store/arrests/ArrestsAdultJuvenileGroupBByAgeRaceDownloadDataReportYear2024.xlsx">Adult and Juvenile Group B Arrests by Age and Race 2024</a>
+  </div>
+  <div class="download">
+    <a href="../store/arrests/ArrestsAdultJuvenileGroupBByAgeRaceDownloadDataReportYear2025.xlsx">Adult and Juvenile Group B Arrests by Age and Race 2025</a>
   </div>
 
 <h4>Links</h4>
