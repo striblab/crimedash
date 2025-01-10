@@ -3,25 +3,25 @@
     "Year": 2019,
     "Precinct": 1,
     "Offense": "Drug/Narcotic Violations",
-    "OffenseCount": 412
+    "OffenseCount": 410
   },
   {
     "Year": 2019,
     "Precinct": 2,
     "Offense": "Drug/Narcotic Violations",
-    "OffenseCount": 251
+    "OffenseCount": 249
   },
   {
     "Year": 2019,
     "Precinct": 3,
     "Offense": "Drug/Narcotic Violations",
-    "OffenseCount": 377
+    "OffenseCount": 375
   },
   {
     "Year": 2019,
     "Precinct": 4,
     "Offense": "Drug/Narcotic Violations",
-    "OffenseCount": 472
+    "OffenseCount": 471
   },
   {
     "Year": 2019,
@@ -38,36 +38,36 @@
     "Year": 2020,
     "Precinct": 1,
     "Offense": "Drug/Narcotic Violations",
-    "OffenseCount": 238
+    "OffenseCount": 246
   },
   {
     "Year": 2020,
     "Precinct": 2,
     "Offense": "Drug/Narcotic Violations",
-    "OffenseCount": 152
+    "OffenseCount": 156
   },
   {
     "Year": 2020,
     "Precinct": 3,
     "Offense": "Drug/Narcotic Violations",
-    "OffenseCount": 255
+    "OffenseCount": 261
   },
   {
     "Year": 2020,
     "Precinct": 4,
     "Offense": "Drug/Narcotic Violations",
-    "OffenseCount": 455
+    "OffenseCount": 460
   },
   {
     "Year": 2020,
     "Precinct": 5,
     "Offense": "Drug/Narcotic Violations",
-    "OffenseCount": 159
+    "OffenseCount": 160
   },
   {
     "Year": 2020,
     "Offense": "Drug/Narcotic Violations",
-    "OffenseCount": 48
+    "OffenseCount": 49
   },
   {
     "Year": 2021,
@@ -219,18 +219,23 @@
     "Year": 2025,
     "Precinct": 3,
     "Offense": "Drug/Narcotic Violations",
-    "OffenseCount": 5
+    "OffenseCount": 7
   },
   {
     "Year": 2025,
     "Precinct": 4,
     "Offense": "Drug/Narcotic Violations",
-    "OffenseCount": 5
+    "OffenseCount": 7
   },
   {
     "Year": 2025,
     "Precinct": 5,
     "Offense": "Drug/Narcotic Violations",
-    "OffenseCount": 3
+    "OffenseCount": 5
+  },
+  {
+    "Year": 2025,
+    "Offense": "Drug/Narcotic Violations",
+    "OffenseCount": 1
   }
 ]

@@ -3,36 +3,31 @@
     "Year": 2020,
     "Precinct": 1,
     "Offense": "Carjacking - Subset of Robbery",
-    "OffenseCount": 7
+    "OffenseCount": 3
   },
   {
     "Year": 2020,
     "Precinct": 2,
     "Offense": "Carjacking - Subset of Robbery",
-    "OffenseCount": 14
+    "OffenseCount": 12
   },
   {
     "Year": 2020,
     "Precinct": 3,
     "Offense": "Carjacking - Subset of Robbery",
-    "OffenseCount": 83
+    "OffenseCount": 69
   },
   {
     "Year": 2020,
     "Precinct": 4,
     "Offense": "Carjacking - Subset of Robbery",
-    "OffenseCount": 29
+    "OffenseCount": 24
   },
   {
     "Year": 2020,
     "Precinct": 5,
     "Offense": "Carjacking - Subset of Robbery",
-    "OffenseCount": 43
-  },
-  {
-    "Year": 2020,
-    "Offense": "Carjacking - Subset of Robbery",
-    "OffenseCount": 2
+    "OffenseCount": 39
   },
   {
     "Year": 2021,
@@ -44,25 +39,25 @@
     "Year": 2021,
     "Precinct": 2,
     "Offense": "Carjacking - Subset of Robbery",
-    "OffenseCount": 59
+    "OffenseCount": 54
   },
   {
     "Year": 2021,
     "Precinct": 3,
     "Offense": "Carjacking - Subset of Robbery",
-    "OffenseCount": 263
+    "OffenseCount": 236
   },
   {
     "Year": 2021,
     "Precinct": 4,
     "Offense": "Carjacking - Subset of Robbery",
-    "OffenseCount": 150
+    "OffenseCount": 142
   },
   {
     "Year": 2021,
     "Precinct": 5,
     "Offense": "Carjacking - Subset of Robbery",
-    "OffenseCount": 149
+    "OffenseCount": 140
   },
   {
     "Year": 2021,
@@ -196,6 +191,6 @@
     "Year": 2025,
     "Precinct": 5,
     "Offense": "Carjacking - Subset of Robbery",
-    "OffenseCount": 1
+    "OffenseCount": 2
   }
 ]

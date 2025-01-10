@@ -27,7 +27,7 @@
     "Year": 2019,
     "Precinct": 5,
     "Offense": "Arson",
-    "OffenseCount": 9
+    "OffenseCount": 8
   },
   {
     "Year": 2020,
@@ -198,5 +198,17 @@
     "Precinct": 5,
     "Offense": "Arson",
     "OffenseCount": 23
+  },
+  {
+    "Year": 2025,
+    "Precinct": 1,
+    "Offense": "Arson",
+    "OffenseCount": 1
+  },
+  {
+    "Year": 2025,
+    "Precinct": 3,
+    "Offense": "Arson",
+    "OffenseCount": 1
   }
 ]
