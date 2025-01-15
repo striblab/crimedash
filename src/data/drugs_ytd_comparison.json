@@ -1,49 +1,49 @@
 [
   {
-    "YTDCount": 47,
+    "YTDCount": 67,
     "Year": 2019,
     "Offense": "Drug/Narcotic Violations"
   },
   {
-    "YTDCount": 41,
+    "YTDCount": 58,
     "Year": 2020,
     "Offense": "Drug/Narcotic Violations",
-    "PrevYTDCount": 47,
-    "YTDPercentageChange": -12.766
+    "PrevYTDCount": 67,
+    "YTDPercentageChange": -13.4328
   },
   {
-    "YTDCount": 22,
+    "YTDCount": 35,
     "Year": 2021,
     "Offense": "Drug/Narcotic Violations",
-    "PrevYTDCount": 41,
-    "YTDPercentageChange": -46.3415
+    "PrevYTDCount": 58,
+    "YTDPercentageChange": -39.6552
   },
   {
-    "YTDCount": 19,
+    "YTDCount": 26,
     "Year": 2022,
     "Offense": "Drug/Narcotic Violations",
-    "PrevYTDCount": 22,
-    "YTDPercentageChange": -13.6364
+    "PrevYTDCount": 35,
+    "YTDPercentageChange": -25.7143
   },
   {
-    "YTDCount": 13,
+    "YTDCount": 26,
     "Year": 2023,
     "Offense": "Drug/Narcotic Violations",
-    "PrevYTDCount": 19,
-    "YTDPercentageChange": -31.5789
+    "PrevYTDCount": 26,
+    "YTDPercentageChange": 0
   },
   {
-    "YTDCount": 18,
+    "YTDCount": 32,
     "Year": 2024,
     "Offense": "Drug/Narcotic Violations",
-    "PrevYTDCount": 13,
-    "YTDPercentageChange": 38.4615
+    "PrevYTDCount": 26,
+    "YTDPercentageChange": 23.0769
   },
   {
-    "YTDCount": 21,
+    "YTDCount": 31,
     "Year": 2025,
     "Offense": "Drug/Narcotic Violations",
-    "PrevYTDCount": 18,
-    "YTDPercentageChange": 16.6667
+    "PrevYTDCount": 32,
+    "YTDPercentageChange": -3.125
   }
 ]

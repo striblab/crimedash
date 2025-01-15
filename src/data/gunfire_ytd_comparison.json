@@ -5,77 +5,79 @@
     "Offense": "Shooting (PFE)"
   },
   {
-    "YTDCount": 2,
+    "YTDCount": 3,
     "Year": 2020,
     "Offense": "Shooting (PFE)",
     "PrevYTDCount": 1,
-    "YTDPercentageChange": 100
+    "YTDPercentageChange": 200
+  },
+  {
+    "YTDCount": 13,
+    "Year": 2021,
+    "Offense": "Shooting (PFE)",
+    "PrevYTDCount": 3,
+    "YTDPercentageChange": 333.3333
   },
   {
     "YTDCount": 10,
-    "Year": 2021,
+    "Year": 2022,
     "Offense": "Shooting (PFE)",
-    "PrevYTDCount": 2,
-    "YTDPercentageChange": 400
+    "PrevYTDCount": 13,
+    "YTDPercentageChange": -23.0769
+  },
+  {
+    "YTDCount": 18,
+    "Year": 2023,
+    "Offense": "Shooting (PFE)",
+    "PrevYTDCount": 10,
+    "YTDPercentageChange": 80
   },
   {
     "YTDCount": 6,
-    "Year": 2022,
-    "Offense": "Shooting (PFE)",
-    "PrevYTDCount": 10,
-    "YTDPercentageChange": -40
-  },
-  {
-    "YTDCount": 9,
-    "Year": 2023,
-    "Offense": "Shooting (PFE)",
-    "PrevYTDCount": 6,
-    "YTDPercentageChange": 50
-  },
-  {
-    "YTDCount": 5,
     "Year": 2024,
     "Offense": "Shooting (PFE)",
-    "PrevYTDCount": 9,
-    "YTDPercentageChange": -44.4444
+    "PrevYTDCount": 18,
+    "YTDPercentageChange": -66.6667
   },
   {
-    "YTDCount": 2,
+    "YTDCount": 10,
     "Year": 2025,
     "Offense": "Shooting (PFE)",
-    "PrevYTDCount": 5,
-    "YTDPercentageChange": -60
+    "PrevYTDCount": 6,
+    "YTDPercentageChange": 66.6667
   },
   {
-    "YTDCount": 0,
+    "YTDCount": 1,
     "Year": 2019,
     "Offense": "Shooting Report Only (P)"
   },
   {
-    "YTDCount": 2,
+    "YTDCount": 3,
     "Year": 2020,
-    "Offense": "Shooting Report Only (P)"
+    "Offense": "Shooting Report Only (P)",
+    "PrevYTDCount": 1,
+    "YTDPercentageChange": 200
   },
   {
-    "YTDCount": 5,
+    "YTDCount": 8,
     "Year": 2021,
     "Offense": "Shooting Report Only (P)",
-    "PrevYTDCount": 2,
-    "YTDPercentageChange": 150
+    "PrevYTDCount": 3,
+    "YTDPercentageChange": 166.6667
   },
   {
-    "YTDCount": 4,
+    "YTDCount": 6,
     "Year": 2022,
     "Offense": "Shooting Report Only (P)",
-    "PrevYTDCount": 5,
-    "YTDPercentageChange": -20
+    "PrevYTDCount": 8,
+    "YTDPercentageChange": -25
   },
   {
     "YTDCount": 6,
     "Year": 2023,
     "Offense": "Shooting Report Only (P)",
-    "PrevYTDCount": 4,
-    "YTDPercentageChange": 50
+    "PrevYTDCount": 6,
+    "YTDPercentageChange": 0
   },
   {
     "YTDCount": 1,
@@ -85,104 +87,104 @@
     "YTDPercentageChange": -83.3333
   },
   {
-    "YTDCount": 3,
+    "YTDCount": 5,
     "Year": 2025,
     "Offense": "Shooting Report Only (P)",
     "PrevYTDCount": 1,
-    "YTDPercentageChange": 200
+    "YTDPercentageChange": 400
   },
   {
-    "YTDCount": 2,
+    "YTDCount": 7,
     "Year": 2019,
     "Offense": "ShotSpotter Activation (P)"
   },
   {
-    "YTDCount": 99,
+    "YTDCount": 116,
     "Year": 2020,
     "Offense": "ShotSpotter Activation (P)",
-    "PrevYTDCount": 2,
-    "YTDPercentageChange": 4850
+    "PrevYTDCount": 7,
+    "YTDPercentageChange": 1557.1429
   },
   {
-    "YTDCount": 168,
+    "YTDCount": 210,
     "Year": 2021,
     "Offense": "ShotSpotter Activation (P)",
-    "PrevYTDCount": 99,
-    "YTDPercentageChange": 69.697
+    "PrevYTDCount": 116,
+    "YTDPercentageChange": 81.0345
   },
   {
-    "YTDCount": 150,
+    "YTDCount": 190,
     "Year": 2022,
     "Offense": "ShotSpotter Activation (P)",
-    "PrevYTDCount": 168,
-    "YTDPercentageChange": -10.7143
+    "PrevYTDCount": 210,
+    "YTDPercentageChange": -9.5238
   },
   {
-    "YTDCount": 158,
+    "YTDCount": 181,
     "Year": 2023,
     "Offense": "ShotSpotter Activation (P)",
-    "PrevYTDCount": 150,
-    "YTDPercentageChange": 5.3333
+    "PrevYTDCount": 190,
+    "YTDPercentageChange": -4.7368
   },
   {
-    "YTDCount": 56,
+    "YTDCount": 74,
     "Year": 2024,
     "Offense": "ShotSpotter Activation (P)",
-    "PrevYTDCount": 158,
-    "YTDPercentageChange": -64.557
+    "PrevYTDCount": 181,
+    "YTDPercentageChange": -59.116
   },
   {
-    "YTDCount": 93,
+    "YTDCount": 109,
     "Year": 2025,
     "Offense": "ShotSpotter Activation (P)",
-    "PrevYTDCount": 56,
-    "YTDPercentageChange": 66.0714
+    "PrevYTDCount": 74,
+    "YTDPercentageChange": 47.2973
   },
   {
-    "YTDCount": 4,
+    "YTDCount": 6,
     "Year": 2019,
     "Offense": "Sound of Shots Fired (P)"
   },
   {
-    "YTDCount": 36,
+    "YTDCount": 50,
     "Year": 2020,
     "Offense": "Sound of Shots Fired (P)",
-    "PrevYTDCount": 4,
-    "YTDPercentageChange": 800
+    "PrevYTDCount": 6,
+    "YTDPercentageChange": 733.3333
   },
   {
-    "YTDCount": 114,
+    "YTDCount": 129,
     "Year": 2021,
     "Offense": "Sound of Shots Fired (P)",
-    "PrevYTDCount": 36,
-    "YTDPercentageChange": 216.6667
+    "PrevYTDCount": 50,
+    "YTDPercentageChange": 158
   },
   {
-    "YTDCount": 120,
+    "YTDCount": 136,
     "Year": 2022,
     "Offense": "Sound of Shots Fired (P)",
-    "PrevYTDCount": 114,
-    "YTDPercentageChange": 5.2632
+    "PrevYTDCount": 129,
+    "YTDPercentageChange": 5.4264
   },
   {
-    "YTDCount": 72,
+    "YTDCount": 95,
     "Year": 2023,
     "Offense": "Sound of Shots Fired (P)",
-    "PrevYTDCount": 120,
-    "YTDPercentageChange": -40
+    "PrevYTDCount": 136,
+    "YTDPercentageChange": -30.1471
   },
   {
-    "YTDCount": 70,
+    "YTDCount": 92,
     "Year": 2024,
     "Offense": "Sound of Shots Fired (P)",
-    "PrevYTDCount": 72,
-    "YTDPercentageChange": -2.7778
+    "PrevYTDCount": 95,
+    "YTDPercentageChange": -3.1579
   },
   {
-    "YTDCount": 70,
+    "YTDCount": 93,
     "Year": 2025,
     "Offense": "Sound of Shots Fired (P)",
-    "PrevYTDCount": 70,
-    "YTDPercentageChange": 0
+    "PrevYTDCount": 92,
+    "YTDPercentageChange": 1.087
   }
 ]

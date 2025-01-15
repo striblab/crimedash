@@ -1,15 +1,15 @@
 "Year","Precinct","Offense","OffenseCount"
-2019,1,"All Other Larceny",2111
-2019,2,"All Other Larceny",983
-2019,3,"All Other Larceny",1318
+2019,1,"All Other Larceny",2113
+2019,2,"All Other Larceny",984
+2019,3,"All Other Larceny",1321
 2019,4,"All Other Larceny",861
-2019,5,"All Other Larceny",1533
+2019,5,"All Other Larceny",1534
 2019,NA,"All Other Larceny",11
-2020,1,"All Other Larceny",1292
-2020,2,"All Other Larceny",1072
-2020,3,"All Other Larceny",1123
-2020,4,"All Other Larceny",636
-2020,5,"All Other Larceny",1088
+2020,1,"All Other Larceny",1286
+2020,2,"All Other Larceny",1059
+2020,3,"All Other Larceny",1117
+2020,4,"All Other Larceny",630
+2020,5,"All Other Larceny",1083
 2020,NA,"All Other Larceny",7
 2021,1,"All Other Larceny",1344
 2021,2,"All Other Larceny",1213
@@ -30,27 +30,27 @@
 2023,5,"All Other Larceny",1378
 2023,NA,"All Other Larceny",25
 2024,1,"All Other Larceny",1365
-2024,2,"All Other Larceny",1132
-2024,3,"All Other Larceny",1571
+2024,2,"All Other Larceny",1133
+2024,3,"All Other Larceny",1572
 2024,4,"All Other Larceny",903
 2024,5,"All Other Larceny",1656
 2024,NA,"All Other Larceny",22
-2025,1,"All Other Larceny",17
-2025,2,"All Other Larceny",16
-2025,3,"All Other Larceny",31
-2025,4,"All Other Larceny",13
-2025,5,"All Other Larceny",21
+2025,1,"All Other Larceny",21
+2025,2,"All Other Larceny",20
+2025,3,"All Other Larceny",40
+2025,4,"All Other Larceny",18
+2025,5,"All Other Larceny",31
 2019,1,"Theft From Motor Vehicle",780
-2019,2,"Theft From Motor Vehicle",753
-2019,3,"Theft From Motor Vehicle",1313
+2019,2,"Theft From Motor Vehicle",755
+2019,3,"Theft From Motor Vehicle",1315
 2019,4,"Theft From Motor Vehicle",428
-2019,5,"Theft From Motor Vehicle",1256
+2019,5,"Theft From Motor Vehicle",1259
 2019,NA,"Theft From Motor Vehicle",4
-2020,1,"Theft From Motor Vehicle",614
-2020,2,"Theft From Motor Vehicle",801
-2020,3,"Theft From Motor Vehicle",1194
-2020,4,"Theft From Motor Vehicle",480
-2020,5,"Theft From Motor Vehicle",1026
+2020,1,"Theft From Motor Vehicle",610
+2020,2,"Theft From Motor Vehicle",791
+2020,3,"Theft From Motor Vehicle",1183
+2020,4,"Theft From Motor Vehicle",477
+2020,5,"Theft From Motor Vehicle",1017
 2020,NA,"Theft From Motor Vehicle",35
 2021,1,"Theft From Motor Vehicle",609
 2021,2,"Theft From Motor Vehicle",537
@@ -73,14 +73,15 @@
 2024,1,"Theft From Motor Vehicle",719
 2024,2,"Theft From Motor Vehicle",685
 2024,3,"Theft From Motor Vehicle",1249
-2024,4,"Theft From Motor Vehicle",405
+2024,4,"Theft From Motor Vehicle",406
 2024,5,"Theft From Motor Vehicle",1203
 2024,NA,"Theft From Motor Vehicle",16
-2025,1,"Theft From Motor Vehicle",20
-2025,2,"Theft From Motor Vehicle",13
-2025,3,"Theft From Motor Vehicle",18
-2025,4,"Theft From Motor Vehicle",7
-2025,5,"Theft From Motor Vehicle",12
+2025,1,"Theft From Motor Vehicle",29
+2025,2,"Theft From Motor Vehicle",18
+2025,3,"Theft From Motor Vehicle",25
+2025,4,"Theft From Motor Vehicle",8
+2025,5,"Theft From Motor Vehicle",24
+2025,NA,"Theft From Motor Vehicle",3
 2019,1,"Pocket-picking",15
 2019,2,"Pocket-picking",1
 2019,3,"Pocket-picking",1
@@ -101,12 +102,12 @@
 2019,4,"Purse-snatching",43
 2019,5,"Purse-snatching",44
 2019,NA,"Purse-snatching",2
-2020,1,"Purse-snatching",81
-2020,2,"Purse-snatching",50
-2020,3,"Purse-snatching",67
+2020,1,"Purse-snatching",80
+2020,2,"Purse-snatching",49
+2020,3,"Purse-snatching",66
 2020,4,"Purse-snatching",27
-2020,5,"Purse-snatching",52
-2020,NA,"Purse-snatching",2
+2020,5,"Purse-snatching",51
+2020,NA,"Purse-snatching",1
 2021,1,"Purse-snatching",89
 2021,2,"Purse-snatching",42
 2021,3,"Purse-snatching",29
@@ -132,14 +133,14 @@
 2019,1,"Shoplifting",148
 2019,2,"Shoplifting",135
 2019,3,"Shoplifting",446
-2019,4,"Shoplifting",64
-2019,5,"Shoplifting",338
+2019,4,"Shoplifting",65
+2019,5,"Shoplifting",339
 2019,NA,"Shoplifting",1
 2020,1,"Shoplifting",144
-2020,2,"Shoplifting",159
+2020,2,"Shoplifting",158
 2020,3,"Shoplifting",141
 2020,4,"Shoplifting",37
-2020,5,"Shoplifting",141
+2020,5,"Shoplifting",140
 2021,1,"Shoplifting",85
 2021,2,"Shoplifting",104
 2021,3,"Shoplifting",51
@@ -157,12 +158,12 @@
 2023,4,"Shoplifting",11
 2023,5,"Shoplifting",117
 2024,1,"Shoplifting",231
-2024,2,"Shoplifting",301
+2024,2,"Shoplifting",302
 2024,3,"Shoplifting",137
 2024,4,"Shoplifting",20
 2024,5,"Shoplifting",139
-2025,1,"Shoplifting",4
-2025,2,"Shoplifting",11
+2025,1,"Shoplifting",6
+2025,2,"Shoplifting",12
 2025,3,"Shoplifting",2
 2025,4,"Shoplifting",1
 2025,5,"Shoplifting",3
@@ -170,7 +171,7 @@
 2019,2,"Theft From Building",32
 2019,3,"Theft From Building",34
 2019,4,"Theft From Building",30
-2019,5,"Theft From Building",48
+2019,5,"Theft From Building",49
 2020,1,"Theft From Building",38
 2020,2,"Theft From Building",22
 2020,3,"Theft From Building",20
@@ -197,8 +198,10 @@
 2024,3,"Theft From Building",39
 2024,4,"Theft From Building",32
 2024,5,"Theft From Building",30
-2025,1,"Theft From Building",2
-2025,4,"Theft From Building",1
+2025,1,"Theft From Building",4
+2025,2,"Theft From Building",1
+2025,4,"Theft From Building",3
+2025,5,"Theft From Building",1
 2019,1,"Theft From Coin-Operated Machine or Device",3
 2019,3,"Theft From Coin-Operated Machine or Device",1
 2019,5,"Theft From Coin-Operated Machine or Device",3
@@ -214,10 +217,10 @@
 2019,4,"Theft of Motor Vehicle Parts or Accessories",22
 2019,5,"Theft of Motor Vehicle Parts or Accessories",36
 2020,1,"Theft of Motor Vehicle Parts or Accessories",101
-2020,2,"Theft of Motor Vehicle Parts or Accessories",325
-2020,3,"Theft of Motor Vehicle Parts or Accessories",770
-2020,4,"Theft of Motor Vehicle Parts or Accessories",183
-2020,5,"Theft of Motor Vehicle Parts or Accessories",518
+2020,2,"Theft of Motor Vehicle Parts or Accessories",323
+2020,3,"Theft of Motor Vehicle Parts or Accessories",767
+2020,4,"Theft of Motor Vehicle Parts or Accessories",182
+2020,5,"Theft of Motor Vehicle Parts or Accessories",512
 2020,NA,"Theft of Motor Vehicle Parts or Accessories",2
 2021,1,"Theft of Motor Vehicle Parts or Accessories",168
 2021,2,"Theft of Motor Vehicle Parts or Accessories",529
@@ -243,7 +246,7 @@
 2024,4,"Theft of Motor Vehicle Parts or Accessories",124
 2024,5,"Theft of Motor Vehicle Parts or Accessories",214
 2024,NA,"Theft of Motor Vehicle Parts or Accessories",3
-2025,2,"Theft of Motor Vehicle Parts or Accessories",2
-2025,3,"Theft of Motor Vehicle Parts or Accessories",12
-2025,4,"Theft of Motor Vehicle Parts or Accessories",2
-2025,5,"Theft of Motor Vehicle Parts or Accessories",4
+2025,2,"Theft of Motor Vehicle Parts or Accessories",5
+2025,3,"Theft of Motor Vehicle Parts or Accessories",18
+2025,4,"Theft of Motor Vehicle Parts or Accessories",3
+2025,5,"Theft of Motor Vehicle Parts or Accessories",5

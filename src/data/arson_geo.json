@@ -363,6 +363,17 @@
     "X2025": 0
   },
   {
+    "Neighborhood": "Windom",
+    "Offense": "Arson",
+    "X2019": 1,
+    "X2020": 1,
+    "X2021": 0,
+    "X2022": 0,
+    "X2023": 0,
+    "X2024": 0,
+    "X2025": 0
+  },
+  {
     "Neighborhood": "Windom Park",
     "Offense": "Arson",
     "X2019": 1,
@@ -583,17 +594,6 @@
     "X2025": 0
   },
   {
-    "Neighborhood": "Windom",
-    "Offense": "Arson",
-    "X2019": 0,
-    "X2020": 1,
-    "X2021": 0,
-    "X2022": 0,
-    "X2023": 0,
-    "X2024": 0,
-    "X2025": 0
-  },
-  {
     "Offense": "Arson",
     "X2019": 0,
     "X2020": 2,
@@ -645,7 +645,7 @@
     "X2022": 0,
     "X2023": 1,
     "X2024": 0,
-    "X2025": 0
+    "X2025": 1
   },
   {
     "Neighborhood": "Morris Park",
@@ -1231,6 +1231,17 @@
     "X2025": 0
   },
   {
+    "Neighborhood": "Windom",
+    "Offense": "Total",
+    "X2019": 1,
+    "X2020": 1,
+    "X2021": 0,
+    "X2022": 0,
+    "X2023": 0,
+    "X2024": 0,
+    "X2025": 0
+  },
+  {
     "Neighborhood": "Windom Park",
     "Offense": "Total",
     "X2019": 1,
@@ -1451,17 +1462,6 @@
     "X2025": 0
   },
   {
-    "Neighborhood": "Windom",
-    "Offense": "Total",
-    "X2019": 0,
-    "X2020": 1,
-    "X2021": 0,
-    "X2022": 0,
-    "X2023": 0,
-    "X2024": 0,
-    "X2025": 0
-  },
-  {
     "Offense": "Total",
     "X2019": 0,
     "X2020": 2,
@@ -1513,7 +1513,7 @@
     "X2022": 0,
     "X2023": 1,
     "X2024": 0,
-    "X2025": 0
+    "X2025": 1
   },
   {
     "Neighborhood": "Morris Park",
