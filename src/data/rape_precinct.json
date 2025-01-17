@@ -178,7 +178,7 @@
     "Year": 2024,
     "Precinct": 1,
     "Offense": "Sex Offenses",
-    "OffenseCount": 131
+    "OffenseCount": 132
   },
   {
     "Year": 2024,
@@ -225,13 +225,19 @@
     "Year": 2025,
     "Precinct": 3,
     "Offense": "Sex Offenses",
-    "OffenseCount": 5
+    "OffenseCount": 6
   },
   {
     "Year": 2025,
     "Precinct": 4,
     "Offense": "Sex Offenses",
-    "OffenseCount": 8
+    "OffenseCount": 9
+  },
+  {
+    "Year": 2025,
+    "Precinct": 5,
+    "Offense": "Sex Offenses",
+    "OffenseCount": 1
   },
   {
     "Year": 2025,

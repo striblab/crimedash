@@ -83,6 +83,7 @@
 
 
 <ul>
+    <li><a href="https://information.stpaul.gov/apps/1b00c40c873748e6a42dd9ba9e9f533b/explore">SPPD Crime Data Export Tool</a></li>
     <li><a href="https://information.stpaul.gov/datasets/stpaul::crime-incident-report/explore">SPPD Crime Incident Reports</a></li>
     <li><a href="https://information.stpaul.gov/apps/crime-incidents-by-neighborhood/explore">SPPD Police Incidents</a></li>
     <li><a href="https://docs.google.com/spreadsheets/d/1dGId7vn3iwESAXkVbNY58lP0-u10qh5qvFx6HE4HUAM/edit#gid=0">Star Tribune: St. Paul homicides spreadsheet</a></li>
