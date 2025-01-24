@@ -2,7 +2,7 @@
 "Bryn - Mawr","Gunshot Wound Victims",1,1,1,0,0,0,0
 "Cedar - Isles - Dean","Gunshot Wound Victims",1,0,0,0,0,1,0
 "Cedar Riverside","Gunshot Wound Victims",6,6,13,20,5,4,0
-"Central","Gunshot Wound Victims",10,14,10,7,5,7,1
+"Central","Gunshot Wound Victims",10,14,10,7,5,7,2
 "Cleveland","Gunshot Wound Victims",4,3,6,6,2,7,0
 "Downtown West","Gunshot Wound Victims",20,33,30,44,19,24,0
 "East Harriet","Gunshot Wound Victims",1,0,2,0,1,0,0
@@ -19,7 +19,7 @@
 "Lowry Hill East","Gunshot Wound Victims",3,15,8,13,20,8,1
 "Marcy Holmes","Gunshot Wound Victims",4,3,17,7,5,5,0
 "McKinley","Gunshot Wound Victims",5,20,15,11,10,5,0
-"Midtown Phillips","Gunshot Wound Victims",9,19,30,20,12,17,1
+"Midtown Phillips","Gunshot Wound Victims",9,19,30,20,12,17,3
 "Near - North","Gunshot Wound Victims",13,40,38,36,20,16,1
 "North Loop","Gunshot Wound Victims",2,2,3,6,4,4,0
 "Northeast Park","Gunshot Wound Victims",2,0,1,1,0,1,0
@@ -33,7 +33,7 @@
 "Ventura Village","Gunshot Wound Victims",11,24,33,21,40,22,1
 "Waite Park","Gunshot Wound Victims",1,0,2,0,0,0,0
 "Webber - Camden","Gunshot Wound Victims",13,18,23,12,12,7,0
-"Whittier","Gunshot Wound Victims",3,10,14,18,20,31,0
+"Whittier","Gunshot Wound Victims",3,10,14,18,20,31,2
 "Willard - Hay","Gunshot Wound Victims",21,23,31,13,19,17,1
 "Audubon Park","Gunshot Wound Victims",0,2,2,0,0,3,0
 "Bancroft","Gunshot Wound Victims",0,1,3,2,1,2,0
@@ -44,7 +44,7 @@
 "Keewaydin","Gunshot Wound Victims",0,2,0,0,0,0,0
 "Linden Hills","Gunshot Wound Victims",0,2,0,0,1,0,0
 "Loring Park","Gunshot Wound Victims",0,4,10,15,12,5,0
-"Lyndale","Gunshot Wound Victims",0,2,1,8,3,6,0
+"Lyndale","Gunshot Wound Victims",0,2,1,8,3,6,1
 "Morris Park","Gunshot Wound Victims",0,1,2,0,0,0,0
 "Regina","Gunshot Wound Victims",0,1,1,0,0,0,0
 "Shingle Creek","Gunshot Wound Victims",0,6,3,3,2,1,0
@@ -80,7 +80,7 @@ NA,"Gunshot Wound Victims",0,3,6,4,6,3,0
 "Bryn - Mawr","Total",1,1,1,0,0,0,0
 "Cedar - Isles - Dean","Total",1,0,0,0,0,1,0
 "Cedar Riverside","Total",6,6,13,20,5,4,0
-"Central","Total",10,14,10,7,5,7,1
+"Central","Total",10,14,10,7,5,7,2
 "Cleveland","Total",4,3,6,6,2,7,0
 "Downtown West","Total",20,33,30,44,19,24,0
 "East Harriet","Total",1,0,2,0,1,0,0
@@ -97,7 +97,7 @@ NA,"Gunshot Wound Victims",0,3,6,4,6,3,0
 "Lowry Hill East","Total",3,15,8,13,20,8,1
 "Marcy Holmes","Total",4,3,17,7,5,5,0
 "McKinley","Total",5,20,15,11,10,5,0
-"Midtown Phillips","Total",9,19,30,20,12,17,1
+"Midtown Phillips","Total",9,19,30,20,12,17,3
 "Near - North","Total",13,40,38,36,20,16,1
 "North Loop","Total",2,2,3,6,4,4,0
 "Northeast Park","Total",2,0,1,1,0,1,0
@@ -111,7 +111,7 @@ NA,"Gunshot Wound Victims",0,3,6,4,6,3,0
 "Ventura Village","Total",11,24,33,21,40,22,1
 "Waite Park","Total",1,0,2,0,0,0,0
 "Webber - Camden","Total",13,18,23,12,12,7,0
-"Whittier","Total",3,10,14,18,20,31,0
+"Whittier","Total",3,10,14,18,20,31,2
 "Willard - Hay","Total",21,23,31,13,19,17,1
 "Audubon Park","Total",0,2,2,0,0,3,0
 "Bancroft","Total",0,1,3,2,1,2,0
@@ -122,7 +122,7 @@ NA,"Gunshot Wound Victims",0,3,6,4,6,3,0
 "Keewaydin","Total",0,2,0,0,0,0,0
 "Linden Hills","Total",0,2,0,0,1,0,0
 "Loring Park","Total",0,4,10,15,12,5,0
-"Lyndale","Total",0,2,1,8,3,6,0
+"Lyndale","Total",0,2,1,8,3,6,1
 "Morris Park","Total",0,1,2,0,0,0,0
 "Regina","Total",0,1,1,0,0,0,0
 "Shingle Creek","Total",0,6,3,3,2,1,0
