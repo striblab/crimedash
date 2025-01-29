@@ -7,8 +7,8 @@
 "Bryn - Mawr","Drug/Narcotic Violations",4,6,2,2,2,1,0
 "Camden Industrial","Drug/Narcotic Violations",6,3,4,3,1,3,1
 "Cedar - Isles - Dean","Drug/Narcotic Violations",4,7,1,3,3,3,0
-"Cedar Riverside","Drug/Narcotic Violations",26,25,19,40,27,14,0
-"Central","Drug/Narcotic Violations",11,7,5,5,10,19,1
+"Cedar Riverside","Drug/Narcotic Violations",26,25,19,40,27,14,1
+"Central","Drug/Narcotic Violations",11,7,5,5,10,19,2
 "Cleveland","Drug/Narcotic Violations",9,10,6,6,12,7,0
 "Columbia Park","Drug/Narcotic Violations",9,7,3,1,1,1,0
 "Como","Drug/Narcotic Violations",13,9,7,4,3,0,0
@@ -16,7 +16,7 @@
 "Corcoran","Drug/Narcotic Violations",14,5,6,8,9,7,0
 "Diamond Lake","Drug/Narcotic Violations",2,2,0,0,0,1,0
 "Downtown East","Drug/Narcotic Violations",32,18,16,20,27,11,1
-"Downtown West","Drug/Narcotic Violations",244,114,61,117,146,98,5
+"Downtown West","Drug/Narcotic Violations",244,114,61,117,146,98,8
 "East Bde Maka Ska","Drug/Narcotic Violations",1,3,0,0,4,7,0
 "East Harriet","Drug/Narcotic Violations",4,0,3,2,4,1,0
 "East Isles","Drug/Narcotic Violations",11,2,7,3,16,8,2
@@ -47,7 +47,7 @@
 "Marshall Terrace","Drug/Narcotic Violations",14,9,7,6,3,1,0
 "McKinley","Drug/Narcotic Violations",36,31,8,7,15,6,0
 "Mid - City Industrial","Drug/Narcotic Violations",7,8,4,3,3,1,0
-"Midtown Phillips","Drug/Narcotic Violations",41,19,30,33,26,16,0
+"Midtown Phillips","Drug/Narcotic Violations",41,19,30,33,26,16,2
 "Minnehaha","Drug/Narcotic Violations",3,5,4,2,2,2,0
 "Morris Park","Drug/Narcotic Violations",2,3,0,2,1,1,0
 "Near - North","Drug/Narcotic Violations",65,56,37,57,24,12,3
@@ -76,11 +76,11 @@
 "Webber - Camden","Drug/Narcotic Violations",36,27,12,20,32,17,2
 "Wenonah","Drug/Narcotic Violations",4,4,7,3,1,1,0
 "West Maka Ska","Drug/Narcotic Violations",1,1,0,0,0,2,0
-"Whittier","Drug/Narcotic Violations",69,46,38,62,83,78,5
+"Whittier","Drug/Narcotic Violations",69,46,38,62,83,78,7
 "Willard - Hay","Drug/Narcotic Violations",27,43,11,8,18,19,0
 "Windom","Drug/Narcotic Violations",8,8,2,1,3,1,0
 "Windom Park","Drug/Narcotic Violations",27,10,5,8,3,3,0
-NA,"Drug/Narcotic Violations",69,47,34,31,19,21,2
+NA,"Drug/Narcotic Violations",69,47,34,31,19,21,1
 "Armatage","Drug/Narcotic Violations",0,3,1,2,2,1,0
 "Hale","Drug/Narcotic Violations",0,2,0,1,0,0,0
 "Lynnhurst","Drug/Narcotic Violations",0,1,0,0,2,1,0
@@ -94,8 +94,8 @@ NA,"Drug/Narcotic Violations",69,47,34,31,19,21,2
 "Bryn - Mawr","Total",4,6,2,2,2,1,0
 "Camden Industrial","Total",6,3,4,3,1,3,1
 "Cedar - Isles - Dean","Total",4,7,1,3,3,3,0
-"Cedar Riverside","Total",26,25,19,40,27,14,0
-"Central","Total",11,7,5,5,10,19,1
+"Cedar Riverside","Total",26,25,19,40,27,14,1
+"Central","Total",11,7,5,5,10,19,2
 "Cleveland","Total",9,10,6,6,12,7,0
 "Columbia Park","Total",9,7,3,1,1,1,0
 "Como","Total",13,9,7,4,3,0,0
@@ -103,7 +103,7 @@ NA,"Drug/Narcotic Violations",69,47,34,31,19,21,2
 "Corcoran","Total",14,5,6,8,9,7,0
 "Diamond Lake","Total",2,2,0,0,0,1,0
 "Downtown East","Total",32,18,16,20,27,11,1
-"Downtown West","Total",244,114,61,117,146,98,5
+"Downtown West","Total",244,114,61,117,146,98,8
 "East Bde Maka Ska","Total",1,3,0,0,4,7,0
 "East Harriet","Total",4,0,3,2,4,1,0
 "East Isles","Total",11,2,7,3,16,8,2
@@ -134,7 +134,7 @@ NA,"Drug/Narcotic Violations",69,47,34,31,19,21,2
 "Marshall Terrace","Total",14,9,7,6,3,1,0
 "McKinley","Total",36,31,8,7,15,6,0
 "Mid - City Industrial","Total",7,8,4,3,3,1,0
-"Midtown Phillips","Total",41,19,30,33,26,16,0
+"Midtown Phillips","Total",41,19,30,33,26,16,2
 "Minnehaha","Total",3,5,4,2,2,2,0
 "Morris Park","Total",2,3,0,2,1,1,0
 "Near - North","Total",65,56,37,57,24,12,3
@@ -163,11 +163,11 @@ NA,"Drug/Narcotic Violations",69,47,34,31,19,21,2
 "Webber - Camden","Total",36,27,12,20,32,17,2
 "Wenonah","Total",4,4,7,3,1,1,0
 "West Maka Ska","Total",1,1,0,0,0,2,0
-"Whittier","Total",69,46,38,62,83,78,5
+"Whittier","Total",69,46,38,62,83,78,7
 "Willard - Hay","Total",27,43,11,8,18,19,0
 "Windom","Total",8,8,2,1,3,1,0
 "Windom Park","Total",27,10,5,8,3,3,0
-NA,"Total",69,47,34,31,19,21,2
+NA,"Total",69,47,34,31,19,21,1
 "Armatage","Total",0,3,1,2,2,1,0
 "Hale","Total",0,2,0,1,0,0,0
 "Lynnhurst","Total",0,1,0,0,2,1,0

@@ -1,49 +1,49 @@
 [
   {
-    "YTDCount": 12,
+    "YTDCount": 14,
     "Year": 2019,
     "Offense": "Gunshot Wound Victims"
   },
   {
-    "YTDCount": 8,
+    "YTDCount": 12,
     "Year": 2020,
     "Offense": "Gunshot Wound Victims",
-    "PrevYTDCount": 12,
-    "YTDPercentageChange": -33.3333
+    "PrevYTDCount": 14,
+    "YTDPercentageChange": -14.2857
   },
   {
-    "YTDCount": 22,
+    "YTDCount": 24,
     "Year": 2021,
     "Offense": "Gunshot Wound Victims",
-    "PrevYTDCount": 8,
-    "YTDPercentageChange": 175
+    "PrevYTDCount": 12,
+    "YTDPercentageChange": 100
   },
   {
-    "YTDCount": 30,
+    "YTDCount": 34,
     "Year": 2022,
     "Offense": "Gunshot Wound Victims",
-    "PrevYTDCount": 22,
-    "YTDPercentageChange": 36.3636
+    "PrevYTDCount": 24,
+    "YTDPercentageChange": 41.6667
   },
   {
-    "YTDCount": 31,
+    "YTDCount": 34,
     "Year": 2023,
     "Offense": "Gunshot Wound Victims",
-    "PrevYTDCount": 30,
-    "YTDPercentageChange": 3.3333
+    "PrevYTDCount": 34,
+    "YTDPercentageChange": 0
   },
   {
-    "YTDCount": 16,
+    "YTDCount": 18,
     "Year": 2024,
     "Offense": "Gunshot Wound Victims",
-    "PrevYTDCount": 31,
-    "YTDPercentageChange": -48.3871
+    "PrevYTDCount": 34,
+    "YTDPercentageChange": -47.0588
   },
   {
-    "YTDCount": 17,
+    "YTDCount": 20,
     "Year": 2025,
     "Offense": "Gunshot Wound Victims",
-    "PrevYTDCount": 16,
-    "YTDPercentageChange": 6.25
+    "PrevYTDCount": 18,
+    "YTDPercentageChange": 11.1111
   }
 ]

@@ -8,7 +8,7 @@
 "Bryn - Mawr","Robbery",2,5,12,6,3,2,0
 "Camden Industrial","Robbery",2,1,3,1,1,1,1
 "Cedar - Isles - Dean","Robbery",1,4,3,2,7,8,1
-"Cedar Riverside","Robbery",29,50,28,32,22,30,0
+"Cedar Riverside","Robbery",29,50,28,32,22,30,1
 "Central","Robbery",29,80,84,60,51,56,1
 "Cleveland","Robbery",13,8,18,13,8,8,0
 "Columbia Park","Robbery",6,2,1,2,2,2,1
@@ -28,7 +28,7 @@
 "Folwell","Robbery",40,38,26,26,18,30,1
 "Fulton","Robbery",3,3,4,0,2,1,0
 "Hale","Robbery",2,4,2,2,4,2,0
-"Harrison","Robbery",11,12,34,17,24,10,0
+"Harrison","Robbery",11,12,34,17,24,10,1
 "Hawthorne","Robbery",57,76,57,57,47,56,1
 "Hiawatha","Robbery",7,15,11,20,23,14,0
 "Holland","Robbery",13,20,32,15,17,24,1
@@ -38,10 +38,10 @@
 "Kenny","Robbery",3,0,0,0,1,3,0
 "Kenwood","Robbery",1,2,2,2,5,2,0
 "King Field","Robbery",14,18,31,7,17,29,0
-"Lind - Bohanon","Robbery",12,11,13,11,12,7,0
+"Lind - Bohanon","Robbery",12,11,13,11,12,7,1
 "Linden Hills","Robbery",1,5,6,4,6,1,0
-"Logan Park","Robbery",1,9,8,8,8,9,0
-"Longfellow","Robbery",21,33,30,30,22,37,0
+"Logan Park","Robbery",1,9,8,8,8,9,1
+"Longfellow","Robbery",21,33,30,30,22,37,1
 "Loring Park","Robbery",32,39,49,38,39,39,2
 "Lowry Hill","Robbery",3,24,31,23,11,23,0
 "Lowry Hill East","Robbery",36,55,78,95,52,84,2
@@ -49,11 +49,11 @@
 "Lynnhurst","Robbery",1,4,4,0,2,5,0
 "Marcy Holmes","Robbery",31,42,99,64,33,37,3
 "Marshall Terrace","Robbery",2,1,3,6,2,4,0
-"McKinley","Robbery",19,21,26,10,7,9,0
+"McKinley","Robbery",19,21,26,10,7,9,1
 "Mid - City Industrial","Robbery",1,1,4,5,1,1,0
-"Midtown Phillips","Robbery",38,81,79,73,52,50,0
+"Midtown Phillips","Robbery",38,81,79,73,52,50,1
 "Minnehaha","Robbery",2,6,5,6,7,5,0
-"Near - North","Robbery",48,44,53,39,30,36,2
+"Near - North","Robbery",48,44,53,39,30,36,3
 "North Loop","Robbery",21,9,34,23,18,8,0
 "Northeast Park","Robbery",1,7,8,8,5,6,0
 "Northrop","Robbery",5,14,21,23,8,9,0
@@ -62,7 +62,7 @@
 "Powderhorn Park","Robbery",34,77,100,94,44,54,4
 "Prospect Park - East River Road","Robbery",8,19,22,7,8,12,2
 "Regina","Robbery",2,3,9,16,5,7,0
-"Seward","Robbery",17,73,68,34,33,55,0
+"Seward","Robbery",17,73,68,34,33,55,1
 "Sheridan","Robbery",4,14,20,8,11,13,0
 "Shingle Creek","Robbery",2,8,12,3,3,2,0
 "South Uptown","Robbery",13,26,36,30,19,51,2
@@ -70,7 +70,7 @@
 "St. Anthony West","Robbery",2,4,6,2,8,6,0
 "Standish","Robbery",4,21,25,12,14,8,0
 "Steven's Square - Loring Heights","Robbery",23,24,28,46,33,22,1
-"Sumner - Glenwood","Robbery",10,8,20,6,6,14,0
+"Sumner - Glenwood","Robbery",10,8,20,6,6,14,1
 "Tangletown","Robbery",5,6,9,4,7,9,0
 "University of Minnesota","Robbery",2,3,8,4,6,0,0
 "Ventura Village","Robbery",65,122,92,75,51,70,2
@@ -80,10 +80,10 @@
 "Wenonah","Robbery",2,5,6,7,2,3,0
 "West Maka Ska","Robbery",1,4,5,0,2,1,0
 "Whittier","Robbery",63,112,159,127,103,147,3
-"Willard - Hay","Robbery",32,25,35,31,40,20,1
+"Willard - Hay","Robbery",32,25,35,31,40,20,2
 "Windom","Robbery",8,11,9,2,7,6,0
 "Windom Park","Robbery",8,9,13,13,6,15,0
-NA,"Robbery",6,9,8,11,8,10,0
+NA,"Robbery",6,9,8,11,8,10,1
 "Morris Park","Robbery",0,3,1,3,1,1,0
 "Nicollet Island - East Bank","Robbery",0,1,7,10,7,4,0
 "Armatage","Total",3,0,2,2,3,2,0
@@ -95,7 +95,7 @@ NA,"Robbery",6,9,8,11,8,10,0
 "Bryn - Mawr","Total",2,5,12,6,3,2,0
 "Camden Industrial","Total",2,1,3,1,1,1,1
 "Cedar - Isles - Dean","Total",1,4,3,2,7,8,1
-"Cedar Riverside","Total",29,50,28,32,22,30,0
+"Cedar Riverside","Total",29,50,28,32,22,30,1
 "Central","Total",29,80,84,60,51,56,1
 "Cleveland","Total",13,8,18,13,8,8,0
 "Columbia Park","Total",6,2,1,2,2,2,1
@@ -115,7 +115,7 @@ NA,"Robbery",6,9,8,11,8,10,0
 "Folwell","Total",40,38,26,26,18,30,1
 "Fulton","Total",3,3,4,0,2,1,0
 "Hale","Total",2,4,2,2,4,2,0
-"Harrison","Total",11,12,34,17,24,10,0
+"Harrison","Total",11,12,34,17,24,10,1
 "Hawthorne","Total",57,76,57,57,47,56,1
 "Hiawatha","Total",7,15,11,20,23,14,0
 "Holland","Total",13,20,32,15,17,24,1
@@ -125,10 +125,10 @@ NA,"Robbery",6,9,8,11,8,10,0
 "Kenny","Total",3,0,0,0,1,3,0
 "Kenwood","Total",1,2,2,2,5,2,0
 "King Field","Total",14,18,31,7,17,29,0
-"Lind - Bohanon","Total",12,11,13,11,12,7,0
+"Lind - Bohanon","Total",12,11,13,11,12,7,1
 "Linden Hills","Total",1,5,6,4,6,1,0
-"Logan Park","Total",1,9,8,8,8,9,0
-"Longfellow","Total",21,33,30,30,22,37,0
+"Logan Park","Total",1,9,8,8,8,9,1
+"Longfellow","Total",21,33,30,30,22,37,1
 "Loring Park","Total",32,39,49,38,39,39,2
 "Lowry Hill","Total",3,24,31,23,11,23,0
 "Lowry Hill East","Total",36,55,78,95,52,84,2
@@ -136,11 +136,11 @@ NA,"Robbery",6,9,8,11,8,10,0
 "Lynnhurst","Total",1,4,4,0,2,5,0
 "Marcy Holmes","Total",31,42,99,64,33,37,3
 "Marshall Terrace","Total",2,1,3,6,2,4,0
-"McKinley","Total",19,21,26,10,7,9,0
+"McKinley","Total",19,21,26,10,7,9,1
 "Mid - City Industrial","Total",1,1,4,5,1,1,0
-"Midtown Phillips","Total",38,81,79,73,52,50,0
+"Midtown Phillips","Total",38,81,79,73,52,50,1
 "Minnehaha","Total",2,6,5,6,7,5,0
-"Near - North","Total",48,44,53,39,30,36,2
+"Near - North","Total",48,44,53,39,30,36,3
 "North Loop","Total",21,9,34,23,18,8,0
 "Northeast Park","Total",1,7,8,8,5,6,0
 "Northrop","Total",5,14,21,23,8,9,0
@@ -149,7 +149,7 @@ NA,"Robbery",6,9,8,11,8,10,0
 "Powderhorn Park","Total",34,77,100,94,44,54,4
 "Prospect Park - East River Road","Total",8,19,22,7,8,12,2
 "Regina","Total",2,3,9,16,5,7,0
-"Seward","Total",17,73,68,34,33,55,0
+"Seward","Total",17,73,68,34,33,55,1
 "Sheridan","Total",4,14,20,8,11,13,0
 "Shingle Creek","Total",2,8,12,3,3,2,0
 "South Uptown","Total",13,26,36,30,19,51,2
@@ -157,7 +157,7 @@ NA,"Robbery",6,9,8,11,8,10,0
 "St. Anthony West","Total",2,4,6,2,8,6,0
 "Standish","Total",4,21,25,12,14,8,0
 "Steven's Square - Loring Heights","Total",23,24,28,46,33,22,1
-"Sumner - Glenwood","Total",10,8,20,6,6,14,0
+"Sumner - Glenwood","Total",10,8,20,6,6,14,1
 "Tangletown","Total",5,6,9,4,7,9,0
 "University of Minnesota","Total",2,3,8,4,6,0,0
 "Ventura Village","Total",65,122,92,75,51,70,2
@@ -167,9 +167,9 @@ NA,"Robbery",6,9,8,11,8,10,0
 "Wenonah","Total",2,5,6,7,2,3,0
 "West Maka Ska","Total",1,4,5,0,2,1,0
 "Whittier","Total",63,112,159,127,103,147,3
-"Willard - Hay","Total",32,25,35,31,40,20,1
+"Willard - Hay","Total",32,25,35,31,40,20,2
 "Windom","Total",8,11,9,2,7,6,0
 "Windom Park","Total",8,9,13,13,6,15,0
-NA,"Total",6,9,8,11,8,10,0
+NA,"Total",6,9,8,11,8,10,1
 "Morris Park","Total",0,3,1,3,1,1,0
 "Nicollet Island - East Bank","Total",0,1,7,10,7,4,0
