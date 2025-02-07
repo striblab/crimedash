@@ -182,9 +182,15 @@
   },
   {
     "Year": 2025,
+    "Precinct": 2,
+    "Offense": "Carjacking - Subset of Robbery",
+    "OffenseCount": 1
+  },
+  {
+    "Year": 2025,
     "Precinct": 3,
     "Offense": "Carjacking - Subset of Robbery",
-    "OffenseCount": 5
+    "OffenseCount": 9
   },
   {
     "Year": 2025,
@@ -196,6 +202,6 @@
     "Year": 2025,
     "Precinct": 5,
     "Offense": "Carjacking - Subset of Robbery",
-    "OffenseCount": 3
+    "OffenseCount": 5
   }
 ]

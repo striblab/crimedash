@@ -507,8 +507,15 @@
     "Year": 2025,
     "Month": 1,
     "Offense": "All Other Larceny",
-    "IncidentCount": 290,
+    "IncidentCount": 409,
     "Date": "2025-01-01"
+  },
+  {
+    "Year": 2025,
+    "Month": 2,
+    "Offense": "All Other Larceny",
+    "IncidentCount": 44,
+    "Date": "2025-02-01"
   },
   {
     "Year": 2019,
@@ -1011,15 +1018,22 @@
     "Year": 2024,
     "Month": 12,
     "Offense": "Theft From Motor Vehicle",
-    "IncidentCount": 299,
+    "IncidentCount": 300,
     "Date": "2024-12-01"
   },
   {
     "Year": 2025,
     "Month": 1,
     "Offense": "Theft From Motor Vehicle",
-    "IncidentCount": 242,
+    "IncidentCount": 353,
     "Date": "2025-01-01"
+  },
+  {
+    "Year": 2025,
+    "Month": 2,
+    "Offense": "Theft From Motor Vehicle",
+    "IncidentCount": 22,
+    "Date": "2025-02-01"
   },
   {
     "Year": 2019,
@@ -1683,14 +1697,14 @@
     "Year": 2024,
     "Month": 12,
     "Offense": "Purse-snatching",
-    "IncidentCount": 2,
+    "IncidentCount": 3,
     "Date": "2024-12-01"
   },
   {
     "Year": 2025,
     "Month": 1,
     "Offense": "Purse-snatching",
-    "IncidentCount": 3,
+    "IncidentCount": 4,
     "Date": "2025-01-01"
   },
   {
@@ -2194,15 +2208,22 @@
     "Year": 2024,
     "Month": 12,
     "Offense": "Shoplifting",
-    "IncidentCount": 75,
+    "IncidentCount": 76,
     "Date": "2024-12-01"
   },
   {
     "Year": 2025,
     "Month": 1,
     "Offense": "Shoplifting",
-    "IncidentCount": 56,
+    "IncidentCount": 68,
     "Date": "2025-01-01"
+  },
+  {
+    "Year": 2025,
+    "Month": 2,
+    "Offense": "Shoplifting",
+    "IncidentCount": 8,
+    "Date": "2025-02-01"
   },
   {
     "Year": 2019,
@@ -2712,8 +2733,15 @@
     "Year": 2025,
     "Month": 1,
     "Offense": "Theft From Building",
-    "IncidentCount": 14,
+    "IncidentCount": 18,
     "Date": "2025-01-01"
+  },
+  {
+    "Year": 2025,
+    "Month": 2,
+    "Offense": "Theft From Building",
+    "IncidentCount": 2,
+    "Date": "2025-02-01"
   },
   {
     "Year": 2019,
@@ -3307,7 +3335,14 @@
     "Year": 2025,
     "Month": 1,
     "Offense": "Theft of Motor Vehicle Parts or Accessories",
-    "IncidentCount": 69,
+    "IncidentCount": 86,
     "Date": "2025-01-01"
+  },
+  {
+    "Year": 2025,
+    "Month": 2,
+    "Offense": "Theft of Motor Vehicle Parts or Accessories",
+    "IncidentCount": 15,
+    "Date": "2025-02-01"
   }
 ]
