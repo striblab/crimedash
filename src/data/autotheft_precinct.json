@@ -108,31 +108,31 @@
     "Year": 2022,
     "Precinct": 1,
     "Offense": "Motor Vehicle Theft",
-    "OffenseCount": 648
+    "OffenseCount": 646
   },
   {
     "Year": 2022,
     "Precinct": 2,
     "Offense": "Motor Vehicle Theft",
-    "OffenseCount": 906
+    "OffenseCount": 896
   },
   {
     "Year": 2022,
     "Precinct": 3,
     "Offense": "Motor Vehicle Theft",
-    "OffenseCount": 1814
+    "OffenseCount": 1811
   },
   {
     "Year": 2022,
     "Precinct": 4,
     "Offense": "Motor Vehicle Theft",
-    "OffenseCount": 1234
+    "OffenseCount": 1229
   },
   {
     "Year": 2022,
     "Precinct": 5,
     "Offense": "Motor Vehicle Theft",
-    "OffenseCount": 1675
+    "OffenseCount": 1670
   },
   {
     "Year": 2022,
@@ -143,31 +143,31 @@
     "Year": 2023,
     "Precinct": 1,
     "Offense": "Motor Vehicle Theft",
-    "OffenseCount": 752
+    "OffenseCount": 730
   },
   {
     "Year": 2023,
     "Precinct": 2,
     "Offense": "Motor Vehicle Theft",
-    "OffenseCount": 1245
+    "OffenseCount": 1216
   },
   {
     "Year": 2023,
     "Precinct": 3,
     "Offense": "Motor Vehicle Theft",
-    "OffenseCount": 2368
+    "OffenseCount": 2300
   },
   {
     "Year": 2023,
     "Precinct": 4,
     "Offense": "Motor Vehicle Theft",
-    "OffenseCount": 1350
+    "OffenseCount": 1318
   },
   {
     "Year": 2023,
     "Precinct": 5,
     "Offense": "Motor Vehicle Theft",
-    "OffenseCount": 2145
+    "OffenseCount": 2100
   },
   {
     "Year": 2023,
@@ -213,30 +213,35 @@
     "Year": 2025,
     "Precinct": 1,
     "Offense": "Motor Vehicle Theft",
-    "OffenseCount": 50
+    "OffenseCount": 52
   },
   {
     "Year": 2025,
     "Precinct": 2,
     "Offense": "Motor Vehicle Theft",
-    "OffenseCount": 59
+    "OffenseCount": 61
   },
   {
     "Year": 2025,
     "Precinct": 3,
     "Offense": "Motor Vehicle Theft",
-    "OffenseCount": 149
+    "OffenseCount": 159
   },
   {
     "Year": 2025,
     "Precinct": 4,
     "Offense": "Motor Vehicle Theft",
-    "OffenseCount": 85
+    "OffenseCount": 96
   },
   {
     "Year": 2025,
     "Precinct": 5,
     "Offense": "Motor Vehicle Theft",
-    "OffenseCount": 112
+    "OffenseCount": 127
+  },
+  {
+    "Year": 2025,
+    "Offense": "Motor Vehicle Theft",
+    "OffenseCount": 1
   }
 ]

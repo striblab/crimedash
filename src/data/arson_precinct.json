@@ -150,19 +150,19 @@
     "Year": 2023,
     "Precinct": 3,
     "Offense": "Arson",
-    "OffenseCount": 46
+    "OffenseCount": 44
   },
   {
     "Year": 2023,
     "Precinct": 4,
     "Offense": "Arson",
-    "OffenseCount": 38
+    "OffenseCount": 37
   },
   {
     "Year": 2023,
     "Precinct": 5,
     "Offense": "Arson",
-    "OffenseCount": 29
+    "OffenseCount": 28
   },
   {
     "Year": 2023,
@@ -202,6 +202,12 @@
   {
     "Year": 2025,
     "Precinct": 1,
+    "Offense": "Arson",
+    "OffenseCount": 1
+  },
+  {
+    "Year": 2025,
+    "Precinct": 2,
     "Offense": "Arson",
     "OffenseCount": 1
   },

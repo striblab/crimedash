@@ -7,13 +7,13 @@
 "Bryant","Domestic Aggravated Assault - Subset of Assault",3,5,3,5,3,8,0
 "Bryn - Mawr","Domestic Aggravated Assault - Subset of Assault",1,2,2,1,1,5,0
 "Cedar - Isles - Dean","Domestic Aggravated Assault - Subset of Assault",1,2,0,1,3,0,0
-"Cedar Riverside","Domestic Aggravated Assault - Subset of Assault",10,10,11,9,15,12,3
+"Cedar Riverside","Domestic Aggravated Assault - Subset of Assault",10,10,11,9,15,12,4
 "Central","Domestic Aggravated Assault - Subset of Assault",20,17,14,15,8,26,0
 "Cleveland","Domestic Aggravated Assault - Subset of Assault",14,9,15,13,7,9,0
 "Columbia Park","Domestic Aggravated Assault - Subset of Assault",3,1,8,5,3,2,0
 "Como","Domestic Aggravated Assault - Subset of Assault",7,10,16,15,13,7,3
 "Cooper","Domestic Aggravated Assault - Subset of Assault",4,1,2,2,2,1,0
-"Corcoran","Domestic Aggravated Assault - Subset of Assault",5,5,6,12,18,14,1
+"Corcoran","Domestic Aggravated Assault - Subset of Assault",5,5,6,12,18,14,2
 "Diamond Lake","Domestic Aggravated Assault - Subset of Assault",7,2,3,1,3,2,0
 "Downtown East","Domestic Aggravated Assault - Subset of Assault",3,1,4,6,13,2,0
 "Downtown West","Domestic Aggravated Assault - Subset of Assault",24,19,33,27,25,29,4
@@ -31,7 +31,7 @@
 "Hiawatha","Domestic Aggravated Assault - Subset of Assault",11,7,4,1,11,6,0
 "Holland","Domestic Aggravated Assault - Subset of Assault",10,15,18,10,19,14,0
 "Howe","Domestic Aggravated Assault - Subset of Assault",4,8,5,5,3,9,0
-"Jordan","Domestic Aggravated Assault - Subset of Assault",68,67,55,57,59,59,5
+"Jordan","Domestic Aggravated Assault - Subset of Assault",68,67,55,57,59,59,6
 "Kenwood","Domestic Aggravated Assault - Subset of Assault",1,2,1,1,0,1,0
 "King Field","Domestic Aggravated Assault - Subset of Assault",5,9,7,3,8,6,1
 "Lind - Bohanon","Domestic Aggravated Assault - Subset of Assault",16,23,22,16,9,15,2
@@ -51,7 +51,7 @@
 "Minnehaha","Domestic Aggravated Assault - Subset of Assault",3,8,3,5,8,4,0
 "Morris Park","Domestic Aggravated Assault - Subset of Assault",3,1,6,1,2,1,0
 "Near - North","Domestic Aggravated Assault - Subset of Assault",65,45,31,40,41,48,5
-"Nicollet Island - East Bank","Domestic Aggravated Assault - Subset of Assault",3,4,3,2,7,3,0
+"Nicollet Island - East Bank","Domestic Aggravated Assault - Subset of Assault",3,4,3,2,7,3,1
 "North Loop","Domestic Aggravated Assault - Subset of Assault",3,5,5,11,6,10,1
 "Northeast Park","Domestic Aggravated Assault - Subset of Assault",2,1,4,2,1,1,0
 "Northrop","Domestic Aggravated Assault - Subset of Assault",2,1,6,4,1,3,0
@@ -66,14 +66,14 @@
 "St. Anthony East","Domestic Aggravated Assault - Subset of Assault",6,1,2,2,1,5,0
 "St. Anthony West","Domestic Aggravated Assault - Subset of Assault",3,2,1,1,1,2,0
 "Standish","Domestic Aggravated Assault - Subset of Assault",4,5,1,8,3,7,1
-"Steven's Square - Loring Heights","Domestic Aggravated Assault - Subset of Assault",21,19,18,21,32,24,3
+"Steven's Square - Loring Heights","Domestic Aggravated Assault - Subset of Assault",21,19,18,21,32,24,4
 "Sumner - Glenwood","Domestic Aggravated Assault - Subset of Assault",9,14,6,12,8,9,0
 "Tangletown","Domestic Aggravated Assault - Subset of Assault",1,3,2,0,4,0,0
 "Ventura Village","Domestic Aggravated Assault - Subset of Assault",29,19,17,37,27,19,1
 "Victory","Domestic Aggravated Assault - Subset of Assault",3,9,9,3,8,10,0
 "Waite Park","Domestic Aggravated Assault - Subset of Assault",11,1,2,2,3,0,0
 "Webber - Camden","Domestic Aggravated Assault - Subset of Assault",46,38,20,21,31,29,2
-"Wenonah","Domestic Aggravated Assault - Subset of Assault",11,13,13,13,8,6,0
+"Wenonah","Domestic Aggravated Assault - Subset of Assault",11,13,13,13,8,6,1
 "West Maka Ska","Domestic Aggravated Assault - Subset of Assault",7,3,1,3,3,6,0
 "Whittier","Domestic Aggravated Assault - Subset of Assault",48,45,40,65,53,57,6
 "Willard - Hay","Domestic Aggravated Assault - Subset of Assault",60,48,33,53,48,45,2
@@ -95,13 +95,13 @@ NA,"Domestic Aggravated Assault - Subset of Assault",3,4,4,4,7,4,3
 "Bryant","Total",3,5,3,5,3,8,0
 "Bryn - Mawr","Total",1,2,2,1,1,5,0
 "Cedar - Isles - Dean","Total",1,2,0,1,3,0,0
-"Cedar Riverside","Total",10,10,11,9,15,12,3
+"Cedar Riverside","Total",10,10,11,9,15,12,4
 "Central","Total",20,17,14,15,8,26,0
 "Cleveland","Total",14,9,15,13,7,9,0
 "Columbia Park","Total",3,1,8,5,3,2,0
 "Como","Total",7,10,16,15,13,7,3
 "Cooper","Total",4,1,2,2,2,1,0
-"Corcoran","Total",5,5,6,12,18,14,1
+"Corcoran","Total",5,5,6,12,18,14,2
 "Diamond Lake","Total",7,2,3,1,3,2,0
 "Downtown East","Total",3,1,4,6,13,2,0
 "Downtown West","Total",24,19,33,27,25,29,4
@@ -119,7 +119,7 @@ NA,"Domestic Aggravated Assault - Subset of Assault",3,4,4,4,7,4,3
 "Hiawatha","Total",11,7,4,1,11,6,0
 "Holland","Total",10,15,18,10,19,14,0
 "Howe","Total",4,8,5,5,3,9,0
-"Jordan","Total",68,67,55,57,59,59,5
+"Jordan","Total",68,67,55,57,59,59,6
 "Kenwood","Total",1,2,1,1,0,1,0
 "King Field","Total",5,9,7,3,8,6,1
 "Lind - Bohanon","Total",16,23,22,16,9,15,2
@@ -139,7 +139,7 @@ NA,"Domestic Aggravated Assault - Subset of Assault",3,4,4,4,7,4,3
 "Minnehaha","Total",3,8,3,5,8,4,0
 "Morris Park","Total",3,1,6,1,2,1,0
 "Near - North","Total",65,45,31,40,41,48,5
-"Nicollet Island - East Bank","Total",3,4,3,2,7,3,0
+"Nicollet Island - East Bank","Total",3,4,3,2,7,3,1
 "North Loop","Total",3,5,5,11,6,10,1
 "Northeast Park","Total",2,1,4,2,1,1,0
 "Northrop","Total",2,1,6,4,1,3,0
@@ -154,14 +154,14 @@ NA,"Domestic Aggravated Assault - Subset of Assault",3,4,4,4,7,4,3
 "St. Anthony East","Total",6,1,2,2,1,5,0
 "St. Anthony West","Total",3,2,1,1,1,2,0
 "Standish","Total",4,5,1,8,3,7,1
-"Steven's Square - Loring Heights","Total",21,19,18,21,32,24,3
+"Steven's Square - Loring Heights","Total",21,19,18,21,32,24,4
 "Sumner - Glenwood","Total",9,14,6,12,8,9,0
 "Tangletown","Total",1,3,2,0,4,0,0
 "Ventura Village","Total",29,19,17,37,27,19,1
 "Victory","Total",3,9,9,3,8,10,0
 "Waite Park","Total",11,1,2,2,3,0,0
 "Webber - Camden","Total",46,38,20,21,31,29,2
-"Wenonah","Total",11,13,13,13,8,6,0
+"Wenonah","Total",11,13,13,13,8,6,1
 "West Maka Ska","Total",7,3,1,3,3,6,0
 "Whittier","Total",48,45,40,65,53,57,6
 "Willard - Hay","Total",60,48,33,53,48,45,2

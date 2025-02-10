@@ -332,7 +332,7 @@
     "Year": 2023,
     "Month": 1,
     "Offense": "Murder and Nonnegligent Manslaughter",
-    "IncidentCount": 5,
+    "IncidentCount": 3,
     "Date": "2023-01-01"
   },
   {
@@ -502,5 +502,12 @@
     "Offense": "Murder and Nonnegligent Manslaughter",
     "IncidentCount": 5,
     "Date": "2025-01-01"
+  },
+  {
+    "Year": 2025,
+    "Month": 2,
+    "Offense": "Murder and Nonnegligent Manslaughter",
+    "IncidentCount": 2,
+    "Date": "2025-02-01"
   }
 ]

@@ -17,12 +17,12 @@
   {
     "Year": 2022,
     "Offense": "All Other Larceny",
-    "OffenseCount": 5947
+    "OffenseCount": 5528
   },
   {
     "Year": 2023,
     "Offense": "All Other Larceny",
-    "OffenseCount": 5785
+    "OffenseCount": 5755
   },
   {
     "Year": 2024,
@@ -32,7 +32,7 @@
   {
     "Year": 2025,
     "Offense": "All Other Larceny",
-    "OffenseCount": 453
+    "OffenseCount": 495
   },
   {
     "Year": 2019,
@@ -52,12 +52,12 @@
   {
     "Year": 2022,
     "Offense": "Theft From Motor Vehicle",
-    "OffenseCount": 3708
+    "OffenseCount": 3456
   },
   {
     "Year": 2023,
     "Offense": "Theft From Motor Vehicle",
-    "OffenseCount": 3769
+    "OffenseCount": 3740
   },
   {
     "Year": 2024,
@@ -67,7 +67,7 @@
   {
     "Year": 2025,
     "Offense": "Theft From Motor Vehicle",
-    "OffenseCount": 375
+    "OffenseCount": 414
   },
   {
     "Year": 2019,
@@ -122,7 +122,7 @@
   {
     "Year": 2023,
     "Offense": "Purse-snatching",
-    "OffenseCount": 93
+    "OffenseCount": 92
   },
   {
     "Year": 2024,
@@ -152,12 +152,12 @@
   {
     "Year": 2022,
     "Offense": "Shoplifting",
-    "OffenseCount": 709
+    "OffenseCount": 660
   },
   {
     "Year": 2023,
     "Offense": "Shoplifting",
-    "OffenseCount": 615
+    "OffenseCount": 610
   },
   {
     "Year": 2024,
@@ -167,7 +167,7 @@
   {
     "Year": 2025,
     "Offense": "Shoplifting",
-    "OffenseCount": 76
+    "OffenseCount": 85
   },
   {
     "Year": 2019,
@@ -187,7 +187,7 @@
   {
     "Year": 2022,
     "Offense": "Theft From Building",
-    "OffenseCount": 100
+    "OffenseCount": 98
   },
   {
     "Year": 2023,
@@ -202,17 +202,12 @@
   {
     "Year": 2025,
     "Offense": "Theft From Building",
-    "OffenseCount": 20
+    "OffenseCount": 22
   },
   {
     "Year": 2019,
     "Offense": "Theft From Coin-Operated Machine or Device",
     "OffenseCount": 7
-  },
-  {
-    "Year": 2022,
-    "Offense": "Theft From Coin-Operated Machine or Device",
-    "OffenseCount": 1
   },
   {
     "Year": 2023,
@@ -242,12 +237,12 @@
   {
     "Year": 2022,
     "Offense": "Theft of Motor Vehicle Parts or Accessories",
-    "OffenseCount": 3272
+    "OffenseCount": 3141
   },
   {
     "Year": 2023,
     "Offense": "Theft of Motor Vehicle Parts or Accessories",
-    "OffenseCount": 1823
+    "OffenseCount": 1805
   },
   {
     "Year": 2024,
@@ -257,6 +252,6 @@
   {
     "Year": 2025,
     "Offense": "Theft of Motor Vehicle Parts or Accessories",
-    "OffenseCount": 101
+    "OffenseCount": 116
   }
 ]
