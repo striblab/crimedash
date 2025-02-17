@@ -20,13 +20,13 @@
 "Marcy Holmes","Gunshot Wound Victims",4,3,17,7,5,5,1
 "McKinley","Gunshot Wound Victims",5,20,15,11,10,5,0
 "Midtown Phillips","Gunshot Wound Victims",9,19,30,20,12,17,3
-"Near - North","Gunshot Wound Victims",13,40,38,36,20,16,2
+"Near - North","Gunshot Wound Victims",13,40,38,36,20,16,3
 "North Loop","Gunshot Wound Victims",2,2,3,6,4,4,0
 "Northeast Park","Gunshot Wound Victims",2,0,1,1,0,1,0
 "Phillips West","Gunshot Wound Victims",11,7,17,9,3,20,0
 "Powderhorn Park","Gunshot Wound Victims",2,27,16,19,6,6,0
 "Prospect Park - East River Road","Gunshot Wound Victims",2,0,3,1,2,1,0
-"Seward","Gunshot Wound Victims",9,4,10,5,18,7,1
+"Seward","Gunshot Wound Victims",9,4,10,5,18,7,2
 "Sheridan","Gunshot Wound Victims",1,0,2,0,0,1,0
 "Steven's Square - Loring Heights","Gunshot Wound Victims",1,5,10,11,6,5,0
 "Sumner - Glenwood","Gunshot Wound Victims",6,3,5,3,1,0,0
@@ -34,22 +34,22 @@
 "Waite Park","Gunshot Wound Victims",1,0,2,0,0,0,0
 "Webber - Camden","Gunshot Wound Victims",13,18,23,12,12,7,0
 "Whittier","Gunshot Wound Victims",3,10,14,18,20,31,4
-"Willard - Hay","Gunshot Wound Victims",21,23,31,13,19,17,2
+"Willard - Hay","Gunshot Wound Victims",21,23,31,13,19,17,3
 "Audubon Park","Gunshot Wound Victims",0,2,2,0,0,3,0
 "Bancroft","Gunshot Wound Victims",0,1,3,2,1,2,0
 "Bottineau","Gunshot Wound Victims",0,1,0,0,0,0,0
-"Corcoran","Gunshot Wound Victims",0,6,1,2,2,0,0
+"Corcoran","Gunshot Wound Victims",0,6,1,2,2,0,1
 "Hiawatha","Gunshot Wound Victims",0,4,1,3,1,3,0
 "Howe","Gunshot Wound Victims",0,2,2,0,1,3,0
 "Keewaydin","Gunshot Wound Victims",0,2,0,0,0,0,0
 "Linden Hills","Gunshot Wound Victims",0,2,0,0,1,0,0
-"Loring Park","Gunshot Wound Victims",0,4,10,15,12,5,0
+"Loring Park","Gunshot Wound Victims",0,4,10,15,12,5,1
 "Lyndale","Gunshot Wound Victims",0,2,1,8,3,6,1
 "Morris Park","Gunshot Wound Victims",0,1,2,0,0,0,0
 "Regina","Gunshot Wound Victims",0,1,1,0,0,0,0
 "Shingle Creek","Gunshot Wound Victims",0,6,3,3,2,1,0
 "South Uptown","Gunshot Wound Victims",0,1,9,2,1,1,0
-"Standish","Gunshot Wound Victims",0,1,2,0,1,0,0
+"Standish","Gunshot Wound Victims",0,1,2,0,1,0,1
 "Tangletown","Gunshot Wound Victims",0,1,1,0,0,2,0
 "Wenonah","Gunshot Wound Victims",0,2,1,6,6,1,0
 "Windom","Gunshot Wound Victims",0,2,1,1,1,0,0
@@ -68,7 +68,7 @@ NA,"Gunshot Wound Victims",0,3,6,4,6,3,0
 "Windom Park","Gunshot Wound Victims",0,0,2,0,0,0,0
 "Diamond Lake","Gunshot Wound Victims",0,0,0,1,1,0,0
 "Ericsson","Gunshot Wound Victims",0,0,0,1,0,1,0
-"King Field","Gunshot Wound Victims",0,0,0,2,0,2,0
+"King Field","Gunshot Wound Victims",0,0,0,2,0,2,1
 "Logan Park","Gunshot Wound Victims",0,0,0,1,0,1,0
 "Lowry Hill","Gunshot Wound Victims",0,0,0,1,2,0,0
 "Northrop","Gunshot Wound Victims",0,0,0,1,0,0,0
@@ -98,13 +98,13 @@ NA,"Gunshot Wound Victims",0,3,6,4,6,3,0
 "Marcy Holmes","Total",4,3,17,7,5,5,1
 "McKinley","Total",5,20,15,11,10,5,0
 "Midtown Phillips","Total",9,19,30,20,12,17,3
-"Near - North","Total",13,40,38,36,20,16,2
+"Near - North","Total",13,40,38,36,20,16,3
 "North Loop","Total",2,2,3,6,4,4,0
 "Northeast Park","Total",2,0,1,1,0,1,0
 "Phillips West","Total",11,7,17,9,3,20,0
 "Powderhorn Park","Total",2,27,16,19,6,6,0
 "Prospect Park - East River Road","Total",2,0,3,1,2,1,0
-"Seward","Total",9,4,10,5,18,7,1
+"Seward","Total",9,4,10,5,18,7,2
 "Sheridan","Total",1,0,2,0,0,1,0
 "Steven's Square - Loring Heights","Total",1,5,10,11,6,5,0
 "Sumner - Glenwood","Total",6,3,5,3,1,0,0
@@ -112,22 +112,22 @@ NA,"Gunshot Wound Victims",0,3,6,4,6,3,0
 "Waite Park","Total",1,0,2,0,0,0,0
 "Webber - Camden","Total",13,18,23,12,12,7,0
 "Whittier","Total",3,10,14,18,20,31,4
-"Willard - Hay","Total",21,23,31,13,19,17,2
+"Willard - Hay","Total",21,23,31,13,19,17,3
 "Audubon Park","Total",0,2,2,0,0,3,0
 "Bancroft","Total",0,1,3,2,1,2,0
 "Bottineau","Total",0,1,0,0,0,0,0
-"Corcoran","Total",0,6,1,2,2,0,0
+"Corcoran","Total",0,6,1,2,2,0,1
 "Hiawatha","Total",0,4,1,3,1,3,0
 "Howe","Total",0,2,2,0,1,3,0
 "Keewaydin","Total",0,2,0,0,0,0,0
 "Linden Hills","Total",0,2,0,0,1,0,0
-"Loring Park","Total",0,4,10,15,12,5,0
+"Loring Park","Total",0,4,10,15,12,5,1
 "Lyndale","Total",0,2,1,8,3,6,1
 "Morris Park","Total",0,1,2,0,0,0,0
 "Regina","Total",0,1,1,0,0,0,0
 "Shingle Creek","Total",0,6,3,3,2,1,0
 "South Uptown","Total",0,1,9,2,1,1,0
-"Standish","Total",0,1,2,0,1,0,0
+"Standish","Total",0,1,2,0,1,0,1
 "Tangletown","Total",0,1,1,0,0,2,0
 "Wenonah","Total",0,2,1,6,6,1,0
 "Windom","Total",0,2,1,1,1,0,0
@@ -146,7 +146,7 @@ NA,"Total",0,3,6,4,6,3,0
 "Windom Park","Total",0,0,2,0,0,0,0
 "Diamond Lake","Total",0,0,0,1,1,0,0
 "Ericsson","Total",0,0,0,1,0,1,0
-"King Field","Total",0,0,0,2,0,2,0
+"King Field","Total",0,0,0,2,0,2,1
 "Logan Park","Total",0,0,0,1,0,1,0
 "Lowry Hill","Total",0,0,0,1,2,0,0
 "Northrop","Total",0,0,0,1,0,0,0

@@ -36,55 +36,62 @@
 	import Links from './Links.svelte';
   
 	let modules = [
-	  { id: 'murder', name: 'Minneapolis: Murder', component: Murder },
-	  { id: 'manslaughter', name: 'Minneapolis: Manslaughter', component: Manslaughter },
-	  { id: 'gunfire', name: 'Minneapolis: Shots Fired',  component: Gunfire },
-	  { id: 'shotvictims', name: 'Minneapolis: Shooting Victims',  component: Shotvictims },
-	  { id: 'assault', name: 'Minneapolis: Aggravated Assault',  component: Assault },
-	  { id: 'domestic', name: '--Minneapolis: Domestic Aggravated Assault',  component: Domestic },
-	  { id: 'rape', name: 'Minneapolis: Sex Offenses',  component: Rape },
-	  { id: 'robbery', name: 'Minneapolis: Robbery',  component: Robbery },
-	  { id: 'carjack', name: '--Minneapolis: Carjacking',  component: Carjack },
-	  { id: 'autotheft', name: 'Minneapolis: Motor Vehicle Theft',  component: Autotheft },
-	  { id: 'burglary', name: 'Minneapolis: Burglary',  component: Burglary },
-	  { id: 'larceny', name: 'Minneapolis: Larceny',  component: Larceny },
-	  { id: 'arson', name: 'Minneapolis: Arson',  component: Arson },
-	  { id: 'drugs', name: 'Minneapolis: Drug Offenses',  component: Drugs },
-	  { id: 'other', name: 'Minneapolis: Other Offenses',  component: Other },
-	  { id: 'activity', name: 'Minneapolis: Police Activity',  component: Activity },
-	  { id: 'precincts', name: 'Minneapolis: Police Precincts',  component: Precincts },
-	  { id: 'conduct', name: 'Minneapolis: Officer Conduct',  component: Conduct },
-	  { id: 'staff', name: 'Minneapolis: Police Staffing',  component: Staff },
-	  { id: 'park', name: 'Minneapolis: Park Police',  component: Park },
-	  { id: 'umpd', name: 'Minneapolis: University of Minnesota Police Department',  component: UMPD },
-	  { id: 'stp', name: 'St. Paul: Public Safety Trends',  component: STP },
-	  { id: 'transit', name: 'Twin Cities Metro: Metro Transit Police Department',  component: Transit },
-	  { id: 'msp', name: 'Twin Cities Metro: MSP Airport Police Department',  component: MSP },
-	  { id: 'suburbs', name: 'Twin Cities Metro: Suburban Public Safety Trends',  component: Suburbs },
-	  { id: 'statewide', name: 'Statewide: Public Safety Trends',  component: Statewide },
-	  { id: 'arrests', name: 'Statewide: Arrests',  component: Arrests },
-	  { id: 'leoka', name: 'Statewide: LEOKA',  component: LEOKA },
-	  { id: 'force', name: 'Statewide: Police Use-of-Force',  component: Force },
-	  { id: 'courts', name: 'Statewide: Minnesota Courts',  component: Courts },
-	  { id: 'national', name: 'National: Public Safety Trends',  component: National },
-	  { id: 'practices', name: 'Notes & Best Practices',  component: Practices },
-	  { id: 'linkd', name: 'Other Links',  component: Links },
+	  { id: 'murder', cat: 'Minneapolis', name: 'Murder', component: Murder },
+	  { id: 'manslaughter', cat: 'Minneapolis', name: 'Manslaughter', component: Manslaughter },
+	  { id: 'gunfire', cat: 'Minneapolis', name: 'Shots Fired', component: Gunfire },
+	  { id: 'shotvictims', cat: 'Minneapolis', name: 'Shooting Victims', component: Shotvictims },
+	  { id: 'assault', cat: 'Minneapolis', name: 'Aggravated Assault', component: Assault },
+	  { id: 'domestic', cat: 'Minneapolis', name: 'Domestic Aggravated Assault', component: Domestic },
+	  { id: 'rape', cat: 'Minneapolis', name: 'Sex Offenses', component: Rape },
+	  { id: 'robbery', cat: 'Minneapolis', name: 'Robbery', component: Robbery },
+	  { id: 'carjack', cat: 'Minneapolis', name: 'Carjacking', component: Carjack },
+	  { id: 'autotheft', cat: 'Minneapolis', name: 'Motor Vehicle Theft', component: Autotheft },
+	  { id: 'burglary', cat: 'Minneapolis', name: 'Burglary', component: Burglary },
+	  { id: 'larceny', cat: 'Minneapolis', name: 'Larceny', component: Larceny },
+	  { id: 'arson', cat: 'Minneapolis', name: 'Arson', component: Arson },
+	  { id: 'drugs', cat: 'Minneapolis', name: 'Drug Offenses', component: Drugs },
+	  { id: 'other', cat: 'Minneapolis', name: 'Other Offenses', component: Other },
+	  { id: 'activity', cat: 'Minneapolis', name: 'Police Activity', component: Activity },
+	  { id: 'precincts', cat: 'Minneapolis', name: 'Police Precincts', component: Precincts },
+	  { id: 'conduct', cat: 'Minneapolis', name: 'Officer Conduct', component: Conduct },
+	  { id: 'staff', cat: 'Minneapolis', name: 'Police Staffing', component: Staff },
+	  { id: 'park', cat: 'Minneapolis', name: 'Park Police', component: Park },
+	  { id: 'umpd', cat: 'Minneapolis', name: 'University of Minnesota Police Department', component: UMPD },
+	  { id: 'stp', cat: 'St. Paul', name: 'Public Safety Trends', component: STP },
+	  { id: 'transit', cat: 'Metro', name: 'Metro Transit Police Department', component: Transit },
+	  { id: 'msp', cat: 'Metro', name: 'MSP Airport Police Department', component: MSP },
+	  { id: 'suburbs', cat: 'Metro', name: 'Suburban Public Safety Trends', component: Suburbs },
+	  { id: 'statewide', cat: 'Minnesota', name: 'Statewide Public Safety Trends', component: Statewide },
+	  { id: 'arrests', cat: 'Minnesota', name: 'Arrests', component: Arrests },
+	  { id: 'leoka', cat: 'Minnesota', name: 'LEOKA', component: LEOKA },
+	  { id: 'force', cat: 'Minnesota', name: 'Police Use-of-Force', component: Force },
+	  { id: 'courts', cat: 'Minnesota', name: 'Minnesota Courts', component: Courts },
+	  { id: 'national', cat: 'National', name: 'National Public Safety Trends', component: National },
+	  { id: 'practices', cat: 'Notes', name: 'Best Practices', component: Practices },
+	  { id: 'linkd', cat: 'Notes', name: 'Other Links', component: Links },
 	];
-
+  
+	// Grouping modules by category
+	let groupedModules = {};
+	modules.forEach(module => {
+	  if (!groupedModules[module.cat]) {
+		groupedModules[module.cat] = [];
+	  }
+	  groupedModules[module.cat].push(module);
+	});
+  
 	let selectedModule = null;
-
-	function changeURL(value){
-		let queryParams = new URLSearchParams(window.location.search);
-		queryParams.set("s", value);
-		history.replaceState(null, null, "?"+queryParams.toString());
+  
+	function changeURL(value) {
+	  let queryParams = new URLSearchParams(window.location.search);
+	  queryParams.set("s", value);
+	  history.replaceState(null, null, "?" + queryParams.toString());
 	}
-
-   onMount(() => {
-
-	let params = new URLSearchParams(window.location.search);
-		selectedModule = params.get('s');
-
-   });
+  
+	onMount(() => {
+	  let params = new URLSearchParams(window.location.search);
+	  selectedModule = params.get('s');
+	});
   </script>
 
   <div id="about"><About /></div>
@@ -93,11 +100,16 @@
   <div id="wrapper">
 	<div style="position: sticky; top: 0; z-index: 10;"></div>
 	<select bind:value={selectedModule} style="position: sticky; top: 0; z-index: 9; margin-bottom:20px; width:100%;">
-	  <option value={null}>Select a category</option>
-	  {#each modules as module}
-		<option value={module.id}>{module.name}</option>
-	  {/each}
-	</select>
+		<option value={null}>Select a category</option>
+		
+		{#each Object.entries(groupedModules) as [category, modules]}
+		  <optgroup label={category}>
+			{#each modules as module}
+			  <option value={module.id}>{module.name}</option>
+			{/each}
+		  </optgroup>
+		{/each}
+	  </select>
 
 	{#each modules as module}
 	  {#if module.id === selectedModule}

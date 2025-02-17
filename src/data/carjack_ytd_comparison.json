@@ -10,38 +10,38 @@
     "Offense": "Carjacking - Subset of Robbery"
   },
   {
-    "YTDCount": 54,
+    "YTDCount": 60,
     "Year": 2021,
     "Offense": "Carjacking - Subset of Robbery",
     "PrevYTDCount": 1,
-    "YTDPercentageChange": 5300
+    "YTDPercentageChange": 5900
   },
   {
-    "YTDCount": 68,
+    "YTDCount": 80,
     "Year": 2022,
     "Offense": "Carjacking - Subset of Robbery",
-    "PrevYTDCount": 54,
-    "YTDPercentageChange": 25.9259
+    "PrevYTDCount": 60,
+    "YTDPercentageChange": 33.3333
+  },
+  {
+    "YTDCount": 44,
+    "Year": 2023,
+    "Offense": "Carjacking - Subset of Robbery",
+    "PrevYTDCount": 80,
+    "YTDPercentageChange": -45
   },
   {
     "YTDCount": 36,
-    "Year": 2023,
-    "Offense": "Carjacking - Subset of Robbery",
-    "PrevYTDCount": 68,
-    "YTDPercentageChange": -47.0588
-  },
-  {
-    "YTDCount": 32,
     "Year": 2024,
     "Offense": "Carjacking - Subset of Robbery",
-    "PrevYTDCount": 36,
-    "YTDPercentageChange": -11.1111
+    "PrevYTDCount": 44,
+    "YTDPercentageChange": -18.1818
   },
   {
-    "YTDCount": 21,
+    "YTDCount": 23,
     "Year": 2025,
     "Offense": "Carjacking - Subset of Robbery",
-    "PrevYTDCount": 32,
-    "YTDPercentageChange": -34.375
+    "PrevYTDCount": 36,
+    "YTDPercentageChange": -36.1111
   }
 ]

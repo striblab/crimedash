@@ -162,7 +162,7 @@
     "X2022": 39,
     "X2023": 25,
     "X2024": 20,
-    "X2025": 0
+    "X2025": 1
   },
   {
     "Neighborhood": "Keewaydin",
@@ -217,7 +217,7 @@
     "X2022": 19,
     "X2023": 8,
     "X2024": 12,
-    "X2025": 0
+    "X2025": 1
   },
   {
     "Neighborhood": "Lowry Hill East",
@@ -233,7 +233,7 @@
   {
     "Neighborhood": "Marcy Holmes",
     "Offense": "Shooting (PFE)",
-    "X2019": 3,
+    "X2019": 2,
     "X2020": 3,
     "X2021": 17,
     "X2022": 4,
@@ -255,7 +255,7 @@
   {
     "Neighborhood": "Midtown Phillips",
     "Offense": "Shooting (PFE)",
-    "X2019": 7,
+    "X2019": 6,
     "X2020": 16,
     "X2021": 20,
     "X2022": 14,
@@ -266,13 +266,13 @@
   {
     "Neighborhood": "Near - North",
     "Offense": "Shooting (PFE)",
-    "X2019": 16,
+    "X2019": 15,
     "X2020": 34,
     "X2021": 21,
     "X2022": 26,
     "X2023": 15,
     "X2024": 11,
-    "X2025": 2
+    "X2025": 3
   },
   {
     "Neighborhood": "North Loop",
@@ -338,7 +338,7 @@
     "X2022": 6,
     "X2023": 15,
     "X2024": 9,
-    "X2025": 1
+    "X2025": 2
   },
   {
     "Neighborhood": "South Uptown",
@@ -407,17 +407,6 @@
     "X2025": 2
   },
   {
-    "Neighborhood": "Waite Park",
-    "Offense": "Shooting (PFE)",
-    "X2019": 1,
-    "X2020": 0,
-    "X2021": 2,
-    "X2022": 0,
-    "X2023": 0,
-    "X2024": 0,
-    "X2025": 0
-  },
-  {
     "Neighborhood": "Webber - Camden",
     "Offense": "Shooting (PFE)",
     "X2019": 13,
@@ -453,13 +442,13 @@
   {
     "Neighborhood": "Willard - Hay",
     "Offense": "Shooting (PFE)",
-    "X2019": 16,
+    "X2019": 15,
     "X2020": 15,
     "X2021": 23,
     "X2022": 10,
     "X2023": 12,
     "X2024": 11,
-    "X2025": 2
+    "X2025": 3
   },
   {
     "Neighborhood": "Audubon Park",
@@ -525,7 +514,7 @@
     "X2022": 3,
     "X2023": 4,
     "X2024": 1,
-    "X2025": 0
+    "X2025": 1
   },
   {
     "Neighborhood": "Hiawatha",
@@ -558,7 +547,7 @@
     "X2022": 3,
     "X2023": 0,
     "X2024": 2,
-    "X2025": 0
+    "X2025": 1
   },
   {
     "Neighborhood": "Linden Hills",
@@ -613,7 +602,7 @@
     "X2022": 0,
     "X2023": 5,
     "X2024": 0,
-    "X2025": 0
+    "X2025": 1
   },
   {
     "Neighborhood": "Tangletown",
@@ -799,6 +788,17 @@
     "X2022": 1,
     "X2023": 3,
     "X2024": 4,
+    "X2025": 0
+  },
+  {
+    "Neighborhood": "Waite Park",
+    "Offense": "Shooting (PFE)",
+    "X2019": 0,
+    "X2020": 0,
+    "X2021": 2,
+    "X2022": 0,
+    "X2023": 0,
+    "X2024": 0,
     "X2025": 0
   },
   {
@@ -991,7 +991,7 @@
   {
     "Neighborhood": "Elliot Park",
     "Offense": "Shooting Report Only (P)",
-    "X2019": 14,
+    "X2019": 13,
     "X2020": 52,
     "X2021": 76,
     "X2022": 46,
@@ -1013,7 +1013,7 @@
   {
     "Neighborhood": "Hawthorne",
     "Offense": "Shooting Report Only (P)",
-    "X2019": 5,
+    "X2019": 4,
     "X2020": 15,
     "X2021": 23,
     "X2022": 11,
@@ -1057,7 +1057,7 @@
   {
     "Neighborhood": "McKinley",
     "Offense": "Shooting Report Only (P)",
-    "X2019": 2,
+    "X2019": 1,
     "X2020": 5,
     "X2021": 5,
     "X2022": 3,
@@ -1068,13 +1068,13 @@
   {
     "Neighborhood": "Midtown Phillips",
     "Offense": "Shooting Report Only (P)",
-    "X2019": 7,
+    "X2019": 6,
     "X2020": 16,
     "X2021": 19,
     "X2022": 16,
     "X2023": 14,
     "X2024": 10,
-    "X2025": 1
+    "X2025": 2
   },
   {
     "Neighborhood": "Phillips West",
@@ -1112,7 +1112,7 @@
   {
     "Neighborhood": "Seward",
     "Offense": "Shooting Report Only (P)",
-    "X2019": 4,
+    "X2019": 3,
     "X2020": 0,
     "X2021": 2,
     "X2022": 1,
@@ -1195,7 +1195,7 @@
     "X2022": 21,
     "X2023": 17,
     "X2024": 17,
-    "X2025": 4
+    "X2025": 5
   },
   {
     "Offense": "Shooting Report Only (P)",
@@ -1639,13 +1639,13 @@
   {
     "Neighborhood": "Central",
     "Offense": "ShotSpotter Activation (P)",
-    "X2019": 97,
+    "X2019": 95,
     "X2020": 301,
     "X2021": 218,
     "X2022": 174,
     "X2023": 140,
     "X2024": 126,
-    "X2025": 13
+    "X2025": 15
   },
   {
     "Neighborhood": "Cleveland",
@@ -1656,7 +1656,7 @@
     "X2022": 190,
     "X2023": 113,
     "X2024": 126,
-    "X2025": 6
+    "X2025": 8
   },
   {
     "Neighborhood": "Corcoran",
@@ -1672,24 +1672,24 @@
   {
     "Neighborhood": "East Phillips",
     "Offense": "ShotSpotter Activation (P)",
-    "X2019": 81,
+    "X2019": 80,
     "X2020": 131,
     "X2021": 174,
     "X2022": 180,
     "X2023": 112,
     "X2024": 105,
-    "X2025": 2
+    "X2025": 3
   },
   {
     "Neighborhood": "Folwell",
     "Offense": "ShotSpotter Activation (P)",
-    "X2019": 200,
+    "X2019": 196,
     "X2020": 486,
     "X2021": 657,
     "X2022": 381,
     "X2023": 304,
     "X2024": 263,
-    "X2025": 11
+    "X2025": 12
   },
   {
     "Neighborhood": "Harrison",
@@ -1705,13 +1705,13 @@
   {
     "Neighborhood": "Hawthorne",
     "Offense": "ShotSpotter Activation (P)",
-    "X2019": 200,
+    "X2019": 197,
     "X2020": 465,
     "X2021": 623,
     "X2022": 473,
     "X2023": 270,
     "X2024": 244,
-    "X2025": 17
+    "X2025": 21
   },
   {
     "Neighborhood": "Humboldt Industrial Area",
@@ -1727,13 +1727,13 @@
   {
     "Neighborhood": "Jordan",
     "Offense": "ShotSpotter Activation (P)",
-    "X2019": 237,
+    "X2019": 230,
     "X2020": 647,
     "X2021": 880,
     "X2022": 696,
     "X2023": 517,
     "X2024": 451,
-    "X2025": 21
+    "X2025": 25
   },
   {
     "Neighborhood": "King Field",
@@ -1755,7 +1755,7 @@
     "X2022": 230,
     "X2023": 156,
     "X2024": 156,
-    "X2025": 14
+    "X2025": 17
   },
   {
     "Neighborhood": "Longfellow",
@@ -1793,7 +1793,7 @@
   {
     "Neighborhood": "McKinley",
     "Offense": "ShotSpotter Activation (P)",
-    "X2019": 97,
+    "X2019": 94,
     "X2020": 246,
     "X2021": 347,
     "X2022": 213,
@@ -1810,12 +1810,12 @@
     "X2022": 168,
     "X2023": 91,
     "X2024": 124,
-    "X2025": 17
+    "X2025": 18
   },
   {
     "Neighborhood": "Near - North",
     "Offense": "ShotSpotter Activation (P)",
-    "X2019": 166,
+    "X2019": 164,
     "X2020": 329,
     "X2021": 487,
     "X2022": 386,
@@ -1848,7 +1848,7 @@
   {
     "Neighborhood": "Phillips West",
     "Offense": "ShotSpotter Activation (P)",
-    "X2019": 32,
+    "X2019": 31,
     "X2020": 81,
     "X2021": 119,
     "X2022": 57,
@@ -1859,13 +1859,13 @@
   {
     "Neighborhood": "Powderhorn Park",
     "Offense": "ShotSpotter Activation (P)",
-    "X2019": 8,
+    "X2019": 6,
     "X2020": 35,
     "X2021": 24,
     "X2022": 31,
     "X2023": 13,
     "X2024": 23,
-    "X2025": 0
+    "X2025": 1
   },
   {
     "Neighborhood": "Sumner - Glenwood",
@@ -1887,7 +1887,7 @@
     "X2022": 70,
     "X2023": 99,
     "X2024": 87,
-    "X2025": 7
+    "X2025": 12
   },
   {
     "Neighborhood": "Webber - Camden",
@@ -1898,7 +1898,7 @@
     "X2022": 277,
     "X2023": 200,
     "X2024": 147,
-    "X2025": 11
+    "X2025": 13
   },
   {
     "Neighborhood": "Whittier",
@@ -1909,18 +1909,18 @@
     "X2022": 1,
     "X2023": 5,
     "X2024": 7,
-    "X2025": 5
+    "X2025": 7
   },
   {
     "Neighborhood": "Willard - Hay",
     "Offense": "ShotSpotter Activation (P)",
-    "X2019": 155,
+    "X2019": 153,
     "X2020": 494,
     "X2021": 661,
     "X2022": 521,
     "X2023": 377,
     "X2024": 277,
-    "X2025": 36
+    "X2025": 39
   },
   {
     "Offense": "ShotSpotter Activation (P)",
@@ -1996,7 +1996,7 @@
     "X2022": 0,
     "X2023": 0,
     "X2024": 7,
-    "X2025": 9
+    "X2025": 14
   },
   {
     "Neighborhood": "Victory",
@@ -2183,12 +2183,12 @@
     "X2022": 38,
     "X2023": 29,
     "X2024": 22,
-    "X2025": 2
+    "X2025": 3
   },
   {
     "Neighborhood": "Bryn - Mawr",
     "Offense": "Sound of Shots Fired (P)",
-    "X2019": 22,
+    "X2019": 20,
     "X2020": 12,
     "X2021": 27,
     "X2022": 17,
@@ -2238,7 +2238,7 @@
     "X2022": 88,
     "X2023": 69,
     "X2024": 71,
-    "X2025": 2
+    "X2025": 4
   },
   {
     "Neighborhood": "Cleveland",
@@ -2320,7 +2320,7 @@
   {
     "Neighborhood": "Downtown West",
     "Offense": "Sound of Shots Fired (P)",
-    "X2019": 49,
+    "X2019": 48,
     "X2020": 54,
     "X2021": 90,
     "X2022": 91,
@@ -2408,18 +2408,18 @@
   {
     "Neighborhood": "Folwell",
     "Offense": "Sound of Shots Fired (P)",
-    "X2019": 81,
+    "X2019": 80,
     "X2020": 238,
     "X2021": 261,
     "X2022": 143,
     "X2023": 76,
     "X2024": 83,
-    "X2025": 5
+    "X2025": 7
   },
   {
     "Neighborhood": "Fulton",
     "Offense": "Sound of Shots Fired (P)",
-    "X2019": 6,
+    "X2019": 5,
     "X2020": 6,
     "X2021": 5,
     "X2022": 6,
@@ -2458,7 +2458,7 @@
     "X2022": 245,
     "X2023": 156,
     "X2024": 127,
-    "X2025": 9
+    "X2025": 10
   },
   {
     "Neighborhood": "Hiawatha",
@@ -2474,7 +2474,7 @@
   {
     "Neighborhood": "Holland",
     "Offense": "Sound of Shots Fired (P)",
-    "X2019": 12,
+    "X2019": 11,
     "X2020": 26,
     "X2021": 32,
     "X2022": 42,
@@ -2491,7 +2491,7 @@
     "X2022": 32,
     "X2023": 31,
     "X2024": 41,
-    "X2025": 6
+    "X2025": 7
   },
   {
     "Neighborhood": "Humboldt Industrial Area",
@@ -2507,7 +2507,7 @@
   {
     "Neighborhood": "Jordan",
     "Offense": "Sound of Shots Fired (P)",
-    "X2019": 107,
+    "X2019": 106,
     "X2020": 302,
     "X2021": 324,
     "X2022": 250,
@@ -2546,7 +2546,7 @@
     "X2022": 39,
     "X2023": 25,
     "X2024": 23,
-    "X2025": 2
+    "X2025": 3
   },
   {
     "Neighborhood": "Lind - Bohanon",
@@ -2557,7 +2557,7 @@
     "X2022": 111,
     "X2023": 59,
     "X2024": 66,
-    "X2025": 5
+    "X2025": 7
   },
   {
     "Neighborhood": "Linden Hills",
@@ -2634,7 +2634,7 @@
     "X2022": 70,
     "X2023": 64,
     "X2024": 55,
-    "X2025": 4
+    "X2025": 5
   },
   {
     "Neighborhood": "Lynnhurst",
@@ -2656,12 +2656,12 @@
     "X2022": 50,
     "X2023": 47,
     "X2024": 44,
-    "X2025": 2
+    "X2025": 3
   },
   {
     "Neighborhood": "Marshall Terrace",
     "Offense": "Sound of Shots Fired (P)",
-    "X2019": 9,
+    "X2019": 8,
     "X2020": 8,
     "X2021": 10,
     "X2022": 8,
@@ -2672,7 +2672,7 @@
   {
     "Neighborhood": "McKinley",
     "Offense": "Sound of Shots Fired (P)",
-    "X2019": 46,
+    "X2019": 45,
     "X2020": 91,
     "X2021": 92,
     "X2022": 55,
@@ -2694,13 +2694,13 @@
   {
     "Neighborhood": "Midtown Phillips",
     "Offense": "Sound of Shots Fired (P)",
-    "X2019": 54,
+    "X2019": 52,
     "X2020": 115,
     "X2021": 153,
     "X2022": 161,
     "X2023": 49,
     "X2024": 109,
-    "X2025": 7
+    "X2025": 11
   },
   {
     "Neighborhood": "Minnehaha",
@@ -2727,7 +2727,7 @@
   {
     "Neighborhood": "Near - North",
     "Offense": "Sound of Shots Fired (P)",
-    "X2019": 80,
+    "X2019": 78,
     "X2020": 212,
     "X2021": 209,
     "X2022": 220,
@@ -2749,7 +2749,7 @@
   {
     "Neighborhood": "North Loop",
     "Offense": "Sound of Shots Fired (P)",
-    "X2019": 11,
+    "X2019": 10,
     "X2020": 20,
     "X2021": 44,
     "X2022": 23,
@@ -2788,7 +2788,7 @@
     "X2022": 0,
     "X2023": 2,
     "X2024": 9,
-    "X2025": 0
+    "X2025": 1
   },
   {
     "Neighborhood": "Phillips West",
@@ -2810,7 +2810,7 @@
     "X2022": 174,
     "X2023": 106,
     "X2024": 126,
-    "X2025": 2
+    "X2025": 3
   },
   {
     "Neighborhood": "Prospect Park - East River Road",
@@ -2826,7 +2826,7 @@
   {
     "Neighborhood": "Regina",
     "Offense": "Sound of Shots Fired (P)",
-    "X2019": 16,
+    "X2019": 15,
     "X2020": 39,
     "X2021": 22,
     "X2022": 19,
@@ -2837,13 +2837,13 @@
   {
     "Neighborhood": "Seward",
     "Offense": "Sound of Shots Fired (P)",
-    "X2019": 40,
+    "X2019": 38,
     "X2020": 51,
     "X2021": 92,
     "X2022": 84,
     "X2023": 73,
     "X2024": 54,
-    "X2025": 5
+    "X2025": 6
   },
   {
     "Neighborhood": "Sheridan",
@@ -2859,7 +2859,7 @@
   {
     "Neighborhood": "Shingle Creek",
     "Offense": "Sound of Shots Fired (P)",
-    "X2019": 28,
+    "X2019": 27,
     "X2020": 57,
     "X2021": 45,
     "X2022": 27,
@@ -2887,12 +2887,12 @@
     "X2022": 15,
     "X2023": 2,
     "X2024": 12,
-    "X2025": 1
+    "X2025": 2
   },
   {
     "Neighborhood": "St. Anthony West",
     "Offense": "Sound of Shots Fired (P)",
-    "X2019": 3,
+    "X2019": 2,
     "X2020": 14,
     "X2021": 19,
     "X2022": 13,
@@ -2909,7 +2909,7 @@
     "X2022": 28,
     "X2023": 21,
     "X2024": 23,
-    "X2025": 3
+    "X2025": 5
   },
   {
     "Neighborhood": "Steven's Square - Loring Heights",
@@ -2931,7 +2931,7 @@
     "X2022": 17,
     "X2023": 17,
     "X2024": 15,
-    "X2025": 1
+    "X2025": 2
   },
   {
     "Neighborhood": "Tangletown",
@@ -2958,18 +2958,18 @@
   {
     "Neighborhood": "Ventura Village",
     "Offense": "Sound of Shots Fired (P)",
-    "X2019": 64,
+    "X2019": 62,
     "X2020": 120,
     "X2021": 117,
     "X2022": 102,
     "X2023": 88,
     "X2024": 101,
-    "X2025": 9
+    "X2025": 11
   },
   {
     "Neighborhood": "Victory",
     "Offense": "Sound of Shots Fired (P)",
-    "X2019": 25,
+    "X2019": 24,
     "X2020": 75,
     "X2021": 111,
     "X2022": 93,
@@ -3002,7 +3002,7 @@
   {
     "Neighborhood": "Wenonah",
     "Offense": "Sound of Shots Fired (P)",
-    "X2019": 13,
+    "X2019": 12,
     "X2020": 22,
     "X2021": 35,
     "X2022": 40,
@@ -3024,7 +3024,7 @@
   {
     "Neighborhood": "Whittier",
     "Offense": "Sound of Shots Fired (P)",
-    "X2019": 42,
+    "X2019": 41,
     "X2020": 129,
     "X2021": 185,
     "X2022": 224,
@@ -3035,7 +3035,7 @@
   {
     "Neighborhood": "Willard - Hay",
     "Offense": "Sound of Shots Fired (P)",
-    "X2019": 143,
+    "X2019": 141,
     "X2020": 285,
     "X2021": 293,
     "X2022": 203,
@@ -3150,12 +3150,12 @@
     "X2022": 56,
     "X2023": 47,
     "X2024": 27,
-    "X2025": 2
+    "X2025": 3
   },
   {
     "Neighborhood": "Bryn - Mawr",
     "Offense": "Total",
-    "X2019": 23,
+    "X2019": 21,
     "X2020": 14,
     "X2021": 28,
     "X2022": 17,
@@ -3199,13 +3199,13 @@
   {
     "Neighborhood": "Central",
     "Offense": "Total",
-    "X2019": 183,
+    "X2019": 181,
     "X2020": 479,
     "X2021": 365,
     "X2022": 273,
     "X2023": 217,
     "X2024": 206,
-    "X2025": 17
+    "X2025": 21
   },
   {
     "Neighborhood": "Cleveland",
@@ -3216,7 +3216,7 @@
     "X2022": 254,
     "X2023": 146,
     "X2024": 199,
-    "X2025": 10
+    "X2025": 12
   },
   {
     "Neighborhood": "Columbia Park",
@@ -3260,7 +3260,7 @@
     "X2022": 81,
     "X2023": 57,
     "X2024": 46,
-    "X2025": 8
+    "X2025": 9
   },
   {
     "Neighborhood": "Diamond Lake",
@@ -3287,7 +3287,7 @@
   {
     "Neighborhood": "Downtown West",
     "Offense": "Total",
-    "X2019": 69,
+    "X2019": 68,
     "X2020": 87,
     "X2021": 114,
     "X2022": 128,
@@ -3331,18 +3331,18 @@
   {
     "Neighborhood": "East Phillips",
     "Offense": "Total",
-    "X2019": 157,
+    "X2019": 156,
     "X2020": 292,
     "X2021": 338,
     "X2022": 309,
     "X2023": 227,
     "X2024": 221,
-    "X2025": 11
+    "X2025": 12
   },
   {
     "Neighborhood": "Elliot Park",
     "Offense": "Total",
-    "X2019": 46,
+    "X2019": 45,
     "X2020": 112,
     "X2021": 165,
     "X2022": 110,
@@ -3375,18 +3375,18 @@
   {
     "Neighborhood": "Folwell",
     "Offense": "Total",
-    "X2019": 298,
+    "X2019": 293,
     "X2020": 752,
     "X2021": 946,
     "X2022": 555,
     "X2023": 405,
     "X2024": 383,
-    "X2025": 19
+    "X2025": 22
   },
   {
     "Neighborhood": "Fulton",
     "Offense": "Total",
-    "X2019": 6,
+    "X2019": 5,
     "X2020": 6,
     "X2021": 5,
     "X2022": 6,
@@ -3419,13 +3419,13 @@
   {
     "Neighborhood": "Hawthorne",
     "Offense": "Total",
-    "X2019": 377,
+    "X2019": 373,
     "X2020": 875,
     "X2021": 1066,
     "X2022": 765,
     "X2023": 461,
     "X2024": 386,
-    "X2025": 27
+    "X2025": 32
   },
   {
     "Neighborhood": "Hiawatha",
@@ -3441,7 +3441,7 @@
   {
     "Neighborhood": "Holland",
     "Offense": "Total",
-    "X2019": 15,
+    "X2019": 14,
     "X2020": 26,
     "X2021": 34,
     "X2022": 49,
@@ -3458,7 +3458,7 @@
     "X2022": 33,
     "X2023": 31,
     "X2024": 43,
-    "X2025": 6
+    "X2025": 7
   },
   {
     "Neighborhood": "Humboldt Industrial Area",
@@ -3474,13 +3474,13 @@
   {
     "Neighborhood": "Jordan",
     "Offense": "Total",
-    "X2019": 362,
+    "X2019": 354,
     "X2020": 1009,
     "X2021": 1251,
     "X2022": 988,
     "X2023": 697,
     "X2024": 611,
-    "X2025": 29
+    "X2025": 34
   },
   {
     "Neighborhood": "Keewaydin",
@@ -3524,7 +3524,7 @@
     "X2022": 42,
     "X2023": 25,
     "X2024": 25,
-    "X2025": 2
+    "X2025": 4
   },
   {
     "Neighborhood": "Lind - Bohanon",
@@ -3535,7 +3535,7 @@
     "X2022": 351,
     "X2023": 220,
     "X2024": 225,
-    "X2025": 21
+    "X2025": 26
   },
   {
     "Neighborhood": "Linden Hills",
@@ -3579,7 +3579,7 @@
     "X2022": 161,
     "X2023": 77,
     "X2024": 73,
-    "X2025": 10
+    "X2025": 11
   },
   {
     "Neighborhood": "Lowry Hill",
@@ -3612,7 +3612,7 @@
     "X2022": 80,
     "X2023": 69,
     "X2024": 61,
-    "X2025": 5
+    "X2025": 6
   },
   {
     "Neighborhood": "Lynnhurst",
@@ -3628,18 +3628,18 @@
   {
     "Neighborhood": "Marcy Holmes",
     "Offense": "Total",
-    "X2019": 24,
+    "X2019": 23,
     "X2020": 75,
     "X2021": 91,
     "X2022": 54,
     "X2023": 49,
     "X2024": 48,
-    "X2025": 3
+    "X2025": 4
   },
   {
     "Neighborhood": "Marshall Terrace",
     "Offense": "Total",
-    "X2019": 9,
+    "X2019": 8,
     "X2020": 8,
     "X2021": 12,
     "X2022": 8,
@@ -3650,7 +3650,7 @@
   {
     "Neighborhood": "McKinley",
     "Offense": "Total",
-    "X2019": 149,
+    "X2019": 144,
     "X2020": 355,
     "X2021": 457,
     "X2022": 281,
@@ -3672,13 +3672,13 @@
   {
     "Neighborhood": "Midtown Phillips",
     "Offense": "Total",
-    "X2019": 105,
+    "X2019": 101,
     "X2020": 262,
     "X2021": 342,
     "X2022": 359,
     "X2023": 161,
     "X2024": 263,
-    "X2025": 27
+    "X2025": 33
   },
   {
     "Neighborhood": "Minnehaha",
@@ -3705,13 +3705,13 @@
   {
     "Neighborhood": "Near - North",
     "Offense": "Total",
-    "X2019": 262,
+    "X2019": 257,
     "X2020": 581,
     "X2021": 733,
     "X2022": 641,
     "X2023": 427,
     "X2024": 312,
-    "X2025": 26
+    "X2025": 27
   },
   {
     "Neighborhood": "Nicollet Island - East Bank",
@@ -3727,7 +3727,7 @@
   {
     "Neighborhood": "North Loop",
     "Offense": "Total",
-    "X2019": 15,
+    "X2019": 14,
     "X2020": 27,
     "X2021": 53,
     "X2022": 32,
@@ -3766,12 +3766,12 @@
     "X2022": 0,
     "X2023": 2,
     "X2024": 11,
-    "X2025": 0
+    "X2025": 1
   },
   {
     "Neighborhood": "Phillips West",
     "Offense": "Total",
-    "X2019": 56,
+    "X2019": 55,
     "X2020": 145,
     "X2021": 206,
     "X2022": 128,
@@ -3782,13 +3782,13 @@
   {
     "Neighborhood": "Powderhorn Park",
     "Offense": "Total",
-    "X2019": 71,
+    "X2019": 69,
     "X2020": 358,
     "X2021": 269,
     "X2022": 219,
     "X2023": 126,
     "X2024": 156,
-    "X2025": 2
+    "X2025": 4
   },
   {
     "Neighborhood": "Prospect Park - East River Road",
@@ -3804,7 +3804,7 @@
   {
     "Neighborhood": "Regina",
     "Offense": "Total",
-    "X2019": 16,
+    "X2019": 15,
     "X2020": 40,
     "X2021": 23,
     "X2022": 20,
@@ -3815,13 +3815,13 @@
   {
     "Neighborhood": "Seward",
     "Offense": "Total",
-    "X2019": 47,
+    "X2019": 44,
     "X2020": 54,
     "X2021": 103,
     "X2022": 91,
     "X2023": 89,
     "X2024": 64,
-    "X2025": 6
+    "X2025": 8
   },
   {
     "Neighborhood": "Sheridan",
@@ -3837,7 +3837,7 @@
   {
     "Neighborhood": "Shingle Creek",
     "Offense": "Total",
-    "X2019": 28,
+    "X2019": 27,
     "X2020": 67,
     "X2021": 62,
     "X2022": 35,
@@ -3865,12 +3865,12 @@
     "X2022": 17,
     "X2023": 4,
     "X2024": 14,
-    "X2025": 1
+    "X2025": 2
   },
   {
     "Neighborhood": "St. Anthony West",
     "Offense": "Total",
-    "X2019": 4,
+    "X2019": 3,
     "X2020": 14,
     "X2021": 20,
     "X2022": 18,
@@ -3887,7 +3887,7 @@
     "X2022": 28,
     "X2023": 26,
     "X2024": 23,
-    "X2025": 3
+    "X2025": 6
   },
   {
     "Neighborhood": "Steven's Square - Loring Heights",
@@ -3898,7 +3898,7 @@
     "X2022": 171,
     "X2023": 105,
     "X2024": 95,
-    "X2025": 14
+    "X2025": 19
   },
   {
     "Neighborhood": "Sumner - Glenwood",
@@ -3909,7 +3909,7 @@
     "X2022": 36,
     "X2023": 45,
     "X2024": 35,
-    "X2025": 1
+    "X2025": 2
   },
   {
     "Neighborhood": "Tangletown",
@@ -3936,18 +3936,18 @@
   {
     "Neighborhood": "Ventura Village",
     "Offense": "Total",
-    "X2019": 135,
+    "X2019": 133,
     "X2020": 267,
     "X2021": 251,
     "X2022": 196,
     "X2023": 212,
     "X2024": 204,
-    "X2025": 18
+    "X2025": 25
   },
   {
     "Neighborhood": "Victory",
     "Offense": "Total",
-    "X2019": 25,
+    "X2019": 24,
     "X2020": 78,
     "X2021": 124,
     "X2022": 99,
@@ -3958,7 +3958,7 @@
   {
     "Neighborhood": "Waite Park",
     "Offense": "Total",
-    "X2019": 12,
+    "X2019": 11,
     "X2020": 8,
     "X2021": 12,
     "X2022": 6,
@@ -3975,12 +3975,12 @@
     "X2022": 408,
     "X2023": 298,
     "X2024": 235,
-    "X2025": 15
+    "X2025": 17
   },
   {
     "Neighborhood": "Wenonah",
     "Offense": "Total",
-    "X2019": 14,
+    "X2019": 13,
     "X2020": 25,
     "X2021": 37,
     "X2022": 48,
@@ -4002,24 +4002,24 @@
   {
     "Neighborhood": "Whittier",
     "Offense": "Total",
-    "X2019": 47,
+    "X2019": 46,
     "X2020": 147,
     "X2021": 207,
     "X2022": 243,
     "X2023": 247,
     "X2024": 278,
-    "X2025": 25
+    "X2025": 27
   },
   {
     "Neighborhood": "Willard - Hay",
     "Offense": "Total",
-    "X2019": 329,
+    "X2019": 324,
     "X2020": 827,
     "X2021": 1025,
     "X2022": 755,
     "X2023": 528,
     "X2024": 452,
-    "X2025": 59
+    "X2025": 64
   },
   {
     "Neighborhood": "Windom",
