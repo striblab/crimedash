@@ -24,6 +24,7 @@
 	import UMPD from './UMPD.svelte';
 	import MSP from './MSP.svelte';
 	import STP from './STP.svelte';
+	import STPM from './STPM.svelte';
 	import Suburbs from './Suburbs.svelte';
 	import Statewide from './Statewide.svelte';
 	import National from './National.svelte';
@@ -57,6 +58,7 @@
 	  { id: 'staff', cat: 'Minneapolis', name: 'Police Staffing', component: Staff },
 	  { id: 'park', cat: 'Minneapolis', name: 'Park Police', component: Park },
 	  { id: 'umpd', cat: 'Minneapolis', name: 'University of Minnesota Police Department', component: UMPD },
+	  { id: 'stpm', cat: 'St. Paul', name: 'Murder', component: STPM },
 	  { id: 'stp', cat: 'St. Paul', name: 'Public Safety Trends', component: STP },
 	  { id: 'transit', cat: 'Metro', name: 'Metro Transit Police Department', component: Transit },
 	  { id: 'msp', cat: 'Metro', name: 'MSP Airport Police Department', component: MSP },
