@@ -40,7 +40,7 @@
     });
   </script>
 
-<h3>St. Paul: Murder</h3>
+<h3>St. Paul: Homicides</h3>
 
 <h4 class="source">Data sources: St. Paul Police Department, FBI</h4>
 
