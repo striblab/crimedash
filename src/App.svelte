@@ -26,6 +26,7 @@
 	import STP from './STP.svelte';
 	import STPM from './STPM.svelte';
 	import STPS from './STPS.svelte';
+	import STPV from './STPV.svelte';
 	import Suburbs from './Suburbs.svelte';
 	import Statewide from './Statewide.svelte';
 	import National from './National.svelte';
@@ -60,6 +61,7 @@
 	  { id: 'park', cat: 'Minneapolis', name: 'Park Police', component: Park },
 	  { id: 'stpm', cat: 'St. Paul', name: 'Homicides', component: STPM },
 	  { id: 'stps', cat: 'St. Paul', name: 'Shootings', component: STPS },
+	  { id: 'stpv', cat: 'St. Paul', name: 'Violent Crime', component: STPV },
 	  { id: 'stp', cat: 'St. Paul', name: 'Public Safety Trends', component: STP },
 	  { id: 'umpd', cat: 'Metro', name: 'University of Minnesota Police Department', component: UMPD },
 	  { id: 'transit', cat: 'Metro', name: 'Metro Transit Police Department', component: Transit },
