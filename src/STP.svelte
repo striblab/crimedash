@@ -2,9 +2,8 @@
     import { onMount } from 'svelte';
     import Chart from 'chart.js/auto';
     import stpProperty from '../store/stp/stp_property.json';
-    import stpViolentCrime from '../store/stp/stp_violent.json';
   
-    let propertyChart, violentCrimeChart;
+    let propertyChart;
 
     function createChart(ctx, chartData, title, type = 'line') {
         return new Chart(ctx, {
@@ -38,32 +37,19 @@
     onMount(() => {
         const ctxProperty = document.getElementById('propertyChart').getContext('2d');
         propertyChart = createChart(ctxProperty, stpProperty, 'Property Crimes');
-
-        const ctxViolent = document.getElementById('violentCrimeChart').getContext('2d');
-        violentCrimeChart = createChart(ctxViolent, stpViolentCrime, 'Violent Crimes');
     });
   </script>
 
-<h3>St. Paul: Public Safety Trends</h3>
+<h3>St. Paul: Property Crime</h3>
 
 <h4 class="source">Data sources: FBI</h4>
-
-
-<p>Violent crime rates per 100,000 residents in St. Paul have been flatter over time, and rose significantly starting in 2020. In the UCR, violent crimes include murder, aggravated assault, rape and robbery.</p>
-
-<div class="chart-container">
-    <canvas id="violentCrimeChart"></canvas>
-  </div>
-<div class="download"><a href="../store/stp/stp_violent.csv">Download St. Paul 1985-2022 violent crimes data (includes clearances)</a></div>
-
-<p>&nbsp;</p>
 
 <p>Property crime rates per 100,000 residents in St. Paul have fallen over time, and rose significantly starting in 2020, driven primarily by auto thefts. In the UCR, property crimes include vehicular theft, burglary, larceny and arson.</p>
 
 <div class="chart-container">
     <canvas id="propertyChart"></canvas>
   </div>
-<div class="download"><a href="../store/stp/stp_property.csv">Download St. Paul 1985-2022 property crimes data (includes clearances)</a></div>
+<div class="download"><a href="../store/stp/stp_property.csv">Download St. Paul 1985-2023 property crimes data (includes clearances)</a></div>
 
 <h4>Links</h4>
 

@@ -213,7 +213,7 @@
     "Year": 2025,
     "Precinct": 1,
     "Offense": "Robbery",
-    "OffenseCount": 17
+    "OffenseCount": 18
   },
   {
     "Year": 2025,
@@ -225,7 +225,7 @@
     "Year": 2025,
     "Precinct": 3,
     "Offense": "Robbery",
-    "OffenseCount": 35
+    "OffenseCount": 36
   },
   {
     "Year": 2025,
@@ -237,6 +237,11 @@
     "Year": 2025,
     "Precinct": 5,
     "Offense": "Robbery",
-    "OffenseCount": 27
+    "OffenseCount": 28
+  },
+  {
+    "Year": 2025,
+    "Offense": "Robbery",
+    "OffenseCount": 1
   }
 ]

@@ -35,11 +35,11 @@
 2024,4,"All Other Larceny",903
 2024,5,"All Other Larceny",1656
 2024,NA,"All Other Larceny",22
-2025,1,"All Other Larceny",104
-2025,2,"All Other Larceny",100
-2025,3,"All Other Larceny",153
-2025,4,"All Other Larceny",91
-2025,5,"All Other Larceny",134
+2025,1,"All Other Larceny",106
+2025,2,"All Other Larceny",104
+2025,3,"All Other Larceny",160
+2025,4,"All Other Larceny",92
+2025,5,"All Other Larceny",137
 2025,NA,"All Other Larceny",1
 2019,1,"Theft From Motor Vehicle",780
 2019,2,"Theft From Motor Vehicle",755
@@ -77,11 +77,12 @@
 2024,4,"Theft From Motor Vehicle",406
 2024,5,"Theft From Motor Vehicle",1203
 2024,NA,"Theft From Motor Vehicle",16
-2025,1,"Theft From Motor Vehicle",129
-2025,2,"Theft From Motor Vehicle",81
-2025,3,"Theft From Motor Vehicle",133
-2025,4,"Theft From Motor Vehicle",27
-2025,5,"Theft From Motor Vehicle",114
+2025,1,"Theft From Motor Vehicle",133
+2025,2,"Theft From Motor Vehicle",85
+2025,3,"Theft From Motor Vehicle",137
+2025,4,"Theft From Motor Vehicle",30
+2025,5,"Theft From Motor Vehicle",125
+2025,NA,"Theft From Motor Vehicle",1
 2019,1,"Pocket-picking",15
 2019,2,"Pocket-picking",1
 2019,3,"Pocket-picking",1
@@ -131,6 +132,7 @@
 2024,NA,"Purse-snatching",1
 2025,1,"Purse-snatching",3
 2025,3,"Purse-snatching",2
+2025,5,"Purse-snatching",1
 2019,1,"Shoplifting",148
 2019,2,"Shoplifting",135
 2019,3,"Shoplifting",446
@@ -165,7 +167,7 @@
 2024,5,"Shoplifting",139
 2025,1,"Shoplifting",30
 2025,2,"Shoplifting",36
-2025,3,"Shoplifting",17
+2025,3,"Shoplifting",20
 2025,4,"Shoplifting",4
 2025,5,"Shoplifting",13
 2019,1,"Theft From Building",92
@@ -251,6 +253,7 @@
 2024,NA,"Theft of Motor Vehicle Parts or Accessories",3
 2025,1,"Theft of Motor Vehicle Parts or Accessories",8
 2025,2,"Theft of Motor Vehicle Parts or Accessories",17
-2025,3,"Theft of Motor Vehicle Parts or Accessories",59
+2025,3,"Theft of Motor Vehicle Parts or Accessories",61
 2025,4,"Theft of Motor Vehicle Parts or Accessories",21
-2025,5,"Theft of Motor Vehicle Parts or Accessories",30
+2025,5,"Theft of Motor Vehicle Parts or Accessories",31
+2025,NA,"Theft of Motor Vehicle Parts or Accessories",1

@@ -24,7 +24,7 @@
 "Elliot Park","Drug/Narcotic Violations",56,29,29,46,51,77,5
 "Ericsson","Drug/Narcotic Violations",4,5,2,0,3,3,0
 "Field","Drug/Narcotic Violations",1,3,1,0,0,2,0
-"Folwell","Drug/Narcotic Violations",36,41,25,20,42,27,5
+"Folwell","Drug/Narcotic Violations",36,41,25,20,42,27,7
 "Fulton","Drug/Narcotic Violations",4,1,2,0,1,0,0
 "Harrison","Drug/Narcotic Violations",22,15,5,5,4,3,0
 "Hawthorne","Drug/Narcotic Violations",142,133,67,74,55,24,2
@@ -41,7 +41,7 @@
 "Longfellow","Drug/Narcotic Violations",36,15,14,11,18,18,1
 "Loring Park","Drug/Narcotic Violations",26,34,32,28,45,30,2
 "Lowry Hill","Drug/Narcotic Violations",3,3,1,3,2,11,0
-"Lowry Hill East","Drug/Narcotic Violations",43,16,22,29,36,37,5
+"Lowry Hill East","Drug/Narcotic Violations",43,16,22,29,36,37,6
 "Lyndale","Drug/Narcotic Violations",32,18,8,5,28,31,8
 "Marcy Holmes","Drug/Narcotic Violations",37,31,23,10,12,4,2
 "Marshall Terrace","Drug/Narcotic Violations",14,9,7,6,3,1,0
@@ -59,7 +59,7 @@
 "Powderhorn Park","Drug/Narcotic Violations",27,24,13,22,24,22,2
 "Prospect Park - East River Road","Drug/Narcotic Violations",10,12,10,4,6,4,0
 "Regina","Drug/Narcotic Violations",2,5,1,0,0,0,0
-"Seward","Drug/Narcotic Violations",21,14,12,13,22,4,1
+"Seward","Drug/Narcotic Violations",21,14,12,13,22,4,2
 "Sheridan","Drug/Narcotic Violations",17,11,8,5,2,3,0
 "Shingle Creek","Drug/Narcotic Violations",7,6,0,1,1,0,0
 "South Uptown","Drug/Narcotic Violations",24,4,3,6,5,13,1
@@ -70,7 +70,7 @@
 "Sumner - Glenwood","Drug/Narcotic Violations",7,8,2,4,3,4,0
 "Tangletown","Drug/Narcotic Violations",9,6,0,0,1,1,1
 "University of Minnesota","Drug/Narcotic Violations",4,2,4,1,1,0,0
-"Ventura Village","Drug/Narcotic Violations",67,55,28,33,60,49,5
+"Ventura Village","Drug/Narcotic Violations",67,55,28,33,60,49,6
 "Victory","Drug/Narcotic Violations",5,5,4,0,3,4,0
 "Waite Park","Drug/Narcotic Violations",8,4,6,1,1,0,0
 "Webber - Camden","Drug/Narcotic Violations",36,27,12,20,32,17,3
@@ -111,7 +111,7 @@ NA,"Drug/Narcotic Violations",69,47,34,31,19,21,4
 "Elliot Park","Total",56,29,29,46,51,77,5
 "Ericsson","Total",4,5,2,0,3,3,0
 "Field","Total",1,3,1,0,0,2,0
-"Folwell","Total",36,41,25,20,42,27,5
+"Folwell","Total",36,41,25,20,42,27,7
 "Fulton","Total",4,1,2,0,1,0,0
 "Harrison","Total",22,15,5,5,4,3,0
 "Hawthorne","Total",142,133,67,74,55,24,2
@@ -128,7 +128,7 @@ NA,"Drug/Narcotic Violations",69,47,34,31,19,21,4
 "Longfellow","Total",36,15,14,11,18,18,1
 "Loring Park","Total",26,34,32,28,45,30,2
 "Lowry Hill","Total",3,3,1,3,2,11,0
-"Lowry Hill East","Total",43,16,22,29,36,37,5
+"Lowry Hill East","Total",43,16,22,29,36,37,6
 "Lyndale","Total",32,18,8,5,28,31,8
 "Marcy Holmes","Total",37,31,23,10,12,4,2
 "Marshall Terrace","Total",14,9,7,6,3,1,0
@@ -146,7 +146,7 @@ NA,"Drug/Narcotic Violations",69,47,34,31,19,21,4
 "Powderhorn Park","Total",27,24,13,22,24,22,2
 "Prospect Park - East River Road","Total",10,12,10,4,6,4,0
 "Regina","Total",2,5,1,0,0,0,0
-"Seward","Total",21,14,12,13,22,4,1
+"Seward","Total",21,14,12,13,22,4,2
 "Sheridan","Total",17,11,8,5,2,3,0
 "Shingle Creek","Total",7,6,0,1,1,0,0
 "South Uptown","Total",24,4,3,6,5,13,1
@@ -157,7 +157,7 @@ NA,"Drug/Narcotic Violations",69,47,34,31,19,21,4
 "Sumner - Glenwood","Total",7,8,2,4,3,4,0
 "Tangletown","Total",9,6,0,0,1,1,1
 "University of Minnesota","Total",4,2,4,1,1,0,0
-"Ventura Village","Total",67,55,28,33,60,49,5
+"Ventura Village","Total",67,55,28,33,60,49,6
 "Victory","Total",5,5,4,0,3,4,0
 "Waite Park","Total",8,4,6,1,1,0,0
 "Webber - Camden","Total",36,27,12,20,32,17,3

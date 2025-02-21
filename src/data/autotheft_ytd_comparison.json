@@ -1,49 +1,49 @@
 [
   {
-    "YTDCount": 343,
+    "YTDCount": 360,
     "Year": 2019,
     "Offense": "Motor Vehicle Theft"
   },
   {
-    "YTDCount": 623,
+    "YTDCount": 643,
     "Year": 2020,
     "Offense": "Motor Vehicle Theft",
-    "PrevYTDCount": 343,
-    "YTDPercentageChange": 81.6327
+    "PrevYTDCount": 360,
+    "YTDPercentageChange": 78.6111
   },
   {
-    "YTDCount": 647,
+    "YTDCount": 668,
     "Year": 2021,
     "Offense": "Motor Vehicle Theft",
-    "PrevYTDCount": 623,
-    "YTDPercentageChange": 3.8523
+    "PrevYTDCount": 643,
+    "YTDPercentageChange": 3.888
   },
   {
-    "YTDCount": 700,
+    "YTDCount": 721,
     "Year": 2022,
     "Offense": "Motor Vehicle Theft",
-    "PrevYTDCount": 647,
-    "YTDPercentageChange": 8.1917
+    "PrevYTDCount": 668,
+    "YTDPercentageChange": 7.9341
   },
   {
-    "YTDCount": 1204,
+    "YTDCount": 1266,
     "Year": 2023,
     "Offense": "Motor Vehicle Theft",
-    "PrevYTDCount": 700,
-    "YTDPercentageChange": 72
+    "PrevYTDCount": 721,
+    "YTDPercentageChange": 75.5895
   },
   {
-    "YTDCount": 828,
+    "YTDCount": 854,
     "Year": 2024,
     "Offense": "Motor Vehicle Theft",
-    "PrevYTDCount": 1204,
-    "YTDPercentageChange": -31.2292
+    "PrevYTDCount": 1266,
+    "YTDPercentageChange": -32.5434
   },
   {
-    "YTDCount": 578,
+    "YTDCount": 604,
     "Year": 2025,
     "Offense": "Motor Vehicle Theft",
-    "PrevYTDCount": 828,
-    "YTDPercentageChange": -30.1932
+    "PrevYTDCount": 854,
+    "YTDPercentageChange": -29.274
   }
 ]
