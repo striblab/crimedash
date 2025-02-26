@@ -27,6 +27,8 @@
 	import STPM from './STPM.svelte';
 	import STPS from './STPS.svelte';
 	import STPV from './STPV.svelte';
+	import STPR from './STPR.svelte';
+	import STPSA from './STPSA.svelte';
 	import Suburbs from './Suburbs.svelte';
 	import Statewide from './Statewide.svelte';
 	import National from './National.svelte';
@@ -61,8 +63,15 @@
 	  { id: 'park', cat: 'Minneapolis', name: 'Park Police', component: Park },
 	  { id: 'stpm', cat: 'St. Paul', name: 'Homicides', component: STPM },
 	  { id: 'stps', cat: 'St. Paul', name: 'Shootings', component: STPS },
-	  { id: 'stpv', cat: 'St. Paul', name: 'Violent Crime', component: STPV },
-	  { id: 'stp', cat: 'St. Paul', name: 'Property Crime', component: STP },
+	  { id: 'stpr', cat: 'St. Paul', name: 'Robbery', component: STPR },
+	  { id: 'stpsa', cat: 'St. Paul', name: 'Rape', component: STPSA },
+	  { id: 'stpv', cat: 'St. Paul', name: 'Aggravated Assault', component: STPV },
+	  { id: 'stp', cat: 'St. Paul', name: 'Larceny', component: STP },
+	  { id: 'stp', cat: 'St. Paul', name: 'Burglary', component: STP },
+	  { id: 'stp', cat: 'St. Paul', name: 'Motor Vehicle Theft', component: STP },
+	  { id: 'stp', cat: 'St. Paul', name: 'Arson', component: STP },
+	  { id: 'stp', cat: 'St. Paul', name: 'NIBRS Offenses', component: STP },
+	  { id: 'stp', cat: 'St. Paul', name: 'Police Activity', component: STP },
 	  { id: 'umpd', cat: 'Metro', name: 'University of Minnesota Police Department', component: UMPD },
 	  { id: 'transit', cat: 'Metro', name: 'Metro Transit Police Department', component: Transit },
 	  { id: 'msp', cat: 'Metro', name: 'MSP Airport Police Department', component: MSP },

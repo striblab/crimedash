@@ -31,22 +31,22 @@
 "Harrison","Motor Vehicle Theft",26,49,54,89,72,76,3
 "Hawthorne","Motor Vehicle Theft",92,93,98,141,143,141,14
 "Hiawatha","Motor Vehicle Theft",34,42,48,106,122,94,19
-"Holland","Motor Vehicle Theft",26,54,49,79,99,96,6
+"Holland","Motor Vehicle Theft",26,54,49,79,99,96,7
 "Howe","Motor Vehicle Theft",31,53,52,108,79,83,8
 "Humboldt Industrial Area","Motor Vehicle Theft",2,1,0,3,1,0,0
-"Jordan","Motor Vehicle Theft",82,108,91,165,174,182,12
+"Jordan","Motor Vehicle Theft",82,108,91,165,174,182,13
 "Keewaydin","Motor Vehicle Theft",10,17,14,15,19,35,4
 "Kenny","Motor Vehicle Theft",7,12,8,8,12,17,1
 "Kenwood","Motor Vehicle Theft",4,6,8,17,23,15,1
-"King Field","Motor Vehicle Theft",29,54,64,92,131,117,10
+"King Field","Motor Vehicle Theft",29,54,64,92,131,117,11
 "Lind - Bohanon","Motor Vehicle Theft",40,57,42,92,82,69,6
 "Linden Hills","Motor Vehicle Theft",14,14,16,32,52,30,4
 "Logan Park","Motor Vehicle Theft",12,15,22,35,72,67,6
 "Longfellow","Motor Vehicle Theft",73,95,89,147,167,120,11
-"Loring Park","Motor Vehicle Theft",45,58,99,124,145,150,18
+"Loring Park","Motor Vehicle Theft",45,58,99,124,145,150,19
 "Lowry Hill","Motor Vehicle Theft",22,24,43,67,83,65,1
 "Lowry Hill East","Motor Vehicle Theft",78,94,133,229,300,221,21
-"Lyndale","Motor Vehicle Theft",54,68,100,175,261,215,23
+"Lyndale","Motor Vehicle Theft",54,68,100,175,261,215,24
 "Lynnhurst","Motor Vehicle Theft",7,19,8,18,25,24,4
 "Marcy Holmes","Motor Vehicle Theft",127,223,228,202,273,224,11
 "Marshall Terrace","Motor Vehicle Theft",11,18,20,18,32,51,3
@@ -72,18 +72,18 @@
 "St. Anthony East","Motor Vehicle Theft",7,9,10,17,45,25,1
 "St. Anthony West","Motor Vehicle Theft",14,14,31,44,74,63,3
 "Standish","Motor Vehicle Theft",29,57,60,82,113,75,5
-"Steven's Square - Loring Heights","Motor Vehicle Theft",29,46,59,96,123,128,17
-"Sumner - Glenwood","Motor Vehicle Theft",15,15,18,31,42,27,6
+"Steven's Square - Loring Heights","Motor Vehicle Theft",29,46,59,96,123,128,19
+"Sumner - Glenwood","Motor Vehicle Theft",15,15,18,31,42,27,7
 "Tangletown","Motor Vehicle Theft",17,24,17,31,44,37,5
 "University of Minnesota","Motor Vehicle Theft",12,22,26,12,16,16,0
-"Ventura Village","Motor Vehicle Theft",131,153,93,146,173,152,9
+"Ventura Village","Motor Vehicle Theft",131,153,93,146,173,152,10
 "Victory","Motor Vehicle Theft",24,38,35,77,63,62,4
 "Waite Park","Motor Vehicle Theft",10,17,20,25,43,24,2
 "Webber - Camden","Motor Vehicle Theft",56,67,54,80,104,78,3
 "Wenonah","Motor Vehicle Theft",22,28,22,31,38,35,5
 "West Maka Ska","Motor Vehicle Theft",5,18,31,19,36,36,2
 "Whittier","Motor Vehicle Theft",138,196,243,547,560,467,30
-"Willard - Hay","Motor Vehicle Theft",52,89,69,139,173,123,11
+"Willard - Hay","Motor Vehicle Theft",52,89,69,139,173,123,12
 "Windom","Motor Vehicle Theft",20,35,39,42,72,66,2
 "Windom Park","Motor Vehicle Theft",30,28,37,52,74,55,3
 NA,"Motor Vehicle Theft",5,4,18,15,13,11,0
@@ -119,22 +119,22 @@ NA,"Motor Vehicle Theft",5,4,18,15,13,11,0
 "Harrison","Total",26,49,54,89,72,76,3
 "Hawthorne","Total",92,93,98,141,143,141,14
 "Hiawatha","Total",34,42,48,106,122,94,19
-"Holland","Total",26,54,49,79,99,96,6
+"Holland","Total",26,54,49,79,99,96,7
 "Howe","Total",31,53,52,108,79,83,8
 "Humboldt Industrial Area","Total",2,1,0,3,1,0,0
-"Jordan","Total",82,108,91,165,174,182,12
+"Jordan","Total",82,108,91,165,174,182,13
 "Keewaydin","Total",10,17,14,15,19,35,4
 "Kenny","Total",7,12,8,8,12,17,1
 "Kenwood","Total",4,6,8,17,23,15,1
-"King Field","Total",29,54,64,92,131,117,10
+"King Field","Total",29,54,64,92,131,117,11
 "Lind - Bohanon","Total",40,57,42,92,82,69,6
 "Linden Hills","Total",14,14,16,32,52,30,4
 "Logan Park","Total",12,15,22,35,72,67,6
 "Longfellow","Total",73,95,89,147,167,120,11
-"Loring Park","Total",45,58,99,124,145,150,18
+"Loring Park","Total",45,58,99,124,145,150,19
 "Lowry Hill","Total",22,24,43,67,83,65,1
 "Lowry Hill East","Total",78,94,133,229,300,221,21
-"Lyndale","Total",54,68,100,175,261,215,23
+"Lyndale","Total",54,68,100,175,261,215,24
 "Lynnhurst","Total",7,19,8,18,25,24,4
 "Marcy Holmes","Total",127,223,228,202,273,224,11
 "Marshall Terrace","Total",11,18,20,18,32,51,3
@@ -160,18 +160,18 @@ NA,"Motor Vehicle Theft",5,4,18,15,13,11,0
 "St. Anthony East","Total",7,9,10,17,45,25,1
 "St. Anthony West","Total",14,14,31,44,74,63,3
 "Standish","Total",29,57,60,82,113,75,5
-"Steven's Square - Loring Heights","Total",29,46,59,96,123,128,17
-"Sumner - Glenwood","Total",15,15,18,31,42,27,6
+"Steven's Square - Loring Heights","Total",29,46,59,96,123,128,19
+"Sumner - Glenwood","Total",15,15,18,31,42,27,7
 "Tangletown","Total",17,24,17,31,44,37,5
 "University of Minnesota","Total",12,22,26,12,16,16,0
-"Ventura Village","Total",131,153,93,146,173,152,9
+"Ventura Village","Total",131,153,93,146,173,152,10
 "Victory","Total",24,38,35,77,63,62,4
 "Waite Park","Total",10,17,20,25,43,24,2
 "Webber - Camden","Total",56,67,54,80,104,78,3
 "Wenonah","Total",22,28,22,31,38,35,5
 "West Maka Ska","Total",5,18,31,19,36,36,2
 "Whittier","Total",138,196,243,547,560,467,30
-"Willard - Hay","Total",52,89,69,139,173,123,11
+"Willard - Hay","Total",52,89,69,139,173,123,12
 "Windom","Total",20,35,39,42,72,66,2
 "Windom Park","Total",30,28,37,52,74,55,3
 NA,"Total",5,4,18,15,13,11,0
