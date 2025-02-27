@@ -44,7 +44,7 @@
 
 <h4 class="source">Data sources: FBI</h4>
 
-<p>Robbery rates per 100,000 residents in St. Paul have fallen over time.</p>
+<p>Robberies in St. Paul have fallen over time.</p>
 
 <div class="chart-container">
     <canvas id="violentCrimeChart"></canvas>

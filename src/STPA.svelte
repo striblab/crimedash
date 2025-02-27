@@ -1,7 +1,7 @@
 <script>
     import { onMount } from 'svelte';
     import Chart from 'chart.js/auto';
-    import stpViolentCrime from '../store/stpsa/stp_rape.json';
+    import stpViolentCrime from '../store/stpa/stp_assault.json';
   
     let propertyChart, violentCrimeChart;
 
@@ -36,20 +36,20 @@
 
     onMount(() => {
         const ctxViolent = document.getElementById('violentCrimeChart').getContext('2d');
-        violentCrimeChart = createChart(ctxViolent, stpViolentCrime, 'Rape');
+        violentCrimeChart = createChart(ctxViolent, stpViolentCrime, 'Violent Crimes');
     });
   </script>
 
-<h3>St. Paul: Rape</h3>
+<h3>St. Paul: Aggravated Assault</h3>
 
 <h4 class="source">Data sources: FBI</h4>
 
-<p>Rapes and sexual assaults in St. Paul have been flatter over time.</p>
+<p>Aggravated assaults in St. Paul rose significantly starting in 2020.</p>
 
 <div class="chart-container">
     <canvas id="violentCrimeChart"></canvas>
   </div>
-<div class="download"><a href="../store/stpv/stp_violent.csv">Download St. Paul 1985-2023 rape data (includes clearances)</a></div>
+<div class="download"><a href="../store/stpa/stp_assault.csv">Download St. Paul 1985-2023 violent crimes data (includes clearances)</a></div>
 
 <h4>Links</h4>
 

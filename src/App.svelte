@@ -29,6 +29,7 @@
 	import STPV from './STPV.svelte';
 	import STPR from './STPR.svelte';
 	import STPSA from './STPSA.svelte';
+	import STPA from './STPA.svelte';
 	import Suburbs from './Suburbs.svelte';
 	import Statewide from './Statewide.svelte';
 	import National from './National.svelte';
@@ -65,7 +66,7 @@
 	  { id: 'stps', cat: 'St. Paul', name: 'Shootings', component: STPS },
 	  { id: 'stpr', cat: 'St. Paul', name: 'Robbery', component: STPR },
 	  { id: 'stpsa', cat: 'St. Paul', name: 'Rape', component: STPSA },
-	  { id: 'stpv', cat: 'St. Paul', name: 'Aggravated Assault', component: STPV },
+	  { id: 'stpa', cat: 'St. Paul', name: 'Aggravated Assault', component: STPA },
 	  { id: 'stp', cat: 'St. Paul', name: 'Larceny', component: STP },
 	  { id: 'stp', cat: 'St. Paul', name: 'Burglary', component: STP },
 	  { id: 'stp', cat: 'St. Paul', name: 'Motor Vehicle Theft', component: STP },
