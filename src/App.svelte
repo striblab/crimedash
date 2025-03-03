@@ -24,6 +24,7 @@
 	import UMPD from './UMPD.svelte';
 	import MSP from './MSP.svelte';
 	import STP from './STP.svelte';
+	import STPB from './STPB.svelte';
 	import STPM from './STPM.svelte';
 	import STPS from './STPS.svelte';
 	import STPV from './STPV.svelte';
@@ -69,7 +70,7 @@
 	  { id: 'stpsa', cat: 'St. Paul', name: 'Rape', component: STPSA },
 	  { id: 'stpa', cat: 'St. Paul', name: 'Aggravated Assault', component: STPA },
 	  { id: 'stpl', cat: 'St. Paul', name: 'Larceny', component: STPL },
-	  { id: 'stp', cat: 'St. Paul', name: 'Burglary', component: STP },
+	  { id: 'stpb', cat: 'St. Paul', name: 'Burglary', component: STPB },
 	  { id: 'stp', cat: 'St. Paul', name: 'Motor Vehicle Theft', component: STP },
 	  { id: 'stp', cat: 'St. Paul', name: 'Arson', component: STP },
 	  { id: 'stp', cat: 'St. Paul', name: 'NIBRS Offenses', component: STP },
