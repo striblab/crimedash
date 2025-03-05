@@ -23,7 +23,7 @@
 	import Park from './Park.svelte';
 	import UMPD from './UMPD.svelte';
 	import MSP from './MSP.svelte';
-	import STP from './STP.svelte';
+	import STPF from './STPF.svelte';
 	import STPB from './STPB.svelte';
 	import STPM from './STPM.svelte';
 	import STPS from './STPS.svelte';
@@ -72,9 +72,9 @@
 	  { id: 'stpl', cat: 'St. Paul', name: 'Larceny', component: STPL },
 	  { id: 'stpb', cat: 'St. Paul', name: 'Burglary', component: STPB },
 	  { id: 'stpat', cat: 'St. Paul', name: 'Motor Vehicle Theft', component: STPAT },
-	  { id: 'stp', cat: 'St. Paul', name: 'Arson', component: STP },
-	  { id: 'stp', cat: 'St. Paul', name: 'NIBRS Offenses', component: STP },
-	  { id: 'stp', cat: 'St. Paul', name: 'Police Activity', component: STP },
+	  { id: 'stpf', cat: 'St. Paul', name: 'Arson', component: STPF },
+	  { id: 'stpf', cat: 'St. Paul', name: 'NIBRS Offenses', component: STPF },
+	  { id: 'stpf', cat: 'St. Paul', name: 'Police Activity', component: STPF },
 	  { id: 'umpd', cat: 'Metro', name: 'University of Minnesota Police Department', component: UMPD },
 	  { id: 'transit', cat: 'Metro', name: 'Metro Transit Police Department', component: Transit },
 	  { id: 'msp', cat: 'Metro', name: 'MSP Airport Police Department', component: MSP },
