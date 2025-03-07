@@ -32,7 +32,15 @@
 	import STPSA from './STPSA.svelte';
 	import STPL from './STPL.svelte';
 	import STPA from './STPA.svelte';
-	import Suburbs from './Suburbs.svelte';
+	import STPPA from './STPPA.svelte';
+	import STPN from './STPN.svelte';
+	import Hennepin from './Suburbs.svelte';
+	import Ramsey from './Suburbs.svelte';
+	import Anoka from './Suburbs.svelte';
+	import Scott from './Suburbs.svelte';
+	import Carver from './Suburbs.svelte';
+	import Dakota from './Suburbs.svelte';
+	import Washington from './Suburbs.svelte';
 	import Statewide from './Statewide.svelte';
 	import National from './National.svelte';
 	import Arrests from './Arrests.svelte';
@@ -73,18 +81,18 @@
 	  { id: 'stpb', cat: 'St. Paul', name: 'Burglary', component: STPB },
 	  { id: 'stpat', cat: 'St. Paul', name: 'Motor Vehicle Theft', component: STPAT },
 	  { id: 'stpf', cat: 'St. Paul', name: 'Arson', component: STPF },
-	  { id: 'stpf', cat: 'St. Paul', name: 'NIBRS Offenses', component: STPF },
-	  { id: 'stpf', cat: 'St. Paul', name: 'Police Activity', component: STPF },
+	  { id: 'stpn', cat: 'St. Paul', name: 'NIBRS Statistics', component: STPN },
+	  { id: 'stppa', cat: 'St. Paul', name: 'Police Activity', component: STPPA },
 	  { id: 'umpd', cat: 'Metro', name: 'University of Minnesota Police Department', component: UMPD },
 	  { id: 'transit', cat: 'Metro', name: 'Metro Transit Police Department', component: Transit },
 	  { id: 'msp', cat: 'Metro', name: 'MSP Airport Police Department', component: MSP },
-	  { id: 'subhennepin', cat: 'Metro', name: 'Hennepin County', component: Suburbs },
-	  { id: 'subramsey', cat: 'Metro', name: 'Ramsey County', component: Suburbs },
-	  { id: 'subdakota', cat: 'Metro', name: 'Dakota County', component: Suburbs },
-	  { id: 'subanoka', cat: 'Metro', name: 'Anoka County', component: Suburbs },
-	  { id: 'subscott', cat: 'Metro', name: 'Scott County', component: Suburbs },
-	  { id: 'subcarver', cat: 'Metro', name: 'Carver County', component: Suburbs },
-	  { id: 'subwash', cat: 'Metro', name: 'Washington County', component: Suburbs },
+	  { id: 'subhennepin', cat: 'Metro', name: 'Hennepin County', component: Hennepin },
+	  { id: 'subramsey', cat: 'Metro', name: 'Ramsey County', component: Ramsey },
+	  { id: 'subdakota', cat: 'Metro', name: 'Dakota County', component: Dakota },
+	  { id: 'subanoka', cat: 'Metro', name: 'Anoka County', component: Anoka },
+	  { id: 'subscott', cat: 'Metro', name: 'Scott County', component: Scott },
+	  { id: 'subcarver', cat: 'Metro', name: 'Carver County', component: Carver },
+	  { id: 'subwash', cat: 'Metro', name: 'Washington County', component: Washington },
 	  { id: 'statewide', cat: 'Minnesota', name: 'Statewide Public Safety Trends', component: Statewide },
 	  { id: 'arrests', cat: 'Minnesota', name: 'Arrests', component: Arrests },
 	  { id: 'leoka', cat: 'Minnesota', name: 'LEOKA', component: LEOKA },
@@ -92,7 +100,7 @@
 	  { id: 'courts', cat: 'Minnesota', name: 'Minnesota Courts', component: Courts },
 	  { id: 'national', cat: 'National', name: 'National Public Safety Trends', component: National },
 	  { id: 'practices', cat: 'Notes', name: 'Best Practices', component: Practices },
-	  { id: 'linkd', cat: 'Notes', name: 'Other Links', component: Links },
+	  { id: 'links', cat: 'Notes', name: 'Other Links', component: Links },
 	];
   
 	// Grouping modules by category
