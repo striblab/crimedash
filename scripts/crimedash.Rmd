@@ -128,7 +128,7 @@ csvcopy <- function(filename, crime){
 # Specify the list of offenses
 categories <- c('Motor Vehicle Theft', 'Aggravated Assault', 'Arson', 
                 'Carjacking - Subset of Robbery', 'Robbery', 'Sex Offenses', 
-                'Murder and Nonnegligent Manslaughter', 'Shooting (PFE)', 
+                'Murder and Nonnegligent Manslaughter', 'Justifiable Homicide ', 'Shooting (PFE)', 
                 'Shooting Report Only (P)', 'ShotSpotter Activation (P)',  'Sound of Shots Fired (P)')
 
 #BREAKDOWN OFFENSES BY TYPE
@@ -418,6 +418,19 @@ generate_svg_maps('manslaughter')
 ```
 
 
+# Justifiable Homicide
+```{r}
+categories <- c('Justifiable Homicide')
+
+rawplot(categories,'justified')
+ycatplot(categories,'justified')
+mocatplot(categories,'justified')
+ytdcatplot(categories,'justified')
+precinctcount(categories,'justified')
+geocatplot(categories,'justified')
+generate_svg_maps('justified')
+
+```
 
 # Aggravated Assaults
 ```{r}

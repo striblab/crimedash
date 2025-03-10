@@ -9,12 +9,12 @@
 "Camden Industrial","Burglary/Breaking & Entering",2,7,6,5,1,0,0
 "Cedar - Isles - Dean","Burglary/Breaking & Entering",19,52,21,7,16,20,4
 "Cedar Riverside","Burglary/Breaking & Entering",28,46,29,26,30,18,4
-"Central","Burglary/Breaking & Entering",77,104,55,76,84,84,6
+"Central","Burglary/Breaking & Entering",77,104,55,76,84,84,7
 "Cleveland","Burglary/Breaking & Entering",16,28,18,17,18,20,2
 "Columbia Park","Burglary/Breaking & Entering",12,3,7,5,10,6,2
 "Como","Burglary/Breaking & Entering",61,43,32,36,31,29,8
 "Cooper","Burglary/Breaking & Entering",37,37,21,33,41,37,1
-"Corcoran","Burglary/Breaking & Entering",43,63,30,41,40,38,10
+"Corcoran","Burglary/Breaking & Entering",43,63,30,41,40,38,11
 "Diamond Lake","Burglary/Breaking & Entering",40,37,27,22,17,23,3
 "Downtown East","Burglary/Breaking & Entering",21,34,18,20,12,24,1
 "Downtown West","Burglary/Breaking & Entering",100,139,67,81,65,52,3
@@ -34,18 +34,18 @@
 "Holland","Burglary/Breaking & Entering",35,25,28,23,28,31,2
 "Howe","Burglary/Breaking & Entering",59,60,35,66,50,57,5
 "Humboldt Industrial Area","Burglary/Breaking & Entering",2,1,1,1,0,1,0
-"Jordan","Burglary/Breaking & Entering",66,68,57,82,101,83,5
+"Jordan","Burglary/Breaking & Entering",66,68,57,82,101,83,6
 "Keewaydin","Burglary/Breaking & Entering",17,20,12,25,10,22,5
 "Kenny","Burglary/Breaking & Entering",28,24,14,9,8,6,0
 "Kenwood","Burglary/Breaking & Entering",6,9,6,5,4,4,0
-"King Field","Burglary/Breaking & Entering",83,72,50,45,80,89,8
+"King Field","Burglary/Breaking & Entering",83,72,50,45,80,89,9
 "Lind - Bohanon","Burglary/Breaking & Entering",70,45,18,20,22,17,2
 "Linden Hills","Burglary/Breaking & Entering",32,38,30,21,16,14,0
 "Logan Park","Burglary/Breaking & Entering",10,22,21,11,19,16,2
 "Longfellow","Burglary/Breaking & Entering",64,88,44,63,67,66,20
 "Loring Park","Burglary/Breaking & Entering",55,96,49,51,43,47,10
 "Lowry Hill","Burglary/Breaking & Entering",31,46,27,29,32,23,4
-"Lowry Hill East","Burglary/Breaking & Entering",75,209,115,77,93,47,12
+"Lowry Hill East","Burglary/Breaking & Entering",75,209,115,77,93,47,13
 "Lyndale","Burglary/Breaking & Entering",63,84,40,75,66,82,8
 "Lynnhurst","Burglary/Breaking & Entering",37,36,23,16,13,19,4
 "Marcy Holmes","Burglary/Breaking & Entering",87,147,132,78,57,54,9
@@ -69,14 +69,14 @@
 "Sheridan","Burglary/Breaking & Entering",15,22,26,15,16,16,0
 "Shingle Creek","Burglary/Breaking & Entering",17,21,14,3,9,5,2
 "South Uptown","Burglary/Breaking & Entering",63,71,53,45,44,50,8
-"St. Anthony East","Burglary/Breaking & Entering",8,11,9,3,10,7,1
+"St. Anthony East","Burglary/Breaking & Entering",8,11,9,3,10,7,2
 "St. Anthony West","Burglary/Breaking & Entering",7,14,18,11,6,10,0
 "Standish","Burglary/Breaking & Entering",98,62,42,44,49,39,7
 "Steven's Square - Loring Heights","Burglary/Breaking & Entering",47,57,27,29,30,31,5
 "Sumner - Glenwood","Burglary/Breaking & Entering",9,8,8,6,2,7,3
 "Tangletown","Burglary/Breaking & Entering",36,44,24,20,29,39,7
 "University of Minnesota","Burglary/Breaking & Entering",10,8,12,11,8,4,0
-"Ventura Village","Burglary/Breaking & Entering",47,64,40,34,34,37,9
+"Ventura Village","Burglary/Breaking & Entering",47,64,40,34,34,37,10
 "Victory","Burglary/Breaking & Entering",32,27,17,16,19,23,2
 "Waite Park","Burglary/Breaking & Entering",51,22,13,16,13,6,1
 "Webber - Camden","Burglary/Breaking & Entering",57,37,23,22,25,33,2
@@ -97,12 +97,12 @@ NA,"Burglary/Breaking & Entering",1,1,5,5,6,3,0
 "Camden Industrial","Total",2,7,6,5,1,0,0
 "Cedar - Isles - Dean","Total",19,52,21,7,16,20,4
 "Cedar Riverside","Total",28,46,29,26,30,18,4
-"Central","Total",77,104,55,76,84,84,6
+"Central","Total",77,104,55,76,84,84,7
 "Cleveland","Total",16,28,18,17,18,20,2
 "Columbia Park","Total",12,3,7,5,10,6,2
 "Como","Total",61,43,32,36,31,29,8
 "Cooper","Total",37,37,21,33,41,37,1
-"Corcoran","Total",43,63,30,41,40,38,10
+"Corcoran","Total",43,63,30,41,40,38,11
 "Diamond Lake","Total",40,37,27,22,17,23,3
 "Downtown East","Total",21,34,18,20,12,24,1
 "Downtown West","Total",100,139,67,81,65,52,3
@@ -122,18 +122,18 @@ NA,"Burglary/Breaking & Entering",1,1,5,5,6,3,0
 "Holland","Total",35,25,28,23,28,31,2
 "Howe","Total",59,60,35,66,50,57,5
 "Humboldt Industrial Area","Total",2,1,1,1,0,1,0
-"Jordan","Total",66,68,57,82,101,83,5
+"Jordan","Total",66,68,57,82,101,83,6
 "Keewaydin","Total",17,20,12,25,10,22,5
 "Kenny","Total",28,24,14,9,8,6,0
 "Kenwood","Total",6,9,6,5,4,4,0
-"King Field","Total",83,72,50,45,80,89,8
+"King Field","Total",83,72,50,45,80,89,9
 "Lind - Bohanon","Total",70,45,18,20,22,17,2
 "Linden Hills","Total",32,38,30,21,16,14,0
 "Logan Park","Total",10,22,21,11,19,16,2
 "Longfellow","Total",64,88,44,63,67,66,20
 "Loring Park","Total",55,96,49,51,43,47,10
 "Lowry Hill","Total",31,46,27,29,32,23,4
-"Lowry Hill East","Total",75,209,115,77,93,47,12
+"Lowry Hill East","Total",75,209,115,77,93,47,13
 "Lyndale","Total",63,84,40,75,66,82,8
 "Lynnhurst","Total",37,36,23,16,13,19,4
 "Marcy Holmes","Total",87,147,132,78,57,54,9
@@ -157,14 +157,14 @@ NA,"Burglary/Breaking & Entering",1,1,5,5,6,3,0
 "Sheridan","Total",15,22,26,15,16,16,0
 "Shingle Creek","Total",17,21,14,3,9,5,2
 "South Uptown","Total",63,71,53,45,44,50,8
-"St. Anthony East","Total",8,11,9,3,10,7,1
+"St. Anthony East","Total",8,11,9,3,10,7,2
 "St. Anthony West","Total",7,14,18,11,6,10,0
 "Standish","Total",98,62,42,44,49,39,7
 "Steven's Square - Loring Heights","Total",47,57,27,29,30,31,5
 "Sumner - Glenwood","Total",9,8,8,6,2,7,3
 "Tangletown","Total",36,44,24,20,29,39,7
 "University of Minnesota","Total",10,8,12,11,8,4,0
-"Ventura Village","Total",47,64,40,34,34,37,9
+"Ventura Village","Total",47,64,40,34,34,37,10
 "Victory","Total",32,27,17,16,19,23,2
 "Waite Park","Total",51,22,13,16,13,6,1
 "Webber - Camden","Total",57,37,23,22,25,33,2

@@ -3,6 +3,7 @@
 	import About from './About.svelte';
 	import Murder from './Murder.svelte';
 	import Manslaughter from './Manslaughter.svelte';
+	import Justified from './Justified.svelte';
 	import Gunfire from './Gunfire.svelte';
 	import Shotvictims from './Shotvictims.svelte';
 	import Assault from './Assault.svelte';
@@ -34,12 +35,12 @@
 	import STPA from './STPA.svelte';
 	import STPPA from './STPPA.svelte';
 	import STPN from './STPN.svelte';
-	import Hennepin from './Suburbs.svelte';
-	import Ramsey from './Suburbs.svelte';
-	import Anoka from './Suburbs.svelte';
-	import Scott from './Suburbs.svelte';
-	import Carver from './Suburbs.svelte';
-	import Dakota from './Suburbs.svelte';
+	import Hennepin from './Hennepin.svelte';
+	import Ramsey from './Ramsey.svelte';
+	import Anoka from './Anoka.svelte';
+	import Scott from './Scott.svelte';
+	import Carver from './Carver.svelte';
+	import Dakota from './Dakota.svelte';
 	import Washington from './Suburbs.svelte';
 	import Statewide from './Statewide.svelte';
 	import National from './National.svelte';
@@ -54,6 +55,7 @@
 	let modules = [
 	  { id: 'murder', cat: 'Minneapolis', name: 'Murder', component: Murder },
 	  { id: 'manslaughter', cat: 'Minneapolis', name: 'Manslaughter', component: Manslaughter },
+	  { id: 'justified', cat: 'Minneapolis', name: 'Justifiable Homicide', component: Justified },
 	  { id: 'gunfire', cat: 'Minneapolis', name: 'Shots Fired', component: Gunfire },
 	  { id: 'shotvictims', cat: 'Minneapolis', name: 'Shooting Victims', component: Shotvictims },
 	  { id: 'assault', cat: 'Minneapolis', name: 'Aggravated Assault', component: Assault },
