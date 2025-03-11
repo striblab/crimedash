@@ -751,14 +751,14 @@ download_arrest_reports <- function() {
   })
 }
 
-download_arrest_reports()
+# download_arrest_reports()
 
 ```
 
-#SUBURBS
+#NIBRS
 ```{r}
 # Define the function to download agency files
-download_suburban_reports <- function() {
+download_bca_nibrs <- function() {
   base_path <- "/Users/hargaja/Desktop/workspace/redboard/20240428-crimedash/store/suburbs"
   urls <- c(
     "https://cde.state.mn.us/DownloadData/OffenseCountyMunicipalByAgencyDownloadData?ReportYear=2021",
@@ -776,7 +776,7 @@ download_suburban_reports <- function() {
   })
 }
 
-download_suburban_reports()
+# download_bca_nibrs()
 
 ```
 

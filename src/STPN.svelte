@@ -42,14 +42,14 @@
 
 <h3>St. Paul: NIBRS Statistics</h3>
 
-<h4 class="source">Data sources: St. Paul Police Department</h4>
+<h4 class="source">Data sources: St. Paul Police Department, Minnesota Bureau of Criminal Apprehension.</h4>
 
-<p>Auto thefts in St. Paul surged significantly after the pandemic, driven primarily by stolen Kias and Hyundais.</p>
+<p>Since 2021, St. Paul's NIBRS criminal offense data has lived on the <a href="https://cde.state.mn.us/">BCA's Crime Data Explorer</a>.</p>
 
 <div class="chart-container">
     <canvas id="propertyChart"></canvas>
   </div>
-<div class="download"><a href="../store/stpat/stp_autotheft.csv">Download St. Paul 1985-2023 auto thefts data (includes clearances)</a></div>
+<div class="download"><a href="../store/stpn/stp_nibrs.csv">Download St. Paul 2021-present NIBRS offenses</a></div>
 
 <h4>Links</h4>
 
