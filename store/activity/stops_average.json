@@ -14590,12 +14590,672 @@
   },
   {
     "date": "2024-10-28",
-    "IncidentCount": 12,
-    "Incidents": 44
+    "IncidentCount": 63,
+    "Incidents": 51.2857
   },
   {
     "date": "2024-10-29",
-    "IncidentCount": 1,
+    "IncidentCount": 62,
+    "Incidents": 52.4286
+  },
+  {
+    "date": "2024-10-30",
+    "IncidentCount": 64,
+    "Incidents": 55
+  },
+  {
+    "date": "2024-10-31",
+    "IncidentCount": 47,
+    "Incidents": 53.8571
+  },
+  {
+    "date": "2024-11-01",
+    "IncidentCount": 47,
+    "Incidents": 52.1429
+  },
+  {
+    "date": "2024-11-02",
+    "IncidentCount": 66,
+    "Incidents": 55.4286
+  },
+  {
+    "date": "2024-11-03",
+    "IncidentCount": 46,
+    "Incidents": 56.4286
+  },
+  {
+    "date": "2024-11-04",
+    "IncidentCount": 49,
+    "Incidents": 54.4286
+  },
+  {
+    "date": "2024-11-05",
+    "IncidentCount": 52,
+    "Incidents": 53
+  },
+  {
+    "date": "2024-11-06",
+    "IncidentCount": 47,
+    "Incidents": 50.5714
+  },
+  {
+    "date": "2024-11-07",
+    "IncidentCount": 57,
+    "Incidents": 52
+  },
+  {
+    "date": "2024-11-08",
+    "IncidentCount": 55,
+    "Incidents": 53.1429
+  },
+  {
+    "date": "2024-11-09",
+    "IncidentCount": 50,
+    "Incidents": 50.8571
+  },
+  {
+    "date": "2024-11-10",
+    "IncidentCount": 42,
+    "Incidents": 50.2857
+  },
+  {
+    "date": "2024-11-11",
+    "IncidentCount": 42,
+    "Incidents": 49.2857
+  },
+  {
+    "date": "2024-11-12",
+    "IncidentCount": 48,
+    "Incidents": 48.7143
+  },
+  {
+    "date": "2024-11-13",
+    "IncidentCount": 41,
+    "Incidents": 47.8571
+  },
+  {
+    "date": "2024-11-14",
+    "IncidentCount": 48,
+    "Incidents": 46.5714
+  },
+  {
+    "date": "2024-11-15",
+    "IncidentCount": 53,
+    "Incidents": 46.2857
+  },
+  {
+    "date": "2024-11-16",
+    "IncidentCount": 47,
+    "Incidents": 45.8571
+  },
+  {
+    "date": "2024-11-17",
+    "IncidentCount": 39,
+    "Incidents": 45.4286
+  },
+  {
+    "date": "2024-11-18",
+    "IncidentCount": 41,
+    "Incidents": 45.2857
+  },
+  {
+    "date": "2024-11-19",
+    "IncidentCount": 43,
+    "Incidents": 44.5714
+  },
+  {
+    "date": "2024-11-20",
+    "IncidentCount": 80,
+    "Incidents": 50.1429
+  },
+  {
+    "date": "2024-11-21",
+    "IncidentCount": 40,
+    "Incidents": 49
+  },
+  {
+    "date": "2024-11-22",
+    "IncidentCount": 51,
+    "Incidents": 48.7143
+  },
+  {
+    "date": "2024-11-23",
+    "IncidentCount": 54,
+    "Incidents": 49.7143
+  },
+  {
+    "date": "2024-11-24",
+    "IncidentCount": 46,
+    "Incidents": 50.7143
+  },
+  {
+    "date": "2024-11-25",
+    "IncidentCount": 48,
+    "Incidents": 51.7143
+  },
+  {
+    "date": "2024-11-26",
+    "IncidentCount": 64,
+    "Incidents": 54.7143
+  },
+  {
+    "date": "2024-11-27",
+    "IncidentCount": 48,
+    "Incidents": 50.1429
+  },
+  {
+    "date": "2024-11-28",
+    "IncidentCount": 37,
+    "Incidents": 49.7143
+  },
+  {
+    "date": "2024-11-29",
+    "IncidentCount": 28,
+    "Incidents": 46.4286
+  },
+  {
+    "date": "2024-11-30",
+    "IncidentCount": 29,
+    "Incidents": 42.8571
+  },
+  {
+    "date": "2024-12-01",
+    "IncidentCount": 29,
+    "Incidents": 40.4286
+  },
+  {
+    "date": "2024-12-02",
+    "IncidentCount": 26,
+    "Incidents": 37.2857
+  },
+  {
+    "date": "2024-12-03",
+    "IncidentCount": 43,
+    "Incidents": 34.2857
+  },
+  {
+    "date": "2024-12-04",
+    "IncidentCount": 44,
+    "Incidents": 33.7143
+  },
+  {
+    "date": "2024-12-05",
+    "IncidentCount": 44,
+    "Incidents": 34.7143
+  },
+  {
+    "date": "2024-12-06",
+    "IncidentCount": 61,
+    "Incidents": 39.4286
+  },
+  {
+    "date": "2024-12-07",
+    "IncidentCount": 40,
+    "Incidents": 41
+  },
+  {
+    "date": "2024-12-08",
+    "IncidentCount": 36,
+    "Incidents": 42
+  },
+  {
+    "date": "2024-12-09",
+    "IncidentCount": 47,
+    "Incidents": 45
+  },
+  {
+    "date": "2024-12-10",
+    "IncidentCount": 43,
+    "Incidents": 45
+  },
+  {
+    "date": "2024-12-11",
+    "IncidentCount": 31,
+    "Incidents": 43.1429
+  },
+  {
+    "date": "2024-12-12",
+    "IncidentCount": 44,
+    "Incidents": 43.1429
+  },
+  {
+    "date": "2024-12-13",
+    "IncidentCount": 25,
+    "Incidents": 38
+  },
+  {
+    "date": "2024-12-14",
+    "IncidentCount": 43,
+    "Incidents": 38.4286
+  },
+  {
+    "date": "2024-12-15",
+    "IncidentCount": 50,
+    "Incidents": 40.4286
+  },
+  {
+    "date": "2024-12-16",
+    "IncidentCount": 38,
+    "Incidents": 39.1429
+  },
+  {
+    "date": "2024-12-17",
+    "IncidentCount": 88,
+    "Incidents": 45.5714
+  },
+  {
+    "date": "2024-12-18",
+    "IncidentCount": 43,
+    "Incidents": 47.2857
+  },
+  {
+    "date": "2024-12-19",
+    "IncidentCount": 34,
+    "Incidents": 45.8571
+  },
+  {
+    "date": "2024-12-20",
+    "IncidentCount": 44,
+    "Incidents": 48.5714
+  },
+  {
+    "date": "2024-12-21",
+    "IncidentCount": 48,
+    "Incidents": 49.2857
+  },
+  {
+    "date": "2024-12-22",
+    "IncidentCount": 29,
+    "Incidents": 46.2857
+  },
+  {
+    "date": "2024-12-23",
+    "IncidentCount": 53,
+    "Incidents": 48.4286
+  },
+  {
+    "date": "2024-12-24",
+    "IncidentCount": 39,
+    "Incidents": 41.4286
+  },
+  {
+    "date": "2024-12-25",
+    "IncidentCount": 28,
+    "Incidents": 39.2857
+  },
+  {
+    "date": "2024-12-26",
+    "IncidentCount": 45,
+    "Incidents": 40.8571
+  },
+  {
+    "date": "2024-12-27",
+    "IncidentCount": 36,
+    "Incidents": 39.7143
+  },
+  {
+    "date": "2024-12-28",
+    "IncidentCount": 51,
+    "Incidents": 40.1429
+  },
+  {
+    "date": "2024-12-29",
+    "IncidentCount": 46,
+    "Incidents": 42.5714
+  },
+  {
+    "date": "2024-12-30",
+    "IncidentCount": 78,
+    "Incidents": 46.1429
+  },
+  {
+    "date": "2024-12-31",
+    "IncidentCount": 46,
+    "Incidents": 47.1429
+  },
+  {
+    "date": "2025-01-01",
+    "IncidentCount": 41,
+    "Incidents": 49
+  },
+  {
+    "date": "2025-01-02",
+    "IncidentCount": 38,
+    "Incidents": 48
+  },
+  {
+    "date": "2025-01-03",
+    "IncidentCount": 55,
+    "Incidents": 50.7143
+  },
+  {
+    "date": "2025-01-04",
+    "IncidentCount": 50,
+    "Incidents": 50.5714
+  },
+  {
+    "date": "2025-01-05",
+    "IncidentCount": 42,
+    "Incidents": 50
+  },
+  {
+    "date": "2025-01-06",
+    "IncidentCount": 43,
+    "Incidents": 45
+  },
+  {
+    "date": "2025-01-07",
+    "IncidentCount": 43,
+    "Incidents": 44.5714
+  },
+  {
+    "date": "2025-01-08",
+    "IncidentCount": 36,
+    "Incidents": 43.8571
+  },
+  {
+    "date": "2025-01-09",
+    "IncidentCount": 32,
+    "Incidents": 43
+  },
+  {
+    "date": "2025-01-10",
+    "IncidentCount": 31,
+    "Incidents": 39.5714
+  },
+  {
+    "date": "2025-01-11",
+    "IncidentCount": 37,
+    "Incidents": 37.7143
+  },
+  {
+    "date": "2025-01-12",
+    "IncidentCount": 33,
     "Incidents": 36.4286
+  },
+  {
+    "date": "2025-01-13",
+    "IncidentCount": 28,
+    "Incidents": 34.2857
+  },
+  {
+    "date": "2025-01-14",
+    "IncidentCount": 35,
+    "Incidents": 33.1429
+  },
+  {
+    "date": "2025-01-15",
+    "IncidentCount": 44,
+    "Incidents": 34.2857
+  },
+  {
+    "date": "2025-01-16",
+    "IncidentCount": 36,
+    "Incidents": 34.8571
+  },
+  {
+    "date": "2025-01-17",
+    "IncidentCount": 52,
+    "Incidents": 37.8571
+  },
+  {
+    "date": "2025-01-18",
+    "IncidentCount": 40,
+    "Incidents": 38.2857
+  },
+  {
+    "date": "2025-01-19",
+    "IncidentCount": 43,
+    "Incidents": 39.7143
+  },
+  {
+    "date": "2025-01-20",
+    "IncidentCount": 26,
+    "Incidents": 39.4286
+  },
+  {
+    "date": "2025-01-21",
+    "IncidentCount": 19,
+    "Incidents": 37.1429
+  },
+  {
+    "date": "2025-01-22",
+    "IncidentCount": 40,
+    "Incidents": 36.5714
+  },
+  {
+    "date": "2025-01-23",
+    "IncidentCount": 31,
+    "Incidents": 35.8571
+  },
+  {
+    "date": "2025-01-24",
+    "IncidentCount": 47,
+    "Incidents": 35.1429
+  },
+  {
+    "date": "2025-01-25",
+    "IncidentCount": 102,
+    "Incidents": 44
+  },
+  {
+    "date": "2025-01-26",
+    "IncidentCount": 33,
+    "Incidents": 42.5714
+  },
+  {
+    "date": "2025-01-27",
+    "IncidentCount": 39,
+    "Incidents": 44.4286
+  },
+  {
+    "date": "2025-01-28",
+    "IncidentCount": 59,
+    "Incidents": 50.1429
+  },
+  {
+    "date": "2025-01-29",
+    "IncidentCount": 37,
+    "Incidents": 49.7143
+  },
+  {
+    "date": "2025-01-30",
+    "IncidentCount": 50,
+    "Incidents": 52.4286
+  },
+  {
+    "date": "2025-01-31",
+    "IncidentCount": 50,
+    "Incidents": 52.8571
+  },
+  {
+    "date": "2025-02-01",
+    "IncidentCount": 55,
+    "Incidents": 46.1429
+  },
+  {
+    "date": "2025-02-02",
+    "IncidentCount": 50,
+    "Incidents": 48.5714
+  },
+  {
+    "date": "2025-02-03",
+    "IncidentCount": 42,
+    "Incidents": 49
+  },
+  {
+    "date": "2025-02-04",
+    "IncidentCount": 39,
+    "Incidents": 46.1429
+  },
+  {
+    "date": "2025-02-05",
+    "IncidentCount": 44,
+    "Incidents": 47.1429
+  },
+  {
+    "date": "2025-02-06",
+    "IncidentCount": 35,
+    "Incidents": 45
+  },
+  {
+    "date": "2025-02-07",
+    "IncidentCount": 29,
+    "Incidents": 42
+  },
+  {
+    "date": "2025-02-08",
+    "IncidentCount": 32,
+    "Incidents": 38.7143
+  },
+  {
+    "date": "2025-02-09",
+    "IncidentCount": 24,
+    "Incidents": 35
+  },
+  {
+    "date": "2025-02-10",
+    "IncidentCount": 36,
+    "Incidents": 34.1429
+  },
+  {
+    "date": "2025-02-11",
+    "IncidentCount": 49,
+    "Incidents": 35.5714
+  },
+  {
+    "date": "2025-02-12",
+    "IncidentCount": 91,
+    "Incidents": 42.2857
+  },
+  {
+    "date": "2025-02-13",
+    "IncidentCount": 48,
+    "Incidents": 44.1429
+  },
+  {
+    "date": "2025-02-14",
+    "IncidentCount": 35,
+    "Incidents": 45
+  },
+  {
+    "date": "2025-02-15",
+    "IncidentCount": 46,
+    "Incidents": 47
+  },
+  {
+    "date": "2025-02-16",
+    "IncidentCount": 28,
+    "Incidents": 47.5714
+  },
+  {
+    "date": "2025-02-17",
+    "IncidentCount": 29,
+    "Incidents": 46.5714
+  },
+  {
+    "date": "2025-02-18",
+    "IncidentCount": 40,
+    "Incidents": 45.2857
+  },
+  {
+    "date": "2025-02-19",
+    "IncidentCount": 32,
+    "Incidents": 36.8571
+  },
+  {
+    "date": "2025-02-20",
+    "IncidentCount": 41,
+    "Incidents": 35.8571
+  },
+  {
+    "date": "2025-02-21",
+    "IncidentCount": 59,
+    "Incidents": 39.2857
+  },
+  {
+    "date": "2025-02-22",
+    "IncidentCount": 43,
+    "Incidents": 38.8571
+  },
+  {
+    "date": "2025-02-23",
+    "IncidentCount": 49,
+    "Incidents": 41.8571
+  },
+  {
+    "date": "2025-02-24",
+    "IncidentCount": 53,
+    "Incidents": 45.2857
+  },
+  {
+    "date": "2025-02-25",
+    "IncidentCount": 60,
+    "Incidents": 48.1429
+  },
+  {
+    "date": "2025-02-26",
+    "IncidentCount": 62,
+    "Incidents": 52.4286
+  },
+  {
+    "date": "2025-02-27",
+    "IncidentCount": 52,
+    "Incidents": 54
+  },
+  {
+    "date": "2025-02-28",
+    "IncidentCount": 50,
+    "Incidents": 52.7143
+  },
+  {
+    "date": "2025-03-01",
+    "IncidentCount": 60,
+    "Incidents": 55.1429
+  },
+  {
+    "date": "2025-03-02",
+    "IncidentCount": 46,
+    "Incidents": 54.7143
+  },
+  {
+    "date": "2025-03-03",
+    "IncidentCount": 51,
+    "Incidents": 54.4286
+  },
+  {
+    "date": "2025-03-04",
+    "IncidentCount": 62,
+    "Incidents": 54.7143
+  },
+  {
+    "date": "2025-03-05",
+    "IncidentCount": 28,
+    "Incidents": 49.8571
+  },
+  {
+    "date": "2025-03-06",
+    "IncidentCount": 55,
+    "Incidents": 50.2857
+  },
+  {
+    "date": "2025-03-07",
+    "IncidentCount": 49,
+    "Incidents": 50.1429
+  },
+  {
+    "date": "2025-03-08",
+    "IncidentCount": 48,
+    "Incidents": 48.4286
+  },
+  {
+    "date": "2025-03-09",
+    "IncidentCount": 38,
+    "Incidents": 47.2857
+  },
+  {
+    "date": "2025-03-10",
+    "IncidentCount": 9,
+    "Incidents": 41.2857
   }
 ]

@@ -1,0 +1,24 @@
+Give me an R function that:
+
+1. Downloads files from these URLs to '/Users/hargaja/Desktop/workspace/redboard/20240428-crimedash/store/suburbs':
+
+https://cde.state.mn.us/DownloadData/OffenseCountyMunicipalByAgencyDownloadData?ReportYear=2021
+https://cde.state.mn.us/DownloadData/OffenseCountyMunicipalByAgencyDownloadData?ReportYear=2022
+https://cde.state.mn.us/DownloadData/OffenseCountyMunicipalByAgencyDownloadData?ReportYear=2023
+https://cde.state.mn.us/DownloadData/OffenseCountyMunicipalByAgencyDownloadData?ReportYear=2024"
+https://cde.state.mn.us/DownloadData/OffenseCountyMunicipalByAgencyDownloadData?ReportYear=2025
+
+
+2. Replace '?' and '=' with '_' in the filename
+
+3. Appends an .xlsx extension to each file
+
+4. Then adds a "year" column to each Excel file that populates each row with the given year
+
+5. Then combines all the Excel files into one Excel file called NIBRS.XLSX (the columns are the same in each, stored in the first row of each)
+
+6. Keeps the individual Excel files too, don't delete them
+
+
+Then I need an R function that takes the combined Excel file NIBRS.XLSK created above and:
+

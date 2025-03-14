@@ -14,7 +14,7 @@
 "Columbia Park","Burglary/Breaking & Entering",12,3,7,5,10,6,2
 "Como","Burglary/Breaking & Entering",61,43,32,36,31,29,8
 "Cooper","Burglary/Breaking & Entering",37,37,21,33,41,37,1
-"Corcoran","Burglary/Breaking & Entering",43,63,30,41,40,38,11
+"Corcoran","Burglary/Breaking & Entering",43,63,30,41,40,38,12
 "Diamond Lake","Burglary/Breaking & Entering",40,37,27,22,17,23,3
 "Downtown East","Burglary/Breaking & Entering",21,34,18,20,12,24,1
 "Downtown West","Burglary/Breaking & Entering",100,139,67,81,65,52,3
@@ -35,11 +35,11 @@
 "Howe","Burglary/Breaking & Entering",59,60,35,66,50,57,5
 "Humboldt Industrial Area","Burglary/Breaking & Entering",2,1,1,1,0,1,0
 "Jordan","Burglary/Breaking & Entering",66,68,57,82,101,83,6
-"Keewaydin","Burglary/Breaking & Entering",17,20,12,25,10,22,5
+"Keewaydin","Burglary/Breaking & Entering",17,20,12,25,10,22,6
 "Kenny","Burglary/Breaking & Entering",28,24,14,9,8,6,0
 "Kenwood","Burglary/Breaking & Entering",6,9,6,5,4,4,0
 "King Field","Burglary/Breaking & Entering",83,72,50,45,80,89,9
-"Lind - Bohanon","Burglary/Breaking & Entering",70,45,18,20,22,17,2
+"Lind - Bohanon","Burglary/Breaking & Entering",70,45,18,20,22,17,3
 "Linden Hills","Burglary/Breaking & Entering",32,38,30,21,16,14,0
 "Logan Park","Burglary/Breaking & Entering",10,22,21,11,19,16,2
 "Longfellow","Burglary/Breaking & Entering",64,88,44,63,67,66,20
@@ -62,7 +62,7 @@
 "Northrop","Burglary/Breaking & Entering",68,58,21,35,28,41,2
 "Page","Burglary/Breaking & Entering",10,20,17,8,4,14,0
 "Phillips West","Burglary/Breaking & Entering",26,39,29,37,30,29,5
-"Powderhorn Park","Burglary/Breaking & Entering",119,113,46,86,65,79,8
+"Powderhorn Park","Burglary/Breaking & Entering",119,113,46,86,65,79,9
 "Prospect Park - East River Road","Burglary/Breaking & Entering",44,63,70,59,32,34,1
 "Regina","Burglary/Breaking & Entering",27,27,12,9,13,22,1
 "Seward","Burglary/Breaking & Entering",72,90,70,73,99,56,7
@@ -78,12 +78,12 @@
 "University of Minnesota","Burglary/Breaking & Entering",10,8,12,11,8,4,0
 "Ventura Village","Burglary/Breaking & Entering",47,64,40,34,34,37,10
 "Victory","Burglary/Breaking & Entering",32,27,17,16,19,23,2
-"Waite Park","Burglary/Breaking & Entering",51,22,13,16,13,6,1
-"Webber - Camden","Burglary/Breaking & Entering",57,37,23,22,25,33,2
+"Waite Park","Burglary/Breaking & Entering",51,22,13,16,13,6,2
+"Webber - Camden","Burglary/Breaking & Entering",57,37,23,22,25,33,3
 "Wenonah","Burglary/Breaking & Entering",35,20,21,17,18,26,7
 "West Maka Ska","Burglary/Breaking & Entering",9,55,12,9,6,6,0
 "Whittier","Burglary/Breaking & Entering",147,218,110,118,115,116,15
-"Willard - Hay","Burglary/Breaking & Entering",39,46,32,38,45,31,9
+"Willard - Hay","Burglary/Breaking & Entering",39,46,32,38,45,31,10
 "Windom","Burglary/Breaking & Entering",32,39,24,28,26,40,3
 "Windom Park","Burglary/Breaking & Entering",34,24,15,14,11,19,4
 NA,"Burglary/Breaking & Entering",1,1,5,5,6,3,0
@@ -102,7 +102,7 @@ NA,"Burglary/Breaking & Entering",1,1,5,5,6,3,0
 "Columbia Park","Total",12,3,7,5,10,6,2
 "Como","Total",61,43,32,36,31,29,8
 "Cooper","Total",37,37,21,33,41,37,1
-"Corcoran","Total",43,63,30,41,40,38,11
+"Corcoran","Total",43,63,30,41,40,38,12
 "Diamond Lake","Total",40,37,27,22,17,23,3
 "Downtown East","Total",21,34,18,20,12,24,1
 "Downtown West","Total",100,139,67,81,65,52,3
@@ -123,11 +123,11 @@ NA,"Burglary/Breaking & Entering",1,1,5,5,6,3,0
 "Howe","Total",59,60,35,66,50,57,5
 "Humboldt Industrial Area","Total",2,1,1,1,0,1,0
 "Jordan","Total",66,68,57,82,101,83,6
-"Keewaydin","Total",17,20,12,25,10,22,5
+"Keewaydin","Total",17,20,12,25,10,22,6
 "Kenny","Total",28,24,14,9,8,6,0
 "Kenwood","Total",6,9,6,5,4,4,0
 "King Field","Total",83,72,50,45,80,89,9
-"Lind - Bohanon","Total",70,45,18,20,22,17,2
+"Lind - Bohanon","Total",70,45,18,20,22,17,3
 "Linden Hills","Total",32,38,30,21,16,14,0
 "Logan Park","Total",10,22,21,11,19,16,2
 "Longfellow","Total",64,88,44,63,67,66,20
@@ -150,7 +150,7 @@ NA,"Burglary/Breaking & Entering",1,1,5,5,6,3,0
 "Northrop","Total",68,58,21,35,28,41,2
 "Page","Total",10,20,17,8,4,14,0
 "Phillips West","Total",26,39,29,37,30,29,5
-"Powderhorn Park","Total",119,113,46,86,65,79,8
+"Powderhorn Park","Total",119,113,46,86,65,79,9
 "Prospect Park - East River Road","Total",44,63,70,59,32,34,1
 "Regina","Total",27,27,12,9,13,22,1
 "Seward","Total",72,90,70,73,99,56,7
@@ -166,12 +166,12 @@ NA,"Burglary/Breaking & Entering",1,1,5,5,6,3,0
 "University of Minnesota","Total",10,8,12,11,8,4,0
 "Ventura Village","Total",47,64,40,34,34,37,10
 "Victory","Total",32,27,17,16,19,23,2
-"Waite Park","Total",51,22,13,16,13,6,1
-"Webber - Camden","Total",57,37,23,22,25,33,2
+"Waite Park","Total",51,22,13,16,13,6,2
+"Webber - Camden","Total",57,37,23,22,25,33,3
 "Wenonah","Total",35,20,21,17,18,26,7
 "West Maka Ska","Total",9,55,12,9,6,6,0
 "Whittier","Total",147,218,110,118,115,116,15
-"Willard - Hay","Total",39,46,32,38,45,31,9
+"Willard - Hay","Total",39,46,32,38,45,31,10
 "Windom","Total",32,39,24,28,26,40,3
 "Windom Park","Total",34,24,15,14,11,19,4
 NA,"Total",1,1,5,5,6,3,0

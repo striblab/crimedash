@@ -52,7 +52,7 @@
 "McKinley","Robbery",19,21,26,10,7,9,2
 "Mid - City Industrial","Robbery",1,1,4,5,1,1,0
 "Midtown Phillips","Robbery",38,81,79,73,52,50,3
-"Minnehaha","Robbery",2,6,5,6,7,5,1
+"Minnehaha","Robbery",2,6,5,6,7,5,2
 "Near - North","Robbery",48,44,53,39,30,36,6
 "North Loop","Robbery",21,9,34,23,18,8,1
 "Northeast Park","Robbery",1,7,8,8,5,6,0
@@ -80,10 +80,10 @@
 "Wenonah","Robbery",2,5,6,7,2,3,0
 "West Maka Ska","Robbery",1,4,5,0,2,1,0
 "Whittier","Robbery",63,112,159,127,103,147,11
-"Willard - Hay","Robbery",32,25,35,31,40,20,5
+"Willard - Hay","Robbery",32,25,35,31,40,20,7
 "Windom","Robbery",8,11,9,2,7,6,0
 "Windom Park","Robbery",8,9,13,13,6,15,0
-NA,"Robbery",6,9,8,11,8,10,1
+NA,"Robbery",6,9,8,11,8,10,2
 "Morris Park","Robbery",0,3,1,3,1,1,0
 "Nicollet Island - East Bank","Robbery",0,1,7,10,7,4,0
 "Armatage","Total",3,0,2,2,3,2,0
@@ -139,7 +139,7 @@ NA,"Robbery",6,9,8,11,8,10,1
 "McKinley","Total",19,21,26,10,7,9,2
 "Mid - City Industrial","Total",1,1,4,5,1,1,0
 "Midtown Phillips","Total",38,81,79,73,52,50,3
-"Minnehaha","Total",2,6,5,6,7,5,1
+"Minnehaha","Total",2,6,5,6,7,5,2
 "Near - North","Total",48,44,53,39,30,36,6
 "North Loop","Total",21,9,34,23,18,8,1
 "Northeast Park","Total",1,7,8,8,5,6,0
@@ -167,9 +167,9 @@ NA,"Robbery",6,9,8,11,8,10,1
 "Wenonah","Total",2,5,6,7,2,3,0
 "West Maka Ska","Total",1,4,5,0,2,1,0
 "Whittier","Total",63,112,159,127,103,147,11
-"Willard - Hay","Total",32,25,35,31,40,20,5
+"Willard - Hay","Total",32,25,35,31,40,20,7
 "Windom","Total",8,11,9,2,7,6,0
 "Windom Park","Total",8,9,13,13,6,15,0
-NA,"Total",6,9,8,11,8,10,1
+NA,"Total",6,9,8,11,8,10,2
 "Morris Park","Total",0,3,1,3,1,1,0
 "Nicollet Island - East Bank","Total",0,1,7,10,7,4,0
