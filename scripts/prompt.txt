@@ -1,6 +1,6 @@
-Give me an R function that:
+Give me an R function named nibrs
 
-1. Downloads files from these URLs to '/Users/hargaja/Desktop/workspace/redboard/20240428-crimedash/store/suburbs':
+1. Downloads files from these URLs to '/Users/hargaja/Desktop/workspace/redboard/20240428-crimedash/store/nibrs':
 
 https://cde.state.mn.us/DownloadData/OffenseCountyMunicipalByAgencyDownloadData?ReportYear=2021
 https://cde.state.mn.us/DownloadData/OffenseCountyMunicipalByAgencyDownloadData?ReportYear=2022
@@ -15,10 +15,23 @@ https://cde.state.mn.us/DownloadData/OffenseCountyMunicipalByAgencyDownloadData?
 
 4. Then adds a "year" column to each Excel file that populates each row with the given year
 
-5. Then combines all the Excel files into one Excel file called NIBRS.XLSX (the columns are the same in each, stored in the first row of each)
+5. Then combines all the Excel files into one Excel file called NIBRS.CSV (the columns are the same in each, stored in the first row of each)
 
-6. Keeps the individual Excel files too, don't delete them
+6. Columns 7-58 need to be formatted as numbers, the rest can be text
+
+7. Keeps the individual Excel files too, don't delete them
 
 
-Then I need an R function that takes the combined Excel file NIBRS.XLSK created above and:
+Then I need an R function called suburbs that takes the combined Excel file NIBRS.CSV created above and extracts data by the "County" column for the following counties and saves new CSV files to the given folder:
 
+
+County = Hennepin saves to /Users/hargaja/Desktop/workspace/redboard/20240428-crimedash/store/hennepin
+County = Anoka saves to /Users/hargaja/Desktop/workspace/redboard/20240428-crimedash/store/anoka
+County = Dakota saves to /Users/hargaja/Desktop/workspace/redboard/20240428-crimedash/store/dakota
+County = Ramsey saves to /Users/hargaja/Desktop/workspace/redboard/20240428-crimedash/store/ramsey
+County = Carver saves to /Users/hargaja/Desktop/workspace/redboard/20240428-crimedash/store/Carver
+County = Scott saves to /Users/hargaja/Desktop/workspace/redboard/20240428-crimedash/store/scott
+County = Washington saves to /Users/hargaja/Desktop/workspace/redboard/20240428-crimedash/store/washington
+
+
+Then I need a function called stpaul that does the same, except for "Agency Name" = "St Paul Police Dept" and saves to "/Users/hargaja/Desktop/workspace/redboard/20240428-crimedash/store/stpn"

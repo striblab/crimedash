@@ -5,7 +5,7 @@
 "Como","Arson",1,0,0,1,1,0,0
 "Downtown West","Arson",5,3,2,2,6,6,0
 "East Phillips","Arson",2,5,0,2,9,3,1
-"Elliot Park","Arson",3,1,2,2,4,5,1
+"Elliot Park","Arson",3,1,2,2,4,5,2
 "Folwell","Arson",2,5,7,4,4,7,0
 "Hale","Arson",1,1,0,1,0,0,0
 "Harrison","Arson",1,1,3,0,2,1,0
@@ -19,10 +19,10 @@
 "Loring Park","Arson",2,2,6,1,2,3,0
 "Lyndale","Arson",3,3,2,1,3,3,0
 "Marcy Holmes","Arson",2,0,3,1,1,0,0
-"McKinley","Arson",2,4,3,1,2,0,0
+"McKinley","Arson",2,4,3,1,2,0,1
 "Near - North","Arson",4,3,7,5,1,2,0
 "Phillips West","Arson",1,3,1,2,4,0,0
-"Seward","Arson",4,3,2,1,0,1,0
+"Seward","Arson",4,3,2,1,0,1,1
 "Standish","Arson",1,0,0,0,1,0,0
 "Steven's Square - Loring Heights","Arson",2,1,0,4,5,3,0
 "Sumner - Glenwood","Arson",2,0,0,1,0,0,0
@@ -44,7 +44,7 @@
 "Corcoran","Arson",0,1,2,0,1,2,0
 "Downtown East","Arson",0,2,0,0,1,1,0
 "Ericsson","Arson",0,1,0,1,0,0,0
-"Hiawatha","Arson",0,1,1,6,0,1,0
+"Hiawatha","Arson",0,1,1,6,0,1,1
 "Holland","Arson",0,3,1,0,0,1,0
 "Midtown Phillips","Arson",0,3,4,3,2,6,0
 "Northrop","Arson",0,1,0,0,1,2,0
@@ -84,7 +84,7 @@ NA,"Arson",0,2,1,1,1,0,0
 "Como","Total",1,0,0,1,1,0,0
 "Downtown West","Total",5,3,2,2,6,6,0
 "East Phillips","Total",2,5,0,2,9,3,1
-"Elliot Park","Total",3,1,2,2,4,5,1
+"Elliot Park","Total",3,1,2,2,4,5,2
 "Folwell","Total",2,5,7,4,4,7,0
 "Hale","Total",1,1,0,1,0,0,0
 "Harrison","Total",1,1,3,0,2,1,0
@@ -98,10 +98,10 @@ NA,"Arson",0,2,1,1,1,0,0
 "Loring Park","Total",2,2,6,1,2,3,0
 "Lyndale","Total",3,3,2,1,3,3,0
 "Marcy Holmes","Total",2,0,3,1,1,0,0
-"McKinley","Total",2,4,3,1,2,0,0
+"McKinley","Total",2,4,3,1,2,0,1
 "Near - North","Total",4,3,7,5,1,2,0
 "Phillips West","Total",1,3,1,2,4,0,0
-"Seward","Total",4,3,2,1,0,1,0
+"Seward","Total",4,3,2,1,0,1,1
 "Standish","Total",1,0,0,0,1,0,0
 "Steven's Square - Loring Heights","Total",2,1,0,4,5,3,0
 "Sumner - Glenwood","Total",2,0,0,1,0,0,0
@@ -123,7 +123,7 @@ NA,"Arson",0,2,1,1,1,0,0
 "Corcoran","Total",0,1,2,0,1,2,0
 "Downtown East","Total",0,2,0,0,1,1,0
 "Ericsson","Total",0,1,0,1,0,0,0
-"Hiawatha","Total",0,1,1,6,0,1,0
+"Hiawatha","Total",0,1,1,6,0,1,1
 "Holland","Total",0,3,1,0,0,1,0
 "Midtown Phillips","Total",0,3,4,3,2,6,0
 "Northrop","Total",0,1,0,0,1,2,0
