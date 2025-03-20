@@ -20,6 +20,7 @@ library(lubridate)
 library(readr) #importing csv files
 library(tidyr)
 library(janitor) #use this for doing crosstabs
+library(writexl)
 library(readxl)
 library(scales)
 library(ggthemes)
@@ -755,31 +756,6 @@ download_arrest_reports <- function() {
 
 ```
 
-#NIBRS
-```{r}
-# Define the function to download agency files
-download_bca_nibrs <- function() {
-  base_path <- "/Users/hargaja/Desktop/workspace/redboard/20240428-crimedash/store/suburbs"
-  urls <- c(
-    "https://cde.state.mn.us/DownloadData/OffenseCountyMunicipalByAgencyDownloadData?ReportYear=2021",
-    "https://cde.state.mn.us/DownloadData/OffenseCountyMunicipalByAgencyDownloadData?ReportYear=2022",
-    "https://cde.state.mn.us/DownloadData/OffenseCountyMunicipalByAgencyDownloadData?ReportYear=2023",
-    "https://cde.state.mn.us/DownloadData/OffenseCountyMunicipalByAgencyDownloadData?ReportYear=2024",
-    "https://cde.state.mn.us/DownloadData/OffenseCountyMunicipalByAgencyDownloadData?ReportYear=2025"
-  )
-  
- map(urls, function(url) {
-    file_name <- gsub("\\?|=", "_", basename(url))  # Replace '?' and '=' with '_'
-    file_name <- paste0(file_name, ".xlsx")  # Append '.xlsx' extension to the file name
-    full_path <- file.path(base_path, file_name)
-    GET(url, write_disk(full_path, overwrite = TRUE))  # Download and save the file
-  })
-}
-
-# download_bca_nibrs()
-
-```
-
 #FORCE
 ```{r}
 # Define the function to download force-use files
@@ -893,6 +869,77 @@ write(json_data, file = '/Users/hargaja/Desktop/workspace/redboard/20240428-crim
 }
 
 download_stops_reports()
+
+```
+
+#NIBRS DOWNLOAD
+```{r}
+nibrs <- function() {
+  base_url <- "https://cde.state.mn.us/DownloadData/OffenseCountyMunicipalByAgencyDownloadData?ReportYear="
+  years <- 2021:2025
+  download_dir <- "/Users/hargaja/Desktop/workspace/redboard/20240428-crimedash/store/nibrs/"
+  combined_data <- data.frame()
+  
+  for (year in years) {
+    file_url <- paste0(base_url, year)
+    file_name <- gsub("[?=]", "_", paste0("OffenseCountyMunicipalByAgencyDownloadData_", year, ".xlsx"))
+    file_path <- file.path(download_dir, file_name)
+    
+    download.file(file_url, file_path, mode = "wb")
+    
+    df <- read_excel(file_path)
+    df$year <- year
+    
+    combined_data <- bind_rows(combined_data, df)
+  }
+  
+  num_cols <- 7:58
+  combined_data[num_cols] <- lapply(combined_data[num_cols], as.numeric)
+  
+  write_csv(combined_data, file.path(download_dir, "NIBRS.csv"))
+}
+
+nibrs()
+
+```
+
+#SUBURBAN SPLICE
+```{r}
+suburbs <- function() {
+  input_file <- "/Users/hargaja/Desktop/workspace/redboard/20240428-crimedash/store/nibrs/NIBRS.csv"
+  df <- read_csv(input_file)
+  
+  counties <- list(
+    Hennepin = "/Users/hargaja/Desktop/workspace/redboard/20240428-crimedash/store/hennepin/NIBRS_Hennepin.csv",
+    Anoka = "/Users/hargaja/Desktop/workspace/redboard/20240428-crimedash/store/anoka/NIBRS_Anoka.csv",
+    Dakota = "/Users/hargaja/Desktop/workspace/redboard/20240428-crimedash/store/dakota/NIBRS_Dakota.csv",
+    Ramsey = "/Users/hargaja/Desktop/workspace/redboard/20240428-crimedash/store/ramsey/NIBRS_Ramsey.csv",
+    Carver = "/Users/hargaja/Desktop/workspace/redboard/20240428-crimedash/store/carver/NIBRS_Carver.csv",
+    Scott = "/Users/hargaja/Desktop/workspace/redboard/20240428-crimedash/store/scott/NIBRS_Scott.csv",
+    Washington = "/Users/hargaja/Desktop/workspace/redboard/20240428-crimedash/store/washington/NIBRS_Washington.csv"
+  )
+  
+  for (county in names(counties)) {
+    county_data <- df %>% filter(County == county)
+    write_csv(county_data, counties[[county]])
+  }
+}
+
+suburbs()
+
+```
+
+#ST. PAUL SPLICE
+```{r}
+stpaul <- function() {
+  input_file <- "/Users/hargaja/Desktop/workspace/redboard/20240428-crimedash/store/nibrs/NIBRS.csv"
+  output_file <- "/Users/hargaja/Desktop/workspace/redboard/20240428-crimedash/store/stpn/NIBRS_StPaul.csv"
+  
+  df <- read_csv(input_file) %>% filter(`Agency Name` == "St Paul Police Dept")
+  write_csv(df, output_file)
+}
+
+stpaul()
 
 ```
 

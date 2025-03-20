@@ -20,15 +20,15 @@
 "East Bde Maka Ska","Domestic Aggravated Assault - Subset of Assault",1,0,2,0,2,1,1
 "East Harriet","Domestic Aggravated Assault - Subset of Assault",3,2,2,2,3,0,0
 "East Isles","Domestic Aggravated Assault - Subset of Assault",3,3,2,1,4,5,0
-"East Phillips","Domestic Aggravated Assault - Subset of Assault",27,29,29,40,33,23,5
+"East Phillips","Domestic Aggravated Assault - Subset of Assault",27,29,29,40,33,23,6
 "Elliot Park","Domestic Aggravated Assault - Subset of Assault",26,26,21,37,30,22,3
 "Ericsson","Domestic Aggravated Assault - Subset of Assault",2,2,0,0,2,2,0
 "Field","Domestic Aggravated Assault - Subset of Assault",1,4,3,6,2,2,2
 "Folwell","Domestic Aggravated Assault - Subset of Assault",54,44,35,41,29,36,6
 "Fulton","Domestic Aggravated Assault - Subset of Assault",2,2,0,1,0,2,0
-"Harrison","Domestic Aggravated Assault - Subset of Assault",10,10,14,18,13,18,5
+"Harrison","Domestic Aggravated Assault - Subset of Assault",10,10,14,18,13,18,6
 "Hawthorne","Domestic Aggravated Assault - Subset of Assault",47,53,29,42,33,43,12
-"Hiawatha","Domestic Aggravated Assault - Subset of Assault",11,7,4,1,11,6,3
+"Hiawatha","Domestic Aggravated Assault - Subset of Assault",11,7,4,1,11,6,4
 "Holland","Domestic Aggravated Assault - Subset of Assault",10,15,18,10,19,14,4
 "Howe","Domestic Aggravated Assault - Subset of Assault",4,8,5,5,3,9,1
 "Jordan","Domestic Aggravated Assault - Subset of Assault",68,67,55,57,59,59,14
@@ -43,7 +43,7 @@
 "Lowry Hill East","Domestic Aggravated Assault - Subset of Assault",8,12,15,28,23,26,2
 "Lyndale","Domestic Aggravated Assault - Subset of Assault",10,15,11,12,20,18,5
 "Lynnhurst","Domestic Aggravated Assault - Subset of Assault",1,0,0,0,0,1,0
-"Marcy Holmes","Domestic Aggravated Assault - Subset of Assault",12,15,16,19,19,19,4
+"Marcy Holmes","Domestic Aggravated Assault - Subset of Assault",12,15,16,19,19,19,5
 "Marshall Terrace","Domestic Aggravated Assault - Subset of Assault",1,5,1,2,2,3,0
 "McKinley","Domestic Aggravated Assault - Subset of Assault",26,24,16,17,17,13,3
 "Mid - City Industrial","Domestic Aggravated Assault - Subset of Assault",1,0,1,1,0,1,0
@@ -61,7 +61,7 @@
 "Regina","Domestic Aggravated Assault - Subset of Assault",2,4,3,6,4,2,0
 "Seward","Domestic Aggravated Assault - Subset of Assault",9,11,5,14,17,16,2
 "Sheridan","Domestic Aggravated Assault - Subset of Assault",2,7,6,5,2,3,1
-"Shingle Creek","Domestic Aggravated Assault - Subset of Assault",11,7,7,4,5,16,1
+"Shingle Creek","Domestic Aggravated Assault - Subset of Assault",11,7,7,4,5,16,3
 "South Uptown","Domestic Aggravated Assault - Subset of Assault",4,6,14,4,9,19,0
 "St. Anthony East","Domestic Aggravated Assault - Subset of Assault",6,1,2,2,1,5,0
 "St. Anthony West","Domestic Aggravated Assault - Subset of Assault",3,2,1,1,1,2,0
@@ -75,8 +75,8 @@
 "Webber - Camden","Domestic Aggravated Assault - Subset of Assault",46,38,20,21,31,29,3
 "Wenonah","Domestic Aggravated Assault - Subset of Assault",11,13,13,13,8,6,2
 "West Maka Ska","Domestic Aggravated Assault - Subset of Assault",7,3,1,3,3,6,0
-"Whittier","Domestic Aggravated Assault - Subset of Assault",48,45,40,65,53,57,12
-"Willard - Hay","Domestic Aggravated Assault - Subset of Assault",60,48,33,53,48,44,7
+"Whittier","Domestic Aggravated Assault - Subset of Assault",48,45,40,65,53,57,13
+"Willard - Hay","Domestic Aggravated Assault - Subset of Assault",60,48,33,53,48,45,7
 "Windom","Domestic Aggravated Assault - Subset of Assault",8,12,14,8,11,11,4
 "Windom Park","Domestic Aggravated Assault - Subset of Assault",5,4,10,8,7,6,2
 NA,"Domestic Aggravated Assault - Subset of Assault",3,4,4,4,7,4,2
@@ -108,15 +108,15 @@ NA,"Domestic Aggravated Assault - Subset of Assault",3,4,4,4,7,4,2
 "East Bde Maka Ska","Total",1,0,2,0,2,1,1
 "East Harriet","Total",3,2,2,2,3,0,0
 "East Isles","Total",3,3,2,1,4,5,0
-"East Phillips","Total",27,29,29,40,33,23,5
+"East Phillips","Total",27,29,29,40,33,23,6
 "Elliot Park","Total",26,26,21,37,30,22,3
 "Ericsson","Total",2,2,0,0,2,2,0
 "Field","Total",1,4,3,6,2,2,2
 "Folwell","Total",54,44,35,41,29,36,6
 "Fulton","Total",2,2,0,1,0,2,0
-"Harrison","Total",10,10,14,18,13,18,5
+"Harrison","Total",10,10,14,18,13,18,6
 "Hawthorne","Total",47,53,29,42,33,43,12
-"Hiawatha","Total",11,7,4,1,11,6,3
+"Hiawatha","Total",11,7,4,1,11,6,4
 "Holland","Total",10,15,18,10,19,14,4
 "Howe","Total",4,8,5,5,3,9,1
 "Jordan","Total",68,67,55,57,59,59,14
@@ -131,7 +131,7 @@ NA,"Domestic Aggravated Assault - Subset of Assault",3,4,4,4,7,4,2
 "Lowry Hill East","Total",8,12,15,28,23,26,2
 "Lyndale","Total",10,15,11,12,20,18,5
 "Lynnhurst","Total",1,0,0,0,0,1,0
-"Marcy Holmes","Total",12,15,16,19,19,19,4
+"Marcy Holmes","Total",12,15,16,19,19,19,5
 "Marshall Terrace","Total",1,5,1,2,2,3,0
 "McKinley","Total",26,24,16,17,17,13,3
 "Mid - City Industrial","Total",1,0,1,1,0,1,0
@@ -149,7 +149,7 @@ NA,"Domestic Aggravated Assault - Subset of Assault",3,4,4,4,7,4,2
 "Regina","Total",2,4,3,6,4,2,0
 "Seward","Total",9,11,5,14,17,16,2
 "Sheridan","Total",2,7,6,5,2,3,1
-"Shingle Creek","Total",11,7,7,4,5,16,1
+"Shingle Creek","Total",11,7,7,4,5,16,3
 "South Uptown","Total",4,6,14,4,9,19,0
 "St. Anthony East","Total",6,1,2,2,1,5,0
 "St. Anthony West","Total",3,2,1,1,1,2,0
@@ -163,8 +163,8 @@ NA,"Domestic Aggravated Assault - Subset of Assault",3,4,4,4,7,4,2
 "Webber - Camden","Total",46,38,20,21,31,29,3
 "Wenonah","Total",11,13,13,13,8,6,2
 "West Maka Ska","Total",7,3,1,3,3,6,0
-"Whittier","Total",48,45,40,65,53,57,12
-"Willard - Hay","Total",60,48,33,53,48,44,7
+"Whittier","Total",48,45,40,65,53,57,13
+"Willard - Hay","Total",60,48,33,53,48,45,7
 "Windom","Total",8,12,14,8,11,11,4
 "Windom Park","Total",5,4,10,8,7,6,2
 NA,"Total",3,4,4,4,7,4,2

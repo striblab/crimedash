@@ -1,97 +1,97 @@
 [
   {
-    "YTDCount": 951,
+    "YTDCount": 996,
     "Year": 2019,
     "Offense": "All Other Larceny"
   },
   {
-    "YTDCount": 1085,
+    "YTDCount": 1131,
     "Year": 2020,
     "Offense": "All Other Larceny",
-    "PrevYTDCount": 951,
-    "YTDPercentageChange": 14.0904
+    "PrevYTDCount": 996,
+    "YTDPercentageChange": 13.5542
   },
   {
-    "YTDCount": 799,
+    "YTDCount": 837,
     "Year": 2021,
     "Offense": "All Other Larceny",
-    "PrevYTDCount": 1085,
-    "YTDPercentageChange": -26.3594
+    "PrevYTDCount": 1131,
+    "YTDPercentageChange": -25.9947
   },
   {
-    "YTDCount": 958,
+    "YTDCount": 1000,
     "Year": 2022,
     "Offense": "All Other Larceny",
-    "PrevYTDCount": 799,
-    "YTDPercentageChange": 19.8999
+    "PrevYTDCount": 837,
+    "YTDPercentageChange": 19.4743
   },
   {
-    "YTDCount": 886,
+    "YTDCount": 908,
     "Year": 2023,
     "Offense": "All Other Larceny",
-    "PrevYTDCount": 958,
-    "YTDPercentageChange": -7.5157
+    "PrevYTDCount": 1000,
+    "YTDPercentageChange": -9.2
   },
   {
-    "YTDCount": 1131,
+    "YTDCount": 1155,
     "Year": 2024,
     "Offense": "All Other Larceny",
-    "PrevYTDCount": 886,
-    "YTDPercentageChange": 27.6524
+    "PrevYTDCount": 908,
+    "YTDPercentageChange": 27.2026
   },
   {
-    "YTDCount": 906,
+    "YTDCount": 956,
     "Year": 2025,
     "Offense": "All Other Larceny",
-    "PrevYTDCount": 1131,
-    "YTDPercentageChange": -19.8939
+    "PrevYTDCount": 1155,
+    "YTDPercentageChange": -17.2294
   },
   {
-    "YTDCount": 662,
+    "YTDCount": 678,
     "Year": 2019,
     "Offense": "Theft From Motor Vehicle"
   },
   {
-    "YTDCount": 771,
+    "YTDCount": 798,
     "Year": 2020,
     "Offense": "Theft From Motor Vehicle",
-    "PrevYTDCount": 662,
-    "YTDPercentageChange": 16.4653
+    "PrevYTDCount": 678,
+    "YTDPercentageChange": 17.6991
   },
   {
-    "YTDCount": 502,
+    "YTDCount": 521,
     "Year": 2021,
     "Offense": "Theft From Motor Vehicle",
-    "PrevYTDCount": 771,
-    "YTDPercentageChange": -34.8898
+    "PrevYTDCount": 798,
+    "YTDPercentageChange": -34.7118
   },
   {
-    "YTDCount": 604,
+    "YTDCount": 638,
     "Year": 2022,
     "Offense": "Theft From Motor Vehicle",
-    "PrevYTDCount": 502,
-    "YTDPercentageChange": 20.3187
+    "PrevYTDCount": 521,
+    "YTDPercentageChange": 22.4568
   },
   {
-    "YTDCount": 600,
+    "YTDCount": 623,
     "Year": 2023,
     "Offense": "Theft From Motor Vehicle",
-    "PrevYTDCount": 604,
-    "YTDPercentageChange": -0.6623
+    "PrevYTDCount": 638,
+    "YTDPercentageChange": -2.3511
   },
   {
-    "YTDCount": 589,
+    "YTDCount": 612,
     "Year": 2024,
     "Offense": "Theft From Motor Vehicle",
-    "PrevYTDCount": 600,
-    "YTDPercentageChange": -1.8333
+    "PrevYTDCount": 623,
+    "YTDPercentageChange": -1.7657
   },
   {
-    "YTDCount": 702,
+    "YTDCount": 714,
     "Year": 2025,
     "Offense": "Theft From Motor Vehicle",
-    "PrevYTDCount": 589,
-    "YTDPercentageChange": 19.1851
+    "PrevYTDCount": 612,
+    "YTDPercentageChange": 16.6667
   },
   {
     "YTDCount": 2,
@@ -99,17 +99,17 @@
     "Offense": "Pocket-picking"
   },
   {
-    "YTDCount": 2,
+    "YTDCount": 3,
     "Year": 2020,
     "Offense": "Pocket-picking",
     "PrevYTDCount": 2,
-    "YTDPercentageChange": 0
+    "YTDPercentageChange": 50
   },
   {
     "YTDCount": 0,
     "Year": 2021,
     "Offense": "Pocket-picking",
-    "PrevYTDCount": 2,
+    "PrevYTDCount": 3,
     "YTDPercentageChange": -100
   },
   {
@@ -123,148 +123,150 @@
     "Offense": "Pocket-picking"
   },
   {
-    "YTDCount": 0,
+    "YTDCount": 1,
     "Year": 2024,
     "Offense": "Pocket-picking"
   },
   {
     "YTDCount": 0,
     "Year": 2025,
-    "Offense": "Pocket-picking"
+    "Offense": "Pocket-picking",
+    "PrevYTDCount": 1,
+    "YTDPercentageChange": -100
   },
   {
-    "YTDCount": 37,
+    "YTDCount": 38,
     "Year": 2019,
     "Offense": "Purse-snatching"
   },
   {
-    "YTDCount": 58,
+    "YTDCount": 59,
     "Year": 2020,
     "Offense": "Purse-snatching",
-    "PrevYTDCount": 37,
-    "YTDPercentageChange": 56.7568
+    "PrevYTDCount": 38,
+    "YTDPercentageChange": 55.2632
   },
   {
     "YTDCount": 21,
     "Year": 2021,
     "Offense": "Purse-snatching",
-    "PrevYTDCount": 58,
-    "YTDPercentageChange": -63.7931
+    "PrevYTDCount": 59,
+    "YTDPercentageChange": -64.4068
   },
   {
-    "YTDCount": 31,
+    "YTDCount": 32,
     "Year": 2022,
     "Offense": "Purse-snatching",
     "PrevYTDCount": 21,
-    "YTDPercentageChange": 47.619
+    "YTDPercentageChange": 52.381
   },
   {
     "YTDCount": 17,
     "Year": 2023,
     "Offense": "Purse-snatching",
-    "PrevYTDCount": 31,
-    "YTDPercentageChange": -45.1613
+    "PrevYTDCount": 32,
+    "YTDPercentageChange": -46.875
   },
   {
-    "YTDCount": 16,
+    "YTDCount": 17,
     "Year": 2024,
     "Offense": "Purse-snatching",
     "PrevYTDCount": 17,
-    "YTDPercentageChange": -5.8824
+    "YTDPercentageChange": 0
   },
   {
     "YTDCount": 9,
     "Year": 2025,
     "Offense": "Purse-snatching",
-    "PrevYTDCount": 16,
-    "YTDPercentageChange": -43.75
+    "PrevYTDCount": 17,
+    "YTDPercentageChange": -47.0588
   },
   {
-    "YTDCount": 186,
+    "YTDCount": 195,
     "Year": 2019,
     "Offense": "Shoplifting"
   },
   {
-    "YTDCount": 197,
+    "YTDCount": 205,
     "Year": 2020,
     "Offense": "Shoplifting",
-    "PrevYTDCount": 186,
-    "YTDPercentageChange": 5.914
+    "PrevYTDCount": 195,
+    "YTDPercentageChange": 5.1282
   },
   {
-    "YTDCount": 73,
+    "YTDCount": 75,
     "Year": 2021,
     "Offense": "Shoplifting",
-    "PrevYTDCount": 197,
-    "YTDPercentageChange": -62.9442
+    "PrevYTDCount": 205,
+    "YTDPercentageChange": -63.4146
   },
   {
-    "YTDCount": 54,
+    "YTDCount": 56,
     "Year": 2022,
     "Offense": "Shoplifting",
-    "PrevYTDCount": 73,
-    "YTDPercentageChange": -26.0274
+    "PrevYTDCount": 75,
+    "YTDPercentageChange": -25.3333
   },
   {
-    "YTDCount": 92,
+    "YTDCount": 95,
     "Year": 2023,
     "Offense": "Shoplifting",
-    "PrevYTDCount": 54,
-    "YTDPercentageChange": 70.3704
+    "PrevYTDCount": 56,
+    "YTDPercentageChange": 69.6429
   },
   {
-    "YTDCount": 128,
+    "YTDCount": 134,
     "Year": 2024,
     "Offense": "Shoplifting",
-    "PrevYTDCount": 92,
-    "YTDPercentageChange": 39.1304
+    "PrevYTDCount": 95,
+    "YTDPercentageChange": 41.0526
   },
   {
-    "YTDCount": 164,
+    "YTDCount": 178,
     "Year": 2025,
     "Offense": "Shoplifting",
-    "PrevYTDCount": 128,
-    "YTDPercentageChange": 28.125
+    "PrevYTDCount": 134,
+    "YTDPercentageChange": 32.8358
   },
   {
-    "YTDCount": 50,
+    "YTDCount": 52,
     "Year": 2019,
     "Offense": "Theft From Building"
   },
   {
-    "YTDCount": 30,
+    "YTDCount": 31,
     "Year": 2020,
     "Offense": "Theft From Building",
-    "PrevYTDCount": 50,
-    "YTDPercentageChange": -40
+    "PrevYTDCount": 52,
+    "YTDPercentageChange": -40.3846
   },
   {
     "YTDCount": 9,
     "Year": 2021,
     "Offense": "Theft From Building",
-    "PrevYTDCount": 30,
-    "YTDPercentageChange": -70
+    "PrevYTDCount": 31,
+    "YTDPercentageChange": -70.9677
   },
   {
-    "YTDCount": 30,
+    "YTDCount": 31,
     "Year": 2022,
     "Offense": "Theft From Building",
     "PrevYTDCount": 9,
-    "YTDPercentageChange": 233.3333
+    "YTDPercentageChange": 244.4444
   },
   {
-    "YTDCount": 15,
+    "YTDCount": 16,
     "Year": 2023,
     "Offense": "Theft From Building",
-    "PrevYTDCount": 30,
-    "YTDPercentageChange": -50
+    "PrevYTDCount": 31,
+    "YTDPercentageChange": -48.3871
   },
   {
     "YTDCount": 27,
     "Year": 2024,
     "Offense": "Theft From Building",
-    "PrevYTDCount": 15,
-    "YTDPercentageChange": 80
+    "PrevYTDCount": 16,
+    "YTDPercentageChange": 68.75
   },
   {
     "YTDCount": 31,
@@ -315,50 +317,50 @@
     "YTDPercentageChange": 0
   },
   {
-    "YTDCount": 28,
+    "YTDCount": 31,
     "Year": 2019,
     "Offense": "Theft of Motor Vehicle Parts or Accessories"
   },
   {
-    "YTDCount": 357,
+    "YTDCount": 378,
     "Year": 2020,
     "Offense": "Theft of Motor Vehicle Parts or Accessories",
-    "PrevYTDCount": 28,
-    "YTDPercentageChange": 1175
+    "PrevYTDCount": 31,
+    "YTDPercentageChange": 1119.3548
   },
   {
-    "YTDCount": 522,
+    "YTDCount": 536,
     "Year": 2021,
     "Offense": "Theft of Motor Vehicle Parts or Accessories",
-    "PrevYTDCount": 357,
-    "YTDPercentageChange": 46.2185
+    "PrevYTDCount": 378,
+    "YTDPercentageChange": 41.7989
   },
   {
-    "YTDCount": 838,
+    "YTDCount": 876,
     "Year": 2022,
     "Offense": "Theft of Motor Vehicle Parts or Accessories",
-    "PrevYTDCount": 522,
-    "YTDPercentageChange": 60.5364
+    "PrevYTDCount": 536,
+    "YTDPercentageChange": 63.4328
   },
   {
-    "YTDCount": 428,
+    "YTDCount": 445,
     "Year": 2023,
     "Offense": "Theft of Motor Vehicle Parts or Accessories",
-    "PrevYTDCount": 838,
-    "YTDPercentageChange": -48.926
+    "PrevYTDCount": 876,
+    "YTDPercentageChange": -49.2009
   },
   {
-    "YTDCount": 276,
+    "YTDCount": 282,
     "Year": 2024,
     "Offense": "Theft of Motor Vehicle Parts or Accessories",
-    "PrevYTDCount": 428,
-    "YTDPercentageChange": -35.514
+    "PrevYTDCount": 445,
+    "YTDPercentageChange": -36.6292
   },
   {
-    "YTDCount": 203,
+    "YTDCount": 205,
     "Year": 2025,
     "Offense": "Theft of Motor Vehicle Parts or Accessories",
-    "PrevYTDCount": 276,
-    "YTDPercentageChange": -26.4493
+    "PrevYTDCount": 282,
+    "YTDPercentageChange": -27.305
   }
 ]

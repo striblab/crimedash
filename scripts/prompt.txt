@@ -5,7 +5,7 @@ Give me an R function named nibrs
 https://cde.state.mn.us/DownloadData/OffenseCountyMunicipalByAgencyDownloadData?ReportYear=2021
 https://cde.state.mn.us/DownloadData/OffenseCountyMunicipalByAgencyDownloadData?ReportYear=2022
 https://cde.state.mn.us/DownloadData/OffenseCountyMunicipalByAgencyDownloadData?ReportYear=2023
-https://cde.state.mn.us/DownloadData/OffenseCountyMunicipalByAgencyDownloadData?ReportYear=2024"
+https://cde.state.mn.us/DownloadData/OffenseCountyMunicipalByAgencyDownloadData?ReportYear=2024
 https://cde.state.mn.us/DownloadData/OffenseCountyMunicipalByAgencyDownloadData?ReportYear=2025
 
 
@@ -35,3 +35,32 @@ County = Washington saves to /Users/hargaja/Desktop/workspace/redboard/20240428-
 
 
 Then I need a function called stpaul that does the same, except for "Agency Name" = "St Paul Police Dept" and saves to "/Users/hargaja/Desktop/workspace/redboard/20240428-crimedash/store/stpn"
+
+
+
+
+
+
+OLD
+
+
+# Define the function to download agency files
+download_bca_nibrs <- function() {
+  base_path <- "/Users/hargaja/Desktop/workspace/redboard/20240428-crimedash/store/suburbs"
+  urls <- c(
+    "https://cde.state.mn.us/DownloadData/OffenseCountyMunicipalByAgencyDownloadData?ReportYear=2021",
+    "https://cde.state.mn.us/DownloadData/OffenseCountyMunicipalByAgencyDownloadData?ReportYear=2022",
+    "https://cde.state.mn.us/DownloadData/OffenseCountyMunicipalByAgencyDownloadData?ReportYear=2023",
+    "https://cde.state.mn.us/DownloadData/OffenseCountyMunicipalByAgencyDownloadData?ReportYear=2024",
+    "https://cde.state.mn.us/DownloadData/OffenseCountyMunicipalByAgencyDownloadData?ReportYear=2025"
+  )
+  
+ map(urls, function(url) {
+    file_name <- gsub("\\?|=", "_", basename(url))  # Replace '?' and '=' with '_'
+    file_name <- paste0(file_name, ".xlsx")  # Append '.xlsx' extension to the file name
+    full_path <- file.path(base_path, file_name)
+    GET(url, write_disk(full_path, overwrite = TRUE))  # Download and save the file
+  })
+}
+
+# download_bca_nibrs()
