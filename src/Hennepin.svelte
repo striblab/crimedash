@@ -8,11 +8,7 @@
 
 <p>Suburban crime data isn't as uniform or granulated as Minneapolis data. But the following links contain information by agency for NIBRS crime categories.</p>
 
-<div class="download"><a href="../store/suburbs/OffenseCountyMunicipalByAgencyDownloadData_ReportYear_2025.xlsx">Download Municipal and County Offenses by Agency, 2025</a></div>
-<div class="download"><a href="../store/suburbs/OffenseCountyMunicipalByAgencyDownloadData_ReportYear_2024.xlsx">Download Municipal and County Offenses by Agency, 2024</a></div>
-<div class="download"><a href="../store/suburbs/OffenseCountyMunicipalByAgencyDownloadData_ReportYear_2023.xlsx">Download Municipal and County  Offenses by Agency, 2023</a></div>
-<div class="download"><a href="../store/suburbs/OffenseCountyMunicipalByAgencyDownloadData_ReportYear_2022.xlsx">Download Municipal and County  Offenses by Agency, 2022</a></div>
-<div class="download"><a href="../store/suburbs/OffenseCountyMunicipalByAgencyDownloadData_ReportYear_2021.xlsx">Download Municipal and County Offenses by Agency, 2021</a></div>
+<div class="download"><a href="../store/subh/hennepin_NIBRS.csv">Download Hennepin County NIBRS offenses, 2021-present</a></div>
 
 <h4>Links</h4>
 <ul>
