@@ -910,13 +910,13 @@ suburbs <- function() {
   df <- read_csv(input_file)
   
   counties <- list(
-    Hennepin = "/Users/hargaja/Desktop/workspace/redboard/20240428-crimedash/store/hennepin/NIBRS_Hennepin.csv",
-    Anoka = "/Users/hargaja/Desktop/workspace/redboard/20240428-crimedash/store/anoka/NIBRS_Anoka.csv",
-    Dakota = "/Users/hargaja/Desktop/workspace/redboard/20240428-crimedash/store/dakota/NIBRS_Dakota.csv",
-    Ramsey = "/Users/hargaja/Desktop/workspace/redboard/20240428-crimedash/store/ramsey/NIBRS_Ramsey.csv",
-    Carver = "/Users/hargaja/Desktop/workspace/redboard/20240428-crimedash/store/carver/NIBRS_Carver.csv",
-    Scott = "/Users/hargaja/Desktop/workspace/redboard/20240428-crimedash/store/scott/NIBRS_Scott.csv",
-    Washington = "/Users/hargaja/Desktop/workspace/redboard/20240428-crimedash/store/washington/NIBRS_Washington.csv"
+    Hennepin = "/Users/hargaja/Desktop/workspace/redboard/20240428-crimedash/store/subh/NIBRS_Hennepin.csv",
+    Anoka = "/Users/hargaja/Desktop/workspace/redboard/20240428-crimedash/store/suba/NIBRS_Anoka.csv",
+    Dakota = "/Users/hargaja/Desktop/workspace/redboard/20240428-crimedash/store/subd/NIBRS_Dakota.csv",
+    Ramsey = "/Users/hargaja/Desktop/workspace/redboard/20240428-crimedash/store/subr/NIBRS_Ramsey.csv",
+    Carver = "/Users/hargaja/Desktop/workspace/redboard/20240428-crimedash/store/subc/NIBRS_Carver.csv",
+    Scott = "/Users/hargaja/Desktop/workspace/redboard/20240428-crimedash/store/subs/NIBRS_Scott.csv",
+    Washington = "/Users/hargaja/Desktop/workspace/redboard/20240428-crimedash/store/subw/NIBRS_Washington.csv"
   )
   
   for (county in names(counties)) {
