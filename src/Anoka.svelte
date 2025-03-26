@@ -8,7 +8,7 @@
 
 <p>Suburban crime data isn't as uniform or granulated as Minneapolis data. But the following links contain information by agency for NIBRS crime categories.</p>
 
-<div class="download"><a href="../store/suba/anoka_NIBRS.csv">Download Anoka County NIBRS offenses, 2021-present</a></div>
+<div class="download"><a href="../store/suba/NIBRS_Anoka.csv">Download Anoka County NIBRS offenses, 2021-present</a></div>
 
 <h4>Links</h4>
 <ul>

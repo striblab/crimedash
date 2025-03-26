@@ -8,7 +8,7 @@
 
 <p>Suburban crime data isn't as uniform or granulated as Minneapolis data. But the following links contain information by agency for NIBRS crime categories.</p>
 
-<div class="download"><a href="../store/subd/dakota_NIBRS.csv">Download Dakota County NIBRS offenses, 2021-present</a></div>
+<div class="download"><a href="../store/subd/NIBRS_Dakota.csv">Download Dakota County NIBRS offenses, 2021-present</a></div>
 
 <h4>Links</h4>
 <ul>

@@ -8,7 +8,7 @@
 
 <p>Suburban crime data isn't as uniform or granulated as Minneapolis data. But the following links contain information by agency for NIBRS crime categories.</p>
 
-<div class="download"><a href="../store/subh/hennepin_NIBRS.csv">Download Hennepin County NIBRS offenses, 2021-present</a></div>
+<div class="download"><a href="../store/subh/NIBRS_Hennepin.csv">Download Hennepin County NIBRS offenses, 2021-present</a></div>
 
 <h4>Links</h4>
 <ul>

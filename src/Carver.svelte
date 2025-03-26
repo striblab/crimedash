@@ -8,7 +8,7 @@
 
 <p>Suburban crime data isn't as uniform or granulated as Minneapolis data. But the following links contain information by agency for NIBRS crime categories.</p>
 
-<div class="download"><a href="../store/subc/carver_NIBRS.csv">Download Carver County NIBRS offenses, 2021-present</a></div>
+<div class="download"><a href="../store/subc/NIBRS_Carver.csv">Download Carver County NIBRS offenses, 2021-present</a></div>
 
 <h4>Links</h4>
 <ul>

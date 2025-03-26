@@ -49,7 +49,7 @@
 <div class="chart-container">
     <canvas id="propertyChart"></canvas>
   </div>
-<div class="download"><a href="../store/stpn/stp_nibrs.csv">Download St. Paul 2021-present NIBRS offenses</a></div>
+<div class="download"><a href="../store/stpn/NIBRS_StPaul.csv">Download St. Paul 2021-present NIBRS offenses</a></div>
 
 <h4>Links</h4>
 
