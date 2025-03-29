@@ -37,7 +37,20 @@ County = Washington saves to /Users/hargaja/Desktop/workspace/redboard/20240428-
 Then I need a function called stpaul that does the same, except for "Agency Name" = "St Paul Police Dept" and saves to "/Users/hargaja/Desktop/workspace/redboard/20240428-crimedash/store/stpn"
 
 
+ADDENDUM
 
+Now I need a function that takes the following CSV files that:
+
+Filters for the field Statistic = "Actual"
+
+
+/Users/hargaja/Desktop/workspace/redboard/20240428-crimedash/store/suba/NIBRS_Anoka.csv
+/Users/hargaja/Desktop/workspace/redboard/20240428-crimedash/store/subw/NIBRS_Carver.csv
+/Users/hargaja/Desktop/workspace/redboard/20240428-crimedash/store/subc/NIBRS_Dakota.csv
+/Users/hargaja/Desktop/workspace/redboard/20240428-crimedash/store/subd/NIBRS_Hennepin.csv
+/Users/hargaja/Desktop/workspace/redboard/20240428-crimedash/store/subh/NIBRS_Ramsey.csv
+/Users/hargaja/Desktop/workspace/redboard/20240428-crimedash/store/subr/NIBRS_Scott.csv
+/Users/hargaja/Desktop/workspace/redboard/20240428-crimedash/store/subs/NIBRS_Washington.csv
 
 
 
