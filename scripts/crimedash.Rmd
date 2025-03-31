@@ -17,9 +17,9 @@ library(RMySQL)
 library(dplyr)
 library(ggplot2)
 library(lubridate)
-library(readr) #importing csv files
+library(readr)
 library(tidyr)
-library(janitor) #use this for doing crosstabs
+library(janitor)
 library(writexl)
 library(readxl)
 library(scales)
@@ -928,6 +928,42 @@ suburbs <- function() {
 suburbs()
 
 ```
+
+#SUBURBAN TRENDS
+```{r}
+filter_actual <- function(file_paths) {
+  for (file in file_paths) {
+    # Read the CSV file
+    df <- read_csv(file, show_col_types = FALSE)
+    
+    # Filter for Statistic == "Actual"
+    df_filtered <- df %>% filter(Statistic == "Actual")
+    
+    # Construct new filename by inserting "_actual" before ".csv"
+    new_file <- sub("(\\.csv)$", "_actual.csv", file)
+    
+    # Write the filtered data back
+    write_csv(df_filtered, new_file)
+    
+    message("Processed: ", new_file)
+  }
+}
+
+# List of file paths
+file_paths <- c(
+  "/Users/hargaja/Desktop/workspace/redboard/20240428-crimedash/store/suba/NIBRS_Anoka.csv",
+  "/Users/hargaja/Desktop/workspace/redboard/20240428-crimedash/store/subc/NIBRS_Carver.csv",
+  "/Users/hargaja/Desktop/workspace/redboard/20240428-crimedash/store/subd/NIBRS_Dakota.csv",
+  "/Users/hargaja/Desktop/workspace/redboard/20240428-crimedash/store/subh/NIBRS_Hennepin.csv",
+  "/Users/hargaja/Desktop/workspace/redboard/20240428-crimedash/store/subr/NIBRS_Ramsey.csv",
+  "/Users/hargaja/Desktop/workspace/redboard/20240428-crimedash/store/subs/NIBRS_Scott.csv",
+  "/Users/hargaja/Desktop/workspace/redboard/20240428-crimedash/store/subw/NIBRS_Washington.csv"
+)
+
+filter_actual(file_paths)
+
+```
+
 
 #ST. PAUL SPLICE
 ```{r}
