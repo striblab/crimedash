@@ -6,9 +6,24 @@
 
 <h4 class="source">Data sources: Minnesota Bureau of Criminal Apprehension</h4>
 
-<p>Suburban crime data isn't as uniform or granulated as Minneapolis data. But the following links contain information by agency for NIBRS crime categories.</p>
+<p>Suburban crime data isn't as uniform or granulated as Minneapolis data. But the following links contain information by agency for NIBRS crime categories for the following police departments:</p>
 
-<div class="download"><a href="../store/suba/NIBRS_Anoka.csv">Download Anoka County NIBRS offenses, 2021-present</a></div>
+<ul>
+    <li>Anoka County Sheriff</li>
+    <li>Anoka Police Department</li>
+    <li>Blaine Police Department</li>
+    <li>Centennial Lakes Police Department</li>
+    <li>Columbia Heights Police Department</li>
+    <li>Coon Rapids Police Department</li>
+    <li>Fridley Police Department</li>
+    <li>Lino Lakes Police Department</li>
+    <li>Ramsey Police Department</li>
+    <li>Spring Lake Park Police Department</li>
+    <li>St. Francis Police Department</li>
+</ul>
+
+<div class="download"><a href="../store/suba/NIBRS_Anoka_actual.csv">Download Anoka County NIBRS offenses, 2021-present</a></div>
+<div class="download"><a href="../store/suba/NIBRS_Anoka.csv">Download Anoka County NIBRS offenses, rates and clearances, 2021-present</a></div>
 
 <h4>Links</h4>
 <ul>

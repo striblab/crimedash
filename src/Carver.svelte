@@ -6,9 +6,15 @@
 
 <h4 class="source">Data sources: Minnesota Bureau of Criminal Apprehension</h4>
 
-<p>Suburban crime data isn't as uniform or granulated as Minneapolis data. But the following links contain information by agency for NIBRS crime categories.</p>
+<p>Suburban crime data isn't as uniform or granulated as Minneapolis data. But the following links contain information by agency for NIBRS crime categories for the following police departments:</p>
 
-<div class="download"><a href="../store/subc/NIBRS_Carver.csv">Download Carver County NIBRS offenses, 2021-present</a></div>
+<ul>
+    <li>Carver County Sheriff</li>
+    <li>Chaska Police Department</li>
+</ul>
+
+<div class="download"><a href="../store/subc/Carver_Anoka_actual.csv">Download Carver County NIBRS offenses, 2021-present</a></div>
+<div class="download"><a href="../store/subc/Carver_Anoka.csv">Download Carver County NIBRS offenses, rates and clearances, 2021-present</a></div>
 
 <h4>Links</h4>
 <ul>
