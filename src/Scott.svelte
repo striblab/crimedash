@@ -6,9 +6,22 @@
 
 <h4 class="source">Data sources: Minnesota Bureau of Criminal Apprehension</h4>
 
-<p>Suburban crime data isn't as uniform or granulated as Minneapolis data. But the following links contain information by agency for NIBRS crime categories.</p>
+<p>Suburban crime data isn't as uniform or granulated as Minneapolis data. But the following links contain information by agency for NIBRS crime categories for the following police departments:</p>
 
-<div class="download"><a href="../store/subs/NIBRS_Scott.csv">Download Scott County NIBRS offenses, 2021-present</a></div>
+<ul>
+    <li>Belle Plaine Police Department</li>
+    <li>Elko New Market Police Department</li>
+    <li>Jordan Police Department</li>
+    <li>New Prague Police Department</li>
+    <li>Prior Lake Police Department</li>
+    <li>Savage Police Department</li>
+    <li>Scott County Sheriff</li>
+    <li>Shakopee Police Department</li>
+</ul>
+
+<div class="download"><a href="../store/subs/NIBRS_Scott_actual.csv">Download Scott County NIBRS offenses, 2021-present</a></div>
+<div class="download"><a href="../store/subs/NIBRS_Scott.csv">Download Ramsey Scott NIBRS offenses, rates and clearances, 2021-present</a></div>
+
 
 <h4>Links</h4>
 <ul>
