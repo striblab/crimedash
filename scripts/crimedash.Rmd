@@ -977,7 +977,15 @@ stpaul <- function() {
 
 stpaul()
 
+file_paths <- c(
+  "/Users/hargaja/Desktop/workspace/redboard/20240428-crimedash/store/stpn/NIBRS_StPaul.csv"
+)
+
+filter_actual(file_paths)
+
+
 ```
+
 
 ```{r}
 

@@ -521,8 +521,15 @@
     "Year": 2025,
     "Month": 3,
     "Offense": "All Other Larceny",
-    "IncidentCount": 342,
+    "IncidentCount": 406,
     "Date": "2025-03-01"
+  },
+  {
+    "Year": 2025,
+    "Month": 4,
+    "Offense": "All Other Larceny",
+    "IncidentCount": 135,
+    "Date": "2025-04-01"
   },
   {
     "Year": 2019,
@@ -1046,8 +1053,15 @@
     "Year": 2025,
     "Month": 3,
     "Offense": "Theft From Motor Vehicle",
-    "IncidentCount": 202,
+    "IncidentCount": 273,
     "Date": "2025-03-01"
+  },
+  {
+    "Year": 2025,
+    "Month": 4,
+    "Offense": "Theft From Motor Vehicle",
+    "IncidentCount": 75,
+    "Date": "2025-04-01"
   },
   {
     "Year": 2019,
@@ -2243,7 +2257,7 @@
     "Year": 2025,
     "Month": 1,
     "Offense": "Shoplifting",
-    "IncidentCount": 69,
+    "IncidentCount": 70,
     "Date": "2025-01-01"
   },
   {
@@ -2257,8 +2271,15 @@
     "Year": 2025,
     "Month": 3,
     "Offense": "Shoplifting",
-    "IncidentCount": 73,
+    "IncidentCount": 85,
     "Date": "2025-03-01"
+  },
+  {
+    "Year": 2025,
+    "Month": 4,
+    "Offense": "Shoplifting",
+    "IncidentCount": 24,
+    "Date": "2025-04-01"
   },
   {
     "Year": 2019,
@@ -2782,8 +2803,15 @@
     "Year": 2025,
     "Month": 3,
     "Offense": "Theft From Building",
-    "IncidentCount": 8,
+    "IncidentCount": 10,
     "Date": "2025-03-01"
+  },
+  {
+    "Year": 2025,
+    "Month": 4,
+    "Offense": "Theft From Building",
+    "IncidentCount": 6,
+    "Date": "2025-04-01"
   },
   {
     "Year": 2019,
@@ -3384,7 +3412,7 @@
     "Year": 2025,
     "Month": 1,
     "Offense": "Theft of Motor Vehicle Parts or Accessories",
-    "IncidentCount": 87,
+    "IncidentCount": 88,
     "Date": "2025-01-01"
   },
   {
@@ -3398,7 +3426,14 @@
     "Year": 2025,
     "Month": 3,
     "Offense": "Theft of Motor Vehicle Parts or Accessories",
-    "IncidentCount": 72,
+    "IncidentCount": 83,
     "Date": "2025-03-01"
+  },
+  {
+    "Year": 2025,
+    "Month": 4,
+    "Offense": "Theft of Motor Vehicle Parts or Accessories",
+    "IncidentCount": 28,
+    "Date": "2025-04-01"
   }
 ]

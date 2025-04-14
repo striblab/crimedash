@@ -1,55 +1,16 @@
-<script>
-    import { onMount } from 'svelte';
-    import Chart from 'chart.js/auto';
-    import stpProperty from '../store/stpat/stp_autotheft.json';
-  
-    let propertyChart;
-
-    function createChart(ctx, chartData, title, type = 'line') {
-        return new Chart(ctx, {
-        type: type,
-        data: {
-            labels: chartData.map(item => item.year.toString()),
-            datasets: [{
-            label: title,
-            data: chartData.map(item => item.incidents), 
-            backgroundColor: 'rgba(70, 130, 180, 0.8)',
-            borderColor: 'rgba(70, 130, 180, 1)',
-            borderWidth: 1
-            }]
-        },
-        options: {
-            responsive: true,
-            maintainAspectRatio: false,
-            scales: {
-            y: {
-                beginAtZero: true,
-                title: {
-                display: true,
-                text: ' '
-                }
-            }
-            }
-        }
-        });
-    }
-
-    onMount(() => {
-        const ctxProperty = document.getElementById('propertyChart').getContext('2d');
-        propertyChart = createChart(ctxProperty, stpProperty, 'Auto Thefts');
-    });
-  </script>
-
 <h3>St. Paul: Police Activity</h3>
 
 <h4 class="source">Data sources: St. Paul Police Department</h4>
 
-<p>Auto thefts in St. Paul surged significantly after the pandemic, driven primarily by stolen Kias and Hyundais.</p>
+<p>This is downloaded St. Paul Police Department crime, dispatch and police activity data from 2019 to present.</p>
 
-<div class="chart-container">
-    <canvas id="propertyChart"></canvas>
-  </div>
-<div class="download"><a href="../store/stpat/stp_autotheft.csv">Download St. Paul 1985-2023 auto thefts data (includes clearances)</a></div>
+<!-- <div class="chart-grid">
+    {#each charts as chart}
+      <Bar {chart.options} data={{ labels: years, datasets: [{ label: chart.label, data: chart.data, backgroundColor: '#3366cc' }] }} />
+    {/each}
+  </div> -->
+
+<div class="download"><a href="../store/sppda/SPPD_Activity_2014_2024.csv">Download St. Paul Police Department logs, 2014-2024</a></div>
 
 <h4>Links</h4>
 
@@ -60,7 +21,3 @@
     <li><a href="https://information.stpaul.gov/apps/crime-incidents-by-neighborhood/explore">SPPD Police Incidents</a></li>
     <li><a href="https://saintpaulmn.mycusthelp.com/WEBAPP/_rs/(S(3bgsui0ryccasua2zoohdy5k))/supporthome.aspx">St. Paul DPA requests</a></li>
 </ul>
-
-<style>
-
-</style>

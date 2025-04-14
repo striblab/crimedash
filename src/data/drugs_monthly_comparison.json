@@ -472,7 +472,7 @@
     "Year": 2024,
     "Month": 8,
     "Offense": "Drug/Narcotic Violations",
-    "IncidentCount": 100,
+    "IncidentCount": 101,
     "Date": "2024-08-01"
   },
   {
@@ -521,7 +521,14 @@
     "Year": 2025,
     "Month": 3,
     "Offense": "Drug/Narcotic Violations",
-    "IncidentCount": 82,
+    "IncidentCount": 97,
     "Date": "2025-03-01"
+  },
+  {
+    "Year": 2025,
+    "Month": 4,
+    "Offense": "Drug/Narcotic Violations",
+    "IncidentCount": 43,
+    "Date": "2025-04-01"
   }
 ]

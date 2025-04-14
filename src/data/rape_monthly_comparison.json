@@ -479,21 +479,21 @@
     "Year": 2024,
     "Month": 9,
     "Offense": "Sex Offenses",
-    "IncidentCount": 65,
+    "IncidentCount": 66,
     "Date": "2024-09-01"
   },
   {
     "Year": 2024,
     "Month": 10,
     "Offense": "Sex Offenses",
-    "IncidentCount": 69,
+    "IncidentCount": 71,
     "Date": "2024-10-01"
   },
   {
     "Year": 2024,
     "Month": 11,
     "Offense": "Sex Offenses",
-    "IncidentCount": 75,
+    "IncidentCount": 81,
     "Date": "2024-11-01"
   },
   {
@@ -521,7 +521,14 @@
     "Year": 2025,
     "Month": 3,
     "Offense": "Sex Offenses",
-    "IncidentCount": 46,
+    "IncidentCount": 54,
     "Date": "2025-03-01"
+  },
+  {
+    "Year": 2025,
+    "Month": 4,
+    "Offense": "Sex Offenses",
+    "IncidentCount": 25,
+    "Date": "2025-04-01"
   }
 ]

@@ -1,14 +1,33 @@
-import './scss/style.scss'
-import App from './App.svelte'
+import "./styles/tailwind/utility.css";
+import "./styles/tailwind/typography.css";
+import "./styles/tailwind/tailwind.css";
 
-// Serve local webfonts during dev 
-if (import.meta.env.DEV) {
-  import("./scss/local-webfonts.scss")
-} 
+import { mount } from "svelte";
+import App from "./App.svelte";
 
-document.getElementById('proj-container').innerHTML = ""
-const app = new App({
-  target: document.getElementById('proj-container')
-})
+let app;
+let tgt = document.getElementById("proj-container");
+tgt.innerHTML = "";
+try {
+  mount(App, {
+    target: document.getElementById("proj-container"),
+  });
+} catch {
+  app = undefined;
+}
 
-export default app
+setInterval(() => {
+  let tgt = document.getElementById("proj-container");
+  if (tgt.innerHTML === "") {
+    if (app) app.$destroy();
+    try {
+      mount(App, {
+        target: document.getElementById("proj-container"),
+      });
+    } catch {
+      app = undefined;
+    }
+  }
+}, 500);
+
+export default app;
