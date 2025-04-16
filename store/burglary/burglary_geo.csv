@@ -31,7 +31,7 @@
 "Harrison","Burglary/Breaking & Entering",21,21,20,18,22,18,3
 "Hawthorne","Burglary/Breaking & Entering",48,52,32,57,53,48,10
 "Hiawatha","Burglary/Breaking & Entering",51,47,44,66,64,60,16
-"Holland","Burglary/Breaking & Entering",35,25,28,23,28,31,3
+"Holland","Burglary/Breaking & Entering",35,25,28,23,28,31,4
 "Howe","Burglary/Breaking & Entering",59,60,35,66,50,57,10
 "Humboldt Industrial Area","Burglary/Breaking & Entering",2,1,1,1,0,1,0
 "Jordan","Burglary/Breaking & Entering",66,68,57,82,101,83,11
@@ -51,7 +51,7 @@
 "Marcy Holmes","Burglary/Breaking & Entering",87,147,132,78,57,54,10
 "Marshall Terrace","Burglary/Breaking & Entering",5,5,5,6,7,6,0
 "McKinley","Burglary/Breaking & Entering",33,34,18,30,31,24,1
-"Mid - City Industrial","Burglary/Breaking & Entering",7,9,10,12,13,9,1
+"Mid - City Industrial","Burglary/Breaking & Entering",7,9,10,12,13,9,2
 "Midtown Phillips","Burglary/Breaking & Entering",56,115,64,60,36,50,8
 "Minnehaha","Burglary/Breaking & Entering",31,24,18,21,19,13,7
 "Morris Park","Burglary/Breaking & Entering",23,10,7,13,11,20,3
@@ -68,7 +68,7 @@
 "Seward","Burglary/Breaking & Entering",72,90,70,73,99,56,12
 "Sheridan","Burglary/Breaking & Entering",15,22,26,15,16,16,3
 "Shingle Creek","Burglary/Breaking & Entering",17,21,14,3,9,5,2
-"South Uptown","Burglary/Breaking & Entering",63,71,53,45,44,50,8
+"South Uptown","Burglary/Breaking & Entering",63,71,53,45,44,50,9
 "St. Anthony East","Burglary/Breaking & Entering",8,11,9,3,10,7,2
 "St. Anthony West","Burglary/Breaking & Entering",7,14,18,11,6,10,0
 "Standish","Burglary/Breaking & Entering",98,62,42,44,49,39,11
@@ -82,7 +82,7 @@
 "Webber - Camden","Burglary/Breaking & Entering",57,37,23,22,25,33,4
 "Wenonah","Burglary/Breaking & Entering",35,20,21,17,18,26,7
 "West Maka Ska","Burglary/Breaking & Entering",9,55,12,9,6,6,0
-"Whittier","Burglary/Breaking & Entering",147,218,110,118,115,116,19
+"Whittier","Burglary/Breaking & Entering",147,218,110,118,115,116,20
 "Willard - Hay","Burglary/Breaking & Entering",39,46,32,38,45,31,13
 "Windom","Burglary/Breaking & Entering",32,39,24,28,26,40,4
 "Windom Park","Burglary/Breaking & Entering",34,24,15,14,11,19,4
@@ -119,7 +119,7 @@ NA,"Burglary/Breaking & Entering",1,1,5,5,6,3,1
 "Harrison","Total",21,21,20,18,22,18,3
 "Hawthorne","Total",48,52,32,57,53,48,10
 "Hiawatha","Total",51,47,44,66,64,60,16
-"Holland","Total",35,25,28,23,28,31,3
+"Holland","Total",35,25,28,23,28,31,4
 "Howe","Total",59,60,35,66,50,57,10
 "Humboldt Industrial Area","Total",2,1,1,1,0,1,0
 "Jordan","Total",66,68,57,82,101,83,11
@@ -139,7 +139,7 @@ NA,"Burglary/Breaking & Entering",1,1,5,5,6,3,1
 "Marcy Holmes","Total",87,147,132,78,57,54,10
 "Marshall Terrace","Total",5,5,5,6,7,6,0
 "McKinley","Total",33,34,18,30,31,24,1
-"Mid - City Industrial","Total",7,9,10,12,13,9,1
+"Mid - City Industrial","Total",7,9,10,12,13,9,2
 "Midtown Phillips","Total",56,115,64,60,36,50,8
 "Minnehaha","Total",31,24,18,21,19,13,7
 "Morris Park","Total",23,10,7,13,11,20,3
@@ -156,7 +156,7 @@ NA,"Burglary/Breaking & Entering",1,1,5,5,6,3,1
 "Seward","Total",72,90,70,73,99,56,12
 "Sheridan","Total",15,22,26,15,16,16,3
 "Shingle Creek","Total",17,21,14,3,9,5,2
-"South Uptown","Total",63,71,53,45,44,50,8
+"South Uptown","Total",63,71,53,45,44,50,9
 "St. Anthony East","Total",8,11,9,3,10,7,2
 "St. Anthony West","Total",7,14,18,11,6,10,0
 "Standish","Total",98,62,42,44,49,39,11
@@ -170,7 +170,7 @@ NA,"Burglary/Breaking & Entering",1,1,5,5,6,3,1
 "Webber - Camden","Total",57,37,23,22,25,33,4
 "Wenonah","Total",35,20,21,17,18,26,7
 "West Maka Ska","Total",9,55,12,9,6,6,0
-"Whittier","Total",147,218,110,118,115,116,19
+"Whittier","Total",147,218,110,118,115,116,20
 "Willard - Hay","Total",39,46,32,38,45,31,13
 "Windom","Total",32,39,24,28,26,40,4
 "Windom Park","Total",34,24,15,14,11,19,4

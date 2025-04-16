@@ -8,10 +8,14 @@
     <link rel="stylesheet" href="https://www.startribune.com/static/css/screen.css">
     <link rel="stylesheet" href="https://static.startribune.com/assets/libs/strib-icons/0.0.13/strib-icons.css">
     <style>
+      #proj-container * {
+        font-weight:lighter !important;
+        font-family: 'Roboto', Arial, Helvetica, sans-serif !important;
+      }
       #wrapper, #about{
           max-width: 800px;
           margin: auto;
-          font-family: 'Roboto', Arial, Helvetica, sans-serif;
+          font-family: 'Roboto', Arial, Helvetica, sans-serif !important;
           font-size: 16px;
           line-height: 1.6;
           color: #333;
@@ -29,14 +33,14 @@
         margin: 0;
         padding: 8px;
         box-sizing: border-box;
-        font-family: "Benton Sans", sans-serif;
+        font-family: "Benton Sans", sans-serif !important;
       }
 
       p {
-          line-height: 140%;
-          margin-bottom: 14px;
+          line-height: 140% !important;
+          margin-bottom: 14px !important;
           font-size: 16px !important;
-         font-weight:normal !important;
+          font-weight:100 !important;
           margin-bottom: 25px !important;
       }
 
@@ -44,7 +48,7 @@
           line-height: 140%;
           margin-bottom: 14px;
           font-size: 16px !important;
-        font-weight:normal;
+          font-weight:normal;
           margin-bottom: 25px !important;
       }
 
@@ -183,28 +187,28 @@
       }
 
       h1 {
-          font-size: 2.5em; /* 40px if the base size is 16px */
-          margin-top: 0.5em;
-          margin-bottom: 0.5em;
+          font-size: 2.5em !important; /* 40px if the base size is 16px */
+          margin-top: 0.5em !important;
+          margin-bottom: 0.5em !important;
       }
 
       h2 {
-          font-size: 2em; /* 32px if the base size is 16px */
-          margin-top: 0.75em;
-          margin-bottom: 0.75em;
+          font-size: 2em !important; /* 32px if the base size is 16px */
+          margin-top: 0.75em !important;
+          margin-bottom: 0.75em !important;
       }
 
       h3 {
-          font-size: 1.75em; /* 28px if the base size is 16px */
-          margin-top: 1em;
-          margin-bottom: 1em;
+          font-size: 1.75em !important; /* 28px if the base size is 16px */
+          margin-top: 1em !important;
+          margin-bottom: 1em !important;
         font-family: 'Roboto', Arial, Helvetica, sans-serif !important;
       }
 
       h4 {
-          font-size: 1.5em; /* 24px if the base size is 16px */
-          margin-top: 1.25em;
-          margin-bottom: 1.25em;
+          font-size: 1.5em !important; /* 24px if the base size is 16px */
+          margin-top: 1.25em !important;
+          margin-bottom: 1.25em !important;
         font-family: 'Roboto', Arial, Helvetica, sans-serif !important;
       }
 
@@ -291,6 +295,28 @@
       .li a {
         color: green !important;
       }
+
+      p {
+        font-weight:normal !important;
+      }
+
+      .byline {
+          color: #000;
+          text-decoration: none;
+          font-weight:bold;
+        }
+        .timestamp {
+          color:#cccccc;
+          margin-top:5px;
+        }
+        p a {
+            color: #228B22 !important;
+            text-decoration: none !important;
+        }
+        p a:hover, p a:focus {
+            color: #006400 !important;
+            text-decoration: underline !important;
+        }
     </style>
   </head>
   <body class="series-article">

@@ -32,7 +32,7 @@
 
 <h1>Tracking Minnesota public safety trends</h1>
 
-<p class="article-byline">Developed and managed by <a class="byline" href="https://www.startribune.com/jeff-hargarten/6370579/">Jeff Hargarten</a></p><span>Star Tribune</span>
+<p class="article-byline">Developed and managed by <a class="byline" href="https://www.startribune.com/jeff-hargarten/6370579/">Jeff Hargarten</a> | <span>Star Tribune</span></p>
 
 <p id="timestamp" class="timestamp"></p>
 

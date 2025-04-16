@@ -19,9 +19,9 @@
 "Downtown East","Aggravated Assault",9,24,15,22,24,12,2
 "Downtown West","Aggravated Assault",157,132,153,179,160,173,30
 "East Bde Maka Ska","Aggravated Assault",1,0,5,2,4,4,1
-"East Harriet","Aggravated Assault",5,5,7,4,6,4,1
+"East Harriet","Aggravated Assault",5,5,7,4,6,4,2
 "East Isles","Aggravated Assault",6,7,11,4,12,10,1
-"East Phillips","Aggravated Assault",73,109,127,106,126,98,16
+"East Phillips","Aggravated Assault",73,109,127,106,126,98,17
 "Elliot Park","Aggravated Assault",60,74,79,74,99,70,26
 "Ericsson","Aggravated Assault",5,6,4,5,5,16,1
 "Field","Aggravated Assault",1,7,7,7,3,3,2
@@ -46,7 +46,7 @@
 "Lowry Hill East","Aggravated Assault",32,55,59,75,83,69,20
 "Lyndale","Aggravated Assault",17,35,32,40,48,80,12
 "Lynnhurst","Aggravated Assault",3,0,0,2,0,2,0
-"Marcy Holmes","Aggravated Assault",54,54,54,51,49,50,8
+"Marcy Holmes","Aggravated Assault",54,54,54,51,49,50,10
 "Marshall Terrace","Aggravated Assault",4,9,5,5,3,16,1
 "McKinley","Aggravated Assault",51,75,70,71,47,23,5
 "Mid - City Industrial","Aggravated Assault",1,1,5,5,3,6,0
@@ -73,16 +73,16 @@
 "Sumner - Glenwood","Aggravated Assault",27,33,22,38,23,18,2
 "Tangletown","Aggravated Assault",1,4,10,1,10,7,0
 "University of Minnesota","Aggravated Assault",6,0,3,15,3,9,0
-"Ventura Village","Aggravated Assault",64,86,87,108,123,90,23
+"Ventura Village","Aggravated Assault",64,86,87,108,123,90,24
 "Victory","Aggravated Assault",6,13,22,9,19,26,2
 "Waite Park","Aggravated Assault",15,7,7,2,4,0,1
-"Webber - Camden","Aggravated Assault",87,84,101,74,96,72,9
+"Webber - Camden","Aggravated Assault",87,84,101,74,96,72,10
 "Wenonah","Aggravated Assault",19,27,22,33,23,10,5
 "West Maka Ska","Aggravated Assault",8,4,1,8,5,10,0
 "Whittier","Aggravated Assault",99,114,123,168,156,200,42
 "Willard - Hay","Aggravated Assault",128,116,121,101,124,139,25
 "Windom","Aggravated Assault",9,18,25,14,16,14,5
-"Windom Park","Aggravated Assault",12,11,19,13,11,18,4
+"Windom Park","Aggravated Assault",12,11,19,13,11,18,5
 NA,"Aggravated Assault",9,14,20,23,21,14,5
 "Hale","Aggravated Assault",0,1,1,2,1,2,0
 "Page","Aggravated Assault",0,1,1,0,0,3,0
@@ -107,9 +107,9 @@ NA,"Aggravated Assault",9,14,20,23,21,14,5
 "Downtown East","Total",9,24,15,22,24,12,2
 "Downtown West","Total",157,132,153,179,160,173,30
 "East Bde Maka Ska","Total",1,0,5,2,4,4,1
-"East Harriet","Total",5,5,7,4,6,4,1
+"East Harriet","Total",5,5,7,4,6,4,2
 "East Isles","Total",6,7,11,4,12,10,1
-"East Phillips","Total",73,109,127,106,126,98,16
+"East Phillips","Total",73,109,127,106,126,98,17
 "Elliot Park","Total",60,74,79,74,99,70,26
 "Ericsson","Total",5,6,4,5,5,16,1
 "Field","Total",1,7,7,7,3,3,2
@@ -134,7 +134,7 @@ NA,"Aggravated Assault",9,14,20,23,21,14,5
 "Lowry Hill East","Total",32,55,59,75,83,69,20
 "Lyndale","Total",17,35,32,40,48,80,12
 "Lynnhurst","Total",3,0,0,2,0,2,0
-"Marcy Holmes","Total",54,54,54,51,49,50,8
+"Marcy Holmes","Total",54,54,54,51,49,50,10
 "Marshall Terrace","Total",4,9,5,5,3,16,1
 "McKinley","Total",51,75,70,71,47,23,5
 "Mid - City Industrial","Total",1,1,5,5,3,6,0
@@ -161,16 +161,16 @@ NA,"Aggravated Assault",9,14,20,23,21,14,5
 "Sumner - Glenwood","Total",27,33,22,38,23,18,2
 "Tangletown","Total",1,4,10,1,10,7,0
 "University of Minnesota","Total",6,0,3,15,3,9,0
-"Ventura Village","Total",64,86,87,108,123,90,23
+"Ventura Village","Total",64,86,87,108,123,90,24
 "Victory","Total",6,13,22,9,19,26,2
 "Waite Park","Total",15,7,7,2,4,0,1
-"Webber - Camden","Total",87,84,101,74,96,72,9
+"Webber - Camden","Total",87,84,101,74,96,72,10
 "Wenonah","Total",19,27,22,33,23,10,5
 "West Maka Ska","Total",8,4,1,8,5,10,0
 "Whittier","Total",99,114,123,168,156,200,42
 "Willard - Hay","Total",128,116,121,101,124,139,25
 "Windom","Total",9,18,25,14,16,14,5
-"Windom Park","Total",12,11,19,13,11,18,4
+"Windom Park","Total",12,11,19,13,11,18,5
 NA,"Total",9,14,20,23,21,14,5
 "Hale","Total",0,1,1,2,1,2,0
 "Page","Total",0,1,1,0,0,3,0
