@@ -44,7 +44,7 @@
 "Longfellow","Robbery",21,33,30,30,22,37,6
 "Loring Park","Robbery",32,39,49,38,39,39,9
 "Lowry Hill","Robbery",3,24,31,23,11,23,1
-"Lowry Hill East","Robbery",36,55,78,95,52,84,6
+"Lowry Hill East","Robbery",36,55,78,95,52,84,7
 "Lyndale","Robbery",15,34,44,19,41,53,6
 "Lynnhurst","Robbery",1,4,4,0,2,5,0
 "Marcy Holmes","Robbery",31,42,99,64,33,37,10
@@ -53,7 +53,7 @@
 "Mid - City Industrial","Robbery",1,1,4,5,1,1,0
 "Midtown Phillips","Robbery",38,81,79,73,52,50,4
 "Minnehaha","Robbery",2,6,5,6,7,5,2
-"Near - North","Robbery",48,44,53,39,30,36,10
+"Near - North","Robbery",48,44,53,39,30,36,11
 "North Loop","Robbery",21,9,34,23,18,8,2
 "Northeast Park","Robbery",1,7,8,8,5,6,0
 "Northrop","Robbery",5,14,21,23,8,9,2
@@ -73,17 +73,17 @@
 "Sumner - Glenwood","Robbery",10,8,20,6,6,14,1
 "Tangletown","Robbery",5,6,9,4,7,9,0
 "University of Minnesota","Robbery",2,3,8,4,6,0,0
-"Ventura Village","Robbery",65,122,92,75,51,70,12
+"Ventura Village","Robbery",65,122,92,75,51,70,13
 "Victory","Robbery",8,2,9,5,9,5,2
 "Waite Park","Robbery",5,5,3,3,3,1,1
 "Webber - Camden","Robbery",29,24,16,19,12,16,2
 "Wenonah","Robbery",2,5,6,7,2,3,0
 "West Maka Ska","Robbery",1,4,5,0,2,1,0
-"Whittier","Robbery",63,112,159,127,103,147,17
+"Whittier","Robbery",63,112,159,127,103,147,18
 "Willard - Hay","Robbery",32,25,35,31,40,20,10
 "Windom","Robbery",8,11,9,2,7,6,1
 "Windom Park","Robbery",8,9,13,13,6,15,2
-NA,"Robbery",6,9,8,11,8,10,2
+NA,"Robbery",6,9,8,11,8,10,3
 "Morris Park","Robbery",0,3,1,3,1,1,0
 "Nicollet Island - East Bank","Robbery",0,1,7,10,7,4,0
 "Armatage","Total",3,0,2,2,3,2,0
@@ -131,7 +131,7 @@ NA,"Robbery",6,9,8,11,8,10,2
 "Longfellow","Total",21,33,30,30,22,37,6
 "Loring Park","Total",32,39,49,38,39,39,9
 "Lowry Hill","Total",3,24,31,23,11,23,1
-"Lowry Hill East","Total",36,55,78,95,52,84,6
+"Lowry Hill East","Total",36,55,78,95,52,84,7
 "Lyndale","Total",15,34,44,19,41,53,6
 "Lynnhurst","Total",1,4,4,0,2,5,0
 "Marcy Holmes","Total",31,42,99,64,33,37,10
@@ -140,7 +140,7 @@ NA,"Robbery",6,9,8,11,8,10,2
 "Mid - City Industrial","Total",1,1,4,5,1,1,0
 "Midtown Phillips","Total",38,81,79,73,52,50,4
 "Minnehaha","Total",2,6,5,6,7,5,2
-"Near - North","Total",48,44,53,39,30,36,10
+"Near - North","Total",48,44,53,39,30,36,11
 "North Loop","Total",21,9,34,23,18,8,2
 "Northeast Park","Total",1,7,8,8,5,6,0
 "Northrop","Total",5,14,21,23,8,9,2
@@ -160,16 +160,16 @@ NA,"Robbery",6,9,8,11,8,10,2
 "Sumner - Glenwood","Total",10,8,20,6,6,14,1
 "Tangletown","Total",5,6,9,4,7,9,0
 "University of Minnesota","Total",2,3,8,4,6,0,0
-"Ventura Village","Total",65,122,92,75,51,70,12
+"Ventura Village","Total",65,122,92,75,51,70,13
 "Victory","Total",8,2,9,5,9,5,2
 "Waite Park","Total",5,5,3,3,3,1,1
 "Webber - Camden","Total",29,24,16,19,12,16,2
 "Wenonah","Total",2,5,6,7,2,3,0
 "West Maka Ska","Total",1,4,5,0,2,1,0
-"Whittier","Total",63,112,159,127,103,147,17
+"Whittier","Total",63,112,159,127,103,147,18
 "Willard - Hay","Total",32,25,35,31,40,20,10
 "Windom","Total",8,11,9,2,7,6,1
 "Windom Park","Total",8,9,13,13,6,15,2
-NA,"Total",6,9,8,11,8,10,2
+NA,"Total",6,9,8,11,8,10,3
 "Morris Park","Total",0,3,1,3,1,1,0
 "Nicollet Island - East Bank","Total",0,1,7,10,7,4,0

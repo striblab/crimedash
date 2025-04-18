@@ -7,7 +7,7 @@
   font-family: "roboto";
   src: url("https://static.startribune.com/fonts/RobotoMedium/RobotoMedium.woff2")
     format("woff2");
-  font-weight: 500;
+  font-weight: normal;
   font-style: normal;
   font-display: swap;
 }
@@ -18,7 +18,7 @@
   font-family: "popular-bold";
   src: url("https://static.startribune.com/fonts/PopularBold/Popular-Bold.woff2")
     format("woff2");
-  font-weight: 700;
+  font-weight: normal;
   font-style: normal;
   font-display: swap;
 }
@@ -27,7 +27,7 @@
   font-family: "popular-light";
   src: url("https://static.startribune.com/fonts/PopularLight/Popular-Light.woff2")
     format("woff2");
-  font-weight: 300;
+  font-weight: normal;
   font-style: normal;
   font-display: swap;
 }
@@ -36,7 +36,7 @@
   font-family: "popular-medium";
   src: url("https://static.startribune.com/fonts/PopularMedium/Popular-Medium.woff2")
     format("woff2");
-  font-weight: 300;
+  font-weight: normal;
   font-style: normal;
   font-display: swap;
 }
@@ -45,7 +45,7 @@
   font-family: "popular-regular";
   src: url("https://static.startribune.com/fonts/PopularRegular/Popular-Regular.woff2")
     format("woff2");
-  font-weight: 400;
+  font-weight: normal;
   font-style: normal;
   font-display: swap;
 }

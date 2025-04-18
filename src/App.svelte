@@ -41,7 +41,7 @@
 	import Scott from './Scott.svelte';
 	import Carver from './Carver.svelte';
 	import Dakota from './Dakota.svelte';
-	import Washington from './Suburbs.svelte';
+	import Washington from './Washington.svelte';
 	import Statewide from './Statewide.svelte';
 	import National from './National.svelte';
 	import Arrests from './Arrests.svelte';
@@ -180,6 +180,7 @@ body {
 	/*padding: 8px;*/
 	box-sizing: border-box;
 	font-family: "Benton Sans", sans-serif;
+	font-weight:normal !important;
 }
 
 p {
