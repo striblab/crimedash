@@ -986,6 +986,52 @@ filter_actual(file_paths)
 
 ```
 
+#FBI CDE API
+```{r}
+
+fbicde <- function() {
+
+# Set your FBI API Key
+api_key <- "4gOAVzldpoBuKhfX08nJ478jUzhLKpF8aUBbduhQ"
+
+# Define parameters
+ori <- "MN0271100"
+offenses <- c("homicide", "rape", "robbery", "aggravated-assault")
+year_start <- 1985
+year_end <- 2023
+
+# Function to query FBI CDE API for one offense
+get_offense_data <- function(offense) {
+  url <- sprintf(
+    "https://api.usa.gov/crime/fbi/cde/offense/by-agency/%s/%s/count?from=%d&to=%d&API_KEY=%s",
+    ori, offense, year_start, year_end, api_key
+  )
+  
+  res <- GET(url)
+  stop_for_status(res)
+  
+  content(res, as = "parsed", simplifyVector = TRUE)$data %>%
+    as_tibble() %>%
+    transmute(year = as.integer(data_year), 
+              offense = offense, 
+              count = as.integer(actual))
+}
+
+# Map over all offenses and combine into one tidy data frame
+violent_crime_data <- map_df(offenses, get_offense_data)
+
+# Optional: Pivot to wide format for year-over-year comparison
+violent_crime_wide <- violent_crime_data %>%
+  pivot_wider(names_from = offense, values_from = count)
+
+# View the data
+print(violent_crime_data)
+  
+}
+
+```
+
+
 
 ```{r}
 

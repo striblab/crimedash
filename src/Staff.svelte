@@ -97,12 +97,12 @@
 
 <h4 class="source">Data sources: Minneapolis Police Department</h4>
 
-<p>To date, the Minneapolis Police Department has seen an estimated 40% exodus from its ranks that started in 2020.</p>
+<p>To date, the Minneapolis Police Department has seen an estimated 40% exodus from its ranks that started in 2020. In recent months, MPD has been netting additional officers to its ranks.</p>
 
 <div class="chart-container">
   <canvas id="mplsChart"></canvas>
 </div>
-<div class="download"><a href="../store/staff/staff_mpls.csv">Download 2019-2023 MPD staffing by pay period data</a></div>
+<div class="download"><a href="../store/staff/staff_mpls.csv">Download 2019-2024 MPD staffing by pay period data</a></div>
 
 <p>&nbsp;</p>
 
@@ -117,7 +117,7 @@
 <div class="chart-container">
   <canvas id="minneapolisChart"></canvas>
 </div>
-<div class="download"><a href="../store/staff/staff_minneapolis.csv">Download police 1985-2021 staffing breakdown data</a></div>
+<div class="download"><a href="../store/staff/staff_minneapolis.csv">Download police 1985-2024 staffing breakdown data</a></div>
 
 <p>&nbsp;</p>
 
