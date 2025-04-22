@@ -20,6 +20,8 @@
     <li>White Bear Lake Police Department</li>
 </ul>
 
+<div>&nbsp;</div>
+
 <div class="download"><a href="../store/subr/NIBRS_Ramsey_actual.csv">Download Ramsey County NIBRS offenses, 2021-present</a></div>
 <div class="download"><a href="../store/subr/NIBRS_Ramsey.csv">Download Ramsey County NIBRS offenses, rates and clearances, 2021-present</a></div>
 

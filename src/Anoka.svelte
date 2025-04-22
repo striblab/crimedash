@@ -6,7 +6,7 @@
 
 <h4 class="source">Data sources: Minnesota Bureau of Criminal Apprehension</h4>
 
-<p>Suburban crime data isn't as uniform or granulated as Minneapolis data. But the following links contain information by agency for NIBRS crime categories for the following police departments:</p>
+<p>Suburban crime data isn't as uniform or granulated as Minneapolis data. But these links contain information by agency for NIBRS crime categories for the following police departments:</p>
 
 <ul>
     <li>Anoka County Sheriff</li>
@@ -21,6 +21,8 @@
     <li>Spring Lake Park Police Department</li>
     <li>St. Francis Police Department</li>
 </ul>
+
+<div>&nbsp;</div>
 
 <div class="download"><a href="../store/suba/NIBRS_Anoka_actual.csv">Download Anoka County NIBRS offenses, 2021-present</a></div>
 <div class="download"><a href="../store/suba/NIBRS_Anoka.csv">Download Anoka County NIBRS offenses, rates and clearances, 2021-present</a></div>

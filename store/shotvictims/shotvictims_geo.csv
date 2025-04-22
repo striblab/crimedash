@@ -4,14 +4,14 @@
 "Cedar Riverside","Gunshot Wound Victims",6,6,13,20,5,4,0
 "Central","Gunshot Wound Victims",10,14,10,7,5,7,3
 "Cleveland","Gunshot Wound Victims",4,3,6,6,2,7,1
-"Downtown West","Gunshot Wound Victims",20,33,30,44,19,24,0
+"Downtown West","Gunshot Wound Victims",20,33,30,44,19,24,1
 "East Harriet","Gunshot Wound Victims",1,0,2,0,1,0,0
 "East Isles","Gunshot Wound Victims",2,0,4,0,2,0,0
-"East Phillips","Gunshot Wound Victims",9,35,46,28,18,22,1
+"East Phillips","Gunshot Wound Victims",9,35,46,28,18,22,2
 "Elliot Park","Gunshot Wound Victims",8,14,14,6,9,7,3
 "Folwell","Gunshot Wound Victims",18,28,33,35,23,33,5
 "Harrison","Gunshot Wound Victims",2,7,10,4,4,5,0
-"Hawthorne","Gunshot Wound Victims",34,71,65,57,33,15,5
+"Hawthorne","Gunshot Wound Victims",34,71,65,57,33,15,6
 "Holland","Gunshot Wound Victims",2,0,2,7,0,5,0
 "Jordan","Gunshot Wound Victims",18,62,51,33,29,21,3
 "Lind - Bohanon","Gunshot Wound Victims",9,11,20,9,3,3,2
@@ -26,13 +26,13 @@
 "Phillips West","Gunshot Wound Victims",11,7,17,9,3,20,0
 "Powderhorn Park","Gunshot Wound Victims",2,27,16,19,6,6,0
 "Prospect Park - East River Road","Gunshot Wound Victims",2,0,3,1,2,1,0
-"Seward","Gunshot Wound Victims",9,4,10,5,18,7,2
+"Seward","Gunshot Wound Victims",9,4,10,5,18,7,3
 "Sheridan","Gunshot Wound Victims",1,0,2,0,0,1,0
 "Steven's Square - Loring Heights","Gunshot Wound Victims",1,5,10,11,6,5,0
 "Sumner - Glenwood","Gunshot Wound Victims",6,3,5,3,1,0,0
 "Ventura Village","Gunshot Wound Victims",11,24,33,21,40,22,2
 "Waite Park","Gunshot Wound Victims",1,0,2,0,0,0,0
-"Webber - Camden","Gunshot Wound Victims",13,18,23,12,12,7,1
+"Webber - Camden","Gunshot Wound Victims",13,18,23,12,12,7,4
 "Whittier","Gunshot Wound Victims",3,10,14,18,20,31,5
 "Willard - Hay","Gunshot Wound Victims",21,23,31,13,19,17,4
 "Audubon Park","Gunshot Wound Victims",0,2,2,0,0,3,0
@@ -82,14 +82,14 @@ NA,"Gunshot Wound Victims",0,3,6,4,6,3,0
 "Cedar Riverside","Total",6,6,13,20,5,4,0
 "Central","Total",10,14,10,7,5,7,3
 "Cleveland","Total",4,3,6,6,2,7,1
-"Downtown West","Total",20,33,30,44,19,24,0
+"Downtown West","Total",20,33,30,44,19,24,1
 "East Harriet","Total",1,0,2,0,1,0,0
 "East Isles","Total",2,0,4,0,2,0,0
-"East Phillips","Total",9,35,46,28,18,22,1
+"East Phillips","Total",9,35,46,28,18,22,2
 "Elliot Park","Total",8,14,14,6,9,7,3
 "Folwell","Total",18,28,33,35,23,33,5
 "Harrison","Total",2,7,10,4,4,5,0
-"Hawthorne","Total",34,71,65,57,33,15,5
+"Hawthorne","Total",34,71,65,57,33,15,6
 "Holland","Total",2,0,2,7,0,5,0
 "Jordan","Total",18,62,51,33,29,21,3
 "Lind - Bohanon","Total",9,11,20,9,3,3,2
@@ -104,13 +104,13 @@ NA,"Gunshot Wound Victims",0,3,6,4,6,3,0
 "Phillips West","Total",11,7,17,9,3,20,0
 "Powderhorn Park","Total",2,27,16,19,6,6,0
 "Prospect Park - East River Road","Total",2,0,3,1,2,1,0
-"Seward","Total",9,4,10,5,18,7,2
+"Seward","Total",9,4,10,5,18,7,3
 "Sheridan","Total",1,0,2,0,0,1,0
 "Steven's Square - Loring Heights","Total",1,5,10,11,6,5,0
 "Sumner - Glenwood","Total",6,3,5,3,1,0,0
 "Ventura Village","Total",11,24,33,21,40,22,2
 "Waite Park","Total",1,0,2,0,0,0,0
-"Webber - Camden","Total",13,18,23,12,12,7,1
+"Webber - Camden","Total",13,18,23,12,12,7,4
 "Whittier","Total",3,10,14,18,20,31,5
 "Willard - Hay","Total",21,23,31,13,19,17,4
 "Audubon Park","Total",0,2,2,0,0,3,0

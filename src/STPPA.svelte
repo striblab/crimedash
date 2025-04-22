@@ -10,7 +10,7 @@
     {/each}
   </div> -->
 
-<div class="download"><a href="../store/sppda/SPPD_Activity_2014_2024.csv">Download St. Paul Police Department logs, 2014-2024</a></div>
+<div class="download"><a href="../stppa/SPPD_Activity_2019_2024.csv">Download St. Paul Police Department logs, 2019-2024</a></div>
 
 <h4>Links</h4>
 

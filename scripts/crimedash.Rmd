@@ -986,53 +986,69 @@ filter_actual(file_paths)
 
 ```
 
-#FBI CDE API
+
 ```{r}
-
-fbicde <- function() {
-
-# Set your FBI API Key
-api_key <- "4gOAVzldpoBuKhfX08nJ478jUzhLKpF8aUBbduhQ"
-
-# Define parameters
-ori <- "MN0271100"
-offenses <- c("homicide", "rape", "robbery", "aggravated-assault")
-year_start <- 1985
-year_end <- 2023
-
-# Function to query FBI CDE API for one offense
-get_offense_data <- function(offense) {
-  url <- sprintf(
-    "https://api.usa.gov/crime/fbi/cde/offense/by-agency/%s/%s/count?from=%d&to=%d&API_KEY=%s",
-    ori, offense, year_start, year_end, api_key
-  )
-  
-  res <- GET(url)
-  stop_for_status(res)
-  
-  content(res, as = "parsed", simplifyVector = TRUE)$data %>%
-    as_tibble() %>%
-    transmute(year = as.integer(data_year), 
-              offense = offense, 
-              count = as.integer(actual))
-}
-
-# Map over all offenses and combine into one tidy data frame
-violent_crime_data <- map_df(offenses, get_offense_data)
-
-# Optional: Pivot to wide format for year-over-year comparison
-violent_crime_wide <- violent_crime_data %>%
-  pivot_wider(names_from = offense, values_from = count)
-
-# View the data
-print(violent_crime_data)
-  
-}
 
 ```
 
-
-
+#FBI CDE API
 ```{r}
+get_crime_data <- function(city_name, ori, output_folder, api_key) {
+  # Normalize city name to lowercase and underscored for file naming
+  file_city <- str_to_lower(str_replace_all(city_name, "\\s+", "_"))
+
+  # Define offenses
+  violent_crimes <- c("homicide", "rape", "robbery", "aggravated-assault")
+  property_crimes <- c("burglary", "larceny", "arson", "motor-vehicle-theft")
+  all_crimes <- c(violent_crimes, property_crimes)
+
+  # Year range
+  year_start <- 1985
+  year_end <- 2023
+
+  # Query function
+  get_offense_data <- function(offense) {
+    url <- sprintf(
+      "https://api.usa.gov/crime/fbi/cde/offense/by-agency/%s/%s/count?from=%d&to=%d&API_KEY=%s",
+      ori, offense, year_start, year_end, "4gOAVzldpoBuKhfX08nJ478jUzhLKpF8aUBbduhQ"
+    )
+
+    res <- GET(url)
+    stop_for_status(res)
+
+    content(res, as = "parsed", simplifyVector = TRUE)$data %>%
+      as_tibble() %>%
+      transmute(
+        year = as.integer(data_year),
+        offense = offense,
+        count = as.integer(actual)
+      )
+  }
+
+  # Pull data
+  crime_data_long <- map_df(all_crimes, get_offense_data)
+
+  # Pivot to wide format
+  crime_data_wide <- crime_data_long %>%
+    pivot_wider(names_from = offense, values_from = count)
+
+  # Ensure output folder exists
+  if (!dir.exists(output_folder)) {
+    dir.create(output_folder, recursive = TRUE)
+  }
+
+  # Write CSV
+  output_path <- file.path(output_folder, sprintf("%s_crime_1985_2023.csv", file_city))
+  write.csv(crime_data_wide, output_path, row.names = FALSE)
+
+  message("✅ Data saved to: ", output_path)
+  return(crime_data_wide)
+}
+
+get_crime_data(
+  city_name = "Minneapolis",
+  ori = "MN0271100",
+  output_folder = "~/Desktop/crime_data"
+)
 
 ```
