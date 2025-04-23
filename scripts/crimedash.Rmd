@@ -993,6 +993,7 @@ filter_actual(file_paths)
 
 #FBI CDE API
 ```{r}
+
 get_crime_data <- function(city_name, ori, output_folder, api_key) {
   # Normalize city name to lowercase and underscored for file naming
   file_city <- str_to_lower(str_replace_all(city_name, "\\s+", "_"))
@@ -1007,23 +1008,23 @@ get_crime_data <- function(city_name, ori, output_folder, api_key) {
   year_end <- 2023
 
   # Query function
-  get_offense_data <- function(offense) {
-    url <- sprintf(
-      "https://api.usa.gov/crime/fbi/cde/offense/by-agency/%s/%s/count?from=%d&to=%d&API_KEY=%s",
-      ori, offense, year_start, year_end, "4gOAVzldpoBuKhfX08nJ478jUzhLKpF8aUBbduhQ"
-    )
-
-    res <- GET(url)
-    stop_for_status(res)
-
-    content(res, as = "parsed", simplifyVector = TRUE)$data %>%
-      as_tibble() %>%
-      transmute(
-        year = as.integer(data_year),
-        offense = offense,
-        count = as.integer(actual)
+    get_offense_data <- function(offense) {
+      url <- sprintf(
+        "https://api.usa.gov/crime/fbi/cde/offense/by-agency/%s/%s/count?from=%d&to=%d",
+        ori, offense, year_start, year_end
       )
-  }
+    
+      res <- GET(url, add_headers("X-API-Key" = "4gOAVzldpoBuKhfX08nJ478jUzhLKpF8aUBbduhQ"))
+      stop_for_status(res)
+    
+      content(res, as = "parsed", simplifyVector = TRUE)$data %>%
+        as_tibble() %>%
+        transmute(
+          year = as.integer(data_year),
+          offense = offense,
+          count = as.integer(actual)
+        )
+    }
 
   # Pull data
   crime_data_long <- map_df(all_crimes, get_offense_data)
@@ -1050,5 +1051,6 @@ get_crime_data(
   ori = "MN0271100",
   output_folder = "~/Desktop/crime_data"
 )
+
 
 ```
