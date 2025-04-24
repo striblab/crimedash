@@ -20,6 +20,7 @@
 	import Activity from './Activity.svelte';
 	import Precincts from './Precincts.svelte';
 	import Conduct from './Conduct.svelte';
+	import MForce from './MForce.svelte';
 	import Transit from './Transit.svelte';
 	import Park from './Park.svelte';
 	import UMPD from './UMPD.svelte';
@@ -73,6 +74,7 @@
 	  { id: 'precincts', cat: 'Minneapolis', name: 'Police Precincts', component: Precincts },
 	  { id: 'conduct', cat: 'Minneapolis', name: 'Officer Conduct', component: Conduct },
 	  { id: 'staff', cat: 'Minneapolis', name: 'Police Staffing', component: Staff },
+	  { id: 'mforce', cat: 'Minneapolis', name: 'Use-of-Force', component: MForce },
 	  { id: 'park', cat: 'Minneapolis', name: 'Park Police', component: Park },
 	  { id: 'stpm', cat: 'St. Paul', name: 'Homicides', component: STPM },
 	  { id: 'stps', cat: 'St. Paul', name: 'Shootings', component: STPS },
