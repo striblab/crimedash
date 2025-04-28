@@ -1,49 +1,49 @@
 [
   {
-    "YTDCount": 10,
+    "YTDCount": 12,
     "Year": 2019,
     "Offense": "Arson"
   },
   {
-    "YTDCount": 17,
+    "YTDCount": 19,
     "Year": 2020,
     "Offense": "Arson",
-    "PrevYTDCount": 10,
-    "YTDPercentageChange": 70
-  },
-  {
-    "YTDCount": 25,
-    "Year": 2021,
-    "Offense": "Arson",
-    "PrevYTDCount": 17,
-    "YTDPercentageChange": 47.0588
+    "PrevYTDCount": 12,
+    "YTDPercentageChange": 58.3333
   },
   {
     "YTDCount": 27,
-    "Year": 2022,
+    "Year": 2021,
     "Offense": "Arson",
-    "PrevYTDCount": 25,
-    "YTDPercentageChange": 8
+    "PrevYTDCount": 19,
+    "YTDPercentageChange": 42.1053
   },
   {
-    "YTDCount": 33,
-    "Year": 2023,
+    "YTDCount": 29,
+    "Year": 2022,
     "Offense": "Arson",
     "PrevYTDCount": 27,
-    "YTDPercentageChange": 22.2222
+    "YTDPercentageChange": 7.4074
   },
   {
     "YTDCount": 38,
-    "Year": 2024,
+    "Year": 2023,
     "Offense": "Arson",
-    "PrevYTDCount": 33,
-    "YTDPercentageChange": 15.1515
+    "PrevYTDCount": 29,
+    "YTDPercentageChange": 31.0345
   },
   {
-    "YTDCount": 25,
-    "Year": 2025,
+    "YTDCount": 39,
+    "Year": 2024,
     "Offense": "Arson",
     "PrevYTDCount": 38,
-    "YTDPercentageChange": -34.2105
+    "YTDPercentageChange": 2.6316
+  },
+  {
+    "YTDCount": 28,
+    "Year": 2025,
+    "Offense": "Arson",
+    "PrevYTDCount": 39,
+    "YTDPercentageChange": -28.2051
   }
 ]

@@ -703,6 +703,7 @@ writeLines(formatted_timestamp, file_path)
 download_arrest_reports <- function() {
   base_path <- "/Users/hargaja/Desktop/workspace/redboard/20240428-crimedash/store/arrests"
   urls <- c(
+    "https://cde.state.mn.us/DownloadData/ArrestsByJudicialDistrictDownloadData?ReportYear=2025",
     "https://cde.state.mn.us/DownloadData/ArrestsByJudicialDistrictDownloadData?ReportYear=2024",
     "https://cde.state.mn.us/DownloadData/ArrestsByJudicialDistrictDownloadData?ReportYear=2023",
     "https://cde.state.mn.us/DownloadData/ArrestsByJudicialDistrictDownloadData?ReportYear=2022",
@@ -715,18 +716,22 @@ download_arrest_reports <- function() {
     "https://cde.state.mn.us/DownloadData/ArrestsDrugByCountyDownloadData?ReportYear=2022",
     "https://cde.state.mn.us/DownloadData/ArrestsDrugByCountyDownloadData?ReportYear=2023",
     "https://cde.state.mn.us/DownloadData/ArrestsDrugByCountyDownloadData?ReportYear=2024",
+    "https://cde.state.mn.us/DownloadData/ArrestsDrugByCountyDownloadData?ReportYear=2025",
     "https://cde.state.mn.us/DownloadData/ArrestsGroupAByAgeSexDownloadData?ReportYear=2021",
     "https://cde.state.mn.us/DownloadData/ArrestsGroupAByAgeSexDownloadData?ReportYear=2022",
     "https://cde.state.mn.us/DownloadData/ArrestsGroupAByAgeSexDownloadData?ReportYear=2023",
     "https://cde.state.mn.us/DownloadData/ArrestsGroupAByAgeSexDownloadData?ReportYear=2024",
+    "https://cde.state.mn.us/DownloadData/ArrestsGroupAByAgeSexDownloadData?ReportYear=2025",
     "https://cde.state.mn.us/DownloadData/ArrestsGroupAByAgeSexCountyDownloadData?ReportYear=2021",
     "https://cde.state.mn.us/DownloadData/ArrestsGroupAByAgeSexCountyDownloadData?ReportYear=2022",
     "https://cde.state.mn.us/DownloadData/ArrestsGroupAByAgeSexCountyDownloadData?ReportYear=2023",
     "https://cde.state.mn.us/DownloadData/ArrestsGroupAByAgeSexCountyDownloadData?ReportYear=2024",
+    "https://cde.state.mn.us/DownloadData/ArrestsGroupAByAgeSexCountyDownloadData?ReportYear=2025",
     "https://cde.state.mn.us/DownloadData/ArrestsAdultJuvenileGroupAByAgeRaceDownloadData?ReportYear=2021",
     "https://cde.state.mn.us/DownloadData/ArrestsAdultJuvenileGroupAByAgeRaceDownloadData?ReportYear=2022",
     "https://cde.state.mn.us/DownloadData/ArrestsAdultJuvenileGroupAByAgeRaceDownloadData?ReportYear=2023",
     "https://cde.state.mn.us/DownloadData/ArrestsAdultJuvenileGroupAByAgeRaceDownloadData?ReportYear=2024",
+    "https://cde.state.mn.us/DownloadData/ArrestsAdultJuvenileGroupAByAgeRaceDownloadData?ReportYear=2025",
     "https://cde.state.mn.us/DownloadData/ArrestsGroupBByAgeSexDownloadData?ReportYear=2021",
     "https://cde.state.mn.us/DownloadData/ArrestsGroupBByAgeSexDownloadData?ReportYear=2022",
     "https://cde.state.mn.us/DownloadData/ArrestsGroupBByAgeSexDownloadData?ReportYear=2023",
@@ -996,26 +1001,23 @@ filter_actual(file_paths)
 
 library(httr)
 library(jsonlite)
-library(dplyr)
-library(tidyr)
-library(purrr)
-library(stringr)
+library(tidyverse)
 
-# Define the function
-get_crime_data <- function(city_name, ori, output_folder, api_key) {
-  # Normalize city name for file naming
-  file_city <- str_to_lower(str_replace_all(city_name, "\\s+", "_"))
+fetch_crime_data <- function(city_name, ori, output_folder, api_key,
+                             year_start = 1985, year_end = 2023) {
+  # Valid offense names for summarized endpoint
+  offenses <- c(
+    "homicide",
+    "rape",
+    "robbery",
+    "aggravated-assault",
+    "burglary",
+    "larceny",
+    "arson",
+    "motor-vehicle-theft"
+  )
 
-  # Offense codes according to FBI API
-  violent_crimes <- c("HOM", "RPE", "ROB", "ASS")
-  property_crimes <- c("BUR", "LAR", "ARS", "MVT")
-  all_crimes <- c(violent_crimes, property_crimes)
-
-  # Year range
-  year_start <- 1985
-  year_end <- 2023
-
-  # Define function to get data for a single offense
+  # Helper function to fetch each offense
   get_offense_data <- function(offense) {
     url <- sprintf(
       "https://api.usa.gov/crime/fbi/cde/summarized/agency/%s/%s?from=01-%d&to=12-%d&API_KEY=%s",
@@ -1025,9 +1027,15 @@ get_crime_data <- function(city_name, ori, output_folder, api_key) {
     tryCatch({
       res <- GET(url)
       stop_for_status(res)
+      parsed <- content(res, as = "parsed", simplifyVector = TRUE)
+      results <- parsed$results
 
-      content(res, as = "parsed", simplifyVector = TRUE)$results %>%
-        as_tibble() %>%
+      if (is.null(results) || length(results) == 0) {
+        warning(sprintf("⚠️ No data for offense '%s'", offense))
+        return(NULL)
+      }
+
+      as_tibble(results) %>%
         transmute(
           year = as.integer(data_year),
           offense = offense,
@@ -1039,33 +1047,33 @@ get_crime_data <- function(city_name, ori, output_folder, api_key) {
     })
   }
 
-  # Pull and combine all offenses
-  crime_data_long <- map_df(all_crimes, get_offense_data)
+  # Fetch all offenses
+  all_data <- map_dfr(offenses, get_offense_data)
 
-  # Pivot to wide format
-  crime_data_wide <- crime_data_long %>%
-    pivot_wider(names_from = offense, values_from = count)
-
-  # Make sure output folder exists
-  if (!dir.exists(output_folder)) {
-    dir.create(output_folder, recursive = TRUE)
+  if (nrow(all_data) == 0) {
+    warning("🚫 No valid data was retrieved.")
+    return(invisible(NULL))
   }
 
-  # Write CSV
-  output_path <- file.path(output_folder, sprintf("%s_crime_1985_2023.csv", file_city))
-  write.csv(crime_data_wide, output_path, row.names = FALSE)
+  # Pivot to wide format for CSV
+  wide <- all_data %>%
+    pivot_wider(names_from = offense, values_from = count)
 
-  message("✅ Data saved to: ", output_path)
-  return(crime_data_wide)
+  # Write to file
+  file_city <- tolower(gsub("\\s+", "_", city_name))
+  file_path <- file.path(output_folder, paste0(file_city, "_", ori, "_crime_",
+                                               year_start, "_", year_end, ".csv"))
+  write_csv(wide, file_path)
+
+  message("✅ CSV saved to: ", file_path)
+  return(wide)
 }
 
-
-get_crime_data(
+data <- fetch_crime_data(
   city_name = "Minneapolis",
   ori = "MN0271100",
-  output_folder = "~/Desktop/crime_data",
+  output_folder = "/Users/yourname/Desktop",
   api_key = "4gOAVzldpoBuKhfX08nJ478jUzhLKpF8aUBbduhQ"
 )
-
 
 ```
