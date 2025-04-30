@@ -136,22 +136,22 @@
   <div class="chart-container">
     <canvas id="aytdChart"></canvas>
   </div>
-  <div class="download"><a href="../../store/burglary/burglary_ytd_comparison.csv">Download Minneapolis burglaries year-to-date data</a></div> 
+  <div class="download"><a href="../store/burglary/burglary_ytd_comparison.csv">Download Minneapolis burglaries year-to-date data</a></div> 
   
   <p>&nbsp;</p>
   <h4>Monthly burglary trend</h4>
   <div class="chart-container">
     <canvas id="amonthlyChart"></canvas>
   </div>
-  <div class="download"><a href="../../store/burglary/burglary_monthly_comparison.csv">Download Minneapolis burglaries by month data</a></div>
+  <div class="download"><a href="../store/burglary/burglary_monthly_comparison.csv">Download Minneapolis burglaries by month data</a></div>
   
   <p>&nbsp;</p>
   <h4>Yearly burglary trend</h4>
   <div class="chart-container">
     <canvas id="ayearlyChart"></canvas>
   </div>
-  <div class="download"><a href="../../store/burglary/burglary_yearly_incident_counts.csv">Download Minneapolis burglaries by year data</a></div>
-  <div class="download"><a href="../../store/burglary/burglary_historical.csv">Download historical Minneapolis SRS burglaries data 1985-2022 (includes clearances)</a></div>
+  <div class="download"><a href="../store/burglary/burglary_yearly_incident_counts.csv">Download Minneapolis burglaries by year data</a></div>
+  <div class="download"><a href="../store/burglary/burglary_historical.csv">Download historical Minneapolis SRS burglaries data 1985-2022 (includes clearances)</a></div>
   
   
   <p>&nbsp;</p>
@@ -159,13 +159,13 @@
   <div class="chart-container">
     <canvas id="aprecinctChart"></canvas>
   </div>
-  <div class="download"><a href="../../store/burglary/burglary_precinct.csv">Download Minneapolis burglaries by police precinct data</a></div>
+  <div class="download"><a href="../store/burglary/burglary_precinct.csv">Download Minneapolis burglaries by police precinct data</a></div>
   
   <p>&nbsp;</p>
   <h4>Burglaries by neighborhood</h4>
   <p>Click a map to expand.</p>
   <div class="map-container">
-    {#each ['../../store/burglary/burglary_map_2019.svg', '../../store/burglary/burglary_map_2020.svg', '../../store/burglary/burglary_map_2021.svg', '../../store/burglary/burglary_map_2022.svg', '../../store/burglary/burglary_map_2023.svg', '../../store/burglary/burglary_map_2024.svg', '../../store/burglary/burglary_map_2025.svg'] as image}
+    {#each ['../store/burglary/burglary_map_2019.svg', '../store/burglary/burglary_map_2020.svg', '../store/burglary/burglary_map_2021.svg', '../store/burglary/burglary_map_2022.svg', '../store/burglary/burglary_map_2023.svg', '../store/burglary/burglary_map_2024.svg', '../store/burglary/burglary_map_2025.svg'] as image}
       <img src={image} alt={`burglary Map ${image.slice(-8, -4)}`} on:click={() => openLightbox(image)}>
     {/each}
   </div>
@@ -175,9 +175,9 @@
       <img src={$activeImage} alt="Expanded Image">
     </div>
   {/if}
-  <div class="download"><a href="../../store/burglary/burglary_geo.csv">Download Minneapolis burglaries by neighborhood data</a></div>
-  <div class="download"><a href="../../store/burglary/burglary_neighborhoods.geojson">Download Minneapolis burglaries by neighborhood GEOJSON</a></div>
-  <div class="download"><a href="../../store/burglary/burglary_raw.csv">Download Minneapolis burglaries raw CSV file (includes incident coordinates)</a></div>
+  <div class="download"><a href="../store/burglary/burglary_geo.csv">Download Minneapolis burglaries by neighborhood data</a></div>
+  <div class="download"><a href="../store/burglary/burglary_neighborhoods.geojson">Download Minneapolis burglaries by neighborhood GEOJSON</a></div>
+  <div class="download"><a href="../store/burglary/burglary_raw.csv">Download Minneapolis burglaries raw CSV file (includes incident coordinates)</a></div>
   
   <h4>Links</h4>
   <ul>

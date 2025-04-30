@@ -66,8 +66,8 @@
 <div class="chart-container">
     <canvas id="mnhomicideChart"></canvas>
   </div>
-  <div class="download"><a href="../../store/mn/mn_homicides.csv">Download Minnesota homicide rate data</a></div>
-  <div class="download"><a href="../../store/mn/MNSHR65_22.csv.zip">Download Minnesota FBI Supplementary Homicide Report, 1976-2022</a></div>
+  <div class="download"><a href="../store/mn/mn_homicides.csv">Download Minnesota homicide rate data</a></div>
+  <div class="download"><a href="../store/mn/MNSHR65_22.csv.zip">Download Minnesota FBI Supplementary Homicide Report, 1976-2022</a></div>
 
 <p>&nbsp;</p>
 
@@ -75,7 +75,7 @@
 <div class="chart-container">
     <canvas id="mnviolentCrimeChart"></canvas>
   </div>
-  <div class="download"><a href="../../store/mn/mn_violence.csv">Download Minnesota violence rate data</a></div>
+  <div class="download"><a href="../store/mn/mn_violence.csv">Download Minnesota violence rate data</a></div>
 
 <p>&nbsp;</p>
 
@@ -83,7 +83,7 @@
 <div class="chart-container">
     <canvas id="mnpropertyChart"></canvas>
   </div>
-<div class="download"><a href="../../store/mn/mn_property.csv">Download Minnesota property crime rate data</a></div>
+<div class="download"><a href="../store/mn/mn_property.csv">Download Minnesota property crime rate data</a></div>
 
 <h4>Links</h4>
 <ul>

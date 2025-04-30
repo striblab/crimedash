@@ -8,14 +8,14 @@
 
 <p>Use-of-force data in Minneapolis and Minnesota got really sketchy and mostly unusable after 2020. New systems for tracking police force-use are under development, and this section will be updated as those efforts evolve.</p>
 
-<div class="download"><a href="../../store/force/minneapolis_force.csv">Download Minneapolis police legacy force-use data 2008-2021</a></div>
+<div class="download"><a href="../store/force/minneapolis_force.csv">Download Minneapolis police legacy force-use data 2008-2021</a></div>
 
 <p>&nbsp;</p>
 
 <p>Police-involved shootings are not included in force-use data, they are available separately.</p>
 
-<div class="download"><a href="../../store/force/mpd_shootings.csv">Download Minneapolis police-involved shootings CSV, 2008-present</a></div>
-<div class="download"><a href="../../store/force/mpd_shootings.geojson">Download Minneapolis police-involved shootings GEOJSON, 2008-present</a></div>
+<div class="download"><a href="../store/force/mpd_shootings.csv">Download Minneapolis police-involved shootings CSV, 2008-present</a></div>
+<div class="download"><a href="../store/force/mpd_shootings.geojson">Download Minneapolis police-involved shootings GEOJSON, 2008-present</a></div>
 
 <p>&nbsp;</p>
 

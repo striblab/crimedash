@@ -8,7 +8,7 @@
 
 <p>MPD misconduct complaints are overseen by the Office of Police Conduct Review (OPCR). Its data is complex and lacks transparency. The city does keep a public database of MPD misconduct payouts.</p>
 
-<div class="download"><a href="../../store/conduct/mpd_misconduct.csv">Download Minneapolis misconduct payout data, 1998-2023</a></div>
+<div class="download"><a href="../store/conduct/mpd_misconduct.csv">Download Minneapolis misconduct payout data, 1998-2023</a></div>
 
 <h4>Links</h4>
 <ul>

@@ -103,27 +103,27 @@
 <div class="chart-container">
   <canvas id="ytdChart"></canvas>
 </div>
-<div class="download"><a href="../../store/manslaughter/manslaughter_ytd_comparison.csv">Download Minneapolis manslaughters year-to-date data</a></div> 
+<div class="download"><a href="../store/manslaughter/manslaughter_ytd_comparison.csv">Download Minneapolis manslaughters year-to-date data</a></div> 
 
 <p>&nbsp;</p>
 <h4>Monthly monthly trend</h4>
 <div class="chart-container">
   <canvas id="monthlyChart"></canvas>
 </div>
-<div class="download"><a href="../../store/manslaughter/manslaughter_monthly_comparison.csv">Download Minneapolis manslaughters by month data</a></div>
+<div class="download"><a href="../store/manslaughter/manslaughter_monthly_comparison.csv">Download Minneapolis manslaughters by month data</a></div>
 
 <p>&nbsp;</p>
 <h4>Yearly manslaughter trend</h4>
 <div class="chart-container">
   <canvas id="yearlyChart"></canvas>
 </div>
-<div class="download"><a href="../../store/manslaughter/manslaughter_yearly_incident_counts.csv">Download Minneapolis manslaughters by year data</a></div>
+<div class="download"><a href="../store/manslaughter/manslaughter_yearly_incident_counts.csv">Download Minneapolis manslaughters by year data</a></div>
 
 <p>&nbsp;</p>
 <h4>Manslaughters by neighborhood</h4>
 <p>Click a map to expand.</p>
 <div class="map-container">
-  {#each ['../../store/manslaughter/manslaughter_map_2019.svg', '../../store/manslaughter/manslaughter_map_2020.svg', '../../store/manslaughter/manslaughter_map_2021.svg', '../../store/manslaughter/manslaughter_map_2022.svg', '../../store/manslaughter/manslaughter_map_2023.svg', '../../store/manslaughter/manslaughter_map_2024.svg', '../../store/manslaughter/manslaughter_map_2025.svg'] as image}
+  {#each ['../store/manslaughter/manslaughter_map_2019.svg', '../store/manslaughter/manslaughter_map_2020.svg', '../store/manslaughter/manslaughter_map_2021.svg', '../store/manslaughter/manslaughter_map_2022.svg', '../store/manslaughter/manslaughter_map_2023.svg', '../store/manslaughter/manslaughter_map_2024.svg', '../store/manslaughter/manslaughter_map_2025.svg'] as image}
     <img src={image} alt={`manslaughter Map ${image.slice(-8, -4)}`} on:click={() => openLightbox(image)}>
   {/each}
 </div>
@@ -133,9 +133,9 @@
     <img src={$activeImage} alt="Expanded Image">
   </div>
 {/if}
-<div class="download"><a href="../../store/manslaughter/manslaughter_geo.csv">Download Minneapolis manslaughters by neighborhood data</a></div>
-<div class="download"><a href="../../store/manslaughter/manslaughter_neighborhoods.geojson">Download Minneapolis manslaughters by neighborhood GEOJSON</a></div>
-<div class="download"><a href="../../store/manslaughter/manslaughter_raw.csv">Download Minneapolis manslaughters raw CSV file (includes incident coordinates)</a></div>
+<div class="download"><a href="../store/manslaughter/manslaughter_geo.csv">Download Minneapolis manslaughters by neighborhood data</a></div>
+<div class="download"><a href="../store/manslaughter/manslaughter_neighborhoods.geojson">Download Minneapolis manslaughters by neighborhood GEOJSON</a></div>
+<div class="download"><a href="../store/manslaughter/manslaughter_raw.csv">Download Minneapolis manslaughters raw CSV file (includes incident coordinates)</a></div>
 
 <p>&nbsp;</p>
 <h4>Links</h4>

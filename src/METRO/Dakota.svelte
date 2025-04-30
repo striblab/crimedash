@@ -25,8 +25,8 @@
 
 <div>&nbsp;</div>
 
-<div class="download"><a href="../../store/subd/NIBRS_Dakota_actual.csv">Download Dakota County NIBRS offenses, 2021-present</a></div>
-<div class="download"><a href="../../store/subd/NIBRS_Dakota.csv">Download Dakota County NIBRS offenses, rates and clearances, 2021-present</a></div>
+<div class="download"><a href="../store/subd/NIBRS_Dakota_actual.csv">Download Dakota County NIBRS offenses, 2021-present</a></div>
+<div class="download"><a href="../store/subd/NIBRS_Dakota.csv">Download Dakota County NIBRS offenses, rates and clearances, 2021-present</a></div>
 
 <h4>Links</h4>
 <ul>

@@ -138,22 +138,22 @@
   <div class="chart-container">
     <canvas id="aytdChart"></canvas>
   </div>
-  <div class="download"><a href="../../store/autotheft/autotheft_ytd_comparison.csv">Download Minneapolis auto thefts year-to-date data</a></div> 
+  <div class="download"><a href="../store/autotheft/autotheft_ytd_comparison.csv">Download Minneapolis auto thefts year-to-date data</a></div> 
   
   <p>&nbsp;</p>
   <h4>Monthly auto thefts trend</h4>
   <div class="chart-container">
     <canvas id="amonthlyChart"></canvas>
   </div>
-  <div class="download"><a href="../../store/autotheft/autotheft_monthly_comparison.csv">Download Minneapolis auto thefts by month data</a></div>
+  <div class="download"><a href="../store/autotheft/autotheft_monthly_comparison.csv">Download Minneapolis auto thefts by month data</a></div>
   
   <p>&nbsp;</p>
   <h4>Yearly auto thefts trend</h4>
   <div class="chart-container">
     <canvas id="ayearlyChart"></canvas>
   </div>
-  <div class="download"><a href="../../store/autotheft/autotheft_yearly_incident_counts.csv">Download Minneapolis auto thefts by year data</a></div>
-  <div class="download"><a href="../../store/autotheft/autotheft_historical.csv">Download historical Minneapolis SRS auto thefts data 1985-2022 (includes clearances)</a></div>
+  <div class="download"><a href="../store/autotheft/autotheft_yearly_incident_counts.csv">Download Minneapolis auto thefts by year data</a></div>
+  <div class="download"><a href="../store/autotheft/autotheft_historical.csv">Download historical Minneapolis SRS auto thefts data 1985-2022 (includes clearances)</a></div>
   
   
   <p>&nbsp;</p>
@@ -161,13 +161,13 @@
   <div class="chart-container">
     <canvas id="aprecinctChart"></canvas>
   </div>
-  <div class="download"><a href="../../store/autotheft/autotheft_precinct.csv">Download Minneapolis auto thefts by police precinct data</a></div>
+  <div class="download"><a href="../store/autotheft/autotheft_precinct.csv">Download Minneapolis auto thefts by police precinct data</a></div>
   
   <p>&nbsp;</p>
   <h4>Auto thefts by neighborhood</h4>
   <p>Click a map to expand.</p>
   <div class="map-container">
-    {#each ['../../store/autotheft/autotheft_map_2019.svg', '../../store/autotheft/autotheft_map_2020.svg', '../../store/autotheft/autotheft_map_2021.svg', '../../store/autotheft/autotheft_map_2022.svg', '../../store/autotheft/autotheft_map_2023.svg', '../../store/autotheft/autotheft_map_2024.svg', '../../store/autotheft/autotheft_map_2025.svg'] as image}
+    {#each ['../store/autotheft/autotheft_map_2019.svg', '../store/autotheft/autotheft_map_2020.svg', '../store/autotheft/autotheft_map_2021.svg', '../store/autotheft/autotheft_map_2022.svg', '../store/autotheft/autotheft_map_2023.svg', '../store/autotheft/autotheft_map_2024.svg', '../store/autotheft/autotheft_map_2025.svg'] as image}
       <img src={image} alt={`autotheft Map ${image.slice(-8, -4)}`} on:click={() => openLightbox(image)}>
     {/each}
   </div>
@@ -177,9 +177,9 @@
       <img src={$activeImage} alt="Expanded Image">
     </div>
   {/if}
-  <div class="download"><a href="../../store/autotheft/autotheft_geo.csv">Download Minneapolis auto thefts by neighborhood data</a></div>
-  <div class="download"><a href="../../store/autotheft/autotheft_neighborhoods.geojson">Download Minneapolis auto thefts by neighborhood GEOJSON</a></div>
-  <div class="download"><a href="../../store/autotheft/autotheft_raw.csv">Download Minneapolis auto thefts raw CSV file (includes incident coordinates)</a></div>
+  <div class="download"><a href="../store/autotheft/autotheft_geo.csv">Download Minneapolis auto thefts by neighborhood data</a></div>
+  <div class="download"><a href="../store/autotheft/autotheft_neighborhoods.geojson">Download Minneapolis auto thefts by neighborhood GEOJSON</a></div>
+  <div class="download"><a href="../store/autotheft/autotheft_raw.csv">Download Minneapolis auto thefts raw CSV file (includes incident coordinates)</a></div>
   
   <h4>Links</h4>
   <ul>

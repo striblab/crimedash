@@ -135,35 +135,35 @@
   <div class="chart-container">
     <canvas id="vytdChart"></canvas>
   </div>
-  <div class="download"><a href="../../store/shotvictims/shotvictims_ytd_comparison.csv">Download Minneapolis shooting victims year-to-date data</a></div> 
+  <div class="download"><a href="../store/shotvictims/shotvictims_ytd_comparison.csv">Download Minneapolis shooting victims year-to-date data</a></div> 
   
   <p>&nbsp;</p>
   <h4>Monthly shooting victims trend</h4>
   <div class="chart-container">
     <canvas id="vmonthlyChart"></canvas>
   </div>
-  <div class="download"><a href="../../store/shotvictims/shotvictims_monthly_comparison.csv">Download Minneapolis shooting victims by month data</a></div>
+  <div class="download"><a href="../store/shotvictims/shotvictims_monthly_comparison.csv">Download Minneapolis shooting victims by month data</a></div>
   
   <p>&nbsp;</p>
   <h4>Yearly shooting victims trend</h4>
   <div class="chart-container">
     <canvas id="vyearlyChart"></canvas>
   </div>
-  <div class="download"><a href="../../store/shotvictims/mpls_victims.csv">Download historical Minneapolis shooting victims data, 2008-present</a></div>
-  <div class="download"><a href="../../store/shotvictims/gva_mn.zip">Download Gun Violence Archive Minnesota shooting victims data, 2014-2023</a></div>
+  <div class="download"><a href="../store/shotvictims/mpls_victims.csv">Download historical Minneapolis shooting victims data, 2008-present</a></div>
+  <div class="download"><a href="../store/shotvictims/gva_mn.zip">Download Gun Violence Archive Minnesota shooting victims data, 2014-2023</a></div>
   
   <p>&nbsp;</p>
   <h4>Shooting victims by police precinct</h4>
   <div class="chart-container">
     <canvas id="vprecinctChart"></canvas>
   </div>
-  <div class="download"><a href="../../store/shotvictims/shotvictims_precinct.csv">Download Minneapolis shooting victims by police precinct data</a></div>
+  <div class="download"><a href="../store/shotvictims/shotvictims_precinct.csv">Download Minneapolis shooting victims by police precinct data</a></div>
   
   <p>&nbsp;</p>
   <h4>Shooting victims by neighborhood</h4>
   <p>Click a map to expand.</p>
   <div class="map-container">
-    {#each ['../../store/shotvictims/shotvictims_map_2019.svg', '../../store/shotvictims/shotvictims_map_2020.svg', '../../store/shotvictims/shotvictims_map_2021.svg', '../../store/shotvictims/shotvictims_map_2022.svg', '../../store/shotvictims/shotvictims_map_2023.svg', '../../store/shotvictims/shotvictims_map_2024.svg', '../../store/shotvictims/shotvictims_map_2025.svg'] as image}
+    {#each ['../store/shotvictims/shotvictims_map_2019.svg', '../store/shotvictims/shotvictims_map_2020.svg', '../store/shotvictims/shotvictims_map_2021.svg', '../store/shotvictims/shotvictims_map_2022.svg', '../store/shotvictims/shotvictims_map_2023.svg', '../store/shotvictims/shotvictims_map_2024.svg', '../store/shotvictims/shotvictims_map_2025.svg'] as image}
       <img src={image} alt={`shotvictims Map ${image.slice(-8, -4)}`} on:click={() => openLightbox(image)}>
     {/each}
   </div>
@@ -173,9 +173,9 @@
       <img src={$activeImage} alt="Expanded Image">
     </div>
   {/if}
-  <div class="download"><a href="../../store/shotvictims/shotvictims_geo.csv">Download Minneapolis shooting victims by neighborhood data</a></div>
-  <div class="download"><a href="../../store/shotvictims/shotvictims_neighborhoods.geojson">Download Minneapolis shooting victims by neighborhood GEOJSON</a></div>
-  <div class="download"><a href="../../store/shotvictims/shotvictims_raw.csv">Download Minneapolis shooting victims raw CSV file (includes incident coordinates)</a></div>
+  <div class="download"><a href="../store/shotvictims/shotvictims_geo.csv">Download Minneapolis shooting victims by neighborhood data</a></div>
+  <div class="download"><a href="../store/shotvictims/shotvictims_neighborhoods.geojson">Download Minneapolis shooting victims by neighborhood GEOJSON</a></div>
+  <div class="download"><a href="../store/shotvictims/shotvictims_raw.csv">Download Minneapolis shooting victims raw CSV file (includes incident coordinates)</a></div>
   
   <p>&nbsp;</p>
 <h4>Links</h4>

@@ -53,7 +53,7 @@
   <div class="chart-container">
     <canvas id="umpdViolentChart"></canvas>
   </div>
-  <div class="download"><a href="../../store/umpd/umpd_violent_historical.csv">Download UMPD 1985-2022 violent crimes data (includes clearances)</a></div>
+  <div class="download"><a href="../store/umpd/umpd_violent_historical.csv">Download UMPD 1985-2022 violent crimes data (includes clearances)</a></div>
 
   <p>&nbsp;</p>
 
@@ -62,7 +62,7 @@
   <div class="chart-container">
     <canvas id="umpdPropertyChart"></canvas>
   </div>
-  <div class="download"><a href="../../store/umpd/umpd_property_historical.csv">Download UMPD 1985-2022 property crimes data (includes clearances)</a></div>
+  <div class="download"><a href="../store/umpd/umpd_property_historical.csv">Download UMPD 1985-2022 property crimes data (includes clearances)</a></div>
   
   
   

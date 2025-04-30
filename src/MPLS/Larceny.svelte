@@ -157,22 +157,22 @@
   <div class="chart-container">
     <canvas id="lytdChart"></canvas>
   </div>
-  <div class="download"><a href="../../store/larceny/larceny_ytd_comparison.csv">Download Minneapolis larcenies year-to-date data</a></div> 
+  <div class="download"><a href="../store/larceny/larceny_ytd_comparison.csv">Download Minneapolis larcenies year-to-date data</a></div> 
   
   <p>&nbsp;</p>
   <h4>Monthly larceny trend</h4>
   <div class="chart-container">
     <canvas id="lmonthlyChart"></canvas>
   </div>
-  <div class="download"><a href="../../store/larceny/larceny_monthly_comparison.csv">Download Minneapolis larcenies by month data</a></div>
+  <div class="download"><a href="../store/larceny/larceny_monthly_comparison.csv">Download Minneapolis larcenies by month data</a></div>
   
   <p>&nbsp;</p>
   <h4>Yearly larceny trend</h4>
   <div class="chart-container">
     <canvas id="lyearlyChart"></canvas>
   </div>
-  <div class="download"><a href="../../store/larceny/larceny_yearly_incident_counts.csv">Download Minneapolis larcenies by year data</a></div>
-  <div class="download"><a href="../../store/larceny/larceny_historical.csv">Download historical Minneapolis SRS larcenies data 1985-2022 (includes clearances)</a></div>
+  <div class="download"><a href="../store/larceny/larceny_yearly_incident_counts.csv">Download Minneapolis larcenies by year data</a></div>
+  <div class="download"><a href="../store/larceny/larceny_historical.csv">Download historical Minneapolis SRS larcenies data 1985-2022 (includes clearances)</a></div>
   
   
   <p>&nbsp;</p>
@@ -180,13 +180,13 @@
   <div class="chart-container">
     <canvas id="lprecinctChart"></canvas>
   </div>
-  <div class="download"><a href="../../store/larceny/larceny_precinct.csv">Download Minneapolis larcenies by police precinct data</a></div>
+  <div class="download"><a href="../store/larceny/larceny_precinct.csv">Download Minneapolis larcenies by police precinct data</a></div>
   
   <p>&nbsp;</p>
   <h4>Larcenies by neighborhood</h4>
   <p>Click a map to expand.</p>
   <div class="map-container">
-    {#each ['../../store/larceny/larceny_map_2019.svg', '../../store/larceny/larceny_map_2020.svg', '../../store/larceny/larceny_map_2021.svg', '../../store/larceny/larceny_map_2022.svg', '../../store/larceny/larceny_map_2023.svg', '../../store/larceny/larceny_map_2024.svg', '../../store/larceny/larceny_map_2025.svg'] as image}
+    {#each ['../store/larceny/larceny_map_2019.svg', '../store/larceny/larceny_map_2020.svg', '../store/larceny/larceny_map_2021.svg', '../store/larceny/larceny_map_2022.svg', '../store/larceny/larceny_map_2023.svg', '../store/larceny/larceny_map_2024.svg', '../store/larceny/larceny_map_2025.svg'] as image}
       <img src={image} alt={`larceny Map ${image.slice(-8, -4)}`} on:click={() => openLightbox(image)}>
     {/each}
   </div>
@@ -196,9 +196,9 @@
       <img src={$activeImage} alt="Expanded Image">
     </div>
   {/if}
-  <div class="download"><a href="../../store/larceny/larceny_geo.csv">Download Minneapolis larcenies by neighborhood data</a></div>
-  <div class="download"><a href="../../store/larceny/larceny_neighborhoods.geojson">Download Minneapolis larcenies by neighborhood GEOJSON</a></div>
-  <div class="download"><a href="../../store/larceny/larceny_raw.csv">Download Minneapolis larcenies raw CSV file (includes incident coordinates)</a></div>
+  <div class="download"><a href="../store/larceny/larceny_geo.csv">Download Minneapolis larcenies by neighborhood data</a></div>
+  <div class="download"><a href="../store/larceny/larceny_neighborhoods.geojson">Download Minneapolis larcenies by neighborhood GEOJSON</a></div>
+  <div class="download"><a href="../store/larceny/larceny_raw.csv">Download Minneapolis larcenies raw CSV file (includes incident coordinates)</a></div>
   
   <h4>Links</h4>
   <ul>

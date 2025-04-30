@@ -37,7 +37,7 @@
 <h4>Precinct map</h4>
 
 <div class="map-container">
-  {#each ['../../store/precincts/precincts.jpeg'] as image}
+  {#each ['../store/precincts/precincts.jpeg'] as image}
     <img src={image} alt={`gunfire Map ${image.slice(-8, -4)}`} on:click={() => openLightbox(image)}>
   {/each}
 </div>
@@ -50,9 +50,9 @@
 
 <p>&nbsp;</p>
 
-<div class="download"><a href="../../store/precincts/mpls_precincts.geojson">Download Minneapolis police precincts GEOJSON shapefile</a></div>
-<div class="download"><a href="../../store/precincts/mpls_communities.geojson">Download Minneapolis communities GEOJSON shapefile</a></div>
-<div class="download"><a href="../../store/precincts/mpls_neighborhoods.geojson">Download Minneapolis neighborhoods GEOJSON shapefile</a></div>
+<div class="download"><a href="../store/precincts/mpls_precincts.geojson">Download Minneapolis police precincts GEOJSON shapefile</a></div>
+<div class="download"><a href="../store/precincts/mpls_communities.geojson">Download Minneapolis communities GEOJSON shapefile</a></div>
+<div class="download"><a href="../store/precincts/mpls_neighborhoods.geojson">Download Minneapolis neighborhoods GEOJSON shapefile</a></div>
 
 
 

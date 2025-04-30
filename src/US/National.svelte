@@ -56,8 +56,8 @@
 <div class="chart-container">
     <canvas id="ushomicideChart"></canvas>
   </div>
-  <div class="download"><a href="../../store/national/fbi_national_homicide_rate.csv">Download national homicide rate data</a></div>
-  <div class="download"><a href="../../store/national/SHR65_23.csv.zip">Download national FBI Supplementary Homicide Report, 1965-2023</a></div>
+  <div class="download"><a href="../store/national/fbi_national_homicide_rate.csv">Download national homicide rate data</a></div>
+  <div class="download"><a href="../store/national/SHR65_23.csv.zip">Download national FBI Supplementary Homicide Report, 1965-2023</a></div>
 
 <p>&nbsp;</p>
 
@@ -65,7 +65,7 @@
 <div class="chart-container">
     <canvas id="usClearanceChart"></canvas>
   </div>
-  <div class="download"><a href="../../store/national/us_clearance.csv">Download national homicide clearance rate data</a></div>
+  <div class="download"><a href="../store/national/us_clearance.csv">Download national homicide clearance rate data</a></div>
 
 <p>&nbsp;</p>
 
@@ -73,7 +73,7 @@
 <div class="chart-container">
     <canvas id="usviolentCrimeChart"></canvas>
   </div>
-<div class="download"><a href="../../store/national/fbi_national_violence_rate.csv">Download national violence rate data</a></div>
+<div class="download"><a href="../store/national/fbi_national_violence_rate.csv">Download national violence rate data</a></div>
 
 <p>&nbsp;</p>
 

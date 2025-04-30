@@ -22,8 +22,8 @@
 
 <div>&nbsp;</div>
 
-<div class="download"><a href="../../store/subw/NIBRS_Washington_actual.csv">Download Washington County NIBRS offenses, 2021-present</a></div>
-<div class="download"><a href="../../store/subw/NIBRS_Washington.csv">Download Washington County NIBRS offenses, rates and clearances, 2021-present</a></div>
+<div class="download"><a href="../store/subw/NIBRS_Washington_actual.csv">Download Washington County NIBRS offenses, 2021-present</a></div>
+<div class="download"><a href="../store/subw/NIBRS_Washington.csv">Download Washington County NIBRS offenses, rates and clearances, 2021-present</a></div>
 
 <h4>Links</h4>
 <ul>

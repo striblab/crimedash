@@ -55,7 +55,7 @@
 <div class="chart-container">
   <canvas id="apdViolentChart"></canvas>
 </div>
-<div class="download"><a href="../../store/msp/apd_violent.csv">Download APD 1985-2022 violent crimes data (includes clearances)</a></div>
+<div class="download"><a href="../store/msp/apd_violent.csv">Download APD 1985-2022 violent crimes data (includes clearances)</a></div>
 
 <p>&nbsp;</p>
 
@@ -63,7 +63,7 @@
 <div class="chart-container">
   <canvas id="apdPropertyChart"></canvas>
 </div>
-<div class="download"><a href="../../store/msp/apd_property.csv">Download APD 1985-2022 property crimes data (includes clearances)</a></div>
+<div class="download"><a href="../store/msp/apd_property.csv">Download APD 1985-2022 property crimes data (includes clearances)</a></div>
 
 <p>&nbsp;</p>
 

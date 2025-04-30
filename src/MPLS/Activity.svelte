@@ -94,17 +94,17 @@
 <div class="chart-container">
     <canvas id="dispatchChart"></canvas>
   </div>
-<div class="download"><a href="../../store/activity/mpd_activity.csv">Download Minneapolis police daily dispatch rolling averages, 2019-2022</a></div>
-<div class="download"><a href="../../store/activity/mpd_2019.zip">Download Minneapolis police dispatch data, 2019</a></div>
-<div class="download"><a href="../../store/activity/mpd_2020.zip">Download Minneapolis police dispatch data, 2020</a></div>
-<div class="download"><a href="../../store/activity/mpd_2021.zip">Download Minneapolis police dispatch data, 2021</a></div>
-<div class="download"><a href="../../store/activity/mpd_2022_a.zip">Download Minneapolis police dispatch data, Q1 2022</a></div>
-<div class="download"><a href="../../store/activity/mpd_2022_b.zip">Download Minneapolis police dispatch data, Q2 2022</a></div>
-<div class="download"><a href="../../store/activity/mpd_2022_c.zip">Download Minneapolis police dispatch data, Q3 2022</a></div>
-<div class="download"><a href="../../store/activity/mpd_2022_d.zip">Download Minneapolis police dispatch data, Q4 2022</a></div>
-<div class="download"><a href="../../store/activity/mpd_2023_a.zip">Download Minneapolis police dispatch data, Jan-Jun 2023</a></div>
-<div class="download"><a href="../../store/activity/mpd_2023_b.zip">Download Minneapolis police dispatch data, July-Dec 2023</a></div>
-<div class="download"><a href="../../store/activity/mpd_2024_a.zip">Download Minneapolis police dispatch data, Jan-Jun 2024</a></div>
+<div class="download"><a href="../store/activity/mpd_activity.csv">Download Minneapolis police daily dispatch rolling averages, 2019-2022</a></div>
+<div class="download"><a href="../store/activity/mpd_2019.zip">Download Minneapolis police dispatch data, 2019</a></div>
+<div class="download"><a href="../store/activity/mpd_2020.zip">Download Minneapolis police dispatch data, 2020</a></div>
+<div class="download"><a href="../store/activity/mpd_2021.zip">Download Minneapolis police dispatch data, 2021</a></div>
+<div class="download"><a href="../store/activity/mpd_2022_a.zip">Download Minneapolis police dispatch data, Q1 2022</a></div>
+<div class="download"><a href="../store/activity/mpd_2022_b.zip">Download Minneapolis police dispatch data, Q2 2022</a></div>
+<div class="download"><a href="../store/activity/mpd_2022_c.zip">Download Minneapolis police dispatch data, Q3 2022</a></div>
+<div class="download"><a href="../store/activity/mpd_2022_d.zip">Download Minneapolis police dispatch data, Q4 2022</a></div>
+<div class="download"><a href="../store/activity/mpd_2023_a.zip">Download Minneapolis police dispatch data, Jan-Jun 2023</a></div>
+<div class="download"><a href="../store/activity/mpd_2023_b.zip">Download Minneapolis police dispatch data, July-Dec 2023</a></div>
+<div class="download"><a href="../store/activity/mpd_2024_a.zip">Download Minneapolis police dispatch data, Jan-Jun 2024</a></div>
 <p>&nbsp;</p>
 
 <p>Minneapolis police have also gradually reduced their number of traffic stops in recent years.</p>
@@ -113,8 +113,8 @@
     <canvas id="stopsChart"></canvas>
   </div>
   
-<div class="download"><a href="../../store/activity/Police_Stop_Data.csv">Download Minneapolis police stops data, 2017-present</a></div>
-<div class="download"><a href="../../store/activity/stops_average.csv">Download Minneapolis police stops daily rolling averages, 2017-present</a></div>
+<div class="download"><a href="../store/activity/Police_Stop_Data.csv">Download Minneapolis police stops data, 2017-present</a></div>
+<div class="download"><a href="../store/activity/stops_average.csv">Download Minneapolis police stops daily rolling averages, 2017-present</a></div>
 
 <h4>Links</h4>
 <ul>

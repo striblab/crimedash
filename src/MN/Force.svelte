@@ -8,18 +8,18 @@
 
 <p>In Minnesota, police have killed at least 235 people since 2000.</p>
 
-<div class="download"><a href="../../store/force/mn_fatal_encounters.csv">Download Minnesota fatal police encounters since 2000 data</a></div>
+<div class="download"><a href="../store/force/mn_fatal_encounters.csv">Download Minnesota fatal police encounters since 2000 data</a></div>
 
 <p>&nbsp;</p>
 
 <p>The BCA tracks force-use by law enforcement agency.</p>
 
-<div class="download"><a href="../../store/force/UseOfForce_2020.xlsx">Minnesota Use of Force Data by Agency, 2020</a></div>
-<div class="download"><a href="../../store/force/UseOfForce_2021.xlsx">Minnesota Use of Force Data by Agency, 2021</a></div>
-<div class="download"><a href="../../store/force/UseOfForce_2022.xlsx">Minnesota Use of Force Data by Agency, 2022</a></div>
-<div class="download"><a href="../../store/force/UseOfForce_2023.xlsx">Minnesota Use of Force Data by Agency, 2023</a></div>
-<div class="download"><a href="../../store/force/UseOfForce_2024.xlsx">Minnesota Use of Force Data by Agency, 2024</a></div>
-<div class="download"><a href="../../store/force/UseOfForce_2025.xlsx">Minnesota Use of Force Data by Agency, 2025</a></div>
+<div class="download"><a href="../store/force/UseOfForce_2020.xlsx">Minnesota Use of Force Data by Agency, 2020</a></div>
+<div class="download"><a href="../store/force/UseOfForce_2021.xlsx">Minnesota Use of Force Data by Agency, 2021</a></div>
+<div class="download"><a href="../store/force/UseOfForce_2022.xlsx">Minnesota Use of Force Data by Agency, 2022</a></div>
+<div class="download"><a href="../store/force/UseOfForce_2023.xlsx">Minnesota Use of Force Data by Agency, 2023</a></div>
+<div class="download"><a href="../store/force/UseOfForce_2024.xlsx">Minnesota Use of Force Data by Agency, 2024</a></div>
+<div class="download"><a href="../store/force/UseOfForce_2025.xlsx">Minnesota Use of Force Data by Agency, 2025</a></div>
 
 <h4>Links</h4>
 <ul>

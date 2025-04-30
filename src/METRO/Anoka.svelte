@@ -24,8 +24,8 @@
 
 <div>&nbsp;</div>
 
-<div class="download"><a href="../../store/suba/NIBRS_Anoka_actual.csv">Download Anoka County NIBRS offenses, 2021-present</a></div>
-<div class="download"><a href="../../store/suba/NIBRS_Anoka.csv">Download Anoka County NIBRS offenses, rates and clearances, 2021-present</a></div>
+<div class="download"><a href="../store/suba/NIBRS_Anoka_actual.csv">Download Anoka County NIBRS offenses, 2021-present</a></div>
+<div class="download"><a href="../store/suba/NIBRS_Anoka.csv">Download Anoka County NIBRS offenses, rates and clearances, 2021-present</a></div>
 
 <h4>Links</h4>
 <ul>

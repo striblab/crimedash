@@ -103,27 +103,27 @@
 <div class="chart-container">
   <canvas id="ytdChart"></canvas>
 </div>
-<div class="download"><a href="../../store/justified/justified_ytd_comparison.csv">Download Minneapolis justifiable homicides year-to-date data</a></div> 
+<div class="download"><a href="../store/justified/justified_ytd_comparison.csv">Download Minneapolis justifiable homicides year-to-date data</a></div> 
 
 <p>&nbsp;</p>
 <h4>Monthly monthly trend</h4>
 <div class="chart-container">
   <canvas id="monthlyChart"></canvas>
 </div>
-<div class="download"><a href="../../store/justified/justified_monthly_comparison.csv">Download Minneapolis justifiable homicides by month data</a></div>
+<div class="download"><a href="../store/justified/justified_monthly_comparison.csv">Download Minneapolis justifiable homicides by month data</a></div>
 
 <p>&nbsp;</p>
 <h4>Yearly justifiable homicides trend</h4>
 <div class="chart-container">
   <canvas id="yearlyChart"></canvas>
 </div>
-<div class="download"><a href="../../store/justified/justified_yearly_incident_counts.csv">Download Minneapolis justifiable homicides by year data</a></div>
+<div class="download"><a href="../store/justified/justified_yearly_incident_counts.csv">Download Minneapolis justifiable homicides by year data</a></div>
 
 <p>&nbsp;</p>
 <h4>Justifiable homicides by neighborhood</h4>
 <p>Click a map to expand.</p>
 <div class="map-container">
-  {#each ['../../store/justified/justified_map_2022.svg', '../../store/justified/justified_map_2023.svg', '../../store/justified/justified_map_2024.svg', '../../store/justified/justified_map_2025.svg'] as image}
+  {#each ['../store/justified/justified_map_2022.svg', '../store/justified/justified_map_2023.svg', '../store/justified/justified_map_2024.svg', '../store/justified/justified_map_2025.svg'] as image}
     <img src={image} alt={`justified Map ${image.slice(-8, -4)}`} on:click={() => openLightbox(image)}>
   {/each}
 </div>
@@ -133,9 +133,9 @@
     <img src={$activeImage} alt="Expanded Image">
   </div>
 {/if}
-<div class="download"><a href="../../store/justified/justified_geo.csv">Download Minneapolis justifiable homicides by neighborhood data</a></div>
-<div class="download"><a href="../../store/justified/justified_neighborhoods.geojson">Download Minneapolis justifiable homicides by neighborhood GEOJSON</a></div>
-<div class="download"><a href="../../store/justified/justified_raw.csv">Download Minneapolis justifiable homicides raw CSV file (includes incident coordinates)</a></div>
+<div class="download"><a href="../store/justified/justified_geo.csv">Download Minneapolis justifiable homicides by neighborhood data</a></div>
+<div class="download"><a href="../store/justified/justified_neighborhoods.geojson">Download Minneapolis justifiable homicides by neighborhood GEOJSON</a></div>
+<div class="download"><a href="../store/justified/justified_raw.csv">Download Minneapolis justifiable homicides raw CSV file (includes incident coordinates)</a></div>
 
 <p>&nbsp;</p>
 <h4>Links</h4>

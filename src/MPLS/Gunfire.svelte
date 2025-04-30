@@ -160,22 +160,22 @@
 <div class="chart-container">
   <canvas id="gytdChart"></canvas>
 </div>
-<div class="download"><a href="../../store/gunfire/gunfire_ytd_comparison.csv">Download Minneapolis shots fired year-to-date data</a></div> 
+<div class="download"><a href="../store/gunfire/gunfire_ytd_comparison.csv">Download Minneapolis shots fired year-to-date data</a></div> 
 
 <p>&nbsp;</p>
 <h4>Monthly shots fired trend</h4>
 <div class="chart-container">
   <canvas id="gmonthlyChart"></canvas>
 </div>
-<div class="download"><a href="../../store/gunfire/gunfire_monthly_comparison.csv">Download Minneapolis shots fired by month data</a></div>
+<div class="download"><a href="../store/gunfire/gunfire_monthly_comparison.csv">Download Minneapolis shots fired by month data</a></div>
 
 <p>&nbsp;</p>
 <h4>Yearly shots fired trend</h4>
 <div class="chart-container">
   <canvas id="gyearlyChart"></canvas>
 </div>
-<div class="download"><a href="../../store/gunfire/gunfire_yearly_incident_counts.csv">Download Minneapolis shots fired by year data</a></div>
-<div class="download"><a href="../../store/gunfire/mpls_shots_fired.csv">Download historical Minneapolis shots fired data, 2008-present</a></div>
+<div class="download"><a href="../store/gunfire/gunfire_yearly_incident_counts.csv">Download Minneapolis shots fired by year data</a></div>
+<div class="download"><a href="../store/gunfire/mpls_shots_fired.csv">Download historical Minneapolis shots fired data, 2008-present</a></div>
 
 
 <p>&nbsp;</p>
@@ -183,13 +183,13 @@
 <div class="chart-container">
   <canvas id="gprecinctChart"></canvas>
 </div>
-<div class="download"><a href="../../store/gunfire/gunfire_precinct.csv">Download Minneapolis shots fired by police precinct data</a></div>
+<div class="download"><a href="../store/gunfire/gunfire_precinct.csv">Download Minneapolis shots fired by police precinct data</a></div>
 
 <p>&nbsp;</p>
 <h4>Shots fired by neighborhood</h4>
 <p>Click a map to expand.</p>
 <div class="map-container">
-  {#each ['../../store/gunfire/gunfire_map_2019.svg', '../../store/gunfire/gunfire_map_2020.svg', '../../store/gunfire/gunfire_map_2021.svg', '../../store/gunfire/gunfire_map_2022.svg', '../../store/gunfire/gunfire_map_2023.svg', '../../store/gunfire/gunfire_map_2024.svg', '../../store/gunfire/gunfire_map_2025.svg'] as image}
+  {#each ['../store/gunfire/gunfire_map_2019.svg', '../store/gunfire/gunfire_map_2020.svg', '../store/gunfire/gunfire_map_2021.svg', '../store/gunfire/gunfire_map_2022.svg', '../store/gunfire/gunfire_map_2023.svg', '../store/gunfire/gunfire_map_2024.svg', '../store/gunfire/gunfire_map_2025.svg'] as image}
     <img src={image} alt={`gunfire Map ${image.slice(-8, -4)}`} on:click={() => openLightbox(image)}>
   {/each}
 </div>
@@ -199,9 +199,9 @@
     <img src={$activeImage} alt="Expanded Image">
   </div>
 {/if}
-<div class="download"><a href="../../store/gunfire/gunfire_geo.csv">Download Minneapolis shots fired by neighborhood data</a></div>
-<div class="download"><a href="../../store/gunfire/gunfire_neighborhoods.geojson">Download Minneapolis shots fired by neighborhood GEOJSON</a></div>
-<div class="download"><a href="../../store/gunfire/gunfire_raw.csv">Download Minneapolis shots fired raw CSV file (includes incident coordinates)</a></div>
+<div class="download"><a href="../store/gunfire/gunfire_geo.csv">Download Minneapolis shots fired by neighborhood data</a></div>
+<div class="download"><a href="../store/gunfire/gunfire_neighborhoods.geojson">Download Minneapolis shots fired by neighborhood GEOJSON</a></div>
+<div class="download"><a href="../store/gunfire/gunfire_raw.csv">Download Minneapolis shots fired raw CSV file (includes incident coordinates)</a></div>
 
 
 <p>&nbsp;</p>

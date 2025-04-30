@@ -6,7 +6,7 @@
 
 <h4 class="source">Data sources: Minneapolis Police Department</h4>
 
-<p>Under NIBRS, <a href="../../store/other/NIBRS_Offense_Codes.pdf">Group A offenses</a> include many crimes that the UCR once considered Part II crimes, or less serious offenses that we rarely write about in terms of statistical trends:</p>
+<p>Under NIBRS, <a href="../store/other/NIBRS_Offense_Codes.pdf">Group A offenses</a> include many crimes that the UCR once considered Part II crimes, or less serious offenses that we rarely write about in terms of statistical trends:</p>
 
 <ul>
     <li>Animal Cruelty</li>
@@ -29,7 +29,7 @@
 </ul>
 
 <p>&nbsp;</p>
-<div class="download"><a href="../../store/other/other_raw.csv">Download less serious Minneapolis crime data, 2019-present</a></div>
+<div class="download"><a href="../store/other/other_raw.csv">Download less serious Minneapolis crime data, 2019-present</a></div>
 
 <h4>Links</h4>
 <ul>

@@ -49,7 +49,7 @@
 <div class="chart-container">
     <canvas id="violentCrimeChart"></canvas>
   </div>
-<div class="download"><a href="../../store/stpv/stp_robberies.csv">Download St. Paul 1985-2023 robberies data (includes clearances)</a></div>
+<div class="download"><a href="../store/stpv/stp_robberies.csv">Download St. Paul 1985-2023 robberies data (includes clearances)</a></div>
 
 <h4>Links</h4>
 

@@ -11,13 +11,13 @@
   
   <p>&nbsp;</p>
   
-  <div class="download"><a href="../../store/transit/ridership_2024-04-30.csv">Download Metro Transit average weekday ridership, 2019-present</a></div>
-  <div class="download"><a href="../../store/transit/mtpd_offenses_month.xlsx">MTPD reported crimes against persons, by month, 2021-present</a></div>
-  <div class="download"><a href="../../store/transit/mtpd_rape_month.xlsx">MTPD reported sex offenses, by month, 2021-present</a></div>
-  <div class="download"><a href="../../store/transit/mtpd_trafficking_month.xlsx">MTPD reported human trafficking offenses, by month, 2021-present</a></div>
-  <div class="download"><a href="../../store/transit/mtpd_assault_month.xlsx">MTPD reported aggravated assault offenses, by month, 2021-present</a></div>
-  <div class="download"><a href="../../store/transit/mtpd_simple_month.xlsx">MTPD reported simple assault and intimidation offenses, by month, 2021-present</a></div>
-  <div class="download"><a href="../../store/transit/mtpd_homicides_month.xlsx">MTPD homicides, by month, 2021-present</a></div>
+  <div class="download"><a href="../store/transit/ridership_2024-04-30.csv">Download Metro Transit average weekday ridership, 2019-present</a></div>
+  <div class="download"><a href="../store/transit/mtpd_offenses_month.xlsx">MTPD reported crimes against persons, by month, 2021-present</a></div>
+  <div class="download"><a href="../store/transit/mtpd_rape_month.xlsx">MTPD reported sex offenses, by month, 2021-present</a></div>
+  <div class="download"><a href="../store/transit/mtpd_trafficking_month.xlsx">MTPD reported human trafficking offenses, by month, 2021-present</a></div>
+  <div class="download"><a href="../store/transit/mtpd_assault_month.xlsx">MTPD reported aggravated assault offenses, by month, 2021-present</a></div>
+  <div class="download"><a href="../store/transit/mtpd_simple_month.xlsx">MTPD reported simple assault and intimidation offenses, by month, 2021-present</a></div>
+  <div class="download"><a href="../store/transit/mtpd_homicides_month.xlsx">MTPD homicides, by month, 2021-present</a></div>
 
   <h4>Links</h4>
   <ul>

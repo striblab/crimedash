@@ -51,8 +51,8 @@
 <div class="chart-container">
     <canvas id="homicideChart"></canvas>
   </div>
-<div class="download"><a href="../../store/stpm/stp_homicide_rate.csv">Download St. Paul 1976-2023 homicide data</a></div>
-<div class="download"><a href="../../store/stpm/stp_homicides.xlsx">Download St. Paul FBI Supplementary Homicide Report, 1976-2023</a></div>
+<div class="download"><a href="../store/stpm/stp_homicide_rate.csv">Download St. Paul 1976-2023 homicide data</a></div>
+<div class="download"><a href="../store/stpm/stp_homicides.xlsx">Download St. Paul FBI Supplementary Homicide Report, 1976-2023</a></div>
 
 <h4>Links</h4>
 

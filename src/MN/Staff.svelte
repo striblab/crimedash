@@ -102,13 +102,13 @@
 <div class="chart-container">
   <canvas id="mplsChart"></canvas>
 </div>
-<div class="download"><a href="../../store/staff/staff_mpls.csv">Download 2019-2024 MPD staffing by pay period data</a></div>
+<div class="download"><a href="../store/staff/staff_mpls.csv">Download 2019-2024 MPD staffing by pay period data</a></div>
 
 <p>&nbsp;</p>
 
 <p>At 1.4 sworn officers to 1,000, MPD currently has among the lowest staffing rations among major American cities, far below the national average.</p>
 
-<div class="download"><a href="../../store/staff/staff_compare.csv">Download police 1985-2022 staffing ratio comparison data</a></div>
+<div class="download"><a href="../store/staff/staff_compare.csv">Download police 1985-2022 staffing ratio comparison data</a></div>
 
 <p>&nbsp;</p>
 
@@ -117,7 +117,7 @@
 <div class="chart-container">
   <canvas id="minneapolisChart"></canvas>
 </div>
-<div class="download"><a href="../../store/staff/staff_minneapolis.csv">Download police 1985-2024 staffing breakdown data</a></div>
+<div class="download"><a href="../store/staff/staff_minneapolis.csv">Download police 1985-2024 staffing breakdown data</a></div>
 
 <p>&nbsp;</p>
 

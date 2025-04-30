@@ -49,8 +49,8 @@
 <div class="chart-container">
     <canvas id="violentCrimeChart"></canvas>
   </div>
-<div class="download"><a href="../../store/stps/stp_shootings.csv">Download St. Paul 2018-2024 summary shootings data</a></div>
-<div class="download"><a href="../../store/stps/stp_shootings.xlsx">Download St. Paul 2018-2024 detailed shootings data</a></div>
+<div class="download"><a href="../store/stps/stp_shootings.csv">Download St. Paul 2018-2024 summary shootings data</a></div>
+<div class="download"><a href="../store/stps/stp_shootings.xlsx">Download St. Paul 2018-2024 detailed shootings data</a></div>
 
 <h4>Links</h4>
 

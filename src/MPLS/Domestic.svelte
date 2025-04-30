@@ -132,22 +132,22 @@
   <div class="chart-container">
     <canvas id="aytdChart"></canvas>
   </div>
-  <div class="download"><a href="../../store/domestic/domestic_ytd_comparison.csv">Download Minneapolis aggravated domestic aggravated assaults year-to-date data</a></div> 
+  <div class="download"><a href="../store/domestic/domestic_ytd_comparison.csv">Download Minneapolis aggravated domestic aggravated assaults year-to-date data</a></div> 
   
   <p>&nbsp;</p>
   <h4>Monthly domestic aggravated assault trend</h4>
   <div class="chart-container">
     <canvas id="amonthlyChart"></canvas>
   </div>
-  <div class="download"><a href="../../store/domestic/domestic_monthly_comparison.csv">Download Minneapolis domestic aggravated assaults by month data</a></div>
+  <div class="download"><a href="../store/domestic/domestic_monthly_comparison.csv">Download Minneapolis domestic aggravated assaults by month data</a></div>
   
   <p>&nbsp;</p>
   <h4>Yearly domestic aggravated assault trend</h4>
   <div class="chart-container">
     <canvas id="ayearlyChart"></canvas>
   </div>
-  <div class="download"><a href="../../store/domestic/domestic_yearly_incident_counts.csv">Download Minneapolis domestic aggravated assault by year data</a></div>
-  <div class="download"><a href="../../store/domestic/domestic_historical.csv">Download historical Minneapolis SRS domestic aggravated assault data 1985-2022 (includes clearances)</a></div>
+  <div class="download"><a href="../store/domestic/domestic_yearly_incident_counts.csv">Download Minneapolis domestic aggravated assault by year data</a></div>
+  <div class="download"><a href="../store/domestic/domestic_historical.csv">Download historical Minneapolis SRS domestic aggravated assault data 1985-2022 (includes clearances)</a></div>
   
   
   <p>&nbsp;</p>
@@ -155,13 +155,13 @@
   <div class="chart-container">
     <canvas id="aprecinctChart"></canvas>
   </div>
-  <div class="download"><a href="../../store/domestic/domestic_precinct.csv">Download Minneapolis domestic aggravated assaults by police precinct data</a></div>
+  <div class="download"><a href="../store/domestic/domestic_precinct.csv">Download Minneapolis domestic aggravated assaults by police precinct data</a></div>
   
   <p>&nbsp;</p>
   <h4>Domestic aggravated assaults by neighborhood</h4>
   <p>Click a map to expand.</p>
   <div class="map-container">
-    {#each ['../../store/domestic/domestic_map_2019.svg', '../../store/domestic/domestic_map_2020.svg', '../../store/domestic/domestic_map_2021.svg', '../../store/domestic/domestic_map_2022.svg', '../../store/domestic/domestic_map_2023.svg', '../../store/domestic/domestic_map_2024.svg', '../../store/domestic/domestic_map_2025.svg'] as image}
+    {#each ['../store/domestic/domestic_map_2019.svg', '../store/domestic/domestic_map_2020.svg', '../store/domestic/domestic_map_2021.svg', '../store/domestic/domestic_map_2022.svg', '../store/domestic/domestic_map_2023.svg', '../store/domestic/domestic_map_2024.svg', '../store/domestic/domestic_map_2025.svg'] as image}
       <img src={image} alt={`domestic Map ${image.slice(-8, -4)}`} on:click={() => openLightbox(image)}>
     {/each}
   </div>
@@ -171,9 +171,9 @@
       <img src={$activeImage} alt="Expanded Image">
     </div>
   {/if}
-  <div class="download"><a href="../../store/domestic/domestic_geo.csv">Download Minneapolis domestic aggravated assaults by neighborhood data</a></div>
-  <div class="download"><a href="../../store/domestic/domestic_neighborhoods.geojson">Download Minneapolis domestic aggravated assaults by neighborhood GEOJSON</a></div>
-  <div class="download"><a href="../../store/domestic/domestic_raw.csv">Download Minneapolis domestic aggravated assault raw CSV file (includes incident coordinates)</a></div>
+  <div class="download"><a href="../store/domestic/domestic_geo.csv">Download Minneapolis domestic aggravated assaults by neighborhood data</a></div>
+  <div class="download"><a href="../store/domestic/domestic_neighborhoods.geojson">Download Minneapolis domestic aggravated assaults by neighborhood GEOJSON</a></div>
+  <div class="download"><a href="../store/domestic/domestic_raw.csv">Download Minneapolis domestic aggravated assault raw CSV file (includes incident coordinates)</a></div>
   
   <h4>Links</h4>
   <ul>

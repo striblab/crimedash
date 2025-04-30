@@ -45,8 +45,8 @@
 
 <div>&nbsp;</div>
 
-<div class="download"><a href="../../store/subh/NIBRS_Hennepin_actual.csv">Download Hennepin County NIBRS offenses, 2021-present</a></div>
-<div class="download"><a href="../../store/subh/NIBRS_Hennepin.csv">Download Hennepin County NIBRS offenses, rates and clearances, 2021-present</a></div>
+<div class="download"><a href="../store/subh/NIBRS_Hennepin_actual.csv">Download Hennepin County NIBRS offenses, 2021-present</a></div>
+<div class="download"><a href="../store/subh/NIBRS_Hennepin.csv">Download Hennepin County NIBRS offenses, rates and clearances, 2021-present</a></div>
 
 <h4>Links</h4>
 <ul>

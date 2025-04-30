@@ -49,7 +49,7 @@
 <div class="chart-container">
     <canvas id="propertyChart"></canvas>
   </div>
-<div class="download"><a href="../../store/stpat/stp_autotheft.csv">Download St. Paul 1985-2023 auto thefts data (includes clearances)</a></div>
+<div class="download"><a href="../store/stpat/stp_autotheft.csv">Download St. Paul 1985-2023 auto thefts data (includes clearances)</a></div>
 
 <h4>Links</h4>
 

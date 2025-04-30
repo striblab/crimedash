@@ -119,34 +119,34 @@
   <div class="chart-container">
     <canvas id="aytdChart"></canvas>
   </div>
-  <div class="download"><a href="../../store/carjack/carjack_ytd_comparison.csv">Download Minneapolis carjackings year-to-date data</a></div> 
+  <div class="download"><a href="../store/carjack/carjack_ytd_comparison.csv">Download Minneapolis carjackings year-to-date data</a></div> 
   
   <p>&nbsp;</p>
   <h4>Monthly carjacking trend</h4>
   <div class="chart-container">
     <canvas id="amonthlyChart"></canvas>
   </div>
-  <div class="download"><a href="../../store/carjack/carjack_monthly_comparison.csv">Download Minneapolis carjackings by month data</a></div>
+  <div class="download"><a href="../store/carjack/carjack_monthly_comparison.csv">Download Minneapolis carjackings by month data</a></div>
   
   <p>&nbsp;</p>
   <h4>Yearly carjacking trend</h4>
   <div class="chart-container">
     <canvas id="ayearlyChart"></canvas>
   </div>
-  <div class="download"><a href="../../store/carjack/carjack_yearly_incident_counts.csv">Download Minneapolis carjackings by year data</a></div>  
+  <div class="download"><a href="../store/carjack/carjack_yearly_incident_counts.csv">Download Minneapolis carjackings by year data</a></div>  
   
   <p>&nbsp;</p>
   <h4>Carjackings by police precinct</h4>
   <div class="chart-container">
     <canvas id="aprecinctChart"></canvas>
   </div>
-  <div class="download"><a href="../../store/carjack/carjack_precinct.csv">Download Minneapolis carjackings by police precinct data</a></div>
+  <div class="download"><a href="../store/carjack/carjack_precinct.csv">Download Minneapolis carjackings by police precinct data</a></div>
   
   <p>&nbsp;</p>
   <h4>Carjackings by neighborhood</h4>
   <p>Click a map to expand.</p>
   <div class="map-container">
-    {#each ['../../store/carjack/carjack_map_2020.svg', '../../store/carjack/carjack_map_2021.svg', '../../store/carjack/carjack_map_2022.svg', '../../store/carjack/carjack_map_2023.svg', '../../store/carjack/carjack_map_2024.svg', '../../store/carjack/carjack_map_2025.svg'] as image}
+    {#each ['../store/carjack/carjack_map_2020.svg', '../store/carjack/carjack_map_2021.svg', '../store/carjack/carjack_map_2022.svg', '../store/carjack/carjack_map_2023.svg', '../store/carjack/carjack_map_2024.svg', '../store/carjack/carjack_map_2025.svg'] as image}
       <img src={image} alt={`carjack Map ${image.slice(-8, -4)}`} on:click={() => openLightbox(image)}>
     {/each}
   </div>
@@ -156,9 +156,9 @@
       <img src={$activeImage} alt="Expanded Image">
     </div>
   {/if}
-  <div class="download"><a href="../../store/carjack/carjack_geo.csv">Download Minneapolis carjackings by neighborhood data</a></div>
-  <div class="download"><a href="../../store/carjack/carjack_neighborhoods.geojson">Download Minneapolis carjackings by neighborhood GEOJSON</a></div>
-  <div class="download"><a href="../../store/carjack/carjack_raw.csv">Download Minneapolis carjackings raw CSV file (includes incident coordinates)</a></div>
+  <div class="download"><a href="../store/carjack/carjack_geo.csv">Download Minneapolis carjackings by neighborhood data</a></div>
+  <div class="download"><a href="../store/carjack/carjack_neighborhoods.geojson">Download Minneapolis carjackings by neighborhood GEOJSON</a></div>
+  <div class="download"><a href="../store/carjack/carjack_raw.csv">Download Minneapolis carjackings raw CSV file (includes incident coordinates)</a></div>
   
   <h4>Links</h4>
   <ul>

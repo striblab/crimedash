@@ -21,8 +21,8 @@
 
 <div>&nbsp;</div>
 
-<div class="download"><a href="../../store/subs/NIBRS_Scott_actual.csv">Download Scott County NIBRS offenses, 2021-present</a></div>
-<div class="download"><a href="../../store/subs/NIBRS_Scott.csv">Download Ramsey Scott NIBRS offenses, rates and clearances, 2021-present</a></div>
+<div class="download"><a href="../store/subs/NIBRS_Scott_actual.csv">Download Scott County NIBRS offenses, 2021-present</a></div>
+<div class="download"><a href="../store/subs/NIBRS_Scott.csv">Download Ramsey Scott NIBRS offenses, rates and clearances, 2021-present</a></div>
 
 
 <h4>Links</h4>

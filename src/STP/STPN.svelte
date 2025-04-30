@@ -128,8 +128,8 @@
     {/each}
   </div> -->
 
-<div class="download"><a href="../../store/stpn/NIBRS_StPaul_actual.csv">Download St. Paul 2021-present NIBRS offenses</a></div>
-<div class="download"><a href="../../store/stpn/NIBRS_StPaul.csv">Download St. Paul 2021-present NIBRS offenses, rates and clearances</a></div>
+<div class="download"><a href="../store/stpn/NIBRS_StPaul_actual.csv">Download St. Paul 2021-present NIBRS offenses</a></div>
+<div class="download"><a href="../store/stpn/NIBRS_StPaul.csv">Download St. Paul 2021-present NIBRS offenses, rates and clearances</a></div>
 
 <h4>Links</h4>
 
