@@ -2,7 +2,7 @@
   import { onMount } from 'svelte';
   import Chart from 'chart.js/auto';
   import assaultLEOKA from '../../store/leoka/mn_leoka_assaults.json';
-  import killedLEOKA from '../arrests.png';
+  import killedLEOKA from '../../store/leoka/arrests.png';
   import incidentsLEOKA from '../../store/leoka/mn_leoka_incidents.json';
 
   let assaultChart, killedChart, incidentsChart;
