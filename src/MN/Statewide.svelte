@@ -85,6 +85,18 @@
   </div>
 <div class="download"><a href="../store/mn/mn_property.csv">Download Minnesota property crime rate data</a></div>
 
+<p>&nbsp;</p>
+
+<p>All Minnesota law enforcement agencies have been submitting NIBRS crime offenses to the BCA since 2021.</p>
+
+  <div class="download"><a href="../store/nibrs/OffenseCountyMunicipalByAgencyDownloadData_2021.xlsx">Download Minnesota NIBRS offenses by agency, 2021</a></div>
+  <div class="download"><a href="../store/nibrs/OffenseCountyMunicipalByAgencyDownloadData_2022.xlsx">Download Minnesota NIBRS offenses by agency, 2022</a></div>
+  <div class="download"><a href="../store/nibrs/OffenseCountyMunicipalByAgencyDownloadData_2023.xlsx">Download Minnesota NIBRS offenses by agency, 2023</a></div>
+  <div class="download"><a href="../store/nibrs/OffenseCountyMunicipalByAgencyDownloadData_2024.xlsx">Download Minnesota NIBRS offenses by agency, 2024</a></div>
+  <div class="download"><a href="../store/nibrs/OffenseCountyMunicipalByAgencyDownloadData_2025.xlsx">Download Minnesota NIBRS offenses by agency, 2025</a></div>
+
+
+
 <h4>Links</h4>
 <ul>
     <li><a href="https://www.lrl.mn.gov/edocs/edocs?oclcnumber=20080426">All Minnesota UCRs ever</a></li>
