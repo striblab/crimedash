@@ -160,9 +160,9 @@
 <div class="chart-container">
   <canvas id="historyChart"></canvas>
 </div>
-<div class="download"><a href="../store/murder/murder_historical.csv">Download historical Minneapolis homicide data 1985-2022 (includes clearances)</a></div>
+<div class="download"><a href="../store/murder/murder_historical.csv">Download historical Minneapolis homicide data 1985-2024</a></div>
 <div class="download"><a href="https://docs.google.com/spreadsheets/d/1ntBqZokbzsPQEatu-rlHsIYKq2ngM0hoO1xXmRBQ8jc/edit#gid=1736309950">Star Tribune: Minneapolis Homicides Database</a></div>
-<div class="download"><a href="../store/murder/MNSHR65_22.csv.zip">Download Minneapolis FBI Supplementary Homicide Report, 1976-2022</a></div>
+<div class="download"><a href="../store/murder/MNSHR65_23.csv.zip">Download Minneapolis FBI Supplementary Homicide Report, 1976-2023</a></div>
 
 
 <p>&nbsp;</p>
