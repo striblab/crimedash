@@ -34,7 +34,7 @@
 "Jordan","Drug/Narcotic Violations",51,60,31,38,47,22,10
 "Keewaydin","Drug/Narcotic Violations",2,1,1,2,1,2,1
 "Kenwood","Drug/Narcotic Violations",3,4,4,0,0,1,0
-"King Field","Drug/Narcotic Violations",10,4,6,1,8,13,2
+"King Field","Drug/Narcotic Violations",10,4,6,1,8,13,3
 "Lind - Bohanon","Drug/Narcotic Violations",19,12,6,7,9,2,0
 "Linden Hills","Drug/Narcotic Violations",2,3,2,0,0,0,0
 "Logan Park","Drug/Narcotic Violations",9,5,3,4,2,2,0
@@ -50,7 +50,7 @@
 "Midtown Phillips","Drug/Narcotic Violations",41,19,30,33,26,16,5
 "Minnehaha","Drug/Narcotic Violations",3,5,4,2,2,2,0
 "Morris Park","Drug/Narcotic Violations",2,3,0,2,1,1,0
-"Near - North","Drug/Narcotic Violations",65,56,37,57,24,12,8
+"Near - North","Drug/Narcotic Violations",65,56,37,57,24,12,9
 "Nicollet Island - East Bank","Drug/Narcotic Violations",11,3,5,4,1,1,1
 "North Loop","Drug/Narcotic Violations",26,18,17,14,21,16,2
 "Northeast Park","Drug/Narcotic Violations",12,6,10,8,7,6,1
@@ -66,11 +66,11 @@
 "St. Anthony East","Drug/Narcotic Violations",7,1,0,2,3,3,0
 "St. Anthony West","Drug/Narcotic Violations",11,1,5,5,2,0,1
 "Standish","Drug/Narcotic Violations",5,8,2,4,6,2,3
-"Steven's Square - Loring Heights","Drug/Narcotic Violations",19,28,27,39,26,30,13
+"Steven's Square - Loring Heights","Drug/Narcotic Violations",19,28,27,39,26,30,14
 "Sumner - Glenwood","Drug/Narcotic Violations",7,8,2,4,3,4,0
 "Tangletown","Drug/Narcotic Violations",9,6,0,0,1,1,1
 "University of Minnesota","Drug/Narcotic Violations",4,2,4,1,1,0,0
-"Ventura Village","Drug/Narcotic Violations",67,55,28,33,60,49,25
+"Ventura Village","Drug/Narcotic Violations",67,55,28,33,60,49,26
 "Victory","Drug/Narcotic Violations",5,5,4,0,3,4,0
 "Waite Park","Drug/Narcotic Violations",8,4,6,1,1,0,0
 "Webber - Camden","Drug/Narcotic Violations",36,27,12,20,32,17,5
@@ -121,7 +121,7 @@ NA,"Drug/Narcotic Violations",69,47,34,31,19,21,8
 "Jordan","Total",51,60,31,38,47,22,10
 "Keewaydin","Total",2,1,1,2,1,2,1
 "Kenwood","Total",3,4,4,0,0,1,0
-"King Field","Total",10,4,6,1,8,13,2
+"King Field","Total",10,4,6,1,8,13,3
 "Lind - Bohanon","Total",19,12,6,7,9,2,0
 "Linden Hills","Total",2,3,2,0,0,0,0
 "Logan Park","Total",9,5,3,4,2,2,0
@@ -137,7 +137,7 @@ NA,"Drug/Narcotic Violations",69,47,34,31,19,21,8
 "Midtown Phillips","Total",41,19,30,33,26,16,5
 "Minnehaha","Total",3,5,4,2,2,2,0
 "Morris Park","Total",2,3,0,2,1,1,0
-"Near - North","Total",65,56,37,57,24,12,8
+"Near - North","Total",65,56,37,57,24,12,9
 "Nicollet Island - East Bank","Total",11,3,5,4,1,1,1
 "North Loop","Total",26,18,17,14,21,16,2
 "Northeast Park","Total",12,6,10,8,7,6,1
@@ -153,11 +153,11 @@ NA,"Drug/Narcotic Violations",69,47,34,31,19,21,8
 "St. Anthony East","Total",7,1,0,2,3,3,0
 "St. Anthony West","Total",11,1,5,5,2,0,1
 "Standish","Total",5,8,2,4,6,2,3
-"Steven's Square - Loring Heights","Total",19,28,27,39,26,30,13
+"Steven's Square - Loring Heights","Total",19,28,27,39,26,30,14
 "Sumner - Glenwood","Total",7,8,2,4,3,4,0
 "Tangletown","Total",9,6,0,0,1,1,1
 "University of Minnesota","Total",4,2,4,1,1,0,0
-"Ventura Village","Total",67,55,28,33,60,49,25
+"Ventura Village","Total",67,55,28,33,60,49,26
 "Victory","Total",5,5,4,0,3,4,0
 "Waite Park","Total",8,4,6,1,1,0,0
 "Webber - Camden","Total",36,27,12,20,32,17,5

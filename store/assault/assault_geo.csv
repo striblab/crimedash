@@ -10,14 +10,14 @@
 "Cedar - Isles - Dean","Aggravated Assault",4,5,2,1,4,3,0
 "Cedar Riverside","Aggravated Assault",33,36,49,74,39,41,9
 "Central","Aggravated Assault",62,52,74,67,56,62,3
-"Cleveland","Aggravated Assault",24,26,28,34,21,37,14
+"Cleveland","Aggravated Assault",24,26,28,34,21,37,15
 "Columbia Park","Aggravated Assault",3,4,12,8,4,6,1
 "Como","Aggravated Assault",16,14,27,28,39,17,7
 "Cooper","Aggravated Assault",6,6,6,4,5,2,0
 "Corcoran","Aggravated Assault",10,21,16,28,36,23,13
 "Diamond Lake","Aggravated Assault",14,3,5,2,7,2,0
 "Downtown East","Aggravated Assault",9,24,15,22,24,12,2
-"Downtown West","Aggravated Assault",157,132,153,179,160,173,38
+"Downtown West","Aggravated Assault",157,132,153,179,160,173,40
 "East Bde Maka Ska","Aggravated Assault",1,0,5,2,4,4,1
 "East Harriet","Aggravated Assault",5,5,7,4,6,4,2
 "East Isles","Aggravated Assault",6,7,11,4,12,10,1
@@ -32,7 +32,7 @@
 "Hiawatha","Aggravated Assault",16,16,13,16,21,24,6
 "Holland","Aggravated Assault",24,32,39,28,40,34,11
 "Howe","Aggravated Assault",11,19,10,12,17,17,5
-"Jordan","Aggravated Assault",132,220,229,199,197,190,51
+"Jordan","Aggravated Assault",132,220,229,199,197,190,56
 "Keewaydin","Aggravated Assault",2,6,2,4,1,2,2
 "Kenny","Aggravated Assault",1,2,1,0,1,1,0
 "Kenwood","Aggravated Assault",1,4,3,4,1,2,0
@@ -44,18 +44,18 @@
 "Loring Park","Aggravated Assault",42,83,91,82,70,74,17
 "Lowry Hill","Aggravated Assault",6,3,8,8,15,9,1
 "Lowry Hill East","Aggravated Assault",32,55,59,75,83,69,22
-"Lyndale","Aggravated Assault",17,35,32,40,48,80,16
+"Lyndale","Aggravated Assault",17,35,32,40,48,80,17
 "Lynnhurst","Aggravated Assault",3,0,0,2,0,2,0
 "Marcy Holmes","Aggravated Assault",54,54,54,51,49,50,13
 "Marshall Terrace","Aggravated Assault",4,9,5,5,3,16,1
 "McKinley","Aggravated Assault",51,75,70,71,47,23,9
 "Mid - City Industrial","Aggravated Assault",1,1,5,5,3,6,1
-"Midtown Phillips","Aggravated Assault",62,58,72,71,69,69,24
+"Midtown Phillips","Aggravated Assault",62,58,72,71,69,69,25
 "Minnehaha","Aggravated Assault",4,12,11,9,14,8,0
 "Morris Park","Aggravated Assault",3,2,13,1,3,1,0
 "Near - North","Aggravated Assault",117,157,134,175,135,118,49
 "Nicollet Island - East Bank","Aggravated Assault",8,8,13,10,13,17,5
-"North Loop","Aggravated Assault",16,26,44,50,49,31,14
+"North Loop","Aggravated Assault",16,26,44,50,49,31,15
 "Northeast Park","Aggravated Assault",5,4,9,9,6,6,0
 "Northrop","Aggravated Assault",3,9,15,9,1,10,1
 "Phillips West","Aggravated Assault",33,56,49,54,46,61,6
@@ -68,7 +68,7 @@
 "South Uptown","Aggravated Assault",8,14,26,19,16,37,2
 "St. Anthony East","Aggravated Assault",9,2,4,4,7,20,2
 "St. Anthony West","Aggravated Assault",8,3,8,13,10,4,0
-"Standish","Aggravated Assault",8,10,15,15,11,14,9
+"Standish","Aggravated Assault",8,10,15,15,11,14,10
 "Steven's Square - Loring Heights","Aggravated Assault",31,53,61,51,72,56,15
 "Sumner - Glenwood","Aggravated Assault",27,33,22,38,23,18,2
 "Tangletown","Aggravated Assault",1,4,10,1,10,7,0
@@ -79,10 +79,10 @@
 "Webber - Camden","Aggravated Assault",87,84,101,74,96,72,17
 "Wenonah","Aggravated Assault",19,27,22,33,23,10,6
 "West Maka Ska","Aggravated Assault",8,4,1,8,5,10,0
-"Whittier","Aggravated Assault",99,114,123,168,156,200,44
-"Willard - Hay","Aggravated Assault",128,116,121,101,124,139,27
+"Whittier","Aggravated Assault",99,114,123,168,156,200,45
+"Willard - Hay","Aggravated Assault",128,116,121,101,124,139,29
 "Windom","Aggravated Assault",9,18,25,14,16,14,7
-"Windom Park","Aggravated Assault",12,11,19,13,11,18,5
+"Windom Park","Aggravated Assault",12,11,19,13,11,18,6
 NA,"Aggravated Assault",9,14,20,23,21,14,9
 "Hale","Aggravated Assault",0,1,1,2,1,2,0
 "Page","Aggravated Assault",0,1,1,0,0,3,0
@@ -98,14 +98,14 @@ NA,"Aggravated Assault",9,14,20,23,21,14,9
 "Cedar - Isles - Dean","Total",4,5,2,1,4,3,0
 "Cedar Riverside","Total",33,36,49,74,39,41,9
 "Central","Total",62,52,74,67,56,62,3
-"Cleveland","Total",24,26,28,34,21,37,14
+"Cleveland","Total",24,26,28,34,21,37,15
 "Columbia Park","Total",3,4,12,8,4,6,1
 "Como","Total",16,14,27,28,39,17,7
 "Cooper","Total",6,6,6,4,5,2,0
 "Corcoran","Total",10,21,16,28,36,23,13
 "Diamond Lake","Total",14,3,5,2,7,2,0
 "Downtown East","Total",9,24,15,22,24,12,2
-"Downtown West","Total",157,132,153,179,160,173,38
+"Downtown West","Total",157,132,153,179,160,173,40
 "East Bde Maka Ska","Total",1,0,5,2,4,4,1
 "East Harriet","Total",5,5,7,4,6,4,2
 "East Isles","Total",6,7,11,4,12,10,1
@@ -120,7 +120,7 @@ NA,"Aggravated Assault",9,14,20,23,21,14,9
 "Hiawatha","Total",16,16,13,16,21,24,6
 "Holland","Total",24,32,39,28,40,34,11
 "Howe","Total",11,19,10,12,17,17,5
-"Jordan","Total",132,220,229,199,197,190,51
+"Jordan","Total",132,220,229,199,197,190,56
 "Keewaydin","Total",2,6,2,4,1,2,2
 "Kenny","Total",1,2,1,0,1,1,0
 "Kenwood","Total",1,4,3,4,1,2,0
@@ -132,18 +132,18 @@ NA,"Aggravated Assault",9,14,20,23,21,14,9
 "Loring Park","Total",42,83,91,82,70,74,17
 "Lowry Hill","Total",6,3,8,8,15,9,1
 "Lowry Hill East","Total",32,55,59,75,83,69,22
-"Lyndale","Total",17,35,32,40,48,80,16
+"Lyndale","Total",17,35,32,40,48,80,17
 "Lynnhurst","Total",3,0,0,2,0,2,0
 "Marcy Holmes","Total",54,54,54,51,49,50,13
 "Marshall Terrace","Total",4,9,5,5,3,16,1
 "McKinley","Total",51,75,70,71,47,23,9
 "Mid - City Industrial","Total",1,1,5,5,3,6,1
-"Midtown Phillips","Total",62,58,72,71,69,69,24
+"Midtown Phillips","Total",62,58,72,71,69,69,25
 "Minnehaha","Total",4,12,11,9,14,8,0
 "Morris Park","Total",3,2,13,1,3,1,0
 "Near - North","Total",117,157,134,175,135,118,49
 "Nicollet Island - East Bank","Total",8,8,13,10,13,17,5
-"North Loop","Total",16,26,44,50,49,31,14
+"North Loop","Total",16,26,44,50,49,31,15
 "Northeast Park","Total",5,4,9,9,6,6,0
 "Northrop","Total",3,9,15,9,1,10,1
 "Phillips West","Total",33,56,49,54,46,61,6
@@ -156,7 +156,7 @@ NA,"Aggravated Assault",9,14,20,23,21,14,9
 "South Uptown","Total",8,14,26,19,16,37,2
 "St. Anthony East","Total",9,2,4,4,7,20,2
 "St. Anthony West","Total",8,3,8,13,10,4,0
-"Standish","Total",8,10,15,15,11,14,9
+"Standish","Total",8,10,15,15,11,14,10
 "Steven's Square - Loring Heights","Total",31,53,61,51,72,56,15
 "Sumner - Glenwood","Total",27,33,22,38,23,18,2
 "Tangletown","Total",1,4,10,1,10,7,0
@@ -167,10 +167,10 @@ NA,"Aggravated Assault",9,14,20,23,21,14,9
 "Webber - Camden","Total",87,84,101,74,96,72,17
 "Wenonah","Total",19,27,22,33,23,10,6
 "West Maka Ska","Total",8,4,1,8,5,10,0
-"Whittier","Total",99,114,123,168,156,200,44
-"Willard - Hay","Total",128,116,121,101,124,139,27
+"Whittier","Total",99,114,123,168,156,200,45
+"Willard - Hay","Total",128,116,121,101,124,139,29
 "Windom","Total",9,18,25,14,16,14,7
-"Windom Park","Total",12,11,19,13,11,18,5
+"Windom Park","Total",12,11,19,13,11,18,6
 NA,"Total",9,14,20,23,21,14,9
 "Hale","Total",0,1,1,2,1,2,0
 "Page","Total",0,1,1,0,0,3,0

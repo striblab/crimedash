@@ -213,31 +213,31 @@
     "Year": 2025,
     "Precinct": 1,
     "Offense": "All Other Larceny",
-    "OffenseCount": 311
+    "OffenseCount": 317
   },
   {
     "Year": 2025,
     "Precinct": 2,
     "Offense": "All Other Larceny",
-    "OffenseCount": 300
+    "OffenseCount": 306
   },
   {
     "Year": 2025,
     "Precinct": 3,
     "Offense": "All Other Larceny",
-    "OffenseCount": 392
+    "OffenseCount": 400
   },
   {
     "Year": 2025,
     "Precinct": 4,
     "Offense": "All Other Larceny",
-    "OffenseCount": 229
+    "OffenseCount": 236
   },
   {
     "Year": 2025,
     "Precinct": 5,
     "Offense": "All Other Larceny",
-    "OffenseCount": 361
+    "OffenseCount": 366
   },
   {
     "Year": 2025,
@@ -458,36 +458,36 @@
     "Year": 2025,
     "Precinct": 1,
     "Offense": "Theft From Motor Vehicle",
-    "OffenseCount": 313
+    "OffenseCount": 316
   },
   {
     "Year": 2025,
     "Precinct": 2,
     "Offense": "Theft From Motor Vehicle",
-    "OffenseCount": 186
+    "OffenseCount": 189
   },
   {
     "Year": 2025,
     "Precinct": 3,
     "Offense": "Theft From Motor Vehicle",
-    "OffenseCount": 298
+    "OffenseCount": 300
   },
   {
     "Year": 2025,
     "Precinct": 4,
     "Offense": "Theft From Motor Vehicle",
-    "OffenseCount": 71
+    "OffenseCount": 76
   },
   {
     "Year": 2025,
     "Precinct": 5,
     "Offense": "Theft From Motor Vehicle",
-    "OffenseCount": 276
+    "OffenseCount": 284
   },
   {
     "Year": 2025,
     "Offense": "Theft From Motor Vehicle",
-    "OffenseCount": 1
+    "OffenseCount": 2
   },
   {
     "Year": 2019,
@@ -772,19 +772,25 @@
     "Year": 2025,
     "Precinct": 1,
     "Offense": "Purse-snatching",
-    "OffenseCount": 5
+    "OffenseCount": 6
   },
   {
     "Year": 2025,
     "Precinct": 2,
     "Offense": "Purse-snatching",
-    "OffenseCount": 3
+    "OffenseCount": 4
   },
   {
     "Year": 2025,
     "Precinct": 3,
     "Offense": "Purse-snatching",
     "OffenseCount": 3
+  },
+  {
+    "Year": 2025,
+    "Precinct": 4,
+    "Offense": "Purse-snatching",
+    "OffenseCount": 1
   },
   {
     "Year": 2025,
@@ -998,7 +1004,7 @@
     "Year": 2025,
     "Precinct": 3,
     "Offense": "Shoplifting",
-    "OffenseCount": 59
+    "OffenseCount": 61
   },
   {
     "Year": 2025,
@@ -1010,7 +1016,7 @@
     "Year": 2025,
     "Precinct": 5,
     "Offense": "Shoplifting",
-    "OffenseCount": 34
+    "OffenseCount": 35
   },
   {
     "Year": 2019,
@@ -1201,13 +1207,13 @@
     "Year": 2025,
     "Precinct": 1,
     "Offense": "Theft From Building",
-    "OffenseCount": 22
+    "OffenseCount": 24
   },
   {
     "Year": 2025,
     "Precinct": 2,
     "Offense": "Theft From Building",
-    "OffenseCount": 7
+    "OffenseCount": 8
   },
   {
     "Year": 2025,
@@ -1225,7 +1231,7 @@
     "Year": 2025,
     "Precinct": 5,
     "Offense": "Theft From Building",
-    "OffenseCount": 9
+    "OffenseCount": 8
   },
   {
     "Year": 2019,
@@ -1496,7 +1502,7 @@
     "Year": 2025,
     "Precinct": 1,
     "Offense": "Theft of Motor Vehicle Parts or Accessories",
-    "OffenseCount": 18
+    "OffenseCount": 20
   },
   {
     "Year": 2025,

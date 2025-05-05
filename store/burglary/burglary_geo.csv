@@ -9,35 +9,35 @@
 "Camden Industrial","Burglary/Breaking & Entering",2,7,6,5,1,0,0
 "Cedar - Isles - Dean","Burglary/Breaking & Entering",19,52,21,7,16,20,6
 "Cedar Riverside","Burglary/Breaking & Entering",28,46,29,26,30,18,6
-"Central","Burglary/Breaking & Entering",77,104,55,76,84,84,20
+"Central","Burglary/Breaking & Entering",77,104,55,76,84,84,21
 "Cleveland","Burglary/Breaking & Entering",16,28,18,17,18,20,7
 "Columbia Park","Burglary/Breaking & Entering",12,3,7,5,10,6,2
-"Como","Burglary/Breaking & Entering",61,43,32,36,31,29,10
+"Como","Burglary/Breaking & Entering",61,43,32,36,31,29,11
 "Cooper","Burglary/Breaking & Entering",37,37,21,33,41,37,4
 "Corcoran","Burglary/Breaking & Entering",43,63,30,41,40,38,14
 "Diamond Lake","Burglary/Breaking & Entering",40,37,27,22,17,23,7
-"Downtown East","Burglary/Breaking & Entering",21,34,18,20,12,24,8
-"Downtown West","Burglary/Breaking & Entering",100,139,67,81,65,52,10
+"Downtown East","Burglary/Breaking & Entering",21,34,18,20,12,24,7
+"Downtown West","Burglary/Breaking & Entering",100,139,67,81,65,52,9
 "East Bde Maka Ska","Burglary/Breaking & Entering",32,46,21,19,18,23,4
 "East Harriet","Burglary/Breaking & Entering",18,20,9,7,21,33,3
 "East Isles","Burglary/Breaking & Entering",48,72,37,24,54,38,3
 "East Phillips","Burglary/Breaking & Entering",47,73,58,37,32,44,8
-"Elliot Park","Burglary/Breaking & Entering",41,47,32,45,35,51,18
+"Elliot Park","Burglary/Breaking & Entering",41,47,32,45,35,51,19
 "Ericsson","Burglary/Breaking & Entering",51,37,24,17,30,20,4
 "Field","Burglary/Breaking & Entering",26,18,13,15,15,26,3
 "Folwell","Burglary/Breaking & Entering",39,37,25,56,66,74,12
 "Fulton","Burglary/Breaking & Entering",38,23,19,14,6,14,2
 "Hale","Burglary/Breaking & Entering",28,23,11,14,12,11,8
 "Harrison","Burglary/Breaking & Entering",21,21,20,18,22,18,4
-"Hawthorne","Burglary/Breaking & Entering",48,52,32,57,53,48,10
-"Hiawatha","Burglary/Breaking & Entering",51,47,44,66,64,60,19
-"Holland","Burglary/Breaking & Entering",35,25,28,23,28,31,6
+"Hawthorne","Burglary/Breaking & Entering",48,52,32,57,53,48,11
+"Hiawatha","Burglary/Breaking & Entering",51,47,44,66,64,60,20
+"Holland","Burglary/Breaking & Entering",35,25,28,23,28,31,7
 "Howe","Burglary/Breaking & Entering",59,60,35,66,50,57,14
 "Humboldt Industrial Area","Burglary/Breaking & Entering",2,1,1,1,0,1,0
 "Jordan","Burglary/Breaking & Entering",66,68,57,82,101,83,14
 "Keewaydin","Burglary/Breaking & Entering",17,20,12,25,10,22,7
 "Kenny","Burglary/Breaking & Entering",28,24,14,9,8,6,0
-"Kenwood","Burglary/Breaking & Entering",6,9,6,5,4,4,0
+"Kenwood","Burglary/Breaking & Entering",6,9,6,5,4,4,1
 "King Field","Burglary/Breaking & Entering",83,72,50,45,80,89,10
 "Lind - Bohanon","Burglary/Breaking & Entering",70,45,18,20,22,17,7
 "Linden Hills","Burglary/Breaking & Entering",32,38,30,21,16,14,0
@@ -76,7 +76,7 @@
 "Sumner - Glenwood","Burglary/Breaking & Entering",9,8,8,6,2,7,6
 "Tangletown","Burglary/Breaking & Entering",36,44,24,20,29,39,11
 "University of Minnesota","Burglary/Breaking & Entering",10,8,12,11,8,4,1
-"Ventura Village","Burglary/Breaking & Entering",47,64,40,34,34,38,13
+"Ventura Village","Burglary/Breaking & Entering",47,64,40,34,34,38,14
 "Victory","Burglary/Breaking & Entering",32,27,17,16,19,23,5
 "Waite Park","Burglary/Breaking & Entering",51,22,13,16,13,6,4
 "Webber - Camden","Burglary/Breaking & Entering",57,37,23,22,25,33,6
@@ -86,7 +86,7 @@
 "Willard - Hay","Burglary/Breaking & Entering",39,46,32,38,45,31,15
 "Windom","Burglary/Breaking & Entering",32,39,24,28,26,40,4
 "Windom Park","Burglary/Breaking & Entering",34,24,15,14,11,19,4
-NA,"Burglary/Breaking & Entering",1,1,5,5,6,3,2
+NA,"Burglary/Breaking & Entering",1,1,5,5,6,3,1
 "Armatage","Total",16,17,19,6,16,9,1
 "Audubon Park","Total",36,17,19,22,18,12,3
 "Bancroft","Total",60,24,8,16,17,28,1
@@ -97,35 +97,35 @@ NA,"Burglary/Breaking & Entering",1,1,5,5,6,3,2
 "Camden Industrial","Total",2,7,6,5,1,0,0
 "Cedar - Isles - Dean","Total",19,52,21,7,16,20,6
 "Cedar Riverside","Total",28,46,29,26,30,18,6
-"Central","Total",77,104,55,76,84,84,20
+"Central","Total",77,104,55,76,84,84,21
 "Cleveland","Total",16,28,18,17,18,20,7
 "Columbia Park","Total",12,3,7,5,10,6,2
-"Como","Total",61,43,32,36,31,29,10
+"Como","Total",61,43,32,36,31,29,11
 "Cooper","Total",37,37,21,33,41,37,4
 "Corcoran","Total",43,63,30,41,40,38,14
 "Diamond Lake","Total",40,37,27,22,17,23,7
-"Downtown East","Total",21,34,18,20,12,24,8
-"Downtown West","Total",100,139,67,81,65,52,10
+"Downtown East","Total",21,34,18,20,12,24,7
+"Downtown West","Total",100,139,67,81,65,52,9
 "East Bde Maka Ska","Total",32,46,21,19,18,23,4
 "East Harriet","Total",18,20,9,7,21,33,3
 "East Isles","Total",48,72,37,24,54,38,3
 "East Phillips","Total",47,73,58,37,32,44,8
-"Elliot Park","Total",41,47,32,45,35,51,18
+"Elliot Park","Total",41,47,32,45,35,51,19
 "Ericsson","Total",51,37,24,17,30,20,4
 "Field","Total",26,18,13,15,15,26,3
 "Folwell","Total",39,37,25,56,66,74,12
 "Fulton","Total",38,23,19,14,6,14,2
 "Hale","Total",28,23,11,14,12,11,8
 "Harrison","Total",21,21,20,18,22,18,4
-"Hawthorne","Total",48,52,32,57,53,48,10
-"Hiawatha","Total",51,47,44,66,64,60,19
-"Holland","Total",35,25,28,23,28,31,6
+"Hawthorne","Total",48,52,32,57,53,48,11
+"Hiawatha","Total",51,47,44,66,64,60,20
+"Holland","Total",35,25,28,23,28,31,7
 "Howe","Total",59,60,35,66,50,57,14
 "Humboldt Industrial Area","Total",2,1,1,1,0,1,0
 "Jordan","Total",66,68,57,82,101,83,14
 "Keewaydin","Total",17,20,12,25,10,22,7
 "Kenny","Total",28,24,14,9,8,6,0
-"Kenwood","Total",6,9,6,5,4,4,0
+"Kenwood","Total",6,9,6,5,4,4,1
 "King Field","Total",83,72,50,45,80,89,10
 "Lind - Bohanon","Total",70,45,18,20,22,17,7
 "Linden Hills","Total",32,38,30,21,16,14,0
@@ -164,7 +164,7 @@ NA,"Burglary/Breaking & Entering",1,1,5,5,6,3,2
 "Sumner - Glenwood","Total",9,8,8,6,2,7,6
 "Tangletown","Total",36,44,24,20,29,39,11
 "University of Minnesota","Total",10,8,12,11,8,4,1
-"Ventura Village","Total",47,64,40,34,34,38,13
+"Ventura Village","Total",47,64,40,34,34,38,14
 "Victory","Total",32,27,17,16,19,23,5
 "Waite Park","Total",51,22,13,16,13,6,4
 "Webber - Camden","Total",57,37,23,22,25,33,6
@@ -174,4 +174,4 @@ NA,"Burglary/Breaking & Entering",1,1,5,5,6,3,2
 "Willard - Hay","Total",39,46,32,38,45,31,15
 "Windom","Total",32,39,24,28,26,40,4
 "Windom Park","Total",34,24,15,14,11,19,4
-NA,"Total",1,1,5,5,6,3,2
+NA,"Total",1,1,5,5,6,3,1
