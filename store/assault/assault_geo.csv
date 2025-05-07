@@ -21,7 +21,7 @@
 "East Bde Maka Ska","Aggravated Assault",1,0,5,2,4,4,1
 "East Harriet","Aggravated Assault",5,5,7,4,6,4,2
 "East Isles","Aggravated Assault",6,7,11,4,12,10,1
-"East Phillips","Aggravated Assault",73,109,127,106,126,98,23
+"East Phillips","Aggravated Assault",73,109,127,106,126,98,24
 "Elliot Park","Aggravated Assault",60,74,79,74,99,70,33
 "Ericsson","Aggravated Assault",5,6,4,5,5,16,1
 "Field","Aggravated Assault",1,7,7,7,3,3,2
@@ -41,12 +41,12 @@
 "Linden Hills","Aggravated Assault",6,6,4,6,2,4,0
 "Logan Park","Aggravated Assault",2,8,5,13,11,16,9
 "Longfellow","Aggravated Assault",32,34,27,32,45,37,11
-"Loring Park","Aggravated Assault",42,83,91,82,70,74,17
-"Lowry Hill","Aggravated Assault",6,3,8,8,15,9,1
+"Loring Park","Aggravated Assault",42,83,91,82,70,74,19
+"Lowry Hill","Aggravated Assault",6,3,8,8,15,9,2
 "Lowry Hill East","Aggravated Assault",32,55,59,75,83,69,22
 "Lyndale","Aggravated Assault",17,35,32,40,48,80,17
 "Lynnhurst","Aggravated Assault",3,0,0,2,0,2,0
-"Marcy Holmes","Aggravated Assault",54,54,54,51,49,50,13
+"Marcy Holmes","Aggravated Assault",54,54,54,51,49,50,14
 "Marshall Terrace","Aggravated Assault",4,9,5,5,3,16,1
 "McKinley","Aggravated Assault",51,75,70,71,47,23,9
 "Mid - City Industrial","Aggravated Assault",1,1,5,5,3,6,1
@@ -79,11 +79,11 @@
 "Webber - Camden","Aggravated Assault",87,84,101,74,96,72,17
 "Wenonah","Aggravated Assault",19,27,22,33,23,10,6
 "West Maka Ska","Aggravated Assault",8,4,1,8,5,10,0
-"Whittier","Aggravated Assault",99,114,123,168,156,200,45
+"Whittier","Aggravated Assault",99,114,123,168,156,200,49
 "Willard - Hay","Aggravated Assault",128,116,121,101,124,139,29
 "Windom","Aggravated Assault",9,18,25,14,16,14,7
 "Windom Park","Aggravated Assault",12,11,19,13,11,18,6
-NA,"Aggravated Assault",9,14,20,23,21,14,9
+NA,"Aggravated Assault",9,14,20,23,21,14,8
 "Hale","Aggravated Assault",0,1,1,2,1,2,0
 "Page","Aggravated Assault",0,1,1,0,0,3,0
 "Humboldt Industrial Area","Aggravated Assault",0,0,0,1,1,0,1
@@ -109,7 +109,7 @@ NA,"Aggravated Assault",9,14,20,23,21,14,9
 "East Bde Maka Ska","Total",1,0,5,2,4,4,1
 "East Harriet","Total",5,5,7,4,6,4,2
 "East Isles","Total",6,7,11,4,12,10,1
-"East Phillips","Total",73,109,127,106,126,98,23
+"East Phillips","Total",73,109,127,106,126,98,24
 "Elliot Park","Total",60,74,79,74,99,70,33
 "Ericsson","Total",5,6,4,5,5,16,1
 "Field","Total",1,7,7,7,3,3,2
@@ -129,12 +129,12 @@ NA,"Aggravated Assault",9,14,20,23,21,14,9
 "Linden Hills","Total",6,6,4,6,2,4,0
 "Logan Park","Total",2,8,5,13,11,16,9
 "Longfellow","Total",32,34,27,32,45,37,11
-"Loring Park","Total",42,83,91,82,70,74,17
-"Lowry Hill","Total",6,3,8,8,15,9,1
+"Loring Park","Total",42,83,91,82,70,74,19
+"Lowry Hill","Total",6,3,8,8,15,9,2
 "Lowry Hill East","Total",32,55,59,75,83,69,22
 "Lyndale","Total",17,35,32,40,48,80,17
 "Lynnhurst","Total",3,0,0,2,0,2,0
-"Marcy Holmes","Total",54,54,54,51,49,50,13
+"Marcy Holmes","Total",54,54,54,51,49,50,14
 "Marshall Terrace","Total",4,9,5,5,3,16,1
 "McKinley","Total",51,75,70,71,47,23,9
 "Mid - City Industrial","Total",1,1,5,5,3,6,1
@@ -167,11 +167,11 @@ NA,"Aggravated Assault",9,14,20,23,21,14,9
 "Webber - Camden","Total",87,84,101,74,96,72,17
 "Wenonah","Total",19,27,22,33,23,10,6
 "West Maka Ska","Total",8,4,1,8,5,10,0
-"Whittier","Total",99,114,123,168,156,200,45
+"Whittier","Total",99,114,123,168,156,200,49
 "Willard - Hay","Total",128,116,121,101,124,139,29
 "Windom","Total",9,18,25,14,16,14,7
 "Windom Park","Total",12,11,19,13,11,18,6
-NA,"Total",9,14,20,23,21,14,9
+NA,"Total",9,14,20,23,21,14,8
 "Hale","Total",0,1,1,2,1,2,0
 "Page","Total",0,1,1,0,0,3,0
 "Humboldt Industrial Area","Total",0,0,0,1,1,0,1

@@ -1,14 +1,14 @@
 "Neighborhood","Offense","2019","2020","2021","2022","2023","2024","2025"
 "Armatage","Burglary/Breaking & Entering",16,17,19,6,16,9,1
 "Audubon Park","Burglary/Breaking & Entering",36,17,19,22,18,12,3
-"Bancroft","Burglary/Breaking & Entering",60,24,8,16,17,28,1
+"Bancroft","Burglary/Breaking & Entering",60,24,8,16,17,28,2
 "Beltrami","Burglary/Breaking & Entering",8,6,6,1,2,10,0
 "Bottineau","Burglary/Breaking & Entering",7,12,10,14,8,16,1
 "Bryant","Burglary/Breaking & Entering",37,25,19,12,19,19,4
 "Bryn - Mawr","Burglary/Breaking & Entering",16,14,18,7,10,5,4
 "Camden Industrial","Burglary/Breaking & Entering",2,7,6,5,1,0,0
 "Cedar - Isles - Dean","Burglary/Breaking & Entering",19,52,21,7,16,20,6
-"Cedar Riverside","Burglary/Breaking & Entering",28,46,29,26,30,18,6
+"Cedar Riverside","Burglary/Breaking & Entering",28,46,29,26,30,18,7
 "Central","Burglary/Breaking & Entering",77,104,55,76,84,84,21
 "Cleveland","Burglary/Breaking & Entering",16,28,18,17,18,20,7
 "Columbia Park","Burglary/Breaking & Entering",12,3,7,5,10,6,2
@@ -30,7 +30,7 @@
 "Hale","Burglary/Breaking & Entering",28,23,11,14,12,11,8
 "Harrison","Burglary/Breaking & Entering",21,21,20,18,22,18,4
 "Hawthorne","Burglary/Breaking & Entering",48,52,32,57,53,48,11
-"Hiawatha","Burglary/Breaking & Entering",51,47,44,66,64,60,20
+"Hiawatha","Burglary/Breaking & Entering",51,47,44,66,64,60,21
 "Holland","Burglary/Breaking & Entering",35,25,28,23,28,31,7
 "Howe","Burglary/Breaking & Entering",59,60,35,66,50,57,14
 "Humboldt Industrial Area","Burglary/Breaking & Entering",2,1,1,1,0,1,0
@@ -62,16 +62,16 @@
 "Northrop","Burglary/Breaking & Entering",68,58,21,35,28,41,4
 "Page","Burglary/Breaking & Entering",10,20,17,8,4,14,3
 "Phillips West","Burglary/Breaking & Entering",26,39,29,37,30,29,11
-"Powderhorn Park","Burglary/Breaking & Entering",119,113,46,86,65,79,16
+"Powderhorn Park","Burglary/Breaking & Entering",119,113,46,86,65,79,15
 "Prospect Park - East River Road","Burglary/Breaking & Entering",44,63,70,59,32,34,5
-"Regina","Burglary/Breaking & Entering",27,27,12,9,13,22,2
+"Regina","Burglary/Breaking & Entering",27,27,12,9,13,22,3
 "Seward","Burglary/Breaking & Entering",72,90,70,73,99,56,14
 "Sheridan","Burglary/Breaking & Entering",15,22,26,15,16,16,4
 "Shingle Creek","Burglary/Breaking & Entering",17,21,14,3,9,5,2
 "South Uptown","Burglary/Breaking & Entering",63,71,53,45,44,50,11
 "St. Anthony East","Burglary/Breaking & Entering",8,11,9,3,10,7,2
 "St. Anthony West","Burglary/Breaking & Entering",7,14,18,11,6,10,0
-"Standish","Burglary/Breaking & Entering",98,62,42,44,49,39,13
+"Standish","Burglary/Breaking & Entering",98,62,42,44,49,39,14
 "Steven's Square - Loring Heights","Burglary/Breaking & Entering",47,57,27,29,30,31,6
 "Sumner - Glenwood","Burglary/Breaking & Entering",9,8,8,6,2,7,6
 "Tangletown","Burglary/Breaking & Entering",36,44,24,20,29,39,11
@@ -79,7 +79,7 @@
 "Ventura Village","Burglary/Breaking & Entering",47,64,40,34,34,38,14
 "Victory","Burglary/Breaking & Entering",32,27,17,16,19,23,5
 "Waite Park","Burglary/Breaking & Entering",51,22,13,16,13,6,4
-"Webber - Camden","Burglary/Breaking & Entering",57,37,23,22,25,33,6
+"Webber - Camden","Burglary/Breaking & Entering",57,37,23,22,25,33,7
 "Wenonah","Burglary/Breaking & Entering",35,20,21,17,18,26,8
 "West Maka Ska","Burglary/Breaking & Entering",9,55,12,9,6,6,0
 "Whittier","Burglary/Breaking & Entering",147,218,110,118,115,116,25
@@ -89,14 +89,14 @@
 NA,"Burglary/Breaking & Entering",1,1,5,5,6,3,1
 "Armatage","Total",16,17,19,6,16,9,1
 "Audubon Park","Total",36,17,19,22,18,12,3
-"Bancroft","Total",60,24,8,16,17,28,1
+"Bancroft","Total",60,24,8,16,17,28,2
 "Beltrami","Total",8,6,6,1,2,10,0
 "Bottineau","Total",7,12,10,14,8,16,1
 "Bryant","Total",37,25,19,12,19,19,4
 "Bryn - Mawr","Total",16,14,18,7,10,5,4
 "Camden Industrial","Total",2,7,6,5,1,0,0
 "Cedar - Isles - Dean","Total",19,52,21,7,16,20,6
-"Cedar Riverside","Total",28,46,29,26,30,18,6
+"Cedar Riverside","Total",28,46,29,26,30,18,7
 "Central","Total",77,104,55,76,84,84,21
 "Cleveland","Total",16,28,18,17,18,20,7
 "Columbia Park","Total",12,3,7,5,10,6,2
@@ -118,7 +118,7 @@ NA,"Burglary/Breaking & Entering",1,1,5,5,6,3,1
 "Hale","Total",28,23,11,14,12,11,8
 "Harrison","Total",21,21,20,18,22,18,4
 "Hawthorne","Total",48,52,32,57,53,48,11
-"Hiawatha","Total",51,47,44,66,64,60,20
+"Hiawatha","Total",51,47,44,66,64,60,21
 "Holland","Total",35,25,28,23,28,31,7
 "Howe","Total",59,60,35,66,50,57,14
 "Humboldt Industrial Area","Total",2,1,1,1,0,1,0
@@ -150,16 +150,16 @@ NA,"Burglary/Breaking & Entering",1,1,5,5,6,3,1
 "Northrop","Total",68,58,21,35,28,41,4
 "Page","Total",10,20,17,8,4,14,3
 "Phillips West","Total",26,39,29,37,30,29,11
-"Powderhorn Park","Total",119,113,46,86,65,79,16
+"Powderhorn Park","Total",119,113,46,86,65,79,15
 "Prospect Park - East River Road","Total",44,63,70,59,32,34,5
-"Regina","Total",27,27,12,9,13,22,2
+"Regina","Total",27,27,12,9,13,22,3
 "Seward","Total",72,90,70,73,99,56,14
 "Sheridan","Total",15,22,26,15,16,16,4
 "Shingle Creek","Total",17,21,14,3,9,5,2
 "South Uptown","Total",63,71,53,45,44,50,11
 "St. Anthony East","Total",8,11,9,3,10,7,2
 "St. Anthony West","Total",7,14,18,11,6,10,0
-"Standish","Total",98,62,42,44,49,39,13
+"Standish","Total",98,62,42,44,49,39,14
 "Steven's Square - Loring Heights","Total",47,57,27,29,30,31,6
 "Sumner - Glenwood","Total",9,8,8,6,2,7,6
 "Tangletown","Total",36,44,24,20,29,39,11
@@ -167,7 +167,7 @@ NA,"Burglary/Breaking & Entering",1,1,5,5,6,3,1
 "Ventura Village","Total",47,64,40,34,34,38,14
 "Victory","Total",32,27,17,16,19,23,5
 "Waite Park","Total",51,22,13,16,13,6,4
-"Webber - Camden","Total",57,37,23,22,25,33,6
+"Webber - Camden","Total",57,37,23,22,25,33,7
 "Wenonah","Total",35,20,21,17,18,26,8
 "West Maka Ska","Total",9,55,12,9,6,6,0
 "Whittier","Total",147,218,110,118,115,116,25
