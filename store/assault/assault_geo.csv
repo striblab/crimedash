@@ -14,25 +14,25 @@
 "Columbia Park","Aggravated Assault",3,4,12,8,4,6,1
 "Como","Aggravated Assault",16,14,27,28,39,17,7
 "Cooper","Aggravated Assault",6,6,6,4,5,2,0
-"Corcoran","Aggravated Assault",10,21,16,28,36,23,13
+"Corcoran","Aggravated Assault",10,21,16,28,36,23,15
 "Diamond Lake","Aggravated Assault",14,3,5,2,7,2,0
 "Downtown East","Aggravated Assault",9,24,15,22,24,12,2
 "Downtown West","Aggravated Assault",157,132,153,179,160,173,40
 "East Bde Maka Ska","Aggravated Assault",1,0,5,2,4,4,1
 "East Harriet","Aggravated Assault",5,5,7,4,6,4,2
 "East Isles","Aggravated Assault",6,7,11,4,12,10,1
-"East Phillips","Aggravated Assault",73,109,127,106,126,98,24
-"Elliot Park","Aggravated Assault",60,74,79,74,99,70,33
+"East Phillips","Aggravated Assault",73,109,127,106,126,98,25
+"Elliot Park","Aggravated Assault",60,74,79,74,99,70,34
 "Ericsson","Aggravated Assault",5,6,4,5,5,16,1
 "Field","Aggravated Assault",1,7,7,7,3,3,2
-"Folwell","Aggravated Assault",128,155,138,154,115,129,22
+"Folwell","Aggravated Assault",128,155,138,154,115,128,23
 "Fulton","Aggravated Assault",2,2,1,2,0,4,0
-"Harrison","Aggravated Assault",22,34,37,37,41,34,28
+"Harrison","Aggravated Assault",22,34,37,37,41,34,29
 "Hawthorne","Aggravated Assault",172,221,198,181,159,126,43
 "Hiawatha","Aggravated Assault",16,16,13,16,21,24,6
 "Holland","Aggravated Assault",24,32,39,28,40,34,11
 "Howe","Aggravated Assault",11,19,10,12,17,17,5
-"Jordan","Aggravated Assault",132,220,229,199,197,190,56
+"Jordan","Aggravated Assault",132,220,229,199,197,190,62
 "Keewaydin","Aggravated Assault",2,6,2,4,1,2,2
 "Kenny","Aggravated Assault",1,2,1,0,1,1,0
 "Kenwood","Aggravated Assault",1,4,3,4,1,2,0
@@ -58,7 +58,7 @@
 "North Loop","Aggravated Assault",16,26,44,50,49,31,15
 "Northeast Park","Aggravated Assault",5,4,9,9,6,6,0
 "Northrop","Aggravated Assault",3,9,15,9,1,10,1
-"Phillips West","Aggravated Assault",33,56,49,54,46,61,6
+"Phillips West","Aggravated Assault",33,56,49,54,46,61,8
 "Powderhorn Park","Aggravated Assault",48,74,81,78,69,88,27
 "Prospect Park - East River Road","Aggravated Assault",9,14,29,15,26,39,10
 "Regina","Aggravated Assault",6,6,7,10,5,5,0
@@ -73,7 +73,7 @@
 "Sumner - Glenwood","Aggravated Assault",27,33,22,38,23,18,2
 "Tangletown","Aggravated Assault",1,4,10,1,10,7,0
 "University of Minnesota","Aggravated Assault",6,0,3,15,3,9,0
-"Ventura Village","Aggravated Assault",64,86,87,108,123,90,30
+"Ventura Village","Aggravated Assault",64,86,87,108,123,90,31
 "Victory","Aggravated Assault",6,13,22,9,19,26,2
 "Waite Park","Aggravated Assault",15,7,7,2,4,0,1
 "Webber - Camden","Aggravated Assault",87,84,101,74,96,72,17
@@ -102,25 +102,25 @@ NA,"Aggravated Assault",9,14,20,23,21,14,8
 "Columbia Park","Total",3,4,12,8,4,6,1
 "Como","Total",16,14,27,28,39,17,7
 "Cooper","Total",6,6,6,4,5,2,0
-"Corcoran","Total",10,21,16,28,36,23,13
+"Corcoran","Total",10,21,16,28,36,23,15
 "Diamond Lake","Total",14,3,5,2,7,2,0
 "Downtown East","Total",9,24,15,22,24,12,2
 "Downtown West","Total",157,132,153,179,160,173,40
 "East Bde Maka Ska","Total",1,0,5,2,4,4,1
 "East Harriet","Total",5,5,7,4,6,4,2
 "East Isles","Total",6,7,11,4,12,10,1
-"East Phillips","Total",73,109,127,106,126,98,24
-"Elliot Park","Total",60,74,79,74,99,70,33
+"East Phillips","Total",73,109,127,106,126,98,25
+"Elliot Park","Total",60,74,79,74,99,70,34
 "Ericsson","Total",5,6,4,5,5,16,1
 "Field","Total",1,7,7,7,3,3,2
-"Folwell","Total",128,155,138,154,115,129,22
+"Folwell","Total",128,155,138,154,115,128,23
 "Fulton","Total",2,2,1,2,0,4,0
-"Harrison","Total",22,34,37,37,41,34,28
+"Harrison","Total",22,34,37,37,41,34,29
 "Hawthorne","Total",172,221,198,181,159,126,43
 "Hiawatha","Total",16,16,13,16,21,24,6
 "Holland","Total",24,32,39,28,40,34,11
 "Howe","Total",11,19,10,12,17,17,5
-"Jordan","Total",132,220,229,199,197,190,56
+"Jordan","Total",132,220,229,199,197,190,62
 "Keewaydin","Total",2,6,2,4,1,2,2
 "Kenny","Total",1,2,1,0,1,1,0
 "Kenwood","Total",1,4,3,4,1,2,0
@@ -146,7 +146,7 @@ NA,"Aggravated Assault",9,14,20,23,21,14,8
 "North Loop","Total",16,26,44,50,49,31,15
 "Northeast Park","Total",5,4,9,9,6,6,0
 "Northrop","Total",3,9,15,9,1,10,1
-"Phillips West","Total",33,56,49,54,46,61,6
+"Phillips West","Total",33,56,49,54,46,61,8
 "Powderhorn Park","Total",48,74,81,78,69,88,27
 "Prospect Park - East River Road","Total",9,14,29,15,26,39,10
 "Regina","Total",6,6,7,10,5,5,0
@@ -161,7 +161,7 @@ NA,"Aggravated Assault",9,14,20,23,21,14,8
 "Sumner - Glenwood","Total",27,33,22,38,23,18,2
 "Tangletown","Total",1,4,10,1,10,7,0
 "University of Minnesota","Total",6,0,3,15,3,9,0
-"Ventura Village","Total",64,86,87,108,123,90,30
+"Ventura Village","Total",64,86,87,108,123,90,31
 "Victory","Total",6,13,22,9,19,26,2
 "Waite Park","Total",15,7,7,2,4,0,1
 "Webber - Camden","Total",87,84,101,74,96,72,17

@@ -6,7 +6,7 @@
 "Bottineau","Burglary/Breaking & Entering",7,12,10,14,8,16,1
 "Bryant","Burglary/Breaking & Entering",37,25,19,12,19,19,4
 "Bryn - Mawr","Burglary/Breaking & Entering",16,14,18,7,10,5,4
-"Camden Industrial","Burglary/Breaking & Entering",2,7,6,5,1,0,0
+"Camden Industrial","Burglary/Breaking & Entering",2,7,6,5,1,0,1
 "Cedar - Isles - Dean","Burglary/Breaking & Entering",19,52,21,7,16,20,6
 "Cedar Riverside","Burglary/Breaking & Entering",28,46,29,26,30,18,7
 "Central","Burglary/Breaking & Entering",77,104,55,76,84,84,21
@@ -34,7 +34,7 @@
 "Holland","Burglary/Breaking & Entering",35,25,28,23,28,31,7
 "Howe","Burglary/Breaking & Entering",59,60,35,66,50,57,14
 "Humboldt Industrial Area","Burglary/Breaking & Entering",2,1,1,1,0,1,0
-"Jordan","Burglary/Breaking & Entering",66,68,57,82,101,83,14
+"Jordan","Burglary/Breaking & Entering",66,68,57,82,101,83,15
 "Keewaydin","Burglary/Breaking & Entering",17,20,12,25,10,22,7
 "Kenny","Burglary/Breaking & Entering",28,24,14,9,8,6,0
 "Kenwood","Burglary/Breaking & Entering",6,9,6,5,4,4,1
@@ -82,7 +82,7 @@
 "Webber - Camden","Burglary/Breaking & Entering",57,37,23,22,25,33,7
 "Wenonah","Burglary/Breaking & Entering",35,20,21,17,18,26,8
 "West Maka Ska","Burglary/Breaking & Entering",9,55,12,9,6,6,0
-"Whittier","Burglary/Breaking & Entering",147,218,110,118,115,116,25
+"Whittier","Burglary/Breaking & Entering",147,218,110,118,115,116,26
 "Willard - Hay","Burglary/Breaking & Entering",39,46,32,38,45,31,15
 "Windom","Burglary/Breaking & Entering",32,39,24,28,26,40,4
 "Windom Park","Burglary/Breaking & Entering",34,24,15,14,11,19,4
@@ -94,7 +94,7 @@ NA,"Burglary/Breaking & Entering",1,1,5,5,6,3,1
 "Bottineau","Total",7,12,10,14,8,16,1
 "Bryant","Total",37,25,19,12,19,19,4
 "Bryn - Mawr","Total",16,14,18,7,10,5,4
-"Camden Industrial","Total",2,7,6,5,1,0,0
+"Camden Industrial","Total",2,7,6,5,1,0,1
 "Cedar - Isles - Dean","Total",19,52,21,7,16,20,6
 "Cedar Riverside","Total",28,46,29,26,30,18,7
 "Central","Total",77,104,55,76,84,84,21
@@ -122,7 +122,7 @@ NA,"Burglary/Breaking & Entering",1,1,5,5,6,3,1
 "Holland","Total",35,25,28,23,28,31,7
 "Howe","Total",59,60,35,66,50,57,14
 "Humboldt Industrial Area","Total",2,1,1,1,0,1,0
-"Jordan","Total",66,68,57,82,101,83,14
+"Jordan","Total",66,68,57,82,101,83,15
 "Keewaydin","Total",17,20,12,25,10,22,7
 "Kenny","Total",28,24,14,9,8,6,0
 "Kenwood","Total",6,9,6,5,4,4,1
@@ -170,7 +170,7 @@ NA,"Burglary/Breaking & Entering",1,1,5,5,6,3,1
 "Webber - Camden","Total",57,37,23,22,25,33,7
 "Wenonah","Total",35,20,21,17,18,26,8
 "West Maka Ska","Total",9,55,12,9,6,6,0
-"Whittier","Total",147,218,110,118,115,116,25
+"Whittier","Total",147,218,110,118,115,116,26
 "Willard - Hay","Total",39,46,32,38,45,31,15
 "Windom","Total",32,39,24,28,26,40,4
 "Windom Park","Total",34,24,15,14,11,19,4
