@@ -1,6 +1,6 @@
 [
   {
-    "YTDCount": 15,
+    "YTDCount": 17,
     "Year": 2019,
     "Offense": "Arson"
   },
@@ -8,8 +8,8 @@
     "YTDCount": 23,
     "Year": 2020,
     "Offense": "Arson",
-    "PrevYTDCount": 15,
-    "YTDPercentageChange": 53.3333
+    "PrevYTDCount": 17,
+    "YTDPercentageChange": 35.2941
   },
   {
     "YTDCount": 29,
@@ -40,10 +40,10 @@
     "YTDPercentageChange": -2.2222
   },
   {
-    "YTDCount": 30,
+    "YTDCount": 31,
     "Year": 2025,
     "Offense": "Arson",
     "PrevYTDCount": 44,
-    "YTDPercentageChange": -31.8182
+    "YTDPercentageChange": -29.5455
   }
 ]
