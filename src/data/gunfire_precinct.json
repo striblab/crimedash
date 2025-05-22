@@ -3,25 +3,25 @@
     "Year": 2019,
     "Precinct": 1,
     "Offense": "Shooting (PFE)",
-    "OffenseCount": 22
+    "OffenseCount": 20
   },
   {
     "Year": 2019,
     "Precinct": 2,
     "Offense": "Shooting (PFE)",
-    "OffenseCount": 10
+    "OffenseCount": 9
   },
   {
     "Year": 2019,
     "Precinct": 3,
     "Offense": "Shooting (PFE)",
-    "OffenseCount": 43
+    "OffenseCount": 38
   },
   {
     "Year": 2019,
     "Precinct": 4,
     "Offense": "Shooting (PFE)",
-    "OffenseCount": 99
+    "OffenseCount": 97
   },
   {
     "Year": 2019,
@@ -215,13 +215,13 @@
     "Year": 2025,
     "Precinct": 3,
     "Offense": "Shooting (PFE)",
-    "OffenseCount": 27
+    "OffenseCount": 29
   },
   {
     "Year": 2025,
     "Precinct": 4,
     "Offense": "Shooting (PFE)",
-    "OffenseCount": 36
+    "OffenseCount": 37
   },
   {
     "Year": 2025,
@@ -233,7 +233,7 @@
     "Year": 2019,
     "Precinct": 1,
     "Offense": "Shooting Report Only (P)",
-    "OffenseCount": 15
+    "OffenseCount": 13
   },
   {
     "Year": 2019,
@@ -461,7 +461,7 @@
     "Year": 2025,
     "Precinct": 4,
     "Offense": "Shooting Report Only (P)",
-    "OffenseCount": 17
+    "OffenseCount": 19
   },
   {
     "Year": 2019,
@@ -473,19 +473,19 @@
     "Year": 2019,
     "Precinct": 3,
     "Offense": "ShotSpotter Activation (P)",
-    "OffenseCount": 273
+    "OffenseCount": 270
   },
   {
     "Year": 2019,
     "Precinct": 4,
     "Offense": "ShotSpotter Activation (P)",
-    "OffenseCount": 979
+    "OffenseCount": 968
   },
   {
     "Year": 2019,
     "Precinct": 5,
     "Offense": "ShotSpotter Activation (P)",
-    "OffenseCount": 4
+    "OffenseCount": 3
   },
   {
     "Year": 2019,
@@ -671,19 +671,19 @@
     "Year": 2025,
     "Precinct": 3,
     "Offense": "ShotSpotter Activation (P)",
-    "OffenseCount": 150
+    "OffenseCount": 152
   },
   {
     "Year": 2025,
     "Precinct": 4,
     "Offense": "ShotSpotter Activation (P)",
-    "OffenseCount": 553
+    "OffenseCount": 575
   },
   {
     "Year": 2025,
     "Precinct": 5,
     "Offense": "ShotSpotter Activation (P)",
-    "OffenseCount": 58
+    "OffenseCount": 61
   },
   {
     "Year": 2025,
@@ -694,31 +694,31 @@
     "Year": 2019,
     "Precinct": 1,
     "Offense": "Sound of Shots Fired (P)",
-    "OffenseCount": 112
+    "OffenseCount": 105
   },
   {
     "Year": 2019,
     "Precinct": 2,
     "Offense": "Sound of Shots Fired (P)",
-    "OffenseCount": 102
+    "OffenseCount": 101
   },
   {
     "Year": 2019,
     "Precinct": 3,
     "Offense": "Sound of Shots Fired (P)",
-    "OffenseCount": 507
+    "OffenseCount": 496
   },
   {
     "Year": 2019,
     "Precinct": 4,
     "Offense": "Sound of Shots Fired (P)",
-    "OffenseCount": 721
+    "OffenseCount": 702
   },
   {
     "Year": 2019,
     "Precinct": 5,
     "Offense": "Sound of Shots Fired (P)",
-    "OffenseCount": 161
+    "OffenseCount": 160
   },
   {
     "Year": 2019,
@@ -904,35 +904,35 @@
     "Year": 2025,
     "Precinct": 1,
     "Offense": "Sound of Shots Fired (P)",
-    "OffenseCount": 50
+    "OffenseCount": 53
   },
   {
     "Year": 2025,
     "Precinct": 2,
     "Offense": "Sound of Shots Fired (P)",
-    "OffenseCount": 74
+    "OffenseCount": 79
   },
   {
     "Year": 2025,
     "Precinct": 3,
     "Offense": "Sound of Shots Fired (P)",
-    "OffenseCount": 244
+    "OffenseCount": 253
   },
   {
     "Year": 2025,
     "Precinct": 4,
     "Offense": "Sound of Shots Fired (P)",
-    "OffenseCount": 196
+    "OffenseCount": 204
   },
   {
     "Year": 2025,
     "Precinct": 5,
     "Offense": "Sound of Shots Fired (P)",
-    "OffenseCount": 140
+    "OffenseCount": 146
   },
   {
     "Year": 2025,
     "Offense": "Sound of Shots Fired (P)",
-    "OffenseCount": 1
+    "OffenseCount": 2
   }
 ]

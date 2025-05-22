@@ -11,7 +11,7 @@
 "Elliot Park","Gunshot Wound Victims",8,14,14,6,9,7,4
 "Folwell","Gunshot Wound Victims",18,28,33,35,23,33,5
 "Harrison","Gunshot Wound Victims",2,7,10,4,4,5,0
-"Hawthorne","Gunshot Wound Victims",34,71,65,57,33,15,6
+"Hawthorne","Gunshot Wound Victims",34,71,65,57,33,15,7
 "Holland","Gunshot Wound Victims",2,0,2,7,0,5,0
 "Jordan","Gunshot Wound Victims",18,62,51,33,29,21,6
 "Lind - Bohanon","Gunshot Wound Victims",9,11,20,9,3,3,3
@@ -23,7 +23,7 @@
 "Near - North","Gunshot Wound Victims",13,40,38,36,20,16,6
 "North Loop","Gunshot Wound Victims",2,2,3,6,4,4,1
 "Northeast Park","Gunshot Wound Victims",2,0,1,1,0,1,0
-"Phillips West","Gunshot Wound Victims",11,7,17,9,3,20,1
+"Phillips West","Gunshot Wound Victims",11,7,17,9,3,20,2
 "Powderhorn Park","Gunshot Wound Victims",2,26,16,19,6,6,3
 "Prospect Park - East River Road","Gunshot Wound Victims",2,0,3,1,2,1,0
 "Seward","Gunshot Wound Victims",9,4,10,5,18,7,3
@@ -64,7 +64,7 @@ NA,"Gunshot Wound Victims",0,3,6,4,6,3,0
 "Marshall Terrace","Gunshot Wound Victims",0,0,2,0,0,4,0
 "Nicollet Island - East Bank","Gunshot Wound Victims",0,0,2,1,1,0,0
 "St. Anthony West","Gunshot Wound Victims",0,0,2,7,3,0,0
-"Victory","Gunshot Wound Victims",0,0,4,2,4,2,0
+"Victory","Gunshot Wound Victims",0,0,4,2,4,2,1
 "Windom Park","Gunshot Wound Victims",0,0,2,0,0,0,0
 "Diamond Lake","Gunshot Wound Victims",0,0,0,1,1,0,0
 "Ericsson","Gunshot Wound Victims",0,0,0,1,0,1,0
@@ -90,7 +90,7 @@ NA,"Gunshot Wound Victims",0,3,6,4,6,3,0
 "Elliot Park","Total",8,14,14,6,9,7,4
 "Folwell","Total",18,28,33,35,23,33,5
 "Harrison","Total",2,7,10,4,4,5,0
-"Hawthorne","Total",34,71,65,57,33,15,6
+"Hawthorne","Total",34,71,65,57,33,15,7
 "Holland","Total",2,0,2,7,0,5,0
 "Jordan","Total",18,62,51,33,29,21,6
 "Lind - Bohanon","Total",9,11,20,9,3,3,3
@@ -102,7 +102,7 @@ NA,"Gunshot Wound Victims",0,3,6,4,6,3,0
 "Near - North","Total",13,40,38,36,20,16,6
 "North Loop","Total",2,2,3,6,4,4,1
 "Northeast Park","Total",2,0,1,1,0,1,0
-"Phillips West","Total",11,7,17,9,3,20,1
+"Phillips West","Total",11,7,17,9,3,20,2
 "Powderhorn Park","Total",2,26,16,19,6,6,3
 "Prospect Park - East River Road","Total",2,0,3,1,2,1,0
 "Seward","Total",9,4,10,5,18,7,3
@@ -143,7 +143,7 @@ NA,"Total",0,3,6,4,6,3,0
 "Marshall Terrace","Total",0,0,2,0,0,4,0
 "Nicollet Island - East Bank","Total",0,0,2,1,1,0,0
 "St. Anthony West","Total",0,0,2,7,3,0,0
-"Victory","Total",0,0,4,2,4,2,0
+"Victory","Total",0,0,4,2,4,2,1
 "Windom Park","Total",0,0,2,0,0,0,0
 "Diamond Lake","Total",0,0,0,1,1,0,0
 "Ericsson","Total",0,0,0,1,0,1,0
