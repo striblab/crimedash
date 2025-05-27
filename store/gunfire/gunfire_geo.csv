@@ -5,14 +5,14 @@
 "Cleveland","Shooting (PFE)",3,3,3,4,2,11,1
 "Downtown West","Shooting (PFE)",14,25,21,34,11,22,2
 "East Harriet","Shooting (PFE)",1,0,2,0,1,0,0
-"East Isles","Shooting (PFE)",1,0,2,1,5,0,0
+"East Isles","Shooting (PFE)",1,0,2,1,5,0,1
 "East Phillips","Shooting (PFE)",8,30,32,20,17,20,3
 "Elliot Park","Shooting (PFE)",1,6,11,6,11,6,4
 "Folwell","Shooting (PFE)",10,20,21,24,21,29,2
 "Harrison","Shooting (PFE)",1,8,8,6,4,6,0
 "Hawthorne","Shooting (PFE)",24,53,42,36,27,10,8
 "Holland","Shooting (PFE)",3,0,1,7,1,5,0
-"Jordan","Shooting (PFE)",15,42,37,39,25,20,7
+"Jordan","Shooting (PFE)",14,42,37,39,25,20,7
 "Keewaydin","Shooting (PFE)",1,1,0,0,0,1,0
 "Lind - Bohanon","Shooting (PFE)",7,10,17,9,3,3,4
 "Longfellow","Shooting (PFE)",2,6,4,1,5,6,2
@@ -32,7 +32,7 @@
 "Steven's Square - Loring Heights","Shooting (PFE)",1,8,11,12,8,6,0
 "Sumner - Glenwood","Shooting (PFE)",1,2,5,2,1,0,0
 "University of Minnesota","Shooting (PFE)",1,0,0,2,0,1,0
-"Ventura Village","Shooting (PFE)",6,26,28,22,20,15,5
+"Ventura Village","Shooting (PFE)",5,26,28,22,20,15,5
 "Webber - Camden","Shooting (PFE)",12,14,13,6,10,2,3
 "Whittier","Shooting (PFE)",1,8,15,15,23,24,5
 "Willard - Hay","Shooting (PFE)",11,15,23,10,12,11,5
@@ -88,7 +88,7 @@ NA,"Shooting (PFE)",0,2,1,2,1,0,0
 "Cleveland","Shooting Report Only (P)",1,1,4,0,0,1,0
 "Downtown West","Shooting Report Only (P)",2,7,3,3,3,3,0
 "East Phillips","Shooting Report Only (P)",1,10,7,6,1,3,0
-"Elliot Park","Shooting Report Only (P)",9,52,76,46,40,32,3
+"Elliot Park","Shooting Report Only (P)",8,52,76,46,40,32,3
 "Folwell","Shooting Report Only (P)",2,8,7,7,4,8,4
 "Hawthorne","Shooting Report Only (P)",1,15,23,11,8,5,0
 "Jordan","Shooting Report Only (P)",2,18,10,3,7,3,2
@@ -102,7 +102,6 @@ NA,"Shooting (PFE)",0,2,1,2,1,0,0
 "Sheridan","Shooting Report Only (P)",1,0,0,0,0,1,0
 "Sumner - Glenwood","Shooting Report Only (P)",1,1,2,1,0,0,0
 "Ventura Village","Shooting Report Only (P)",1,4,4,2,5,1,1
-"Webber - Camden","Shooting Report Only (P)",1,6,7,5,3,3,2
 "Willard - Hay","Shooting Report Only (P)",10,33,48,21,17,17,9
 NA,"Shooting Report Only (P)",1,9,11,13,10,9,0
 "Harrison","Shooting Report Only (P)",0,1,1,1,1,0,0
@@ -118,6 +117,7 @@ NA,"Shooting Report Only (P)",1,9,11,13,10,9,0
 "Powderhorn Park","Shooting Report Only (P)",0,7,3,3,0,0,2
 "Regina","Shooting Report Only (P)",0,1,0,0,0,0,0
 "South Uptown","Shooting Report Only (P)",0,1,0,0,1,0,0
+"Webber - Camden","Shooting Report Only (P)",0,6,7,5,3,3,2
 "Whittier","Shooting Report Only (P)",0,3,1,3,3,7,0
 "Cooper","Shooting Report Only (P)",0,0,1,1,0,0,0
 "Downtown East","Shooting Report Only (P)",0,0,1,1,0,0,0
@@ -145,40 +145,40 @@ NA,"Shooting Report Only (P)",1,9,11,13,10,9,0
 "Diamond Lake","Shooting Report Only (P)",0,0,0,0,0,1,0
 "Keewaydin","Shooting Report Only (P)",0,0,0,0,0,0,1
 "Bancroft","ShotSpotter Activation (P)",3,18,16,4,0,3,0
-"Bryant","ShotSpotter Activation (P)",4,30,34,14,18,4,1
-"Camden Industrial","ShotSpotter Activation (P)",9,9,14,16,58,49,10
-"Central","ShotSpotter Activation (P)",77,301,218,174,140,126,38
+"Bryant","ShotSpotter Activation (P)",4,30,34,14,18,4,2
+"Camden Industrial","ShotSpotter Activation (P)",9,9,14,16,58,49,11
+"Central","ShotSpotter Activation (P)",75,301,218,174,140,126,39
 "Cleveland","ShotSpotter Activation (P)",44,145,246,190,113,126,32
 "Corcoran","ShotSpotter Activation (P)",3,3,12,2,5,1,1
 "East Phillips","ShotSpotter Activation (P)",67,131,174,180,112,105,26
-"Folwell","ShotSpotter Activation (P)",155,486,657,381,304,263,48
-"Harrison","ShotSpotter Activation (P)",20,78,55,43,49,36,16
-"Hawthorne","ShotSpotter Activation (P)",142,465,623,473,270,244,78
+"Folwell","ShotSpotter Activation (P)",151,486,657,381,304,263,51
+"Harrison","ShotSpotter Activation (P)",20,78,55,43,49,36,17
+"Hawthorne","ShotSpotter Activation (P)",134,465,623,473,270,244,83
 "Humboldt Industrial Area","ShotSpotter Activation (P)",1,6,6,8,5,5,0
-"Jordan","ShotSpotter Activation (P)",175,647,880,696,517,451,119
+"Jordan","ShotSpotter Activation (P)",172,647,880,696,517,451,124
 "King Field","ShotSpotter Activation (P)",1,0,1,0,0,0,0
-"Lind - Bohanon","ShotSpotter Activation (P)",28,227,397,230,156,156,51
+"Lind - Bohanon","ShotSpotter Activation (P)",28,227,397,230,156,156,52
 "Longfellow","ShotSpotter Activation (P)",1,1,0,1,1,2,0
 "Lyndale","ShotSpotter Activation (P)",1,2,1,2,0,0,0
 "Lynnhurst","ShotSpotter Activation (P)",1,0,0,0,0,0,0
 "McKinley","ShotSpotter Activation (P)",67,246,347,213,142,84,30
-"Midtown Phillips","ShotSpotter Activation (P)",30,115,150,168,91,124,34
-"Near - North","ShotSpotter Activation (P)",114,329,487,386,289,207,42
-"North Loop","ShotSpotter Activation (P)",1,5,5,2,1,1,0
+"Midtown Phillips","ShotSpotter Activation (P)",29,115,150,168,91,124,35
+"Near - North","ShotSpotter Activation (P)",112,329,487,386,289,207,45
 "Northrop","ShotSpotter Activation (P)",1,0,0,1,0,0,0
 "Phillips West","ShotSpotter Activation (P)",26,81,119,57,47,50,14
-"Powderhorn Park","ShotSpotter Activation (P)",6,35,24,31,13,23,8
+"Powderhorn Park","ShotSpotter Activation (P)",5,35,24,31,13,23,8
 "Sumner - Glenwood","ShotSpotter Activation (P)",15,24,35,16,27,20,0
 "Ventura Village","ShotSpotter Activation (P)",52,117,102,70,99,87,30
-"Webber - Camden","ShotSpotter Activation (P)",68,252,339,277,200,147,38
-"Willard - Hay","ShotSpotter Activation (P)",130,494,661,521,377,277,108
+"Webber - Camden","ShotSpotter Activation (P)",68,252,339,277,200,147,39
+"Willard - Hay","ShotSpotter Activation (P)",128,494,661,521,377,277,111
 NA,"ShotSpotter Activation (P)",3,4,16,7,6,3,4
 "Audubon Park","ShotSpotter Activation (P)",0,1,0,0,0,0,0
 "Bryn - Mawr","ShotSpotter Activation (P)",0,1,0,0,0,0,0
 "Downtown West","ShotSpotter Activation (P)",0,1,0,0,0,0,0
+"North Loop","ShotSpotter Activation (P)",0,5,5,2,1,1,0
 "Seward","ShotSpotter Activation (P)",0,1,1,0,1,0,0
 "Shingle Creek","ShotSpotter Activation (P)",0,6,13,5,2,1,1
-"Steven's Square - Loring Heights","ShotSpotter Activation (P)",0,1,0,0,0,7,35
+"Steven's Square - Loring Heights","ShotSpotter Activation (P)",0,1,0,0,0,7,36
 "Victory","ShotSpotter Activation (P)",0,3,8,3,8,3,2
 "Whittier","ShotSpotter Activation (P)",0,7,6,1,5,7,26
 "Cooper","ShotSpotter Activation (P)",0,0,1,0,0,0,0
@@ -192,8 +192,8 @@ NA,"ShotSpotter Activation (P)",3,4,16,7,6,3,4
 "Windom","ShotSpotter Activation (P)",0,0,0,0,0,1,0
 "Loring Park","ShotSpotter Activation (P)",0,0,0,0,0,0,16
 "Armatage","Sound of Shots Fired (P)",7,11,4,5,2,5,1
-"Audubon Park","Sound of Shots Fired (P)",4,13,9,10,3,14,4
-"Bancroft","Sound of Shots Fired (P)",24,89,58,33,32,18,9
+"Audubon Park","Sound of Shots Fired (P)",3,13,9,10,3,14,4
+"Bancroft","Sound of Shots Fired (P)",24,89,58,33,32,18,10
 "Beltrami","Sound of Shots Fired (P)",3,5,10,9,5,1,1
 "Bottineau","Sound of Shots Fired (P)",5,10,15,17,11,24,6
 "Bryant","Sound of Shots Fired (P)",16,83,68,38,29,22,9
@@ -201,167 +201,167 @@ NA,"ShotSpotter Activation (P)",3,4,16,7,6,3,4
 "Camden Industrial","Sound of Shots Fired (P)",1,3,3,3,1,2,2
 "Cedar - Isles - Dean","Sound of Shots Fired (P)",3,3,7,9,7,6,1
 "Cedar Riverside","Sound of Shots Fired (P)",14,39,52,65,46,47,9
-"Central","Sound of Shots Fired (P)",60,163,135,88,69,71,20
+"Central","Sound of Shots Fired (P)",59,163,135,88,69,71,21
 "Cleveland","Sound of Shots Fired (P)",32,91,108,60,31,61,8
 "Columbia Park","Sound of Shots Fired (P)",2,8,2,12,8,19,7
-"Como","Sound of Shots Fired (P)",7,21,38,18,24,28,9
+"Como","Sound of Shots Fired (P)",7,21,38,18,24,28,10
 "Cooper","Sound of Shots Fired (P)",13,29,18,14,9,18,10
 "Corcoran","Sound of Shots Fired (P)",18,47,46,76,48,44,14
-"Diamond Lake","Sound of Shots Fired (P)",11,6,11,13,1,1,0
-"Downtown West","Sound of Shots Fired (P)",37,54,90,91,47,43,10
+"Diamond Lake","Sound of Shots Fired (P)",11,6,11,13,1,1,1
+"Downtown West","Sound of Shots Fired (P)",35,54,90,91,47,43,10
 "East Bde Maka Ska","Sound of Shots Fired (P)",1,9,11,8,15,7,6
 "East Harriet","Sound of Shots Fired (P)",6,8,7,6,4,9,0
 "East Isles","Sound of Shots Fired (P)",8,15,30,25,18,19,2
-"East Phillips","Sound of Shots Fired (P)",52,121,125,103,97,93,22
-"Elliot Park","Sound of Shots Fired (P)",21,54,78,58,49,50,11
+"East Phillips","Sound of Shots Fired (P)",49,121,125,103,97,93,22
+"Elliot Park","Sound of Shots Fired (P)",21,54,78,58,49,50,12
 "Ericsson","Sound of Shots Fired (P)",5,8,6,12,9,14,8
 "Field","Sound of Shots Fired (P)",2,13,8,6,7,6,3
-"Folwell","Sound of Shots Fired (P)",65,238,261,143,76,83,21
+"Folwell","Sound of Shots Fired (P)",64,238,261,143,76,83,23
 "Fulton","Sound of Shots Fired (P)",3,6,5,6,6,4,3
 "Hale","Sound of Shots Fired (P)",2,2,4,3,7,1,0
 "Harrison","Sound of Shots Fired (P)",31,62,88,60,39,29,13
-"Hawthorne","Sound of Shots Fired (P)",107,342,378,245,156,127,27
+"Hawthorne","Sound of Shots Fired (P)",98,342,378,245,156,127,27
 "Hiawatha","Sound of Shots Fired (P)",14,33,30,16,17,27,9
 "Holland","Sound of Shots Fired (P)",10,26,32,42,27,30,7
-"Howe","Sound of Shots Fired (P)",19,41,21,32,31,41,16
+"Howe","Sound of Shots Fired (P)",19,41,21,32,31,41,18
 "Humboldt Industrial Area","Sound of Shots Fired (P)",3,7,6,1,2,1,2
-"Jordan","Sound of Shots Fired (P)",73,302,324,250,148,137,23
+"Jordan","Sound of Shots Fired (P)",71,302,324,250,148,137,24
 "Keewaydin","Sound of Shots Fired (P)",3,14,6,15,11,4,3
 "Kenwood","Sound of Shots Fired (P)",3,6,5,4,10,7,1
 "King Field","Sound of Shots Fired (P)",18,59,40,39,25,23,6
-"Lind - Bohanon","Sound of Shots Fired (P)",78,110,178,111,59,66,14
+"Lind - Bohanon","Sound of Shots Fired (P)",78,110,178,111,59,66,15
 "Linden Hills","Sound of Shots Fired (P)",2,13,15,9,8,4,3
 "Logan Park","Sound of Shots Fired (P)",2,11,9,9,15,9,8
 "Longfellow","Sound of Shots Fired (P)",12,62,45,34,28,49,8
-"Loring Park","Sound of Shots Fired (P)",21,83,139,141,68,61,14
+"Loring Park","Sound of Shots Fired (P)",20,83,139,141,68,61,14
 "Lowry Hill","Sound of Shots Fired (P)",1,11,39,32,16,19,3
-"Lowry Hill East","Sound of Shots Fired (P)",19,55,86,98,92,76,19
-"Lyndale","Sound of Shots Fired (P)",14,60,51,70,64,55,16
+"Lowry Hill East","Sound of Shots Fired (P)",19,55,86,98,92,76,21
+"Lyndale","Sound of Shots Fired (P)",13,60,51,70,64,55,16
 "Lynnhurst","Sound of Shots Fired (P)",3,5,3,7,7,6,1
 "Marcy Holmes","Sound of Shots Fired (P)",15,70,74,50,47,44,14
 "Marshall Terrace","Sound of Shots Fired (P)",8,8,10,8,7,6,1
 "McKinley","Sound of Shots Fired (P)",33,91,92,55,41,29,8
 "Mid - City Industrial","Sound of Shots Fired (P)",3,2,6,3,1,2,1
-"Midtown Phillips","Sound of Shots Fired (P)",45,115,153,161,49,109,26
+"Midtown Phillips","Sound of Shots Fired (P)",44,115,153,161,49,109,27
 "Minnehaha","Sound of Shots Fired (P)",4,19,16,20,8,11,5
 "Morris Park","Sound of Shots Fired (P)",10,6,10,7,4,2,2
-"Near - North","Sound of Shots Fired (P)",56,212,209,220,116,91,18
+"Near - North","Sound of Shots Fired (P)",53,212,209,220,116,91,18
 "Nicollet Island - East Bank","Sound of Shots Fired (P)",4,4,6,4,4,3,1
 "North Loop","Sound of Shots Fired (P)",8,20,44,23,12,16,5
-"Northeast Park","Sound of Shots Fired (P)",1,8,4,4,4,7,2
-"Northrop","Sound of Shots Fired (P)",9,27,20,26,9,10,7
+"Northeast Park","Sound of Shots Fired (P)",1,8,4,4,4,7,3
+"Northrop","Sound of Shots Fired (P)",9,27,20,26,9,10,8
 "Page","Sound of Shots Fired (P)",2,6,5,0,2,9,3
 "Phillips West","Sound of Shots Fired (P)",14,54,70,57,26,52,2
 "Powderhorn Park","Sound of Shots Fired (P)",49,295,232,174,106,126,15
-"Prospect Park - East River Road","Sound of Shots Fired (P)",13,30,28,32,20,34,8
+"Prospect Park - East River Road","Sound of Shots Fired (P)",12,30,28,32,20,34,8
 "Regina","Sound of Shots Fired (P)",9,39,22,19,8,11,4
 "Seward","Sound of Shots Fired (P)",28,51,92,84,73,54,19
 "Sheridan","Sound of Shots Fired (P)",5,15,17,10,17,12,1
 "Shingle Creek","Sound of Shots Fired (P)",15,57,45,27,22,18,3
 "South Uptown","Sound of Shots Fired (P)",15,26,31,39,36,35,7
 "St. Anthony East","Sound of Shots Fired (P)",5,12,9,15,2,12,4
-"St. Anthony West","Sound of Shots Fired (P)",2,14,19,13,11,11,2
+"St. Anthony West","Sound of Shots Fired (P)",2,14,19,13,11,11,3
 "Standish","Sound of Shots Fired (P)",15,37,43,28,21,23,7
 "Steven's Square - Loring Heights","Sound of Shots Fired (P)",16,72,120,159,96,81,17
-"Sumner - Glenwood","Sound of Shots Fired (P)",5,10,14,17,17,14,2
+"Sumner - Glenwood","Sound of Shots Fired (P)",5,10,14,17,17,14,3
 "Tangletown","Sound of Shots Fired (P)",2,12,11,4,8,6,2
 "University of Minnesota","Sound of Shots Fired (P)",5,7,4,10,5,5,2
 "Ventura Village","Sound of Shots Fired (P)",52,120,117,102,88,101,30
 "Victory","Sound of Shots Fired (P)",12,75,111,93,50,55,7
 "Waite Park","Sound of Shots Fired (P)",7,8,10,6,12,10,1
 "Webber - Camden","Sound of Shots Fired (P)",72,193,157,120,85,83,9
-"Wenonah","Sound of Shots Fired (P)",8,22,35,40,27,12,2
-"West Maka Ska","Sound of Shots Fired (P)",5,6,6,6,8,2,5
-"Whittier","Sound of Shots Fired (P)",30,129,185,224,216,240,52
-"Willard - Hay","Sound of Shots Fired (P)",102,285,293,203,122,147,44
+"Wenonah","Sound of Shots Fired (P)",6,22,35,40,27,12,2
+"West Maka Ska","Sound of Shots Fired (P)",4,6,6,6,8,2,5
+"Whittier","Sound of Shots Fired (P)",29,129,185,224,216,240,57
+"Willard - Hay","Sound of Shots Fired (P)",98,285,293,203,122,147,44
 "Windom","Sound of Shots Fired (P)",4,10,23,21,20,10,1
 "Windom Park","Sound of Shots Fired (P)",4,12,9,13,9,7,1
 NA,"Sound of Shots Fired (P)",2,2,3,2,2,4,2
 "Downtown East","Sound of Shots Fired (P)",0,16,7,12,15,4,3
 "Kenny","Sound of Shots Fired (P)",0,5,3,1,1,1,0
 "Armatage","Total",7,11,5,5,2,5,1
-"Audubon Park","Total",4,16,11,10,3,15,4
-"Bancroft","Total",27,109,77,39,33,23,9
+"Audubon Park","Total",3,16,11,10,3,15,4
+"Bancroft","Total",27,109,77,39,33,23,10
 "Beltrami","Total",3,5,11,10,5,1,1
 "Bottineau","Total",5,11,15,17,11,25,6
-"Bryant","Total",20,115,107,56,47,27,10
+"Bryant","Total",20,115,107,56,47,27,11
 "Bryn - Mawr","Total",18,14,28,17,14,15,3
-"Camden Industrial","Total",10,12,18,20,62,51,12
+"Camden Industrial","Total",10,12,18,20,62,51,13
 "Cedar - Isles - Dean","Total",4,4,7,9,7,6,2
 "Cedar Riverside","Total",19,49,67,83,55,53,10
-"Central","Total",150,479,365,273,217,206,61
+"Central","Total",147,479,365,273,217,206,63
 "Cleveland","Total",80,240,361,254,146,199,41
 "Columbia Park","Total",2,8,3,12,10,20,7
-"Como","Total",7,21,41,23,26,30,10
+"Como","Total",7,21,41,23,26,30,11
 "Cooper","Total",13,29,20,16,10,18,10
 "Corcoran","Total",21,59,60,81,57,46,16
-"Diamond Lake","Total",11,6,11,15,2,2,0
-"Downtown West","Total",53,87,114,128,61,68,12
+"Diamond Lake","Total",11,6,11,15,2,2,1
+"Downtown West","Total",51,87,114,128,61,68,12
 "East Bde Maka Ska","Total",1,9,11,8,16,7,7
 "East Harriet","Total",7,8,10,6,5,9,0
-"East Isles","Total",9,15,33,26,23,19,2
-"East Phillips","Total",128,292,338,309,227,221,51
-"Elliot Park","Total",31,112,165,110,100,88,18
+"East Isles","Total",9,15,33,26,23,19,3
+"East Phillips","Total",125,292,338,309,227,221,51
+"Elliot Park","Total",30,112,165,110,100,88,19
 "Ericsson","Total",5,8,6,13,10,16,8
 "Field","Total",2,13,11,7,7,6,3
-"Folwell","Total",232,752,946,555,405,383,75
+"Folwell","Total",227,752,946,555,405,383,80
 "Fulton","Total",3,6,5,6,6,4,3
 "Hale","Total",2,2,5,3,8,1,0
-"Harrison","Total",52,149,152,110,93,71,29
-"Hawthorne","Total",274,875,1066,765,461,386,113
+"Harrison","Total",52,149,152,110,93,71,30
+"Hawthorne","Total",257,875,1066,765,461,386,118
 "Hiawatha","Total",14,39,31,20,19,30,9
 "Holland","Total",13,26,34,49,30,35,7
-"Howe","Total",19,44,26,33,31,43,16
+"Howe","Total",19,44,26,33,31,43,18
 "Humboldt Industrial Area","Total",4,14,12,10,7,6,2
-"Jordan","Total",265,1009,1251,988,697,611,151
+"Jordan","Total",259,1009,1251,988,697,611,157
 "Keewaydin","Total",4,15,6,15,12,5,4
 "Kenwood","Total",3,6,5,4,10,7,1
 "King Field","Total",20,60,41,42,25,25,7
-"Lind - Bohanon","Total",114,349,598,351,220,225,70
+"Lind - Bohanon","Total",114,349,598,351,220,225,72
 "Linden Hills","Total",2,14,15,9,9,4,3
 "Logan Park","Total",2,11,9,10,15,11,8
 "Longfellow","Total",15,70,49,36,35,57,10
-"Loring Park","Total",22,90,149,161,77,73,31
+"Loring Park","Total",21,90,149,161,77,73,31
 "Lowry Hill","Total",1,12,39,33,17,20,4
-"Lowry Hill East","Total",23,61,94,111,109,87,20
-"Lyndale","Total",15,66,54,80,69,61,19
+"Lowry Hill East","Total",23,61,94,111,109,87,22
+"Lyndale","Total",14,66,54,80,69,61,19
 "Lynnhurst","Total",4,5,3,7,7,6,1
 "Marcy Holmes","Total",17,75,91,54,49,48,15
 "Marshall Terrace","Total",8,8,12,8,8,9,1
 "McKinley","Total",104,355,457,281,189,117,38
 "Mid - City Industrial","Total",3,2,6,5,1,4,1
-"Midtown Phillips","Total",84,262,342,359,161,263,69
+"Midtown Phillips","Total",82,262,342,359,161,263,71
 "Minnehaha","Total",4,19,17,20,9,11,5
 "Morris Park","Total",10,7,12,7,4,2,2
-"Near - North","Total",179,581,733,641,427,312,65
+"Near - North","Total",174,581,733,641,427,312,68
 "Nicollet Island - East Bank","Total",4,4,9,6,6,4,1
-"North Loop","Total",10,27,53,32,17,19,6
-"Northeast Park","Total",2,8,5,4,4,8,2
-"Northrop","Total",10,27,20,28,9,10,7
+"North Loop","Total",9,27,53,32,17,19,6
+"Northeast Park","Total",2,8,5,4,4,8,3
+"Northrop","Total",10,27,20,28,9,10,8
 "Page","Total",2,6,5,0,2,11,3
 "Phillips West","Total",44,145,206,128,77,123,19
-"Powderhorn Park","Total",55,358,269,219,126,156,27
-"Prospect Park - East River Road","Total",15,30,33,35,22,35,8
+"Powderhorn Park","Total",54,358,269,219,126,156,27
+"Prospect Park - East River Road","Total",14,30,33,35,22,35,8
 "Regina","Total",9,40,23,20,8,11,4
 "Seward","Total",34,54,103,91,89,64,23
 "Sheridan","Total",6,15,19,11,18,13,1
 "Shingle Creek","Total",15,67,62,35,26,20,4
 "South Uptown","Total",16,28,35,41,40,36,7
 "St. Anthony East","Total",5,12,9,17,4,14,4
-"St. Anthony West","Total",3,14,20,18,15,11,2
+"St. Anthony West","Total",3,14,20,18,15,11,3
 "Standish","Total",15,39,44,28,26,23,8
-"Steven's Square - Loring Heights","Total",17,81,133,171,105,95,52
-"Sumner - Glenwood","Total",22,37,56,36,45,34,2
+"Steven's Square - Loring Heights","Total",17,81,133,171,105,95,53
+"Sumner - Glenwood","Total",22,37,56,36,45,34,3
 "Tangletown","Total",2,14,12,7,8,6,2
 "University of Minnesota","Total",6,7,6,13,7,7,3
-"Ventura Village","Total",111,267,251,196,212,204,66
+"Ventura Village","Total",110,267,251,196,212,204,66
 "Victory","Total",12,78,124,99,62,63,11
 "Waite Park","Total",7,8,12,6,12,10,1
-"Webber - Camden","Total",153,465,516,408,298,235,52
-"Wenonah","Total",8,25,37,48,31,14,2
-"West Maka Ska","Total",5,6,6,6,8,2,5
-"Whittier","Total",31,147,207,243,247,278,83
-"Willard - Hay","Total",253,827,1025,755,528,452,166
+"Webber - Camden","Total",152,465,516,408,298,235,53
+"Wenonah","Total",6,25,37,48,31,14,2
+"West Maka Ska","Total",4,6,6,6,8,2,5
+"Whittier","Total",30,147,207,243,247,278,88
+"Willard - Hay","Total",247,827,1025,755,528,452,169
 "Windom","Total",4,13,24,23,23,11,1
 "Windom Park","Total",4,12,11,13,9,7,1
 NA,"Total",6,17,31,24,19,16,6
