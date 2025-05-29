@@ -8,8 +8,8 @@
 "Camden Industrial","Drug/Narcotic Violations",6,3,4,3,1,3,1
 "Cedar - Isles - Dean","Drug/Narcotic Violations",4,7,1,3,3,3,2
 "Cedar Riverside","Drug/Narcotic Violations",26,25,19,40,27,14,10
-"Central","Drug/Narcotic Violations",11,7,5,5,10,19,5
-"Cleveland","Drug/Narcotic Violations",9,10,6,6,12,7,4
+"Central","Drug/Narcotic Violations",11,7,5,5,10,19,6
+"Cleveland","Drug/Narcotic Violations",9,10,6,6,12,7,5
 "Columbia Park","Drug/Narcotic Violations",9,7,3,1,1,1,1
 "Como","Drug/Narcotic Violations",13,9,7,4,3,0,1
 "Cooper","Drug/Narcotic Violations",3,3,1,0,1,1,0
@@ -21,7 +21,7 @@
 "East Harriet","Drug/Narcotic Violations",4,0,3,2,4,1,2
 "East Isles","Drug/Narcotic Violations",11,2,7,3,16,8,5
 "East Phillips","Drug/Narcotic Violations",78,44,33,43,81,51,14
-"Elliot Park","Drug/Narcotic Violations",56,29,29,46,51,77,41
+"Elliot Park","Drug/Narcotic Violations",56,29,29,46,51,77,42
 "Ericsson","Drug/Narcotic Violations",4,5,2,0,3,3,1
 "Field","Drug/Narcotic Violations",1,3,1,0,0,2,0
 "Folwell","Drug/Narcotic Violations",36,41,25,20,42,27,16
@@ -46,7 +46,7 @@
 "Marcy Holmes","Drug/Narcotic Violations",37,31,23,10,12,4,2
 "Marshall Terrace","Drug/Narcotic Violations",14,9,7,6,3,1,0
 "McKinley","Drug/Narcotic Violations",36,31,8,7,15,6,2
-"Mid - City Industrial","Drug/Narcotic Violations",7,8,4,3,3,1,2
+"Mid - City Industrial","Drug/Narcotic Violations",7,8,4,3,3,1,3
 "Midtown Phillips","Drug/Narcotic Violations",41,19,30,33,26,16,5
 "Minnehaha","Drug/Narcotic Violations",3,5,4,2,2,2,0
 "Morris Park","Drug/Narcotic Violations",2,3,0,2,1,1,0
@@ -56,7 +56,7 @@
 "Northeast Park","Drug/Narcotic Violations",12,6,10,8,7,6,1
 "Northrop","Drug/Narcotic Violations",1,3,4,1,1,1,2
 "Phillips West","Drug/Narcotic Violations",26,8,9,14,27,18,9
-"Powderhorn Park","Drug/Narcotic Violations",27,24,13,22,24,22,11
+"Powderhorn Park","Drug/Narcotic Violations",27,24,13,22,24,22,13
 "Prospect Park - East River Road","Drug/Narcotic Violations",10,12,10,4,6,4,2
 "Regina","Drug/Narcotic Violations",2,5,1,0,0,0,0
 "Seward","Drug/Narcotic Violations",21,14,12,13,22,4,4
@@ -95,8 +95,8 @@ NA,"Drug/Narcotic Violations",69,47,34,31,19,21,8
 "Camden Industrial","Total",6,3,4,3,1,3,1
 "Cedar - Isles - Dean","Total",4,7,1,3,3,3,2
 "Cedar Riverside","Total",26,25,19,40,27,14,10
-"Central","Total",11,7,5,5,10,19,5
-"Cleveland","Total",9,10,6,6,12,7,4
+"Central","Total",11,7,5,5,10,19,6
+"Cleveland","Total",9,10,6,6,12,7,5
 "Columbia Park","Total",9,7,3,1,1,1,1
 "Como","Total",13,9,7,4,3,0,1
 "Cooper","Total",3,3,1,0,1,1,0
@@ -108,7 +108,7 @@ NA,"Drug/Narcotic Violations",69,47,34,31,19,21,8
 "East Harriet","Total",4,0,3,2,4,1,2
 "East Isles","Total",11,2,7,3,16,8,5
 "East Phillips","Total",78,44,33,43,81,51,14
-"Elliot Park","Total",56,29,29,46,51,77,41
+"Elliot Park","Total",56,29,29,46,51,77,42
 "Ericsson","Total",4,5,2,0,3,3,1
 "Field","Total",1,3,1,0,0,2,0
 "Folwell","Total",36,41,25,20,42,27,16
@@ -133,7 +133,7 @@ NA,"Drug/Narcotic Violations",69,47,34,31,19,21,8
 "Marcy Holmes","Total",37,31,23,10,12,4,2
 "Marshall Terrace","Total",14,9,7,6,3,1,0
 "McKinley","Total",36,31,8,7,15,6,2
-"Mid - City Industrial","Total",7,8,4,3,3,1,2
+"Mid - City Industrial","Total",7,8,4,3,3,1,3
 "Midtown Phillips","Total",41,19,30,33,26,16,5
 "Minnehaha","Total",3,5,4,2,2,2,0
 "Morris Park","Total",2,3,0,2,1,1,0
@@ -143,7 +143,7 @@ NA,"Drug/Narcotic Violations",69,47,34,31,19,21,8
 "Northeast Park","Total",12,6,10,8,7,6,1
 "Northrop","Total",1,3,4,1,1,1,2
 "Phillips West","Total",26,8,9,14,27,18,9
-"Powderhorn Park","Total",27,24,13,22,24,22,11
+"Powderhorn Park","Total",27,24,13,22,24,22,13
 "Prospect Park - East River Road","Total",10,12,10,4,6,4,2
 "Regina","Total",2,5,1,0,0,0,0
 "Seward","Total",21,14,12,13,22,4,4

@@ -36,7 +36,7 @@
 
 <p id="timestamp" class="timestamp"></p>
 
-<p>Welcome to The Minnesota Star Tribune Public Safety Dashboard. Use this to browse crime, policing and other public safety statistics for Minneapolis and elsewhere in Minnesota. Data is updated Mondays, Wednesdays and Fridays. See the <a href="https://github.com/striblab/20240428-crimedash">the Github repo</a> for more documentation. <a href="mailto:jeff.hargarten@startribune.com">Email</a> or Slack any questions or issues to Jeff Hargarten.</p>
+<p>Welcome to The Minnesota Star Tribune Public Safety Dashboard. Use this to browse crime, policing and other public safety statistics for Minneapolis and elsewhere in Minnesota. Data is updated Mondays, Wednesdays and Fridays. See the <a href="https://github.com/striblab/20240428-crimedash">the Github repo</a> for more documentation. <a href="mailto:jeff.hargarten@startribune.com">Email</a> or Slack questions to Jeff Hargarten.</p>
 
 <p>Also see <a href="https://static.startribune.com/news/projects/all/placefinder/build/">the Star Tribune Placefinder</a> to pinpoint what Twin Cities neighborhood an address lands in. Use the <a href="https://static.startribune.com/projects/metromap/">Star Tribune Metromap</a> for metro-wide geolocation and data links. To find the exact geocoordinates of an address, <a href="https://docs.google.com/spreadsheets/d/1mp1rtiJYnj6vdEB3Rgx9YbijGCFtWdEIxlkZ76KXxZM/edit?usp=sharing">use the StribGEO tool</a>.</p>
   
