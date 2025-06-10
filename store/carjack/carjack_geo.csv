@@ -8,7 +8,7 @@
 "Central","Carjacking - Subset of Robbery",11,40,24,11,12,1
 "Cleveland","Carjacking - Subset of Robbery",1,6,3,3,4,0
 "Como","Carjacking - Subset of Robbery",1,3,1,1,1,0
-"Corcoran","Carjacking - Subset of Robbery",3,8,3,3,1,1
+"Corcoran","Carjacking - Subset of Robbery",3,8,3,3,1,2
 "Diamond Lake","Carjacking - Subset of Robbery",1,1,0,0,0,0
 "Downtown West","Carjacking - Subset of Robbery",2,4,5,1,1,1
 "East Isles","Carjacking - Subset of Robbery",5,16,13,3,4,0
@@ -22,7 +22,7 @@
 "Hiawatha","Carjacking - Subset of Robbery",3,3,5,2,2,1
 "Holland","Carjacking - Subset of Robbery",1,11,4,6,4,1
 "Howe","Carjacking - Subset of Robbery",2,3,2,0,3,0
-"Jordan","Carjacking - Subset of Robbery",6,18,7,8,7,6
+"Jordan","Carjacking - Subset of Robbery",6,18,7,8,7,7
 "King Field","Carjacking - Subset of Robbery",4,11,2,5,5,2
 "Longfellow","Carjacking - Subset of Robbery",1,9,3,5,4,4
 "Loring Park","Carjacking - Subset of Robbery",1,7,8,7,7,1
@@ -32,7 +32,7 @@
 "Marcy Holmes","Carjacking - Subset of Robbery",3,13,22,5,5,0
 "McKinley","Carjacking - Subset of Robbery",2,10,2,5,3,1
 "Midtown Phillips","Carjacking - Subset of Robbery",10,20,27,8,7,3
-"Near - North","Carjacking - Subset of Robbery",4,23,14,9,7,1
+"Near - North","Carjacking - Subset of Robbery",4,23,14,9,7,2
 "Northeast Park","Carjacking - Subset of Robbery",1,0,2,1,1,0
 "Northrop","Carjacking - Subset of Robbery",3,9,6,3,2,1
 "Phillips West","Carjacking - Subset of Robbery",5,8,13,11,3,1
@@ -95,7 +95,7 @@ NA,"Carjacking - Subset of Robbery",2,3,2,2,1,2
 "Central","Total",11,40,24,11,12,1
 "Cleveland","Total",1,6,3,3,4,0
 "Como","Total",1,3,1,1,1,0
-"Corcoran","Total",3,8,3,3,1,1
+"Corcoran","Total",3,8,3,3,1,2
 "Diamond Lake","Total",1,1,0,0,0,0
 "Downtown West","Total",2,4,5,1,1,1
 "East Isles","Total",5,16,13,3,4,0
@@ -109,7 +109,7 @@ NA,"Carjacking - Subset of Robbery",2,3,2,2,1,2
 "Hiawatha","Total",3,3,5,2,2,1
 "Holland","Total",1,11,4,6,4,1
 "Howe","Total",2,3,2,0,3,0
-"Jordan","Total",6,18,7,8,7,6
+"Jordan","Total",6,18,7,8,7,7
 "King Field","Total",4,11,2,5,5,2
 "Longfellow","Total",1,9,3,5,4,4
 "Loring Park","Total",1,7,8,7,7,1
@@ -119,7 +119,7 @@ NA,"Carjacking - Subset of Robbery",2,3,2,2,1,2
 "Marcy Holmes","Total",3,13,22,5,5,0
 "McKinley","Total",2,10,2,5,3,1
 "Midtown Phillips","Total",10,20,27,8,7,3
-"Near - North","Total",4,23,14,9,7,1
+"Near - North","Total",4,23,14,9,7,2
 "Northeast Park","Total",1,0,2,1,1,0
 "Northrop","Total",3,9,6,3,2,1
 "Phillips West","Total",5,8,13,11,3,1

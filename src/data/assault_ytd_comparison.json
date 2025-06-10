@@ -1,49 +1,49 @@
 [
   {
-    "YTDCount": 840,
+    "YTDCount": 864,
     "Year": 2019,
     "Offense": "Aggravated Assault"
   },
   {
-    "YTDCount": 911,
+    "YTDCount": 936,
     "Year": 2020,
     "Offense": "Aggravated Assault",
-    "PrevYTDCount": 840,
-    "YTDPercentageChange": 8.4524
+    "PrevYTDCount": 864,
+    "YTDPercentageChange": 8.3333
   },
   {
-    "YTDCount": 1049,
+    "YTDCount": 1091,
     "Year": 2021,
     "Offense": "Aggravated Assault",
-    "PrevYTDCount": 911,
-    "YTDPercentageChange": 15.1482
+    "PrevYTDCount": 936,
+    "YTDPercentageChange": 16.5598
   },
   {
-    "YTDCount": 1188,
+    "YTDCount": 1227,
     "Year": 2022,
     "Offense": "Aggravated Assault",
-    "PrevYTDCount": 1049,
-    "YTDPercentageChange": 13.2507
+    "PrevYTDCount": 1091,
+    "YTDPercentageChange": 12.4656
   },
   {
-    "YTDCount": 1152,
+    "YTDCount": 1179,
     "Year": 2023,
     "Offense": "Aggravated Assault",
-    "PrevYTDCount": 1188,
-    "YTDPercentageChange": -3.0303
+    "PrevYTDCount": 1227,
+    "YTDPercentageChange": -3.912
   },
   {
-    "YTDCount": 1154,
+    "YTDCount": 1184,
     "Year": 2024,
     "Offense": "Aggravated Assault",
-    "PrevYTDCount": 1152,
-    "YTDPercentageChange": 0.1736
+    "PrevYTDCount": 1179,
+    "YTDPercentageChange": 0.4241
   },
   {
-    "YTDCount": 1061,
+    "YTDCount": 1093,
     "Year": 2025,
     "Offense": "Aggravated Assault",
-    "PrevYTDCount": 1154,
-    "YTDPercentageChange": -8.0589
+    "PrevYTDCount": 1184,
+    "YTDPercentageChange": -7.6858
   }
 ]

@@ -187,6 +187,12 @@
   },
   {
     "Year": 2025,
+    "Precinct": 2,
+    "Offense": "Murder and Nonnegligent Manslaughter",
+    "OffenseCount": 1
+  },
+  {
+    "Year": 2025,
     "Precinct": 3,
     "Offense": "Murder and Nonnegligent Manslaughter",
     "OffenseCount": 11
