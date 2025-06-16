@@ -72,11 +72,11 @@
 2024,11,"All Other Larceny",525,2024-11-01
 2024,12,"All Other Larceny",527,2024-12-01
 2025,1,"All Other Larceny",409,2025-01-01
-2025,2,"All Other Larceny",360,2025-02-01
+2025,2,"All Other Larceny",361,2025-02-01
 2025,3,"All Other Larceny",407,2025-03-01
-2025,4,"All Other Larceny",437,2025-04-01
+2025,4,"All Other Larceny",439,2025-04-01
 2025,5,"All Other Larceny",483,2025-05-01
-2025,6,"All Other Larceny",64,2025-06-01
+2025,6,"All Other Larceny",149,2025-06-01
 2019,1,"Theft From Motor Vehicle",282,2019-01-01
 2019,2,"Theft From Motor Vehicle",266,2019-02-01
 2019,3,"Theft From Motor Vehicle",257,2019-03-01
@@ -154,7 +154,7 @@
 2025,3,"Theft From Motor Vehicle",274,2025-03-01
 2025,4,"Theft From Motor Vehicle",267,2025-04-01
 2025,5,"Theft From Motor Vehicle",364,2025-05-01
-2025,6,"Theft From Motor Vehicle",36,2025-06-01
+2025,6,"Theft From Motor Vehicle",106,2025-06-01
 2019,1,"Pocket-picking",2,2019-01-01
 2019,4,"Pocket-picking",4,2019-04-01
 2019,5,"Pocket-picking",2,2019-05-01
@@ -255,6 +255,7 @@
 2025,3,"Purse-snatching",3,2025-03-01
 2025,4,"Purse-snatching",5,2025-04-01
 2025,5,"Purse-snatching",7,2025-05-01
+2025,6,"Purse-snatching",2,2025-06-01
 2019,1,"Shoplifting",65,2019-01-01
 2019,2,"Shoplifting",85,2019-02-01
 2019,3,"Shoplifting",94,2019-03-01
@@ -332,7 +333,7 @@
 2025,3,"Shoplifting",86,2025-03-01
 2025,4,"Shoplifting",71,2025-04-01
 2025,5,"Shoplifting",65,2025-05-01
-2025,6,"Shoplifting",8,2025-06-01
+2025,6,"Shoplifting",27,2025-06-01
 2019,1,"Theft From Building",24,2019-01-01
 2019,2,"Theft From Building",19,2019-02-01
 2019,3,"Theft From Building",16,2019-03-01
@@ -410,7 +411,7 @@
 2025,3,"Theft From Building",10,2025-03-01
 2025,4,"Theft From Building",19,2025-04-01
 2025,5,"Theft From Building",21,2025-05-01
-2025,6,"Theft From Building",2,2025-06-01
+2025,6,"Theft From Building",5,2025-06-01
 2019,3,"Theft From Coin-Operated Machine or Device",2,2019-03-01
 2019,5,"Theft From Coin-Operated Machine or Device",1,2019-05-01
 2019,6,"Theft From Coin-Operated Machine or Device",1,2019-06-01
@@ -501,4 +502,4 @@
 2025,3,"Theft of Motor Vehicle Parts or Accessories",83,2025-03-01
 2025,4,"Theft of Motor Vehicle Parts or Accessories",57,2025-04-01
 2025,5,"Theft of Motor Vehicle Parts or Accessories",44,2025-05-01
-2025,6,"Theft of Motor Vehicle Parts or Accessories",7,2025-06-01
+2025,6,"Theft of Motor Vehicle Parts or Accessories",15,2025-06-01

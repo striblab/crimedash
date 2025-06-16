@@ -21,6 +21,7 @@
 	import Conduct from './MPLS/Conduct.svelte';
 	import MForce from './MPLS/MForce.svelte';
 	import Park from './MPLS/Park.svelte';
+	import Overtime from './MPLS/Overtime.svelte';
 	import STPF from './STP/STPF.svelte';
 	import STPB from './STP/STPB.svelte';
 	import STPM from './STP/STPM.svelte';
@@ -76,6 +77,7 @@
 	  { id: 'staff', cat: 'Minneapolis', name: 'Police Staffing', component: Staff },
 	  { id: 'mforce', cat: 'Minneapolis', name: 'Use-of-Force', component: MForce },
 	  { id: 'park', cat: 'Minneapolis', name: 'Park Police', component: Park },
+	  { id: 'overtime', cat: 'Minneapolis', name: 'Overtime', component: Overtime },
 	  { id: 'stpm', cat: 'St. Paul', name: 'Homicides', component: STPM },
 	  { id: 'stps', cat: 'St. Paul', name: 'Shootings', component: STPS },
 	  { id: 'stpr', cat: 'St. Paul', name: 'Robbery', component: STPR },
@@ -173,8 +175,6 @@
 	width: 100%;
 	height: 100%;
 }
-
-
 
 body {
 	color: #333;
