@@ -214,24 +214,29 @@
     "Year": 2025,
     "Precinct": 2,
     "Offense": "Gunshot Wound Victims",
-    "OffenseCount": 9
+    "OffenseCount": 10
   },
   {
     "Year": 2025,
     "Precinct": 3,
     "Offense": "Gunshot Wound Victims",
-    "OffenseCount": 36
+    "OffenseCount": 37
   },
   {
     "Year": 2025,
     "Precinct": 4,
     "Offense": "Gunshot Wound Victims",
-    "OffenseCount": 43
+    "OffenseCount": 48
   },
   {
     "Year": 2025,
     "Precinct": 5,
     "Offense": "Gunshot Wound Victims",
-    "OffenseCount": 14
+    "OffenseCount": 16
+  },
+  {
+    "Year": 2025,
+    "Offense": "Gunshot Wound Victims",
+    "OffenseCount": 1
   }
 ]

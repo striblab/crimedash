@@ -8,9 +8,9 @@
 "Central","Carjacking - Subset of Robbery",11,40,24,11,12,1
 "Cleveland","Carjacking - Subset of Robbery",1,6,3,3,4,0
 "Como","Carjacking - Subset of Robbery",1,3,1,1,1,0
-"Corcoran","Carjacking - Subset of Robbery",3,8,3,3,1,2
+"Corcoran","Carjacking - Subset of Robbery",3,8,3,3,1,3
 "Diamond Lake","Carjacking - Subset of Robbery",1,1,0,0,0,0
-"Downtown West","Carjacking - Subset of Robbery",2,4,5,1,1,1
+"Downtown West","Carjacking - Subset of Robbery",2,4,5,1,1,0
 "East Isles","Carjacking - Subset of Robbery",5,16,13,3,4,0
 "East Phillips","Carjacking - Subset of Robbery",2,25,18,10,12,2
 "Elliot Park","Carjacking - Subset of Robbery",1,2,9,8,4,1
@@ -23,9 +23,9 @@
 "Holland","Carjacking - Subset of Robbery",1,11,4,6,4,1
 "Howe","Carjacking - Subset of Robbery",2,3,2,0,3,0
 "Jordan","Carjacking - Subset of Robbery",6,18,7,8,7,7
-"King Field","Carjacking - Subset of Robbery",4,11,2,5,5,2
+"King Field","Carjacking - Subset of Robbery",4,11,2,5,5,3
 "Longfellow","Carjacking - Subset of Robbery",1,9,3,5,4,4
-"Loring Park","Carjacking - Subset of Robbery",1,7,8,7,7,1
+"Loring Park","Carjacking - Subset of Robbery",1,7,8,7,7,2
 "Lowry Hill","Carjacking - Subset of Robbery",4,14,7,2,2,0
 "Lowry Hill East","Carjacking - Subset of Robbery",5,17,24,16,8,1
 "Lyndale","Carjacking - Subset of Robbery",3,10,9,6,12,1
@@ -45,10 +45,10 @@
 "Sumner - Glenwood","Carjacking - Subset of Robbery",1,12,6,3,8,0
 "Tangletown","Carjacking - Subset of Robbery",1,2,1,2,1,0
 "Ventura Village","Carjacking - Subset of Robbery",12,36,29,14,12,4
-"Webber - Camden","Carjacking - Subset of Robbery",1,6,5,4,3,0
+"Webber - Camden","Carjacking - Subset of Robbery",1,6,5,4,3,2
 "Whittier","Carjacking - Subset of Robbery",13,46,41,25,14,1
 "Willard - Hay","Carjacking - Subset of Robbery",4,9,17,13,5,2
-"Windom Park","Carjacking - Subset of Robbery",1,4,2,1,1,2
+"Windom Park","Carjacking - Subset of Robbery",1,4,2,1,1,3
 NA,"Carjacking - Subset of Robbery",2,3,2,2,1,2
 "Armatage","Carjacking - Subset of Robbery",0,1,1,1,0,0
 "Audubon Park","Carjacking - Subset of Robbery",0,4,3,2,1,0
@@ -69,7 +69,7 @@ NA,"Carjacking - Subset of Robbery",2,3,2,2,1,2
 "Marshall Terrace","Carjacking - Subset of Robbery",0,1,3,0,1,1
 "Mid - City Industrial","Carjacking - Subset of Robbery",0,3,2,0,0,0
 "Minnehaha","Carjacking - Subset of Robbery",0,3,1,0,0,1
-"Nicollet Island - East Bank","Carjacking - Subset of Robbery",0,1,3,0,1,0
+"Nicollet Island - East Bank","Carjacking - Subset of Robbery",0,1,3,0,1,1
 "North Loop","Carjacking - Subset of Robbery",0,10,8,1,0,2
 "Regina","Carjacking - Subset of Robbery",0,4,3,1,1,4
 "Shingle Creek","Carjacking - Subset of Robbery",0,7,1,2,0,0
@@ -95,9 +95,9 @@ NA,"Carjacking - Subset of Robbery",2,3,2,2,1,2
 "Central","Total",11,40,24,11,12,1
 "Cleveland","Total",1,6,3,3,4,0
 "Como","Total",1,3,1,1,1,0
-"Corcoran","Total",3,8,3,3,1,2
+"Corcoran","Total",3,8,3,3,1,3
 "Diamond Lake","Total",1,1,0,0,0,0
-"Downtown West","Total",2,4,5,1,1,1
+"Downtown West","Total",2,4,5,1,1,0
 "East Isles","Total",5,16,13,3,4,0
 "East Phillips","Total",2,25,18,10,12,2
 "Elliot Park","Total",1,2,9,8,4,1
@@ -110,9 +110,9 @@ NA,"Carjacking - Subset of Robbery",2,3,2,2,1,2
 "Holland","Total",1,11,4,6,4,1
 "Howe","Total",2,3,2,0,3,0
 "Jordan","Total",6,18,7,8,7,7
-"King Field","Total",4,11,2,5,5,2
+"King Field","Total",4,11,2,5,5,3
 "Longfellow","Total",1,9,3,5,4,4
-"Loring Park","Total",1,7,8,7,7,1
+"Loring Park","Total",1,7,8,7,7,2
 "Lowry Hill","Total",4,14,7,2,2,0
 "Lowry Hill East","Total",5,17,24,16,8,1
 "Lyndale","Total",3,10,9,6,12,1
@@ -132,10 +132,10 @@ NA,"Carjacking - Subset of Robbery",2,3,2,2,1,2
 "Sumner - Glenwood","Total",1,12,6,3,8,0
 "Tangletown","Total",1,2,1,2,1,0
 "Ventura Village","Total",12,36,29,14,12,4
-"Webber - Camden","Total",1,6,5,4,3,0
+"Webber - Camden","Total",1,6,5,4,3,2
 "Whittier","Total",13,46,41,25,14,1
 "Willard - Hay","Total",4,9,17,13,5,2
-"Windom Park","Total",1,4,2,1,1,2
+"Windom Park","Total",1,4,2,1,1,3
 NA,"Total",2,3,2,2,1,2
 "Armatage","Total",0,1,1,1,0,0
 "Audubon Park","Total",0,4,3,2,1,0
@@ -156,7 +156,7 @@ NA,"Total",2,3,2,2,1,2
 "Marshall Terrace","Total",0,1,3,0,1,1
 "Mid - City Industrial","Total",0,3,2,0,0,0
 "Minnehaha","Total",0,3,1,0,0,1
-"Nicollet Island - East Bank","Total",0,1,3,0,1,0
+"Nicollet Island - East Bank","Total",0,1,3,0,1,1
 "North Loop","Total",0,10,8,1,0,2
 "Regina","Total",0,4,3,1,1,4
 "Shingle Creek","Total",0,7,1,2,0,0
