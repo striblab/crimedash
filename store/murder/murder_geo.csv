@@ -27,7 +27,7 @@
 "Como","Murder and Nonnegligent Manslaughter",0,1,0,1,0,0,0
 "Corcoran","Murder and Nonnegligent Manslaughter",0,1,0,1,1,0,0
 "Downtown East","Murder and Nonnegligent Manslaughter",0,1,0,1,1,0,0
-"Folwell","Murder and Nonnegligent Manslaughter",0,2,6,2,4,7,0
+"Folwell","Murder and Nonnegligent Manslaughter",0,2,6,2,4,7,1
 "Hiawatha","Murder and Nonnegligent Manslaughter",0,2,1,1,0,3,0
 "Logan Park","Murder and Nonnegligent Manslaughter",0,1,0,0,0,0,0
 "Longfellow","Murder and Nonnegligent Manslaughter",0,1,2,0,1,0,0
@@ -57,6 +57,7 @@
 "Nicollet Island - East Bank","Murder and Nonnegligent Manslaughter",0,0,0,0,1,0,0
 "Audubon Park","Murder and Nonnegligent Manslaughter",0,0,0,0,0,1,0
 "Victory","Murder and Nonnegligent Manslaughter",0,0,0,0,0,2,0
+"Bryn - Mawr","Murder and Nonnegligent Manslaughter",0,0,0,0,0,0,1
 "Cedar Riverside","Total",1,1,2,2,1,0,0
 "Central","Total",1,2,3,1,1,2,1
 "Cleveland","Total",1,1,1,0,1,3,0
@@ -85,7 +86,7 @@
 "Como","Total",0,1,0,1,0,0,0
 "Corcoran","Total",0,1,0,1,1,0,0
 "Downtown East","Total",0,1,0,1,1,0,0
-"Folwell","Total",0,2,6,2,4,7,0
+"Folwell","Total",0,2,6,2,4,7,1
 "Hiawatha","Total",0,2,1,1,0,3,0
 "Logan Park","Total",0,1,0,0,0,0,0
 "Longfellow","Total",0,1,2,0,1,0,0
@@ -115,3 +116,4 @@
 "Nicollet Island - East Bank","Total",0,0,0,0,1,0,0
 "Audubon Park","Total",0,0,0,0,0,1,0
 "Victory","Total",0,0,0,0,0,2,0
+"Bryn - Mawr","Total",0,0,0,0,0,0,1
