@@ -1,16 +1,9 @@
 [
   {
     "Year": 2019,
-    "Month": 6,
-    "Offense": "Shooting (PFE)",
-    "IncidentCount": 1,
-    "Date": "2019-06-01"
-  },
-  {
-    "Year": 2019,
     "Month": 7,
     "Offense": "Shooting (PFE)",
-    "IncidentCount": 37,
+    "IncidentCount": 32,
     "Date": "2019-07-01"
   },
   {
@@ -511,17 +504,17 @@
     "Date": "2025-06-01"
   },
   {
-    "Year": 2019,
-    "Month": 6,
-    "Offense": "Shooting Report Only (P)",
-    "IncidentCount": 1,
-    "Date": "2019-06-01"
+    "Year": 2025,
+    "Month": 7,
+    "Offense": "Shooting (PFE)",
+    "IncidentCount": 11,
+    "Date": "2025-07-01"
   },
   {
     "Year": 2019,
     "Month": 7,
     "Offense": "Shooting Report Only (P)",
-    "IncidentCount": 8,
+    "IncidentCount": 7,
     "Date": "2019-07-01"
   },
   {
@@ -1022,17 +1015,17 @@
     "Date": "2025-06-01"
   },
   {
-    "Year": 2019,
-    "Month": 6,
-    "Offense": "ShotSpotter Activation (P)",
-    "IncidentCount": 7,
-    "Date": "2019-06-01"
+    "Year": 2025,
+    "Month": 7,
+    "Offense": "Shooting Report Only (P)",
+    "IncidentCount": 3,
+    "Date": "2025-07-01"
   },
   {
     "Year": 2019,
     "Month": 7,
     "Offense": "ShotSpotter Activation (P)",
-    "IncidentCount": 188,
+    "IncidentCount": 142,
     "Date": "2019-07-01"
   },
   {
@@ -1533,17 +1526,17 @@
     "Date": "2025-06-01"
   },
   {
-    "Year": 2019,
-    "Month": 6,
-    "Offense": "Sound of Shots Fired (P)",
-    "IncidentCount": 12,
-    "Date": "2019-06-01"
+    "Year": 2025,
+    "Month": 7,
+    "Offense": "ShotSpotter Activation (P)",
+    "IncidentCount": 73,
+    "Date": "2025-07-01"
   },
   {
     "Year": 2019,
     "Month": 7,
     "Offense": "Sound of Shots Fired (P)",
-    "IncidentCount": 208,
+    "IncidentCount": 168,
     "Date": "2019-07-01"
   },
   {
@@ -2042,5 +2035,12 @@
     "Offense": "Sound of Shots Fired (P)",
     "IncidentCount": 282,
     "Date": "2025-06-01"
+  },
+  {
+    "Year": 2025,
+    "Month": 7,
+    "Offense": "Sound of Shots Fired (P)",
+    "IncidentCount": 41,
+    "Date": "2025-07-01"
   }
 ]
