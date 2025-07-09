@@ -3,31 +3,31 @@
     "Year": 2019,
     "Precinct": 1,
     "Offense": "Arson",
-    "OffenseCount": 9
+    "OffenseCount": 11
   },
   {
     "Year": 2019,
     "Precinct": 2,
     "Offense": "Arson",
-    "OffenseCount": 5
+    "OffenseCount": 6
   },
   {
     "Year": 2019,
     "Precinct": 3,
     "Offense": "Arson",
-    "OffenseCount": 20
+    "OffenseCount": 14
   },
   {
     "Year": 2019,
     "Precinct": 4,
     "Offense": "Arson",
-    "OffenseCount": 38
+    "OffenseCount": 36
   },
   {
     "Year": 2019,
     "Precinct": 5,
     "Offense": "Arson",
-    "OffenseCount": 7
+    "OffenseCount": 9
   },
   {
     "Year": 2020,
@@ -39,25 +39,25 @@
     "Year": 2020,
     "Precinct": 2,
     "Offense": "Arson",
-    "OffenseCount": 7
+    "OffenseCount": 10
   },
   {
     "Year": 2020,
     "Precinct": 3,
     "Offense": "Arson",
-    "OffenseCount": 34
+    "OffenseCount": 42
   },
   {
     "Year": 2020,
     "Precinct": 4,
     "Offense": "Arson",
-    "OffenseCount": 46
+    "OffenseCount": 51
   },
   {
     "Year": 2020,
     "Precinct": 5,
     "Offense": "Arson",
-    "OffenseCount": 12
+    "OffenseCount": 11
   },
   {
     "Year": 2020,
@@ -68,7 +68,7 @@
     "Year": 2021,
     "Precinct": 1,
     "Offense": "Arson",
-    "OffenseCount": 9
+    "OffenseCount": 13
   },
   {
     "Year": 2021,
@@ -80,19 +80,24 @@
     "Year": 2021,
     "Precinct": 3,
     "Offense": "Arson",
-    "OffenseCount": 25
+    "OffenseCount": 28
   },
   {
     "Year": 2021,
     "Precinct": 4,
     "Offense": "Arson",
-    "OffenseCount": 39
+    "OffenseCount": 50
   },
   {
     "Year": 2021,
     "Precinct": 5,
     "Offense": "Arson",
-    "OffenseCount": 15
+    "OffenseCount": 17
+  },
+  {
+    "Year": 2021,
+    "Offense": "Arson",
+    "OffenseCount": 1
   },
   {
     "Year": 2022,
@@ -104,25 +109,25 @@
     "Year": 2022,
     "Precinct": 2,
     "Offense": "Arson",
-    "OffenseCount": 6
+    "OffenseCount": 9
   },
   {
     "Year": 2022,
     "Precinct": 3,
     "Offense": "Arson",
-    "OffenseCount": 28
+    "OffenseCount": 34
   },
   {
     "Year": 2022,
     "Precinct": 4,
     "Offense": "Arson",
-    "OffenseCount": 39
+    "OffenseCount": 38
   },
   {
     "Year": 2022,
     "Precinct": 5,
     "Offense": "Arson",
-    "OffenseCount": 15
+    "OffenseCount": 14
   },
   {
     "Year": 2022,
@@ -133,95 +138,95 @@
     "Year": 2023,
     "Precinct": 1,
     "Offense": "Arson",
-    "OffenseCount": 15
+    "OffenseCount": 16
   },
   {
     "Year": 2023,
-    "Precinct": 2,
-    "Offense": "Arson",
-    "OffenseCount": 5
-  },
-  {
-    "Year": 2023,
-    "Precinct": 3,
-    "Offense": "Arson",
-    "OffenseCount": 49
-  },
-  {
-    "Year": 2023,
-    "Precinct": 4,
-    "Offense": "Arson",
-    "OffenseCount": 45
-  },
-  {
-    "Year": 2023,
-    "Precinct": 5,
-    "Offense": "Arson",
-    "OffenseCount": 24
-  },
-  {
-    "Year": 2023,
-    "Offense": "Arson",
-    "OffenseCount": 2
-  },
-  {
-    "Year": 2024,
-    "Precinct": 1,
-    "Offense": "Arson",
-    "OffenseCount": 15
-  },
-  {
-    "Year": 2024,
     "Precinct": 2,
     "Offense": "Arson",
     "OffenseCount": 7
   },
   {
+    "Year": 2023,
+    "Precinct": 3,
+    "Offense": "Arson",
+    "OffenseCount": 46
+  },
+  {
+    "Year": 2023,
+    "Precinct": 4,
+    "Offense": "Arson",
+    "OffenseCount": 38
+  },
+  {
+    "Year": 2023,
+    "Precinct": 5,
+    "Offense": "Arson",
+    "OffenseCount": 29
+  },
+  {
+    "Year": 2023,
+    "Offense": "Arson",
+    "OffenseCount": 1
+  },
+  {
+    "Year": 2024,
+    "Precinct": 1,
+    "Offense": "Arson",
+    "OffenseCount": 18
+  },
+  {
+    "Year": 2024,
+    "Precinct": 2,
+    "Offense": "Arson",
+    "OffenseCount": 2
+  },
+  {
     "Year": 2024,
     "Precinct": 3,
+    "Offense": "Arson",
+    "OffenseCount": 31
+  },
+  {
+    "Year": 2024,
+    "Precinct": 4,
     "Offense": "Arson",
     "OffenseCount": 37
   },
   {
     "Year": 2024,
-    "Precinct": 4,
-    "Offense": "Arson",
-    "OffenseCount": 42
-  },
-  {
-    "Year": 2024,
     "Precinct": 5,
     "Offense": "Arson",
-    "OffenseCount": 21
+    "OffenseCount": 23
   },
   {
     "Year": 2025,
     "Precinct": 1,
     "Offense": "Arson",
-    "OffenseCount": 10
+    "OffenseCount": 6
   },
   {
     "Year": 2025,
     "Precinct": 2,
     "Offense": "Arson",
-    "OffenseCount": 6
+    "OffenseCount": 3
   },
   {
     "Year": 2025,
     "Precinct": 3,
     "Offense": "Arson",
-    "OffenseCount": 16
+    "OffenseCount": 17
   },
   {
     "Year": 2025,
     "Precinct": 4,
     "Offense": "Arson",
-    "OffenseCount": 20
+    "OffenseCount": 15
   },
   {
     "Year": 2025,
     "Precinct": 5,
     "Offense": "Arson",
-    "OffenseCount": 5
+    "OffenseCount": 2
   }
 ]
