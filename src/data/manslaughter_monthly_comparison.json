@@ -1,94 +1,31 @@
 [
   {
-    "Year": 2019,
-    "Month": 4,
-    "Offense": "Negligent Manslaughter",
-    "IncidentCount": 1,
-    "Date": "2019-04-01"
-  },
-  {
-    "Year": 2019,
+    "Year": 2020,
     "Month": 5,
     "Offense": "Negligent Manslaughter",
-    "IncidentCount": 1,
-    "Date": "2019-05-01"
-  },
-  {
-    "Year": 2019,
-    "Month": 8,
-    "Offense": "Negligent Manslaughter",
-    "IncidentCount": 1,
-    "Date": "2019-08-01"
-  },
-  {
-    "Year": 2019,
-    "Month": 10,
-    "Offense": "Negligent Manslaughter",
-    "IncidentCount": 3,
-    "Date": "2019-10-01"
-  },
-  {
-    "Year": 2020,
-    "Month": 7,
-    "Offense": "Negligent Manslaughter",
-    "IncidentCount": 1,
-    "Date": "2020-07-01"
-  },
-  {
-    "Year": 2020,
-    "Month": 9,
-    "Offense": "Negligent Manslaughter",
-    "IncidentCount": 1,
-    "Date": "2020-09-01"
+    "IncidentCount": 2,
+    "Date": "2020-05-01"
   },
   {
     "Year": 2021,
-    "Month": 3,
+    "Month": 2,
     "Offense": "Negligent Manslaughter",
     "IncidentCount": 1,
-    "Date": "2021-03-01"
+    "Date": "2021-02-01"
   },
   {
     "Year": 2021,
     "Month": 5,
     "Offense": "Negligent Manslaughter",
-    "IncidentCount": 3,
+    "IncidentCount": 1,
     "Date": "2021-05-01"
   },
   {
     "Year": 2021,
-    "Month": 6,
+    "Month": 12,
     "Offense": "Negligent Manslaughter",
     "IncidentCount": 1,
-    "Date": "2021-06-01"
-  },
-  {
-    "Year": 2021,
-    "Month": 7,
-    "Offense": "Negligent Manslaughter",
-    "IncidentCount": 1,
-    "Date": "2021-07-01"
-  },
-  {
-    "Year": 2021,
-    "Month": 8,
-    "Offense": "Negligent Manslaughter",
-    "IncidentCount": 1,
-    "Date": "2021-08-01"
-  },
-  {
-    "Year": 2021,
-    "Month": 10,
-    "Offense": "Negligent Manslaughter",
-    "IncidentCount": 1,
-    "Date": "2021-10-01"
-  },
-  {
-    "Year": 2022,
-    "Month": 10,
-    "Offense": "Negligent Manslaughter",
-    "IncidentCount": 1,
-    "Date": "2022-10-01"
+    "Date": "2021-12-01"
   },
   {
     "Year": 2022,
@@ -101,7 +38,7 @@
     "Year": 2022,
     "Month": 12,
     "Offense": "Negligent Manslaughter",
-    "IncidentCount": 3,
+    "IncidentCount": 1,
     "Date": "2022-12-01"
   },
   {
@@ -113,31 +50,17 @@
   },
   {
     "Year": 2023,
-    "Month": 5,
-    "Offense": "Negligent Manslaughter",
-    "IncidentCount": 2,
-    "Date": "2023-05-01"
-  },
-  {
-    "Year": 2023,
     "Month": 6,
     "Offense": "Negligent Manslaughter",
-    "IncidentCount": 5,
+    "IncidentCount": 3,
     "Date": "2023-06-01"
   },
   {
     "Year": 2023,
     "Month": 7,
     "Offense": "Negligent Manslaughter",
-    "IncidentCount": 2,
-    "Date": "2023-07-01"
-  },
-  {
-    "Year": 2023,
-    "Month": 8,
-    "Offense": "Negligent Manslaughter",
     "IncidentCount": 1,
-    "Date": "2023-08-01"
+    "Date": "2023-07-01"
   },
   {
     "Year": 2023,
@@ -150,8 +73,22 @@
     "Year": 2023,
     "Month": 10,
     "Offense": "Negligent Manslaughter",
-    "IncidentCount": 1,
+    "IncidentCount": 3,
     "Date": "2023-10-01"
+  },
+  {
+    "Year": 2024,
+    "Month": 1,
+    "Offense": "Negligent Manslaughter",
+    "IncidentCount": 1,
+    "Date": "2024-01-01"
+  },
+  {
+    "Year": 2024,
+    "Month": 2,
+    "Offense": "Negligent Manslaughter",
+    "IncidentCount": 2,
+    "Date": "2024-02-01"
   },
   {
     "Year": 2024,
@@ -162,10 +99,17 @@
   },
   {
     "Year": 2024,
-    "Month": 7,
+    "Month": 4,
     "Offense": "Negligent Manslaughter",
     "IncidentCount": 1,
-    "Date": "2024-07-01"
+    "Date": "2024-04-01"
+  },
+  {
+    "Year": 2024,
+    "Month": 6,
+    "Offense": "Negligent Manslaughter",
+    "IncidentCount": 2,
+    "Date": "2024-06-01"
   },
   {
     "Year": 2024,
@@ -178,7 +122,7 @@
     "Year": 2024,
     "Month": 9,
     "Offense": "Negligent Manslaughter",
-    "IncidentCount": 1,
+    "IncidentCount": 2,
     "Date": "2024-09-01"
   },
   {
@@ -190,16 +134,37 @@
   },
   {
     "Year": 2024,
-    "Month": 11,
-    "Offense": "Negligent Manslaughter",
-    "IncidentCount": 1,
-    "Date": "2024-11-01"
-  },
-  {
-    "Year": 2024,
     "Month": 12,
     "Offense": "Negligent Manslaughter",
-    "IncidentCount": 2,
+    "IncidentCount": 6,
     "Date": "2024-12-01"
+  },
+  {
+    "Year": 2025,
+    "Month": 1,
+    "Offense": "Negligent Manslaughter",
+    "IncidentCount": 1,
+    "Date": "2025-01-01"
+  },
+  {
+    "Year": 2025,
+    "Month": 3,
+    "Offense": "Negligent Manslaughter",
+    "IncidentCount": 1,
+    "Date": "2025-03-01"
+  },
+  {
+    "Year": 2025,
+    "Month": 4,
+    "Offense": "Negligent Manslaughter",
+    "IncidentCount": 2,
+    "Date": "2025-04-01"
+  },
+  {
+    "Year": 2025,
+    "Month": 5,
+    "Offense": "Negligent Manslaughter",
+    "IncidentCount": 3,
+    "Date": "2025-05-01"
   }
 ]

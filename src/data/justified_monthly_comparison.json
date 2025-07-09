@@ -1,44 +1,44 @@
 [
   {
-    "Year": 2022,
+    "Year": 2023,
+    "Month": 10,
+    "Offense": "Justifiable Homicide",
+    "IncidentCount": 1,
+    "Date": "2023-10-01"
+  },
+  {
+    "Year": 2024,
     "Month": 2,
     "Offense": "Justifiable Homicide",
-    "IncidentCount": 2,
-    "Date": "2022-02-01"
-  },
-  {
-    "Year": 2022,
-    "Month": 7,
-    "Offense": "Justifiable Homicide",
     "IncidentCount": 1,
-    "Date": "2022-07-01"
-  },
-  {
-    "Year": 2023,
-    "Month": 12,
-    "Offense": "Justifiable Homicide",
-    "IncidentCount": 1,
-    "Date": "2023-12-01"
+    "Date": "2024-02-01"
   },
   {
     "Year": 2024,
-    "Month": 5,
+    "Month": 11,
     "Offense": "Justifiable Homicide",
     "IncidentCount": 1,
-    "Date": "2024-05-01"
-  },
-  {
-    "Year": 2024,
-    "Month": 7,
-    "Offense": "Justifiable Homicide",
-    "IncidentCount": 1,
-    "Date": "2024-07-01"
+    "Date": "2024-11-01"
   },
   {
     "Year": 2025,
-    "Month": 1,
+    "Month": 3,
+    "Offense": "Justifiable Homicide",
+    "IncidentCount": 1,
+    "Date": "2025-03-01"
+  },
+  {
+    "Year": 2025,
+    "Month": 4,
+    "Offense": "Justifiable Homicide",
+    "IncidentCount": 1,
+    "Date": "2025-04-01"
+  },
+  {
+    "Year": 2025,
+    "Month": 5,
     "Offense": "Justifiable Homicide",
     "IncidentCount": 2,
-    "Date": "2025-01-01"
+    "Date": "2025-05-01"
   }
 ]

@@ -1,10 +1,5 @@
 [
   {
-    "Year": 2019,
-    "Offense": "Negligent Manslaughter",
-    "OffenseCount": 6
-  },
-  {
     "Year": 2020,
     "Offense": "Negligent Manslaughter",
     "OffenseCount": 2
@@ -12,21 +7,26 @@
   {
     "Year": 2021,
     "Offense": "Negligent Manslaughter",
-    "OffenseCount": 8
+    "OffenseCount": 3
   },
   {
     "Year": 2022,
     "Offense": "Negligent Manslaughter",
-    "OffenseCount": 5
+    "OffenseCount": 2
   },
   {
     "Year": 2023,
     "Offense": "Negligent Manslaughter",
-    "OffenseCount": 13
+    "OffenseCount": 9
   },
   {
     "Year": 2024,
     "Offense": "Negligent Manslaughter",
-    "OffenseCount": 8
+    "OffenseCount": 17
+  },
+  {
+    "Year": 2025,
+    "Offense": "Negligent Manslaughter",
+    "OffenseCount": 7
   }
 ]

@@ -1,45 +1,45 @@
 [
   {
-    "YTDCount": 2,
+    "YTDCount": 0,
     "Year": 2019,
     "Offense": "Negligent Manslaughter"
   },
   {
-    "YTDCount": 0,
+    "YTDCount": 2,
     "Year": 2020,
-    "Offense": "Negligent Manslaughter",
-    "PrevYTDCount": 2,
-    "YTDPercentageChange": -100
+    "Offense": "Negligent Manslaughter"
   },
   {
-    "YTDCount": 5,
+    "YTDCount": 2,
     "Year": 2021,
-    "Offense": "Negligent Manslaughter"
+    "Offense": "Negligent Manslaughter",
+    "PrevYTDCount": 2,
+    "YTDPercentageChange": 0
   },
   {
     "YTDCount": 0,
     "Year": 2022,
     "Offense": "Negligent Manslaughter",
-    "PrevYTDCount": 5,
+    "PrevYTDCount": 2,
     "YTDPercentageChange": -100
   },
   {
-    "YTDCount": 8,
+    "YTDCount": 4,
     "Year": 2023,
     "Offense": "Negligent Manslaughter"
   },
   {
-    "YTDCount": 1,
+    "YTDCount": 7,
     "Year": 2024,
     "Offense": "Negligent Manslaughter",
-    "PrevYTDCount": 8,
-    "YTDPercentageChange": -87.5
+    "PrevYTDCount": 4,
+    "YTDPercentageChange": 75
   },
   {
-    "YTDCount": 0,
+    "YTDCount": 7,
     "Year": 2025,
     "Offense": "Negligent Manslaughter",
-    "PrevYTDCount": 1,
-    "YTDPercentageChange": -100
+    "PrevYTDCount": 7,
+    "YTDPercentageChange": 0
   }
 ]

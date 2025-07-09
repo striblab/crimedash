@@ -1,32 +1,7 @@
 [
   {
-    "Neighborhood": "Downtown West",
-    "Offense": "Justifiable Homicide",
-    "X2022": 1,
-    "X2023": 0,
-    "X2024": 0,
-    "X2025": 0
-  },
-  {
-    "Neighborhood": "Jordan",
-    "Offense": "Justifiable Homicide",
-    "X2022": 1,
-    "X2023": 0,
-    "X2024": 0,
-    "X2025": 0
-  },
-  {
     "Neighborhood": "Seward",
     "Offense": "Justifiable Homicide",
-    "X2022": 1,
-    "X2023": 0,
-    "X2024": 0,
-    "X2025": 0
-  },
-  {
-    "Neighborhood": "Ventura Village",
-    "Offense": "Justifiable Homicide",
-    "X2022": 0,
     "X2023": 1,
     "X2024": 0,
     "X2025": 0
@@ -34,23 +9,27 @@
   {
     "Neighborhood": "Howe",
     "Offense": "Justifiable Homicide",
-    "X2022": 0,
     "X2023": 0,
     "X2024": 1,
     "X2025": 0
   },
   {
-    "Neighborhood": "Whittier",
+    "Neighborhood": "Ventura Village",
     "Offense": "Justifiable Homicide",
-    "X2022": 0,
     "X2023": 0,
     "X2024": 1,
     "X2025": 0
+  },
+  {
+    "Neighborhood": "Downtown West",
+    "Offense": "Justifiable Homicide",
+    "X2023": 0,
+    "X2024": 0,
+    "X2025": 1
   },
   {
     "Neighborhood": "Folwell",
     "Offense": "Justifiable Homicide",
-    "X2022": 0,
     "X2023": 0,
     "X2024": 0,
     "X2025": 1
@@ -58,39 +37,20 @@
   {
     "Neighborhood": "Lowry Hill East",
     "Offense": "Justifiable Homicide",
-    "X2022": 0,
     "X2023": 0,
     "X2024": 0,
     "X2025": 1
   },
   {
-    "Neighborhood": "Downtown West",
-    "Offense": "Total",
-    "X2022": 1,
+    "Neighborhood": "Whittier",
+    "Offense": "Justifiable Homicide",
     "X2023": 0,
     "X2024": 0,
-    "X2025": 0
-  },
-  {
-    "Neighborhood": "Jordan",
-    "Offense": "Total",
-    "X2022": 1,
-    "X2023": 0,
-    "X2024": 0,
-    "X2025": 0
+    "X2025": 1
   },
   {
     "Neighborhood": "Seward",
     "Offense": "Total",
-    "X2022": 1,
-    "X2023": 0,
-    "X2024": 0,
-    "X2025": 0
-  },
-  {
-    "Neighborhood": "Ventura Village",
-    "Offense": "Total",
-    "X2022": 0,
     "X2023": 1,
     "X2024": 0,
     "X2025": 0
@@ -98,23 +58,27 @@
   {
     "Neighborhood": "Howe",
     "Offense": "Total",
-    "X2022": 0,
     "X2023": 0,
     "X2024": 1,
     "X2025": 0
   },
   {
-    "Neighborhood": "Whittier",
+    "Neighborhood": "Ventura Village",
     "Offense": "Total",
-    "X2022": 0,
     "X2023": 0,
     "X2024": 1,
     "X2025": 0
+  },
+  {
+    "Neighborhood": "Downtown West",
+    "Offense": "Total",
+    "X2023": 0,
+    "X2024": 0,
+    "X2025": 1
   },
   {
     "Neighborhood": "Folwell",
     "Offense": "Total",
-    "X2022": 0,
     "X2023": 0,
     "X2024": 0,
     "X2025": 1
@@ -122,7 +86,13 @@
   {
     "Neighborhood": "Lowry Hill East",
     "Offense": "Total",
-    "X2022": 0,
+    "X2023": 0,
+    "X2024": 0,
+    "X2025": 1
+  },
+  {
+    "Neighborhood": "Whittier",
+    "Offense": "Total",
     "X2023": 0,
     "X2024": 0,
     "X2025": 1
