@@ -24,7 +24,7 @@
 "Ericsson","Sex Offenses",7,2,5,3,2,2,2
 "Folwell","Sex Offenses",23,42,20,16,24,21,4
 "Fulton","Sex Offenses",3,0,2,4,4,0,0
-"Harrison","Sex Offenses",14,10,9,8,10,8,4
+"Harrison","Sex Offenses",14,10,9,8,10,8,6
 "Hawthorne","Sex Offenses",40,25,29,25,37,24,10
 "Hiawatha","Sex Offenses",3,7,5,3,6,10,3
 "Holland","Sex Offenses",5,7,9,6,7,5,6
@@ -51,7 +51,7 @@
 "Morris Park","Sex Offenses",3,2,5,1,1,1,4
 "Near - North","Sex Offenses",29,27,27,40,27,22,14
 "Nicollet Island - East Bank","Sex Offenses",2,4,2,5,1,5,3
-"North Loop","Sex Offenses",12,19,22,10,16,23,8
+"North Loop","Sex Offenses",12,19,22,10,16,23,9
 "Northeast Park","Sex Offenses",2,1,2,0,1,4,1
 "Northrop","Sex Offenses",3,2,6,5,7,1,0
 "Page","Sex Offenses",2,1,1,1,0,1,0
@@ -68,7 +68,7 @@
 "Standish","Sex Offenses",15,3,3,16,7,14,1
 "Steven's Square - Loring Heights","Sex Offenses",12,8,6,10,11,11,7
 "Sumner - Glenwood","Sex Offenses",9,7,4,0,2,1,0
-"University of Minnesota","Sex Offenses",6,2,4,3,4,3,0
+"University of Minnesota","Sex Offenses",6,2,4,3,4,3,1
 "Ventura Village","Sex Offenses",28,13,17,21,21,18,12
 "Victory","Sex Offenses",6,9,5,7,3,4,2
 "Waite Park","Sex Offenses",5,4,1,2,3,4,0
@@ -111,7 +111,7 @@ NA,"Sex Offenses",36,29,63,66,40,41,31
 "Ericsson","Total",7,2,5,3,2,2,2
 "Folwell","Total",23,42,20,16,24,21,4
 "Fulton","Total",3,0,2,4,4,0,0
-"Harrison","Total",14,10,9,8,10,8,4
+"Harrison","Total",14,10,9,8,10,8,6
 "Hawthorne","Total",40,25,29,25,37,24,10
 "Hiawatha","Total",3,7,5,3,6,10,3
 "Holland","Total",5,7,9,6,7,5,6
@@ -138,7 +138,7 @@ NA,"Sex Offenses",36,29,63,66,40,41,31
 "Morris Park","Total",3,2,5,1,1,1,4
 "Near - North","Total",29,27,27,40,27,22,14
 "Nicollet Island - East Bank","Total",2,4,2,5,1,5,3
-"North Loop","Total",12,19,22,10,16,23,8
+"North Loop","Total",12,19,22,10,16,23,9
 "Northeast Park","Total",2,1,2,0,1,4,1
 "Northrop","Total",3,2,6,5,7,1,0
 "Page","Total",2,1,1,1,0,1,0
@@ -155,7 +155,7 @@ NA,"Sex Offenses",36,29,63,66,40,41,31
 "Standish","Total",15,3,3,16,7,14,1
 "Steven's Square - Loring Heights","Total",12,8,6,10,11,11,7
 "Sumner - Glenwood","Total",9,7,4,0,2,1,0
-"University of Minnesota","Total",6,2,4,3,4,3,0
+"University of Minnesota","Total",6,2,4,3,4,3,1
 "Ventura Village","Total",28,13,17,21,21,18,12
 "Victory","Total",6,9,5,7,3,4,2
 "Waite Park","Total",5,4,1,2,3,4,0
