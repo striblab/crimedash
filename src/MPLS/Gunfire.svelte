@@ -145,7 +145,7 @@
     </strong>
   </span> change from last year's <strong>{formatNumber(lastYear)}</strong> reported gunshots at this time.
 </p>
-<p>
+<!-- <p>
   Compared to 2019's count of <strong>{formatNumber(firstYear)}</strong>, the change is <span class={pchange >= 0 ? 'positive' : 'negative'}>
     <strong>
       {typeof pchange === 'number' ? 
@@ -153,14 +153,16 @@
         : 'N/A'}
     </strong>
   </span>.
-</p>
+</p> -->
 {/if}
 
+<div style="display:none;">
 <h4>Year-to-date shots fired trend</h4>
 <div class="chart-container">
   <canvas id="gytdChart"></canvas>
 </div>
 <div class="download"><a href="../store/gunfire/gunfire_ytd_comparison.csv">Download Minneapolis shots fired year-to-date data</a></div> 
+</div>
 
 <p>&nbsp;</p>
 <h4>Monthly shots fired trend</h4>
