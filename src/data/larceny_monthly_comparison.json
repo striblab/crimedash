@@ -542,14 +542,14 @@
     "Year": 2025,
     "Month": 6,
     "Offense": "All Other Larceny",
-    "IncidentCount": 544,
+    "IncidentCount": 546,
     "Date": "2025-06-01"
   },
   {
     "Year": 2025,
     "Month": 7,
     "Offense": "All Other Larceny",
-    "IncidentCount": 99,
+    "IncidentCount": 236,
     "Date": "2025-07-01"
   },
   {
@@ -1095,14 +1095,14 @@
     "Year": 2025,
     "Month": 6,
     "Offense": "Theft From Motor Vehicle",
-    "IncidentCount": 450,
+    "IncidentCount": 453,
     "Date": "2025-06-01"
   },
   {
     "Year": 2025,
     "Month": 7,
     "Offense": "Theft From Motor Vehicle",
-    "IncidentCount": 48,
+    "IncidentCount": 182,
     "Date": "2025-07-01"
   },
   {
@@ -1265,6 +1265,13 @@
     "Offense": "Pocket-picking",
     "IncidentCount": 1,
     "Date": "2024-03-01"
+  },
+  {
+    "Year": 2025,
+    "Month": 7,
+    "Offense": "Pocket-picking",
+    "IncidentCount": 1,
+    "Date": "2025-07-01"
   },
   {
     "Year": 2019,
@@ -1809,14 +1816,14 @@
     "Year": 2025,
     "Month": 6,
     "Offense": "Purse-snatching",
-    "IncidentCount": 8,
+    "IncidentCount": 9,
     "Date": "2025-06-01"
   },
   {
     "Year": 2025,
     "Month": 7,
     "Offense": "Purse-snatching",
-    "IncidentCount": 2,
+    "IncidentCount": 3,
     "Date": "2025-07-01"
   },
   {
@@ -2369,7 +2376,7 @@
     "Year": 2025,
     "Month": 7,
     "Offense": "Shoplifting",
-    "IncidentCount": 30,
+    "IncidentCount": 39,
     "Date": "2025-07-01"
   },
   {
@@ -2915,14 +2922,14 @@
     "Year": 2025,
     "Month": 6,
     "Offense": "Theft From Building",
-    "IncidentCount": 14,
+    "IncidentCount": 15,
     "Date": "2025-06-01"
   },
   {
     "Year": 2025,
     "Month": 7,
     "Offense": "Theft From Building",
-    "IncidentCount": 6,
+    "IncidentCount": 10,
     "Date": "2025-07-01"
   },
   {
@@ -3566,7 +3573,7 @@
     "Year": 2025,
     "Month": 7,
     "Offense": "Theft of Motor Vehicle Parts or Accessories",
-    "IncidentCount": 26,
+    "IncidentCount": 39,
     "Date": "2025-07-01"
   }
 ]
