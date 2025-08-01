@@ -44,7 +44,7 @@
 "Corcoran","Arson",0,1,2,0,1,2,1
 "Downtown East","Arson",0,2,0,0,1,1,0
 "Ericsson","Arson",0,1,0,1,0,0,0
-"Hiawatha","Arson",0,1,1,6,0,1,1
+"Hiawatha","Arson",0,1,1,6,0,1,2
 "Holland","Arson",0,3,1,0,0,1,1
 "Midtown Phillips","Arson",0,3,4,3,2,6,1
 "Northrop","Arson",0,1,0,0,1,2,0
@@ -59,7 +59,7 @@ NA,"Arson",0,2,1,1,1,0,0
 "Lowry Hill East","Arson",0,0,5,4,2,2,1
 "Minnehaha","Arson",0,0,1,0,1,0,1
 "Morris Park","Arson",0,0,1,0,0,0,0
-"North Loop","Arson",0,0,3,3,3,3,0
+"North Loop","Arson",0,0,3,3,3,3,1
 "Page","Arson",0,0,1,0,0,0,0
 "South Uptown","Arson",0,0,1,0,2,1,0
 "St. Anthony East","Arson",0,0,1,2,0,0,0
@@ -123,7 +123,7 @@ NA,"Arson",0,2,1,1,1,0,0
 "Corcoran","Total",0,1,2,0,1,2,1
 "Downtown East","Total",0,2,0,0,1,1,0
 "Ericsson","Total",0,1,0,1,0,0,0
-"Hiawatha","Total",0,1,1,6,0,1,1
+"Hiawatha","Total",0,1,1,6,0,1,2
 "Holland","Total",0,3,1,0,0,1,1
 "Midtown Phillips","Total",0,3,4,3,2,6,1
 "Northrop","Total",0,1,0,0,1,2,0
@@ -138,7 +138,7 @@ NA,"Total",0,2,1,1,1,0,0
 "Lowry Hill East","Total",0,0,5,4,2,2,1
 "Minnehaha","Total",0,0,1,0,1,0,1
 "Morris Park","Total",0,0,1,0,0,0,0
-"North Loop","Total",0,0,3,3,3,3,0
+"North Loop","Total",0,0,3,3,3,3,1
 "Page","Total",0,0,1,0,0,0,0
 "South Uptown","Total",0,0,1,0,2,1,0
 "St. Anthony East","Total",0,0,1,2,0,0,0

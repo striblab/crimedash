@@ -75,9 +75,9 @@
 2025,2,"All Other Larceny",360,2025-02-01
 2025,3,"All Other Larceny",407,2025-03-01
 2025,4,"All Other Larceny",439,2025-04-01
-2025,5,"All Other Larceny",484,2025-05-01
+2025,5,"All Other Larceny",483,2025-05-01
 2025,6,"All Other Larceny",532,2025-06-01
-2025,7,"All Other Larceny",328,2025-07-01
+2025,7,"All Other Larceny",542,2025-07-01
 2019,1,"Theft From Motor Vehicle",282,2019-01-01
 2019,2,"Theft From Motor Vehicle",266,2019-02-01
 2019,3,"Theft From Motor Vehicle",257,2019-03-01
@@ -155,8 +155,8 @@
 2025,3,"Theft From Motor Vehicle",274,2025-03-01
 2025,4,"Theft From Motor Vehicle",268,2025-04-01
 2025,5,"Theft From Motor Vehicle",368,2025-05-01
-2025,6,"Theft From Motor Vehicle",453,2025-06-01
-2025,7,"Theft From Motor Vehicle",242,2025-07-01
+2025,6,"Theft From Motor Vehicle",454,2025-06-01
+2025,7,"Theft From Motor Vehicle",380,2025-07-01
 2019,1,"Pocket-picking",2,2019-01-01
 2019,4,"Pocket-picking",4,2019-04-01
 2019,5,"Pocket-picking",2,2019-05-01
@@ -338,7 +338,7 @@
 2025,4,"Shoplifting",71,2025-04-01
 2025,5,"Shoplifting",65,2025-05-01
 2025,6,"Shoplifting",96,2025-06-01
-2025,7,"Shoplifting",55,2025-07-01
+2025,7,"Shoplifting",90,2025-07-01
 2019,1,"Theft From Building",24,2019-01-01
 2019,2,"Theft From Building",19,2019-02-01
 2019,3,"Theft From Building",16,2019-03-01
@@ -417,7 +417,7 @@
 2025,4,"Theft From Building",20,2025-04-01
 2025,5,"Theft From Building",22,2025-05-01
 2025,6,"Theft From Building",15,2025-06-01
-2025,7,"Theft From Building",11,2025-07-01
+2025,7,"Theft From Building",15,2025-07-01
 2019,3,"Theft From Coin-Operated Machine or Device",2,2019-03-01
 2019,5,"Theft From Coin-Operated Machine or Device",1,2019-05-01
 2019,6,"Theft From Coin-Operated Machine or Device",1,2019-06-01
@@ -508,5 +508,5 @@
 2025,3,"Theft of Motor Vehicle Parts or Accessories",83,2025-03-01
 2025,4,"Theft of Motor Vehicle Parts or Accessories",57,2025-04-01
 2025,5,"Theft of Motor Vehicle Parts or Accessories",44,2025-05-01
-2025,6,"Theft of Motor Vehicle Parts or Accessories",72,2025-06-01
-2025,7,"Theft of Motor Vehicle Parts or Accessories",47,2025-07-01
+2025,6,"Theft of Motor Vehicle Parts or Accessories",73,2025-06-01
+2025,7,"Theft of Motor Vehicle Parts or Accessories",66,2025-07-01

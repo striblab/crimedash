@@ -6,34 +6,34 @@
 "Cleveland","Gunshot Wound Victims",4,3,6,6,2,7,2
 "Downtown West","Gunshot Wound Victims",20,33,30,44,19,24,2
 "East Harriet","Gunshot Wound Victims",1,0,2,0,1,0,0
-"East Isles","Gunshot Wound Victims",2,0,4,0,2,0,1
-"East Phillips","Gunshot Wound Victims",9,35,46,28,18,22,5
+"East Isles","Gunshot Wound Victims",2,0,4,0,2,0,2
+"East Phillips","Gunshot Wound Victims",9,35,46,28,18,22,6
 "Elliot Park","Gunshot Wound Victims",8,14,14,6,9,7,6
-"Folwell","Gunshot Wound Victims",18,28,33,35,23,33,6
+"Folwell","Gunshot Wound Victims",18,28,33,35,23,33,7
 "Harrison","Gunshot Wound Victims",2,7,10,4,4,5,1
-"Hawthorne","Gunshot Wound Victims",34,71,65,57,33,15,11
+"Hawthorne","Gunshot Wound Victims",34,71,65,57,33,15,13
 "Holland","Gunshot Wound Victims",2,0,2,7,0,5,0
 "Jordan","Gunshot Wound Victims",18,62,51,33,29,21,8
-"Lind - Bohanon","Gunshot Wound Victims",9,11,20,9,3,3,4
+"Lind - Bohanon","Gunshot Wound Victims",9,11,20,9,3,3,7
 "Longfellow","Gunshot Wound Victims",2,2,3,1,4,5,3
 "Lowry Hill East","Gunshot Wound Victims",3,15,8,13,20,8,1
-"Marcy Holmes","Gunshot Wound Victims",4,3,17,7,5,5,1
-"McKinley","Gunshot Wound Victims",5,20,15,11,10,5,0
+"Marcy Holmes","Gunshot Wound Victims",4,3,17,7,5,5,2
+"McKinley","Gunshot Wound Victims",5,20,15,11,10,5,1
 "Midtown Phillips","Gunshot Wound Victims",9,19,30,20,12,17,13
 "Near - North","Gunshot Wound Victims",13,40,38,36,20,16,7
 "North Loop","Gunshot Wound Victims",2,2,3,6,4,4,1
 "Northeast Park","Gunshot Wound Victims",2,0,1,1,0,1,0
 "Phillips West","Gunshot Wound Victims",11,7,17,9,3,20,2
-"Powderhorn Park","Gunshot Wound Victims",2,26,16,19,6,6,3
+"Powderhorn Park","Gunshot Wound Victims",2,26,16,19,6,6,4
 "Prospect Park - East River Road","Gunshot Wound Victims",2,0,3,1,2,1,0
 "Seward","Gunshot Wound Victims",9,4,10,5,18,7,3
 "Sheridan","Gunshot Wound Victims",1,0,2,0,0,1,0
-"Steven's Square - Loring Heights","Gunshot Wound Victims",1,5,10,11,6,5,0
+"Steven's Square - Loring Heights","Gunshot Wound Victims",1,5,10,11,6,5,2
 "Sumner - Glenwood","Gunshot Wound Victims",6,3,5,3,1,0,0
-"Ventura Village","Gunshot Wound Victims",11,24,33,21,40,22,4
+"Ventura Village","Gunshot Wound Victims",11,24,33,21,40,22,5
 "Waite Park","Gunshot Wound Victims",1,0,2,0,0,0,0
 "Webber - Camden","Gunshot Wound Victims",13,18,23,12,12,7,6
-"Whittier","Gunshot Wound Victims",3,10,14,18,20,31,11
+"Whittier","Gunshot Wound Victims",3,10,14,18,20,31,12
 "Willard - Hay","Gunshot Wound Victims",21,23,31,13,19,17,8
 "Audubon Park","Gunshot Wound Victims",0,2,2,0,0,3,0
 "Bancroft","Gunshot Wound Victims",0,1,3,2,1,2,0
@@ -44,7 +44,7 @@
 "Keewaydin","Gunshot Wound Victims",0,2,0,0,0,0,1
 "Linden Hills","Gunshot Wound Victims",0,2,0,0,1,0,0
 "Loring Park","Gunshot Wound Victims",0,4,10,15,12,5,5
-"Lyndale","Gunshot Wound Victims",0,2,1,8,3,6,3
+"Lyndale","Gunshot Wound Victims",0,2,1,8,3,6,4
 "Morris Park","Gunshot Wound Victims",0,1,2,0,0,0,0
 "Regina","Gunshot Wound Victims",0,1,1,0,0,0,0
 "Shingle Creek","Gunshot Wound Victims",0,6,3,3,2,1,0
@@ -52,8 +52,8 @@
 "Standish","Gunshot Wound Victims",0,1,2,0,1,0,1
 "Tangletown","Gunshot Wound Victims",0,1,1,0,0,2,0
 "Wenonah","Gunshot Wound Victims",0,2,1,6,6,1,0
-"Windom","Gunshot Wound Victims",0,2,1,1,1,0,0
-NA,"Gunshot Wound Victims",0,3,6,4,6,3,1
+"Windom","Gunshot Wound Victims",0,2,1,1,1,0,2
+NA,"Gunshot Wound Victims",0,3,6,4,6,3,0
 "Beltrami","Gunshot Wound Victims",0,0,1,1,0,0,0
 "Bryant","Gunshot Wound Victims",0,0,2,2,0,0,0
 "Camden Industrial","Gunshot Wound Victims",0,0,1,1,3,0,0
@@ -85,34 +85,34 @@ NA,"Gunshot Wound Victims",0,3,6,4,6,3,1
 "Cleveland","Total",4,3,6,6,2,7,2
 "Downtown West","Total",20,33,30,44,19,24,2
 "East Harriet","Total",1,0,2,0,1,0,0
-"East Isles","Total",2,0,4,0,2,0,1
-"East Phillips","Total",9,35,46,28,18,22,5
+"East Isles","Total",2,0,4,0,2,0,2
+"East Phillips","Total",9,35,46,28,18,22,6
 "Elliot Park","Total",8,14,14,6,9,7,6
-"Folwell","Total",18,28,33,35,23,33,6
+"Folwell","Total",18,28,33,35,23,33,7
 "Harrison","Total",2,7,10,4,4,5,1
-"Hawthorne","Total",34,71,65,57,33,15,11
+"Hawthorne","Total",34,71,65,57,33,15,13
 "Holland","Total",2,0,2,7,0,5,0
 "Jordan","Total",18,62,51,33,29,21,8
-"Lind - Bohanon","Total",9,11,20,9,3,3,4
+"Lind - Bohanon","Total",9,11,20,9,3,3,7
 "Longfellow","Total",2,2,3,1,4,5,3
 "Lowry Hill East","Total",3,15,8,13,20,8,1
-"Marcy Holmes","Total",4,3,17,7,5,5,1
-"McKinley","Total",5,20,15,11,10,5,0
+"Marcy Holmes","Total",4,3,17,7,5,5,2
+"McKinley","Total",5,20,15,11,10,5,1
 "Midtown Phillips","Total",9,19,30,20,12,17,13
 "Near - North","Total",13,40,38,36,20,16,7
 "North Loop","Total",2,2,3,6,4,4,1
 "Northeast Park","Total",2,0,1,1,0,1,0
 "Phillips West","Total",11,7,17,9,3,20,2
-"Powderhorn Park","Total",2,26,16,19,6,6,3
+"Powderhorn Park","Total",2,26,16,19,6,6,4
 "Prospect Park - East River Road","Total",2,0,3,1,2,1,0
 "Seward","Total",9,4,10,5,18,7,3
 "Sheridan","Total",1,0,2,0,0,1,0
-"Steven's Square - Loring Heights","Total",1,5,10,11,6,5,0
+"Steven's Square - Loring Heights","Total",1,5,10,11,6,5,2
 "Sumner - Glenwood","Total",6,3,5,3,1,0,0
-"Ventura Village","Total",11,24,33,21,40,22,4
+"Ventura Village","Total",11,24,33,21,40,22,5
 "Waite Park","Total",1,0,2,0,0,0,0
 "Webber - Camden","Total",13,18,23,12,12,7,6
-"Whittier","Total",3,10,14,18,20,31,11
+"Whittier","Total",3,10,14,18,20,31,12
 "Willard - Hay","Total",21,23,31,13,19,17,8
 "Audubon Park","Total",0,2,2,0,0,3,0
 "Bancroft","Total",0,1,3,2,1,2,0
@@ -123,7 +123,7 @@ NA,"Gunshot Wound Victims",0,3,6,4,6,3,1
 "Keewaydin","Total",0,2,0,0,0,0,1
 "Linden Hills","Total",0,2,0,0,1,0,0
 "Loring Park","Total",0,4,10,15,12,5,5
-"Lyndale","Total",0,2,1,8,3,6,3
+"Lyndale","Total",0,2,1,8,3,6,4
 "Morris Park","Total",0,1,2,0,0,0,0
 "Regina","Total",0,1,1,0,0,0,0
 "Shingle Creek","Total",0,6,3,3,2,1,0
@@ -131,8 +131,8 @@ NA,"Gunshot Wound Victims",0,3,6,4,6,3,1
 "Standish","Total",0,1,2,0,1,0,1
 "Tangletown","Total",0,1,1,0,0,2,0
 "Wenonah","Total",0,2,1,6,6,1,0
-"Windom","Total",0,2,1,1,1,0,0
-NA,"Total",0,3,6,4,6,3,1
+"Windom","Total",0,2,1,1,1,0,2
+NA,"Total",0,3,6,4,6,3,0
 "Beltrami","Total",0,0,1,1,0,0,0
 "Bryant","Total",0,0,2,2,0,0,0
 "Camden Industrial","Total",0,0,1,1,3,0,0
