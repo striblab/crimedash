@@ -213,30 +213,35 @@
     "Year": 2025,
     "Precinct": 1,
     "Offense": "Burglary/Breaking & Entering",
-    "OffenseCount": 119
+    "OffenseCount": 121
   },
   {
     "Year": 2025,
     "Precinct": 2,
     "Offense": "Burglary/Breaking & Entering",
-    "OffenseCount": 158
+    "OffenseCount": 160
   },
   {
     "Year": 2025,
     "Precinct": 3,
     "Offense": "Burglary/Breaking & Entering",
-    "OffenseCount": 549
+    "OffenseCount": 560
   },
   {
     "Year": 2025,
     "Precinct": 4,
     "Offense": "Burglary/Breaking & Entering",
-    "OffenseCount": 241
+    "OffenseCount": 244
   },
   {
     "Year": 2025,
     "Precinct": 5,
     "Offense": "Burglary/Breaking & Entering",
-    "OffenseCount": 260
+    "OffenseCount": 264
+  },
+  {
+    "Year": 2025,
+    "Offense": "Burglary/Breaking & Entering",
+    "OffenseCount": 2
   }
 ]
