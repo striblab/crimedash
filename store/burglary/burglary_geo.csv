@@ -4,7 +4,7 @@
 "Bancroft","Burglary/Breaking & Entering",60,24,8,16,17,28,10
 "Beltrami","Burglary/Breaking & Entering",8,6,6,1,2,10,3
 "Bottineau","Burglary/Breaking & Entering",7,12,10,14,8,16,4
-"Bryant","Burglary/Breaking & Entering",37,25,19,12,19,19,10
+"Bryant","Burglary/Breaking & Entering",37,25,19,12,19,19,11
 "Bryn - Mawr","Burglary/Breaking & Entering",16,14,18,7,10,5,9
 "Camden Industrial","Burglary/Breaking & Entering",2,7,6,5,1,0,1
 "Cedar - Isles - Dean","Burglary/Breaking & Entering",19,52,21,7,16,20,12
@@ -21,7 +21,7 @@
 "East Bde Maka Ska","Burglary/Breaking & Entering",32,46,21,19,18,23,7
 "East Harriet","Burglary/Breaking & Entering",18,20,9,7,21,33,5
 "East Isles","Burglary/Breaking & Entering",48,72,37,24,54,38,14
-"East Phillips","Burglary/Breaking & Entering",47,73,58,37,32,44,16
+"East Phillips","Burglary/Breaking & Entering",47,73,58,37,32,44,17
 "Elliot Park","Burglary/Breaking & Entering",41,47,32,45,35,51,30
 "Ericsson","Burglary/Breaking & Entering",51,37,24,17,30,20,9
 "Field","Burglary/Breaking & Entering",26,18,13,15,15,26,11
@@ -57,7 +57,7 @@
 "Morris Park","Burglary/Breaking & Entering",23,10,7,13,11,20,9
 "Near - North","Burglary/Breaking & Entering",51,43,49,57,52,41,19
 "Nicollet Island - East Bank","Burglary/Breaking & Entering",3,23,13,14,16,8,3
-"North Loop","Burglary/Breaking & Entering",46,103,67,47,38,33,27
+"North Loop","Burglary/Breaking & Entering",46,103,67,47,38,33,26
 "Northeast Park","Burglary/Breaking & Entering",3,10,8,7,10,10,5
 "Northrop","Burglary/Breaking & Entering",68,58,21,35,28,41,22
 "Page","Burglary/Breaking & Entering",10,20,17,8,4,14,6
@@ -86,13 +86,13 @@
 "Willard - Hay","Burglary/Breaking & Entering",39,46,32,38,45,31,25
 "Windom","Burglary/Breaking & Entering",32,39,24,28,26,40,15
 "Windom Park","Burglary/Breaking & Entering",34,24,15,14,11,19,5
-NA,"Burglary/Breaking & Entering",1,1,5,5,6,3,3
+NA,"Burglary/Breaking & Entering",1,1,5,5,6,3,5
 "Armatage","Total",16,17,19,6,16,9,6
 "Audubon Park","Total",36,17,19,22,18,12,5
 "Bancroft","Total",60,24,8,16,17,28,10
 "Beltrami","Total",8,6,6,1,2,10,3
 "Bottineau","Total",7,12,10,14,8,16,4
-"Bryant","Total",37,25,19,12,19,19,10
+"Bryant","Total",37,25,19,12,19,19,11
 "Bryn - Mawr","Total",16,14,18,7,10,5,9
 "Camden Industrial","Total",2,7,6,5,1,0,1
 "Cedar - Isles - Dean","Total",19,52,21,7,16,20,12
@@ -109,7 +109,7 @@ NA,"Burglary/Breaking & Entering",1,1,5,5,6,3,3
 "East Bde Maka Ska","Total",32,46,21,19,18,23,7
 "East Harriet","Total",18,20,9,7,21,33,5
 "East Isles","Total",48,72,37,24,54,38,14
-"East Phillips","Total",47,73,58,37,32,44,16
+"East Phillips","Total",47,73,58,37,32,44,17
 "Elliot Park","Total",41,47,32,45,35,51,30
 "Ericsson","Total",51,37,24,17,30,20,9
 "Field","Total",26,18,13,15,15,26,11
@@ -145,7 +145,7 @@ NA,"Burglary/Breaking & Entering",1,1,5,5,6,3,3
 "Morris Park","Total",23,10,7,13,11,20,9
 "Near - North","Total",51,43,49,57,52,41,19
 "Nicollet Island - East Bank","Total",3,23,13,14,16,8,3
-"North Loop","Total",46,103,67,47,38,33,27
+"North Loop","Total",46,103,67,47,38,33,26
 "Northeast Park","Total",3,10,8,7,10,10,5
 "Northrop","Total",68,58,21,35,28,41,22
 "Page","Total",10,20,17,8,4,14,6
@@ -174,4 +174,4 @@ NA,"Burglary/Breaking & Entering",1,1,5,5,6,3,3
 "Willard - Hay","Total",39,46,32,38,45,31,25
 "Windom","Total",32,39,24,28,26,40,15
 "Windom Park","Total",34,24,15,14,11,19,5
-NA,"Total",1,1,5,5,6,3,3
+NA,"Total",1,1,5,5,6,3,5

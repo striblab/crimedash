@@ -17,7 +17,7 @@
 "Corcoran","All Other Larceny",47,47,34,43,47,49,32
 "Diamond Lake","All Other Larceny",16,22,23,15,31,29,27
 "Downtown East","All Other Larceny",110,100,79,124,112,119,58
-"Downtown West","All Other Larceny",1316,541,653,767,579,566,281
+"Downtown West","All Other Larceny",1316,541,653,767,579,566,282
 "East Bde Maka Ska","All Other Larceny",64,26,39,32,29,61,33
 "East Harriet","All Other Larceny",36,30,20,27,38,44,15
 "East Isles","All Other Larceny",122,80,74,91,82,84,45
@@ -91,7 +91,7 @@ NA,"All Other Larceny",14,13,29,33,27,26,13
 "Audubon Park","Theft From Motor Vehicle",21,29,24,9,6,23,22
 "Bancroft","Theft From Motor Vehicle",30,24,19,14,34,24,13
 "Beltrami","Theft From Motor Vehicle",29,28,7,18,8,5,2
-"Bottineau","Theft From Motor Vehicle",43,53,19,14,11,14,13
+"Bottineau","Theft From Motor Vehicle",43,53,19,14,11,14,14
 "Bryant","Theft From Motor Vehicle",11,18,4,15,18,24,13
 "Bryn - Mawr","Theft From Motor Vehicle",20,22,15,26,30,12,11
 "Camden Industrial","Theft From Motor Vehicle",3,2,2,7,3,2,1
@@ -373,7 +373,7 @@ NA,"Shoplifting",1,0,1,0,0,0,0
 "Minnehaha","Theft From Building",1,0,0,0,0,0,2
 "Near - North","Theft From Building",5,0,4,4,0,4,4
 "Nicollet Island - East Bank","Theft From Building",5,2,0,1,0,1,1
-"North Loop","Theft From Building",18,5,6,4,5,8,11
+"North Loop","Theft From Building",18,5,6,4,5,8,12
 "Northeast Park","Theft From Building",3,4,3,3,0,1,2
 "Northrop","Theft From Building",1,0,0,0,0,3,0
 "Phillips West","Theft From Building",6,3,0,4,3,3,0
@@ -471,7 +471,7 @@ NA,"Theft From Building",0,0,0,1,1,0,0
 "Lyndale","Theft of Motor Vehicle Parts or Accessories",12,38,45,70,40,17,16
 "Marcy Holmes","Theft of Motor Vehicle Parts or Accessories",4,63,88,115,87,24,13
 "Marshall Terrace","Theft of Motor Vehicle Parts or Accessories",1,8,15,14,3,4,7
-"McKinley","Theft of Motor Vehicle Parts or Accessories",1,9,11,16,4,9,3
+"McKinley","Theft of Motor Vehicle Parts or Accessories",1,9,11,16,4,9,4
 "Mid - City Industrial","Theft of Motor Vehicle Parts or Accessories",6,16,31,64,14,10,2
 "Midtown Phillips","Theft of Motor Vehicle Parts or Accessories",5,35,29,42,12,17,8
 "Minnehaha","Theft of Motor Vehicle Parts or Accessories",6,26,30,33,16,12,2
@@ -525,7 +525,7 @@ NA,"Theft of Motor Vehicle Parts or Accessories",0,7,6,14,9,3,1
 "Audubon Park","Total",57,74,100,73,57,60,42
 "Bancroft","Total",65,90,70,65,73,77,39
 "Beltrami","Total",37,45,33,51,23,18,8
-"Bottineau","Total",67,73,60,46,35,41,33
+"Bottineau","Total",67,73,60,46,35,41,34
 "Bryant","Total",32,49,32,48,54,61,44
 "Bryn - Mawr","Total",38,42,51,63,62,71,33
 "Camden Industrial","Total",11,11,9,16,17,10,5
@@ -539,7 +539,7 @@ NA,"Theft of Motor Vehicle Parts or Accessories",0,7,6,14,9,3,1
 "Corcoran","Total",107,116,86,128,115,113,82
 "Diamond Lake","Total",61,71,75,73,69,60,56
 "Downtown East","Total",207,160,154,206,168,203,130
-"Downtown West","Total",1969,923,1009,1295,1085,1048,617
+"Downtown West","Total",1969,923,1009,1295,1085,1048,618
 "East Bde Maka Ska","Total",118,67,78,111,91,117,63
 "East Harriet","Total",85,82,91,120,110,91,42
 "East Isles","Total",227,192,171,247,221,186,113
@@ -572,14 +572,14 @@ NA,"Theft of Motor Vehicle Parts or Accessories",0,7,6,14,9,3,1
 "Lynnhurst","Total",52,58,51,68,79,76,42
 "Marcy Holmes","Total",440,593,634,565,422,589,256
 "Marshall Terrace","Total",40,56,50,45,35,55,31
-"McKinley","Total",61,57,70,68,34,61,35
+"McKinley","Total",61,57,70,68,34,61,36
 "Mid - City Industrial","Total",66,72,84,114,63,83,35
 "Midtown Phillips","Total",247,219,155,169,128,207,89
 "Minnehaha","Total",75,119,80,98,75,80,42
 "Morris Park","Total",19,29,33,34,25,21,22
 "Near - North","Total",230,209,176,267,184,170,93
 "Nicollet Island - East Bank","Total",86,109,66,122,111,169,114
-"North Loop","Total",335,322,336,453,369,370,268
+"North Loop","Total",335,322,336,453,369,370,269
 "Northeast Park","Total",173,199,180,391,229,186,123
 "Northrop","Total",96,113,73,147,138,118,85
 "Page","Total",16,23,19,27,27,33,16

@@ -8,7 +8,7 @@
 "Bryn - Mawr","Aggravated Assault",7,5,3,3,1,6,3
 "Camden Industrial","Aggravated Assault",5,4,3,4,4,2,0
 "Cedar - Isles - Dean","Aggravated Assault",4,5,2,1,4,3,0
-"Cedar Riverside","Aggravated Assault",33,36,49,74,39,41,18
+"Cedar Riverside","Aggravated Assault",33,36,49,74,39,41,19
 "Central","Aggravated Assault",62,52,74,67,56,62,27
 "Cleveland","Aggravated Assault",24,26,28,34,21,37,22
 "Columbia Park","Aggravated Assault",3,4,12,8,4,6,2
@@ -69,7 +69,7 @@
 "St. Anthony East","Aggravated Assault",9,2,4,4,7,20,4
 "St. Anthony West","Aggravated Assault",8,3,8,13,10,4,7
 "Standish","Aggravated Assault",8,10,15,15,11,14,10
-"Steven's Square - Loring Heights","Aggravated Assault",31,53,61,51,72,56,37
+"Steven's Square - Loring Heights","Aggravated Assault",31,53,61,51,72,56,38
 "Sumner - Glenwood","Aggravated Assault",27,33,22,38,23,18,4
 "Tangletown","Aggravated Assault",1,4,10,1,10,7,1
 "University of Minnesota","Aggravated Assault",6,0,3,15,3,9,0
@@ -79,11 +79,11 @@
 "Webber - Camden","Aggravated Assault",87,84,101,74,96,72,25
 "Wenonah","Aggravated Assault",19,27,22,33,23,10,7
 "West Maka Ska","Aggravated Assault",8,4,1,8,5,10,1
-"Whittier","Aggravated Assault",99,114,123,168,156,200,103
-"Willard - Hay","Aggravated Assault",128,116,121,101,124,139,78
+"Whittier","Aggravated Assault",99,114,123,168,156,200,104
+"Willard - Hay","Aggravated Assault",128,116,121,101,124,139,81
 "Windom","Aggravated Assault",9,18,25,14,16,14,15
 "Windom Park","Aggravated Assault",12,11,19,13,11,18,6
-NA,"Aggravated Assault",9,14,20,23,21,14,10
+NA,"Aggravated Assault",9,14,20,23,21,14,11
 "Hale","Aggravated Assault",0,1,1,2,1,2,1
 "Page","Aggravated Assault",0,1,1,0,0,3,0
 "Humboldt Industrial Area","Aggravated Assault",0,0,0,1,1,0,1
@@ -96,7 +96,7 @@ NA,"Aggravated Assault",9,14,20,23,21,14,10
 "Bryn - Mawr","Total",7,5,3,3,1,6,3
 "Camden Industrial","Total",5,4,3,4,4,2,0
 "Cedar - Isles - Dean","Total",4,5,2,1,4,3,0
-"Cedar Riverside","Total",33,36,49,74,39,41,18
+"Cedar Riverside","Total",33,36,49,74,39,41,19
 "Central","Total",62,52,74,67,56,62,27
 "Cleveland","Total",24,26,28,34,21,37,22
 "Columbia Park","Total",3,4,12,8,4,6,2
@@ -157,7 +157,7 @@ NA,"Aggravated Assault",9,14,20,23,21,14,10
 "St. Anthony East","Total",9,2,4,4,7,20,4
 "St. Anthony West","Total",8,3,8,13,10,4,7
 "Standish","Total",8,10,15,15,11,14,10
-"Steven's Square - Loring Heights","Total",31,53,61,51,72,56,37
+"Steven's Square - Loring Heights","Total",31,53,61,51,72,56,38
 "Sumner - Glenwood","Total",27,33,22,38,23,18,4
 "Tangletown","Total",1,4,10,1,10,7,1
 "University of Minnesota","Total",6,0,3,15,3,9,0
@@ -167,11 +167,11 @@ NA,"Aggravated Assault",9,14,20,23,21,14,10
 "Webber - Camden","Total",87,84,101,74,96,72,25
 "Wenonah","Total",19,27,22,33,23,10,7
 "West Maka Ska","Total",8,4,1,8,5,10,1
-"Whittier","Total",99,114,123,168,156,200,103
-"Willard - Hay","Total",128,116,121,101,124,139,78
+"Whittier","Total",99,114,123,168,156,200,104
+"Willard - Hay","Total",128,116,121,101,124,139,81
 "Windom","Total",9,18,25,14,16,14,15
 "Windom Park","Total",12,11,19,13,11,18,6
-NA,"Total",9,14,20,23,21,14,10
+NA,"Total",9,14,20,23,21,14,11
 "Hale","Total",0,1,1,2,1,2,1
 "Page","Total",0,1,1,0,0,3,0
 "Humboldt Industrial Area","Total",0,0,0,1,1,0,1
