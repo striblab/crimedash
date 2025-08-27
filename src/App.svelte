@@ -47,6 +47,7 @@
 	import Arrests from './MN/Arrests.svelte';
 	import LEOKA from './MN/LEOKA.svelte';
 	import Force from './MN/Force.svelte';
+	import Mass from './MN/Mass.svelte';
 	import Staff from './MN/Staff.svelte';
 	import Courts from './MN/Courts.svelte';
 	import National from './US/National.svelte';
@@ -103,6 +104,7 @@
 	  { id: 'arrests', cat: 'Minnesota', name: 'Arrests', component: Arrests },
 	  { id: 'leoka', cat: 'Minnesota', name: 'LEOKA', component: LEOKA },
 	  { id: 'force', cat: 'Minnesota', name: 'Police Use-of-Force', component: Force },
+	  { id: 'mass', cat: 'Minnesota', name: 'Mass Shootings', component: Mass },
 	  { id: 'courts', cat: 'Minnesota', name: 'Minnesota Courts', component: Courts },
 	  { id: 'national', cat: 'National', name: 'National Public Safety Trends', component: National },
 	  { id: 'practices', cat: 'Notes', name: 'Best Practices', component: Practices },
