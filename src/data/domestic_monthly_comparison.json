@@ -549,14 +549,21 @@
     "Year": 2025,
     "Month": 7,
     "Offense": "Domestic Aggravated Assault - Subset of Assault",
-    "IncidentCount": 99,
+    "IncidentCount": 100,
     "Date": "2025-07-01"
   },
   {
     "Year": 2025,
     "Month": 8,
     "Offense": "Domestic Aggravated Assault - Subset of Assault",
-    "IncidentCount": 53,
+    "IncidentCount": 98,
     "Date": "2025-08-01"
+  },
+  {
+    "Year": 2025,
+    "Month": 9,
+    "Offense": "Domestic Aggravated Assault - Subset of Assault",
+    "IncidentCount": 1,
+    "Date": "2025-09-01"
   }
 ]

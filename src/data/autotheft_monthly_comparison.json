@@ -549,14 +549,21 @@
     "Year": 2025,
     "Month": 7,
     "Offense": "Motor Vehicle Theft",
-    "IncidentCount": 463,
+    "IncidentCount": 462,
     "Date": "2025-07-01"
   },
   {
     "Year": 2025,
     "Month": 8,
     "Offense": "Motor Vehicle Theft",
-    "IncidentCount": 315,
+    "IncidentCount": 500,
     "Date": "2025-08-01"
+  },
+  {
+    "Year": 2025,
+    "Month": 9,
+    "Offense": "Motor Vehicle Theft",
+    "IncidentCount": 1,
+    "Date": "2025-09-01"
   }
 ]

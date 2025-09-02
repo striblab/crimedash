@@ -1,16 +1,9 @@
 [
   {
     "Year": 2019,
-    "Month": 8,
-    "Offense": "Shooting (PFE)",
-    "IncidentCount": 13,
-    "Date": "2019-08-01"
-  },
-  {
-    "Year": 2019,
     "Month": 9,
     "Offense": "Shooting (PFE)",
-    "IncidentCount": 21,
+    "IncidentCount": 20,
     "Date": "2019-09-01"
   },
   {
@@ -507,14 +500,21 @@
     "Year": 2025,
     "Month": 8,
     "Offense": "Shooting (PFE)",
-    "IncidentCount": 12,
+    "IncidentCount": 24,
     "Date": "2025-08-01"
+  },
+  {
+    "Year": 2025,
+    "Month": 9,
+    "Offense": "Shooting (PFE)",
+    "IncidentCount": 3,
+    "Date": "2025-09-01"
   },
   {
     "Year": 2019,
     "Month": 8,
     "Offense": "Shooting Report Only (P)",
-    "IncidentCount": 3,
+    "IncidentCount": 1,
     "Date": "2019-08-01"
   },
   {
@@ -1018,21 +1018,21 @@
     "Year": 2025,
     "Month": 8,
     "Offense": "Shooting Report Only (P)",
-    "IncidentCount": 1,
+    "IncidentCount": 8,
     "Date": "2025-08-01"
   },
   {
     "Year": 2019,
     "Month": 8,
     "Offense": "ShotSpotter Activation (P)",
-    "IncidentCount": 83,
+    "IncidentCount": 10,
     "Date": "2019-08-01"
   },
   {
     "Year": 2019,
     "Month": 9,
     "Offense": "ShotSpotter Activation (P)",
-    "IncidentCount": 169,
+    "IncidentCount": 161,
     "Date": "2019-09-01"
   },
   {
@@ -1529,21 +1529,28 @@
     "Year": 2025,
     "Month": 8,
     "Offense": "ShotSpotter Activation (P)",
-    "IncidentCount": 106,
+    "IncidentCount": 189,
     "Date": "2025-08-01"
+  },
+  {
+    "Year": 2025,
+    "Month": 9,
+    "Offense": "ShotSpotter Activation (P)",
+    "IncidentCount": 6,
+    "Date": "2025-09-01"
   },
   {
     "Year": 2019,
     "Month": 8,
     "Offense": "Sound of Shots Fired (P)",
-    "IncidentCount": 152,
+    "IncidentCount": 11,
     "Date": "2019-08-01"
   },
   {
     "Year": 2019,
     "Month": 9,
     "Offense": "Sound of Shots Fired (P)",
-    "IncidentCount": 253,
+    "IncidentCount": 238,
     "Date": "2019-09-01"
   },
   {
@@ -2040,7 +2047,14 @@
     "Year": 2025,
     "Month": 8,
     "Offense": "Sound of Shots Fired (P)",
-    "IncidentCount": 128,
+    "IncidentCount": 232,
     "Date": "2025-08-01"
+  },
+  {
+    "Year": 2025,
+    "Month": 9,
+    "Offense": "Sound of Shots Fired (P)",
+    "IncidentCount": 10,
+    "Date": "2025-09-01"
   }
 ]

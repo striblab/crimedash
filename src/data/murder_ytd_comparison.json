@@ -1,49 +1,49 @@
 [
   {
-    "YTDCount": 25,
+    "YTDCount": 27,
     "Year": 2019,
     "Offense": "Murder and Nonnegligent Manslaughter"
   },
   {
-    "YTDCount": 53,
+    "YTDCount": 60,
     "Year": 2020,
     "Offense": "Murder and Nonnegligent Manslaughter",
-    "PrevYTDCount": 25,
-    "YTDPercentageChange": 112
+    "PrevYTDCount": 27,
+    "YTDPercentageChange": 122.2222
   },
   {
-    "YTDCount": 63,
+    "YTDCount": 65,
     "Year": 2021,
     "Offense": "Murder and Nonnegligent Manslaughter",
-    "PrevYTDCount": 53,
-    "YTDPercentageChange": 18.8679
+    "PrevYTDCount": 60,
+    "YTDPercentageChange": 8.3333
   },
   {
-    "YTDCount": 58,
+    "YTDCount": 60,
     "Year": 2022,
     "Offense": "Murder and Nonnegligent Manslaughter",
-    "PrevYTDCount": 63,
-    "YTDPercentageChange": -7.9365
+    "PrevYTDCount": 65,
+    "YTDPercentageChange": -7.6923
   },
   {
     "YTDCount": 41,
     "Year": 2023,
     "Offense": "Murder and Nonnegligent Manslaughter",
-    "PrevYTDCount": 58,
-    "YTDPercentageChange": -29.3103
+    "PrevYTDCount": 60,
+    "YTDPercentageChange": -31.6667
   },
   {
-    "YTDCount": 48,
+    "YTDCount": 51,
     "Year": 2024,
     "Offense": "Murder and Nonnegligent Manslaughter",
     "PrevYTDCount": 41,
-    "YTDPercentageChange": 17.0732
+    "YTDPercentageChange": 24.3902
   },
   {
-    "YTDCount": 36,
+    "YTDCount": 41,
     "Year": 2025,
     "Offense": "Murder and Nonnegligent Manslaughter",
-    "PrevYTDCount": 48,
-    "YTDPercentageChange": -25
+    "PrevYTDCount": 51,
+    "YTDPercentageChange": -19.6078
   }
 ]

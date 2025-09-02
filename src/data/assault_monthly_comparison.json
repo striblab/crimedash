@@ -549,14 +549,21 @@
     "Year": 2025,
     "Month": 7,
     "Offense": "Aggravated Assault",
-    "IncidentCount": 250,
+    "IncidentCount": 253,
     "Date": "2025-07-01"
   },
   {
     "Year": 2025,
     "Month": 8,
     "Offense": "Aggravated Assault",
-    "IncidentCount": 154,
+    "IncidentCount": 305,
     "Date": "2025-08-01"
+  },
+  {
+    "Year": 2025,
+    "Month": 9,
+    "Offense": "Aggravated Assault",
+    "IncidentCount": 2,
+    "Date": "2025-09-01"
   }
 ]

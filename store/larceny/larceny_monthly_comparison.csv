@@ -55,7 +55,7 @@
 2023,6,"All Other Larceny",515,2023-06-01
 2023,7,"All Other Larceny",616,2023-07-01
 2023,8,"All Other Larceny",621,2023-08-01
-2023,9,"All Other Larceny",613,2023-09-01
+2023,9,"All Other Larceny",614,2023-09-01
 2023,10,"All Other Larceny",583,2023-10-01
 2023,11,"All Other Larceny",482,2023-11-01
 2023,12,"All Other Larceny",493,2023-12-01
@@ -76,9 +76,10 @@
 2025,3,"All Other Larceny",407,2025-03-01
 2025,4,"All Other Larceny",439,2025-04-01
 2025,5,"All Other Larceny",483,2025-05-01
-2025,6,"All Other Larceny",533,2025-06-01
-2025,7,"All Other Larceny",586,2025-07-01
-2025,8,"All Other Larceny",301,2025-08-01
+2025,6,"All Other Larceny",535,2025-06-01
+2025,7,"All Other Larceny",585,2025-07-01
+2025,8,"All Other Larceny",525,2025-08-01
+2025,9,"All Other Larceny",1,2025-09-01
 2019,1,"Theft From Motor Vehicle",282,2019-01-01
 2019,2,"Theft From Motor Vehicle",266,2019-02-01
 2019,3,"Theft From Motor Vehicle",257,2019-03-01
@@ -157,8 +158,8 @@
 2025,4,"Theft From Motor Vehicle",268,2025-04-01
 2025,5,"Theft From Motor Vehicle",368,2025-05-01
 2025,6,"Theft From Motor Vehicle",454,2025-06-01
-2025,7,"Theft From Motor Vehicle",410,2025-07-01
-2025,8,"Theft From Motor Vehicle",255,2025-08-01
+2025,7,"Theft From Motor Vehicle",411,2025-07-01
+2025,8,"Theft From Motor Vehicle",386,2025-08-01
 2019,1,"Pocket-picking",2,2019-01-01
 2019,4,"Pocket-picking",4,2019-04-01
 2019,5,"Pocket-picking",2,2019-05-01
@@ -262,7 +263,7 @@
 2025,5,"Purse-snatching",6,2025-05-01
 2025,6,"Purse-snatching",9,2025-06-01
 2025,7,"Purse-snatching",5,2025-07-01
-2025,8,"Purse-snatching",5,2025-08-01
+2025,8,"Purse-snatching",9,2025-08-01
 2019,1,"Shoplifting",65,2019-01-01
 2019,2,"Shoplifting",85,2019-02-01
 2019,3,"Shoplifting",94,2019-03-01
@@ -341,8 +342,9 @@
 2025,4,"Shoplifting",71,2025-04-01
 2025,5,"Shoplifting",65,2025-05-01
 2025,6,"Shoplifting",96,2025-06-01
-2025,7,"Shoplifting",95,2025-07-01
-2025,8,"Shoplifting",79,2025-08-01
+2025,7,"Shoplifting",96,2025-07-01
+2025,8,"Shoplifting",120,2025-08-01
+2025,9,"Shoplifting",2,2025-09-01
 2019,1,"Theft From Building",24,2019-01-01
 2019,2,"Theft From Building",19,2019-02-01
 2019,3,"Theft From Building",16,2019-03-01
@@ -422,7 +424,7 @@
 2025,5,"Theft From Building",22,2025-05-01
 2025,6,"Theft From Building",15,2025-06-01
 2025,7,"Theft From Building",16,2025-07-01
-2025,8,"Theft From Building",18,2025-08-01
+2025,8,"Theft From Building",25,2025-08-01
 2019,3,"Theft From Coin-Operated Machine or Device",2,2019-03-01
 2019,5,"Theft From Coin-Operated Machine or Device",1,2019-05-01
 2019,6,"Theft From Coin-Operated Machine or Device",1,2019-06-01
@@ -515,4 +517,5 @@
 2025,5,"Theft of Motor Vehicle Parts or Accessories",44,2025-05-01
 2025,6,"Theft of Motor Vehicle Parts or Accessories",73,2025-06-01
 2025,7,"Theft of Motor Vehicle Parts or Accessories",70,2025-07-01
-2025,8,"Theft of Motor Vehicle Parts or Accessories",57,2025-08-01
+2025,8,"Theft of Motor Vehicle Parts or Accessories",83,2025-08-01
+2025,9,"Theft of Motor Vehicle Parts or Accessories",2,2025-09-01
