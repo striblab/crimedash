@@ -556,14 +556,14 @@
     "Year": 2025,
     "Month": 8,
     "Offense": "All Other Larceny",
-    "IncidentCount": 525,
+    "IncidentCount": 526,
     "Date": "2025-08-01"
   },
   {
     "Year": 2025,
     "Month": 9,
     "Offense": "All Other Larceny",
-    "IncidentCount": 1,
+    "IncidentCount": 2,
     "Date": "2025-09-01"
   },
   {
@@ -1125,6 +1125,13 @@
     "Offense": "Theft From Motor Vehicle",
     "IncidentCount": 386,
     "Date": "2025-08-01"
+  },
+  {
+    "Year": 2025,
+    "Month": 9,
+    "Offense": "Theft From Motor Vehicle",
+    "IncidentCount": 2,
+    "Date": "2025-09-01"
   },
   {
     "Year": 2019,
@@ -2418,7 +2425,7 @@
     "Year": 2025,
     "Month": 9,
     "Offense": "Shoplifting",
-    "IncidentCount": 2,
+    "IncidentCount": 3,
     "Date": "2025-09-01"
   },
   {

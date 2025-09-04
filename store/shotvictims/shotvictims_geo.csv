@@ -4,11 +4,11 @@
 "Cedar Riverside","Gunshot Wound Victims",6,6,13,20,5,4,0
 "Central","Gunshot Wound Victims",10,14,10,7,5,7,4
 "Cleveland","Gunshot Wound Victims",4,3,6,6,2,7,3
-"Downtown West","Gunshot Wound Victims",20,33,30,44,19,24,5
+"Downtown West","Gunshot Wound Victims",20,33,30,44,19,24,6
 "East Harriet","Gunshot Wound Victims",1,0,2,0,1,0,0
 "East Isles","Gunshot Wound Victims",2,0,4,0,2,0,2
-"East Phillips","Gunshot Wound Victims",9,35,46,28,18,22,7
-"Elliot Park","Gunshot Wound Victims",8,14,14,6,9,7,7
+"East Phillips","Gunshot Wound Victims",9,35,46,28,18,22,8
+"Elliot Park","Gunshot Wound Victims",8,14,14,6,9,7,6
 "Folwell","Gunshot Wound Victims",18,28,33,35,23,33,7
 "Harrison","Gunshot Wound Victims",2,7,10,4,4,5,1
 "Hawthorne","Gunshot Wound Victims",34,71,65,57,33,15,14
@@ -17,7 +17,7 @@
 "Lind - Bohanon","Gunshot Wound Victims",9,11,20,9,3,3,7
 "Longfellow","Gunshot Wound Victims",2,2,3,1,4,5,3
 "Lowry Hill East","Gunshot Wound Victims",3,15,8,13,20,8,1
-"Marcy Holmes","Gunshot Wound Victims",4,3,17,7,5,5,2
+"Marcy Holmes","Gunshot Wound Victims",4,3,17,7,5,5,4
 "McKinley","Gunshot Wound Victims",5,20,15,11,10,5,1
 "Midtown Phillips","Gunshot Wound Victims",9,19,30,20,12,17,15
 "Near - North","Gunshot Wound Victims",13,40,38,36,20,16,8
@@ -52,12 +52,12 @@
 "Standish","Gunshot Wound Victims",0,1,2,0,1,0,1
 "Tangletown","Gunshot Wound Victims",0,1,1,0,0,2,0
 "Wenonah","Gunshot Wound Victims",0,2,1,6,6,1,0
-"Windom","Gunshot Wound Victims",0,2,1,1,1,0,5
+"Windom","Gunshot Wound Victims",0,2,1,1,1,0,13
 NA,"Gunshot Wound Victims",0,3,6,4,6,3,0
 "Beltrami","Gunshot Wound Victims",0,0,1,1,0,0,0
 "Bryant","Gunshot Wound Victims",0,0,2,2,0,0,0
 "Camden Industrial","Gunshot Wound Victims",0,0,1,1,3,0,0
-"Como","Gunshot Wound Victims",0,0,2,5,2,1,1
+"Como","Gunshot Wound Victims",0,0,2,5,2,1,2
 "Cooper","Gunshot Wound Victims",0,0,1,1,1,0,0
 "Downtown East","Gunshot Wound Victims",0,0,3,3,1,1,0
 "Field","Gunshot Wound Victims",0,0,2,1,0,0,0
@@ -83,11 +83,11 @@ NA,"Gunshot Wound Victims",0,3,6,4,6,3,0
 "Cedar Riverside","Total",6,6,13,20,5,4,0
 "Central","Total",10,14,10,7,5,7,4
 "Cleveland","Total",4,3,6,6,2,7,3
-"Downtown West","Total",20,33,30,44,19,24,5
+"Downtown West","Total",20,33,30,44,19,24,6
 "East Harriet","Total",1,0,2,0,1,0,0
 "East Isles","Total",2,0,4,0,2,0,2
-"East Phillips","Total",9,35,46,28,18,22,7
-"Elliot Park","Total",8,14,14,6,9,7,7
+"East Phillips","Total",9,35,46,28,18,22,8
+"Elliot Park","Total",8,14,14,6,9,7,6
 "Folwell","Total",18,28,33,35,23,33,7
 "Harrison","Total",2,7,10,4,4,5,1
 "Hawthorne","Total",34,71,65,57,33,15,14
@@ -96,7 +96,7 @@ NA,"Gunshot Wound Victims",0,3,6,4,6,3,0
 "Lind - Bohanon","Total",9,11,20,9,3,3,7
 "Longfellow","Total",2,2,3,1,4,5,3
 "Lowry Hill East","Total",3,15,8,13,20,8,1
-"Marcy Holmes","Total",4,3,17,7,5,5,2
+"Marcy Holmes","Total",4,3,17,7,5,5,4
 "McKinley","Total",5,20,15,11,10,5,1
 "Midtown Phillips","Total",9,19,30,20,12,17,15
 "Near - North","Total",13,40,38,36,20,16,8
@@ -131,12 +131,12 @@ NA,"Gunshot Wound Victims",0,3,6,4,6,3,0
 "Standish","Total",0,1,2,0,1,0,1
 "Tangletown","Total",0,1,1,0,0,2,0
 "Wenonah","Total",0,2,1,6,6,1,0
-"Windom","Total",0,2,1,1,1,0,5
+"Windom","Total",0,2,1,1,1,0,13
 NA,"Total",0,3,6,4,6,3,0
 "Beltrami","Total",0,0,1,1,0,0,0
 "Bryant","Total",0,0,2,2,0,0,0
 "Camden Industrial","Total",0,0,1,1,3,0,0
-"Como","Total",0,0,2,5,2,1,1
+"Como","Total",0,0,2,5,2,1,2
 "Cooper","Total",0,0,1,1,1,0,0
 "Downtown East","Total",0,0,3,3,1,1,0
 "Field","Total",0,0,2,1,0,0,0

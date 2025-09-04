@@ -1,6 +1,6 @@
 "Neighborhood","Offense","2019","2020","2021","2022","2023","2024","2025"
 "Armatage","Motor Vehicle Theft",5,8,13,14,16,15,22
-"Audubon Park","Motor Vehicle Theft",27,22,21,35,49,64,29
+"Audubon Park","Motor Vehicle Theft",27,22,21,35,49,64,30
 "Bancroft","Motor Vehicle Theft",21,34,52,55,72,36,33
 "Beltrami","Motor Vehicle Theft",11,9,10,14,33,25,5
 "Bottineau","Motor Vehicle Theft",7,10,16,23,35,33,20
@@ -17,7 +17,7 @@
 "Corcoran","Motor Vehicle Theft",41,53,50,76,114,79,49
 "Diamond Lake","Motor Vehicle Theft",21,21,28,32,49,27,20
 "Downtown East","Motor Vehicle Theft",22,30,39,41,41,48,29
-"Downtown West","Motor Vehicle Theft",127,95,110,163,167,217,101
+"Downtown West","Motor Vehicle Theft",127,95,110,163,167,217,102
 "East Bde Maka Ska","Motor Vehicle Theft",12,14,22,42,47,35,19
 "East Harriet","Motor Vehicle Theft",11,22,13,29,56,41,18
 "East Isles","Motor Vehicle Theft",29,34,42,59,108,71,36
@@ -31,7 +31,7 @@
 "Harrison","Motor Vehicle Theft",26,49,54,89,72,76,26
 "Hawthorne","Motor Vehicle Theft",92,93,98,141,143,141,77
 "Hiawatha","Motor Vehicle Theft",34,42,48,106,122,94,59
-"Holland","Motor Vehicle Theft",26,54,49,79,99,96,53
+"Holland","Motor Vehicle Theft",26,54,49,79,99,96,54
 "Howe","Motor Vehicle Theft",31,53,52,108,79,83,37
 "Humboldt Industrial Area","Motor Vehicle Theft",2,1,0,3,1,0,0
 "Jordan","Motor Vehicle Theft",82,108,91,165,174,182,90
@@ -67,11 +67,11 @@
 "Regina","Motor Vehicle Theft",11,26,19,26,49,18,17
 "Seward","Motor Vehicle Theft",82,135,109,139,192,144,63
 "Sheridan","Motor Vehicle Theft",11,18,34,33,68,57,32
-"Shingle Creek","Motor Vehicle Theft",21,32,18,42,30,25,16
+"Shingle Creek","Motor Vehicle Theft",21,32,18,42,30,25,17
 "South Uptown","Motor Vehicle Theft",36,50,59,125,141,133,51
 "St. Anthony East","Motor Vehicle Theft",7,9,10,17,45,25,19
 "St. Anthony West","Motor Vehicle Theft",14,14,31,44,74,63,25
-"Standish","Motor Vehicle Theft",29,57,60,82,113,75,47
+"Standish","Motor Vehicle Theft",29,57,60,82,113,75,48
 "Steven's Square - Loring Heights","Motor Vehicle Theft",29,46,59,96,123,128,65
 "Sumner - Glenwood","Motor Vehicle Theft",15,15,18,31,42,27,18
 "Tangletown","Motor Vehicle Theft",17,24,17,31,44,37,28
@@ -88,7 +88,7 @@
 "Windom Park","Motor Vehicle Theft",30,28,37,52,74,55,24
 NA,"Motor Vehicle Theft",5,4,18,15,13,11,6
 "Armatage","Total",5,8,13,14,16,15,22
-"Audubon Park","Total",27,22,21,35,49,64,29
+"Audubon Park","Total",27,22,21,35,49,64,30
 "Bancroft","Total",21,34,52,55,72,36,33
 "Beltrami","Total",11,9,10,14,33,25,5
 "Bottineau","Total",7,10,16,23,35,33,20
@@ -105,7 +105,7 @@ NA,"Motor Vehicle Theft",5,4,18,15,13,11,6
 "Corcoran","Total",41,53,50,76,114,79,49
 "Diamond Lake","Total",21,21,28,32,49,27,20
 "Downtown East","Total",22,30,39,41,41,48,29
-"Downtown West","Total",127,95,110,163,167,217,101
+"Downtown West","Total",127,95,110,163,167,217,102
 "East Bde Maka Ska","Total",12,14,22,42,47,35,19
 "East Harriet","Total",11,22,13,29,56,41,18
 "East Isles","Total",29,34,42,59,108,71,36
@@ -119,7 +119,7 @@ NA,"Motor Vehicle Theft",5,4,18,15,13,11,6
 "Harrison","Total",26,49,54,89,72,76,26
 "Hawthorne","Total",92,93,98,141,143,141,77
 "Hiawatha","Total",34,42,48,106,122,94,59
-"Holland","Total",26,54,49,79,99,96,53
+"Holland","Total",26,54,49,79,99,96,54
 "Howe","Total",31,53,52,108,79,83,37
 "Humboldt Industrial Area","Total",2,1,0,3,1,0,0
 "Jordan","Total",82,108,91,165,174,182,90
@@ -155,11 +155,11 @@ NA,"Motor Vehicle Theft",5,4,18,15,13,11,6
 "Regina","Total",11,26,19,26,49,18,17
 "Seward","Total",82,135,109,139,192,144,63
 "Sheridan","Total",11,18,34,33,68,57,32
-"Shingle Creek","Total",21,32,18,42,30,25,16
+"Shingle Creek","Total",21,32,18,42,30,25,17
 "South Uptown","Total",36,50,59,125,141,133,51
 "St. Anthony East","Total",7,9,10,17,45,25,19
 "St. Anthony West","Total",14,14,31,44,74,63,25
-"Standish","Total",29,57,60,82,113,75,47
+"Standish","Total",29,57,60,82,113,75,48
 "Steven's Square - Loring Heights","Total",29,46,59,96,123,128,65
 "Sumner - Glenwood","Total",15,15,18,31,42,27,18
 "Tangletown","Total",17,24,17,31,44,37,28

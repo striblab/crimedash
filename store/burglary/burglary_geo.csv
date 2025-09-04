@@ -1,5 +1,5 @@
 "Neighborhood","Offense","2019","2020","2021","2022","2023","2024","2025"
-"Armatage","Burglary/Breaking & Entering",16,17,19,6,16,9,6
+"Armatage","Burglary/Breaking & Entering",16,17,19,6,16,9,7
 "Audubon Park","Burglary/Breaking & Entering",36,17,19,22,18,12,5
 "Bancroft","Burglary/Breaking & Entering",60,24,8,16,17,28,13
 "Beltrami","Burglary/Breaking & Entering",8,6,6,1,2,10,3
@@ -21,8 +21,8 @@
 "East Bde Maka Ska","Burglary/Breaking & Entering",32,46,21,19,18,23,8
 "East Harriet","Burglary/Breaking & Entering",18,20,9,7,21,33,7
 "East Isles","Burglary/Breaking & Entering",48,72,37,24,54,38,16
-"East Phillips","Burglary/Breaking & Entering",47,73,58,37,32,44,17
-"Elliot Park","Burglary/Breaking & Entering",41,47,32,45,35,51,31
+"East Phillips","Burglary/Breaking & Entering",47,73,58,37,32,44,18
+"Elliot Park","Burglary/Breaking & Entering",41,47,32,45,35,51,33
 "Ericsson","Burglary/Breaking & Entering",51,37,24,17,30,20,10
 "Field","Burglary/Breaking & Entering",26,18,13,15,15,26,14
 "Folwell","Burglary/Breaking & Entering",39,37,25,56,66,74,33
@@ -43,15 +43,15 @@
 "Linden Hills","Burglary/Breaking & Entering",32,38,30,21,16,14,6
 "Logan Park","Burglary/Breaking & Entering",10,22,21,11,19,16,9
 "Longfellow","Burglary/Breaking & Entering",64,88,44,63,67,66,51
-"Loring Park","Burglary/Breaking & Entering",55,96,49,51,43,47,20
+"Loring Park","Burglary/Breaking & Entering",55,96,49,51,43,47,22
 "Lowry Hill","Burglary/Breaking & Entering",31,46,27,29,32,23,9
 "Lowry Hill East","Burglary/Breaking & Entering",75,209,115,77,93,47,35
 "Lyndale","Burglary/Breaking & Entering",63,84,40,75,66,82,33
 "Lynnhurst","Burglary/Breaking & Entering",37,36,23,16,13,19,9
 "Marcy Holmes","Burglary/Breaking & Entering",87,147,132,78,57,54,25
 "Marshall Terrace","Burglary/Breaking & Entering",5,5,5,6,7,6,2
-"McKinley","Burglary/Breaking & Entering",33,34,18,30,31,24,11
-"Mid - City Industrial","Burglary/Breaking & Entering",7,9,10,12,13,9,9
+"McKinley","Burglary/Breaking & Entering",33,34,18,30,31,24,12
+"Mid - City Industrial","Burglary/Breaking & Entering",7,9,10,12,13,9,10
 "Midtown Phillips","Burglary/Breaking & Entering",56,115,64,60,36,50,23
 "Minnehaha","Burglary/Breaking & Entering",31,24,18,21,19,13,17
 "Morris Park","Burglary/Breaking & Entering",23,10,7,13,11,20,10
@@ -61,7 +61,7 @@
 "Northeast Park","Burglary/Breaking & Entering",3,10,8,7,10,10,6
 "Northrop","Burglary/Breaking & Entering",68,58,21,35,28,41,23
 "Page","Burglary/Breaking & Entering",10,20,17,8,4,14,7
-"Phillips West","Burglary/Breaking & Entering",26,39,29,37,30,29,22
+"Phillips West","Burglary/Breaking & Entering",26,39,29,37,30,29,23
 "Powderhorn Park","Burglary/Breaking & Entering",119,113,46,86,65,79,42
 "Prospect Park - East River Road","Burglary/Breaking & Entering",44,63,70,59,32,34,15
 "Regina","Burglary/Breaking & Entering",27,27,12,9,13,22,7
@@ -86,8 +86,8 @@
 "Willard - Hay","Burglary/Breaking & Entering",39,46,32,38,45,31,26
 "Windom","Burglary/Breaking & Entering",32,39,24,28,26,40,15
 "Windom Park","Burglary/Breaking & Entering",34,24,15,14,11,19,6
-NA,"Burglary/Breaking & Entering",1,1,5,5,6,3,4
-"Armatage","Total",16,17,19,6,16,9,6
+NA,"Burglary/Breaking & Entering",1,1,5,5,6,3,2
+"Armatage","Total",16,17,19,6,16,9,7
 "Audubon Park","Total",36,17,19,22,18,12,5
 "Bancroft","Total",60,24,8,16,17,28,13
 "Beltrami","Total",8,6,6,1,2,10,3
@@ -109,8 +109,8 @@ NA,"Burglary/Breaking & Entering",1,1,5,5,6,3,4
 "East Bde Maka Ska","Total",32,46,21,19,18,23,8
 "East Harriet","Total",18,20,9,7,21,33,7
 "East Isles","Total",48,72,37,24,54,38,16
-"East Phillips","Total",47,73,58,37,32,44,17
-"Elliot Park","Total",41,47,32,45,35,51,31
+"East Phillips","Total",47,73,58,37,32,44,18
+"Elliot Park","Total",41,47,32,45,35,51,33
 "Ericsson","Total",51,37,24,17,30,20,10
 "Field","Total",26,18,13,15,15,26,14
 "Folwell","Total",39,37,25,56,66,74,33
@@ -131,15 +131,15 @@ NA,"Burglary/Breaking & Entering",1,1,5,5,6,3,4
 "Linden Hills","Total",32,38,30,21,16,14,6
 "Logan Park","Total",10,22,21,11,19,16,9
 "Longfellow","Total",64,88,44,63,67,66,51
-"Loring Park","Total",55,96,49,51,43,47,20
+"Loring Park","Total",55,96,49,51,43,47,22
 "Lowry Hill","Total",31,46,27,29,32,23,9
 "Lowry Hill East","Total",75,209,115,77,93,47,35
 "Lyndale","Total",63,84,40,75,66,82,33
 "Lynnhurst","Total",37,36,23,16,13,19,9
 "Marcy Holmes","Total",87,147,132,78,57,54,25
 "Marshall Terrace","Total",5,5,5,6,7,6,2
-"McKinley","Total",33,34,18,30,31,24,11
-"Mid - City Industrial","Total",7,9,10,12,13,9,9
+"McKinley","Total",33,34,18,30,31,24,12
+"Mid - City Industrial","Total",7,9,10,12,13,9,10
 "Midtown Phillips","Total",56,115,64,60,36,50,23
 "Minnehaha","Total",31,24,18,21,19,13,17
 "Morris Park","Total",23,10,7,13,11,20,10
@@ -149,7 +149,7 @@ NA,"Burglary/Breaking & Entering",1,1,5,5,6,3,4
 "Northeast Park","Total",3,10,8,7,10,10,6
 "Northrop","Total",68,58,21,35,28,41,23
 "Page","Total",10,20,17,8,4,14,7
-"Phillips West","Total",26,39,29,37,30,29,22
+"Phillips West","Total",26,39,29,37,30,29,23
 "Powderhorn Park","Total",119,113,46,86,65,79,42
 "Prospect Park - East River Road","Total",44,63,70,59,32,34,15
 "Regina","Total",27,27,12,9,13,22,7
@@ -174,4 +174,4 @@ NA,"Burglary/Breaking & Entering",1,1,5,5,6,3,4
 "Willard - Hay","Total",39,46,32,38,45,31,26
 "Windom","Total",32,39,24,28,26,40,15
 "Windom Park","Total",34,24,15,14,11,19,6
-NA,"Total",1,1,5,5,6,3,4
+NA,"Total",1,1,5,5,6,3,2
