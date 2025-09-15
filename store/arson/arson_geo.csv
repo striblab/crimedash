@@ -4,11 +4,11 @@
 "Central","Arson",1,3,1,2,6,2,0
 "Como","Arson",1,0,0,1,1,0,0
 "Downtown West","Arson",5,3,2,2,6,6,1
-"East Phillips","Arson",2,5,0,2,9,3,3
+"East Phillips","Arson",2,5,0,2,9,3,4
 "Elliot Park","Arson",3,1,2,2,4,5,3
 "Folwell","Arson",2,5,7,4,4,7,2
 "Hale","Arson",1,1,0,1,0,0,0
-"Harrison","Arson",1,1,3,0,2,1,1
+"Harrison","Arson",1,1,3,0,2,1,2
 "Hawthorne","Arson",4,6,4,8,7,7,1
 "Howe","Arson",1,0,0,3,0,1,0
 "Jordan","Arson",9,6,8,4,4,10,4
@@ -20,7 +20,7 @@
 "Lyndale","Arson",3,3,2,1,3,3,1
 "Marcy Holmes","Arson",2,0,3,1,1,0,0
 "McKinley","Arson",2,4,3,1,2,0,1
-"Near - North","Arson",4,3,7,5,1,2,5
+"Near - North","Arson",4,3,7,5,1,2,6
 "Phillips West","Arson",1,3,1,2,4,0,0
 "Seward","Arson",4,3,2,1,0,1,3
 "Standish","Arson",1,0,0,0,1,0,0
@@ -44,7 +44,7 @@
 "Corcoran","Arson",0,1,2,0,1,2,1
 "Downtown East","Arson",0,2,0,0,1,1,0
 "Ericsson","Arson",0,1,0,1,0,0,0
-"Hiawatha","Arson",0,1,1,6,0,1,2
+"Hiawatha","Arson",0,1,1,6,0,1,3
 "Holland","Arson",0,3,1,0,0,1,1
 "Midtown Phillips","Arson",0,3,4,3,2,6,2
 "Northrop","Arson",0,1,0,0,1,2,0
@@ -69,7 +69,7 @@ NA,"Arson",0,2,1,1,1,0,0
 "Keewaydin","Arson",0,0,0,1,0,0,0
 "Kenwood","Arson",0,0,0,1,1,2,0
 "Marshall Terrace","Arson",0,0,0,2,0,0,0
-"Northeast Park","Arson",0,0,0,1,0,0,0
+"Northeast Park","Arson",0,0,0,1,0,0,1
 "Regina","Arson",0,0,0,1,1,1,0
 "Bottineau","Arson",0,0,0,0,1,0,0
 "East Isles","Arson",0,0,0,0,3,2,0
@@ -83,11 +83,11 @@ NA,"Arson",0,2,1,1,1,0,0
 "Central","Total",1,3,1,2,6,2,0
 "Como","Total",1,0,0,1,1,0,0
 "Downtown West","Total",5,3,2,2,6,6,1
-"East Phillips","Total",2,5,0,2,9,3,3
+"East Phillips","Total",2,5,0,2,9,3,4
 "Elliot Park","Total",3,1,2,2,4,5,3
 "Folwell","Total",2,5,7,4,4,7,2
 "Hale","Total",1,1,0,1,0,0,0
-"Harrison","Total",1,1,3,0,2,1,1
+"Harrison","Total",1,1,3,0,2,1,2
 "Hawthorne","Total",4,6,4,8,7,7,1
 "Howe","Total",1,0,0,3,0,1,0
 "Jordan","Total",9,6,8,4,4,10,4
@@ -99,7 +99,7 @@ NA,"Arson",0,2,1,1,1,0,0
 "Lyndale","Total",3,3,2,1,3,3,1
 "Marcy Holmes","Total",2,0,3,1,1,0,0
 "McKinley","Total",2,4,3,1,2,0,1
-"Near - North","Total",4,3,7,5,1,2,5
+"Near - North","Total",4,3,7,5,1,2,6
 "Phillips West","Total",1,3,1,2,4,0,0
 "Seward","Total",4,3,2,1,0,1,3
 "Standish","Total",1,0,0,0,1,0,0
@@ -123,7 +123,7 @@ NA,"Arson",0,2,1,1,1,0,0
 "Corcoran","Total",0,1,2,0,1,2,1
 "Downtown East","Total",0,2,0,0,1,1,0
 "Ericsson","Total",0,1,0,1,0,0,0
-"Hiawatha","Total",0,1,1,6,0,1,2
+"Hiawatha","Total",0,1,1,6,0,1,3
 "Holland","Total",0,3,1,0,0,1,1
 "Midtown Phillips","Total",0,3,4,3,2,6,2
 "Northrop","Total",0,1,0,0,1,2,0
@@ -148,7 +148,7 @@ NA,"Total",0,2,1,1,1,0,0
 "Keewaydin","Total",0,0,0,1,0,0,0
 "Kenwood","Total",0,0,0,1,1,2,0
 "Marshall Terrace","Total",0,0,0,2,0,0,0
-"Northeast Park","Total",0,0,0,1,0,0,0
+"Northeast Park","Total",0,0,0,1,0,0,1
 "Regina","Total",0,0,0,1,1,1,0
 "Bottineau","Total",0,0,0,0,1,0,0
 "East Isles","Total",0,0,0,0,3,2,0
