@@ -55,7 +55,7 @@
 "Midtown Phillips","All Other Larceny",119,104,72,71,72,99,49
 "Minnehaha","All Other Larceny",26,34,15,35,23,36,18
 "Morris Park","All Other Larceny",6,11,12,7,8,9,10
-"Near - North","All Other Larceny",135,102,79,124,106,102,66
+"Near - North","All Other Larceny",135,102,79,124,106,102,67
 "Nicollet Island - East Bank","All Other Larceny",42,70,38,71,73,71,44
 "North Loop","All Other Larceny",189,209,202,248,224,210,156
 "Northeast Park","All Other Larceny",58,67,78,114,69,66,34
@@ -153,7 +153,7 @@ NA,"All Other Larceny",14,13,29,33,27,26,15
 "Powderhorn Park","Theft From Motor Vehicle",69,77,53,73,83,106,45
 "Prospect Park - East River Road","Theft From Motor Vehicle",124,123,93,107,82,112,61
 "Regina","Theft From Motor Vehicle",15,13,4,11,27,22,10
-"Seward","Theft From Motor Vehicle",173,117,80,88,99,120,51
+"Seward","Theft From Motor Vehicle",173,117,80,88,99,120,52
 "Sheridan","Theft From Motor Vehicle",54,39,26,21,23,27,20
 "Shingle Creek","Theft From Motor Vehicle",14,12,15,9,11,7,3
 "South Uptown","Theft From Motor Vehicle",91,74,52,52,64,85,47
@@ -290,7 +290,7 @@ NA,"Purse-snatching",2,1,0,0,0,1,1
 "Kenny","Shoplifting",3,0,0,0,1,0,0
 "King Field","Shoplifting",3,1,1,5,2,2,2
 "Linden Hills","Shoplifting",2,0,1,2,0,0,0
-"Longfellow","Shoplifting",283,81,23,30,28,84,137
+"Longfellow","Shoplifting",283,81,23,30,28,84,138
 "Loring Park","Shoplifting",9,12,4,4,20,42,57
 "Lowry Hill","Shoplifting",1,0,0,1,0,2,0
 "Lowry Hill East","Shoplifting",86,45,53,40,28,24,7
@@ -302,7 +302,7 @@ NA,"Purse-snatching",2,1,0,0,0,1,1
 "Minnehaha","Shoplifting",2,2,0,1,1,1,1
 "Near - North","Shoplifting",34,28,8,9,4,9,1
 "Nicollet Island - East Bank","Shoplifting",15,6,4,20,14,47,84
-"North Loop","Shoplifting",7,0,2,10,4,9,14
+"North Loop","Shoplifting",7,0,2,10,4,9,15
 "Northeast Park","Shoplifting",69,89,73,220,123,87,79
 "Northrop","Shoplifting",10,6,2,48,34,15,28
 "Phillips West","Shoplifting",7,2,0,2,0,3,4
@@ -564,7 +564,7 @@ NA,"Theft of Motor Vehicle Parts or Accessories",0,7,6,14,9,3,1
 "Lind - Bohanon","Total",102,96,81,84,86,74,36
 "Linden Hills","Total",84,100,87,99,121,97,67
 "Logan Park","Total",63,56,52,88,71,83,42
-"Longfellow","Total",571,305,228,274,263,357,334
+"Longfellow","Total",571,305,228,274,263,357,335
 "Loring Park","Total",326,352,349,328,329,344,314
 "Lowry Hill","Total",117,100,141,134,131,146,82
 "Lowry Hill East","Total",615,422,525,513,524,423,305
@@ -577,9 +577,9 @@ NA,"Theft of Motor Vehicle Parts or Accessories",0,7,6,14,9,3,1
 "Midtown Phillips","Total",247,219,155,169,128,207,97
 "Minnehaha","Total",75,119,80,98,75,80,48
 "Morris Park","Total",19,29,33,34,25,21,24
-"Near - North","Total",230,209,176,267,184,170,107
+"Near - North","Total",230,209,176,267,184,170,108
 "Nicollet Island - East Bank","Total",86,109,66,122,111,169,147
-"North Loop","Total",335,322,336,453,369,370,314
+"North Loop","Total",335,322,336,453,369,370,315
 "Northeast Park","Total",173,199,180,391,229,186,138
 "Northrop","Total",96,113,73,147,138,118,91
 "Page","Total",16,23,19,27,27,33,17
@@ -587,7 +587,7 @@ NA,"Theft of Motor Vehicle Parts or Accessories",0,7,6,14,9,3,1
 "Powderhorn Park","Total",184,236,211,243,238,232,141
 "Prospect Park - East River Road","Total",306,367,353,431,277,310,182
 "Regina","Total",32,37,36,49,57,45,18
-"Seward","Total",346,284,275,302,261,298,152
+"Seward","Total",346,284,275,302,261,298,153
 "Sheridan","Total",87,80,127,98,82,79,55
 "Shingle Creek","Total",27,35,37,33,42,36,19
 "South Uptown","Total",245,212,186,222,200,225,143

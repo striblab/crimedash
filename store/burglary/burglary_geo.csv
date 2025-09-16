@@ -23,7 +23,7 @@
 "East Isles","Burglary/Breaking & Entering",48,72,37,24,54,38,17
 "East Phillips","Burglary/Breaking & Entering",47,73,58,37,32,44,19
 "Elliot Park","Burglary/Breaking & Entering",41,47,32,45,35,51,35
-"Ericsson","Burglary/Breaking & Entering",51,37,24,17,30,20,14
+"Ericsson","Burglary/Breaking & Entering",51,37,24,17,30,20,15
 "Field","Burglary/Breaking & Entering",26,18,13,15,15,26,17
 "Folwell","Burglary/Breaking & Entering",39,37,25,56,66,74,33
 "Fulton","Burglary/Breaking & Entering",38,23,19,14,6,14,6
@@ -36,7 +36,7 @@
 "Humboldt Industrial Area","Burglary/Breaking & Entering",2,1,1,1,0,1,0
 "Jordan","Burglary/Breaking & Entering",66,68,57,82,101,83,49
 "Keewaydin","Burglary/Breaking & Entering",17,20,12,25,10,22,16
-"Kenny","Burglary/Breaking & Entering",28,24,14,9,8,6,3
+"Kenny","Burglary/Breaking & Entering",28,24,14,9,8,6,4
 "Kenwood","Burglary/Breaking & Entering",6,9,6,5,4,4,1
 "King Field","Burglary/Breaking & Entering",83,72,50,45,80,89,35
 "Lind - Bohanon","Burglary/Breaking & Entering",70,45,18,20,22,17,14
@@ -50,10 +50,10 @@
 "Lynnhurst","Burglary/Breaking & Entering",37,36,23,16,13,19,9
 "Marcy Holmes","Burglary/Breaking & Entering",87,147,132,78,57,54,27
 "Marshall Terrace","Burglary/Breaking & Entering",5,5,5,6,7,6,2
-"McKinley","Burglary/Breaking & Entering",33,34,18,30,31,24,13
+"McKinley","Burglary/Breaking & Entering",33,34,18,30,31,24,14
 "Mid - City Industrial","Burglary/Breaking & Entering",7,9,10,12,13,9,10
 "Midtown Phillips","Burglary/Breaking & Entering",56,115,64,60,36,50,23
-"Minnehaha","Burglary/Breaking & Entering",31,24,18,21,19,13,19
+"Minnehaha","Burglary/Breaking & Entering",31,24,18,21,19,13,20
 "Morris Park","Burglary/Breaking & Entering",23,10,7,13,11,20,10
 "Near - North","Burglary/Breaking & Entering",51,43,49,57,52,41,22
 "Nicollet Island - East Bank","Burglary/Breaking & Entering",3,23,13,14,16,8,5
@@ -111,7 +111,7 @@ NA,"Burglary/Breaking & Entering",1,1,5,5,6,3,2
 "East Isles","Total",48,72,37,24,54,38,17
 "East Phillips","Total",47,73,58,37,32,44,19
 "Elliot Park","Total",41,47,32,45,35,51,35
-"Ericsson","Total",51,37,24,17,30,20,14
+"Ericsson","Total",51,37,24,17,30,20,15
 "Field","Total",26,18,13,15,15,26,17
 "Folwell","Total",39,37,25,56,66,74,33
 "Fulton","Total",38,23,19,14,6,14,6
@@ -124,7 +124,7 @@ NA,"Burglary/Breaking & Entering",1,1,5,5,6,3,2
 "Humboldt Industrial Area","Total",2,1,1,1,0,1,0
 "Jordan","Total",66,68,57,82,101,83,49
 "Keewaydin","Total",17,20,12,25,10,22,16
-"Kenny","Total",28,24,14,9,8,6,3
+"Kenny","Total",28,24,14,9,8,6,4
 "Kenwood","Total",6,9,6,5,4,4,1
 "King Field","Total",83,72,50,45,80,89,35
 "Lind - Bohanon","Total",70,45,18,20,22,17,14
@@ -138,10 +138,10 @@ NA,"Burglary/Breaking & Entering",1,1,5,5,6,3,2
 "Lynnhurst","Total",37,36,23,16,13,19,9
 "Marcy Holmes","Total",87,147,132,78,57,54,27
 "Marshall Terrace","Total",5,5,5,6,7,6,2
-"McKinley","Total",33,34,18,30,31,24,13
+"McKinley","Total",33,34,18,30,31,24,14
 "Mid - City Industrial","Total",7,9,10,12,13,9,10
 "Midtown Phillips","Total",56,115,64,60,36,50,23
-"Minnehaha","Total",31,24,18,21,19,13,19
+"Minnehaha","Total",31,24,18,21,19,13,20
 "Morris Park","Total",23,10,7,13,11,20,10
 "Near - North","Total",51,43,49,57,52,41,22
 "Nicollet Island - East Bank","Total",3,23,13,14,16,8,5

@@ -996,84 +996,165 @@ filter_actual(file_paths)
 
 ```
 
-#FBI CDE API
+#FBI CDE
 ```{r}
+# FBI CDE (UCR) – Minnesota agency-by-offense, 1985–2023
+# ------------------------------------------------------
+# Outputs: data/fbi_mn_agency_offense_1985_2023.csv
 
-library(httr)
-library(jsonlite)
-library(tidyverse)
+# Packages
+required <- c("httr2", "dplyr", "purrr", "tidyr", "stringr", "readr", "glue")
+new <- required[!(required %in% installed.packages()[, "Package"])]
+if (length(new)) install.packages(new, repos = "https://cloud.r-project.org")
+invisible(lapply(required, library, character.only = TRUE))
 
-fetch_crime_data <- function(city_name, ori, output_folder, api_key,
-                             year_start = 1985, year_end = 2023) {
-  # Valid offense names for summarized endpoint
-  offenses <- c(
-    "homicide",
-    "rape",
-    "robbery",
-    "aggravated-assault",
-    "burglary",
-    "larceny",
-    "arson",
-    "motor-vehicle-theft"
-  )
+# --- Config ---
+api_key   <- Sys.getenv("FBI_CDE_KEY")  # set this first: Sys.setenv(FBI_CDE_KEY="YOUR_KEY")
+stopifnot(nzchar(api_key))
+base_url  <- "https://api.usa.gov/crime/fbi/sapi"
+state_abbr <- "MN"
+year_from <- 1985
+year_to   <- 2023
+out_file  <- "data/fbi_mn_agency_offense_1985_2023.csv"
+dir.create(dirname(out_file), showWarnings = FALSE, recursive = TRUE)
 
-  # Helper function to fetch each offense
-  get_offense_data <- function(offense) {
-    url <- sprintf(
-      "https://api.usa.gov/crime/fbi/cde/summarized/agency/%s/%s?from=01-%d&to=12-%d&API_KEY=%s",
-      ori, offense, year_start, year_end, api_key
-    )
-
-    tryCatch({
-      res <- GET(url)
-      stop_for_status(res)
-      parsed <- content(res, as = "parsed", simplifyVector = TRUE)
-      results <- parsed$results
-
-      if (is.null(results) || length(results) == 0) {
-        warning(sprintf("⚠️ No data for offense '%s'", offense))
-        return(NULL)
-      }
-
-      as_tibble(results) %>%
-        transmute(
-          year = as.integer(data_year),
-          offense = offense,
-          count = as.integer(actual)
-        )
-    }, error = function(e) {
-      warning(sprintf("⚠️ Skipping offense '%s' due to error: %s", offense, e$message))
-      return(NULL)
-    })
-  }
-
-  # Fetch all offenses
-  all_data <- map_dfr(offenses, get_offense_data)
-
-  if (nrow(all_data) == 0) {
-    warning("🚫 No valid data was retrieved.")
-    return(invisible(NULL))
-  }
-
-  # Pivot to wide format for CSV
-  wide <- all_data %>%
-    pivot_wider(names_from = offense, values_from = count)
-
-  # Write to file
-  file_city <- tolower(gsub("\\s+", "_", city_name))
-  file_path <- file.path(output_folder, paste0(file_city, "_", ori, "_crime_",
-                                               year_start, "_", year_end, ".csv"))
-  write_csv(wide, file_path)
-
-  message("✅ CSV saved to: ", file_path)
-  return(wide)
-}
-
-data <- fetch_crime_data(
-  city_name = "Minneapolis",
-  ori = "MN0271100",
-  output_folder = "/Users/yourname/Desktop",
-  api_key = "4gOAVzldpoBuKhfX08nJ478jUzhLKpF8aUBbduhQ"
+# UCR Summary (SRS) offenses used by the CDE summarized endpoints
+# Notes:
+# - "rape-legacy" is useful for pre-2013 comparability; "rape" is the revised definition.
+# - "violent-crime" and "property-crime" are index totals.
+ucr_offenses <- c(
+  "aggravated-assault", "arson", "burglary", "homicide", "larceny",
+  "motor-vehicle-theft", "rape", "rape-legacy", "robbery",
+  "violent-crime", "property-crime"
 )
 
+# Helper: attach api_key as query param (and keep header for good measure)
+req_get_json <- function(url) {
+  url_with_key <- if (grepl("\\?", url)) {
+    paste0(url, "&api_key=", api_key)
+  } else {
+    paste0(url, "?api_key=", api_key)
+  }
+
+  resp <- request(url_with_key) |>
+    req_headers("X-Api-Key" = api_key) |>
+    req_user_agent("MN-StarTribune/Lenfest (agency-by-offense script)") |>
+    req_retry(max_tries = 6, backoff = ~ runif(1, 0.5, 1.5) * (2 ^ .x)) |>
+    req_perform()
+
+  # If still forbidden, show the API error body to help diagnose
+  if (resp_status(resp) == 403) {
+    stop(
+      "403 Forbidden from api.data.gov — likely an API key issue (invalid, missing, or over rate limit).\n",
+      "Response body: ", resp_body_string(resp)
+    )
+  }
+
+  resp |> resp_check_status()
+  resp |> resp_body_json(simplifyVector = TRUE)
+}
+
+# 1) Get Minnesota agencies (ORIs)
+get_mn_agencies <- function() {
+  url <- glue("{base_url}/api/agencies/byStateAbbr?stateAbbr={state_abbr}")
+  j <- req_get_json(url)
+  tibble::as_tibble(j$results) |>
+    transmute(
+      ori = .data$ori,
+      agency_name = .data$agency_name
+    ) |>
+    distinct() |>
+    arrange(ori)
+}
+
+mn_agencies <- get_mn_agencies()
+message("Found ", nrow(mn_agencies), " MN agencies.")
+
+# 2) Fetch summarized agency offense counts
+# CDE "summarized" endpoints follow this pattern for agency-level SRS:
+#   /api/summarized/agency/{ori}/{offense}/{measure}?from=YYYY&to=YYYY
+# Common measures for SRS are "offense_count" (or "actual"/"cleared" at some endpoints).
+# We'll try "offense_count" first, and fall back to "actual" if needed.
+
+fetch_agency_offense <- function(ori, offense, y_from, y_to) {
+  build_url <- function(measure)
+    glue("{base_url}/api/summarized/agency/{ori}/{offense}/{measure}?from={y_from}&to={y_to}")
+
+  # Try offense_count first
+  url1 <- build_url("offense_count")
+  res1 <- tryCatch(req_get_json(url1), error = identity)
+
+  j <- NULL
+  measure_used <- NA_character_
+
+  if (inherits(res1, "error") || is.null(res1$results)) {
+    # Fallback to "actual" (many SRS summarized endpoints expose 'actual' as the count)
+    url2 <- build_url("actual")
+    res2 <- tryCatch(req_get_json(url2), error = identity)
+    if (!inherits(res2, "error") && !is.null(res2$results)) {
+      j <- res2
+      measure_used <- "actual"
+    }
+  } else {
+    j <- res1
+    measure_used <- "offense_count"
+  }
+
+  if (is.null(j)) {
+    return(tibble(
+      year = integer(), ori = character(), offense = character(),
+      value = numeric(), data_origin = character()
+    ))
+  }
+
+  tibble::as_tibble(j$results) |>
+    transmute(
+      year = as.integer(.data$year),
+      ori  = !!ori,
+      offense = !!offense,
+      value = as.numeric(.data$value %||% .data$count %||% .data$actual %||% NA_real_),
+      data_origin = measure_used
+    )
+}
+
+# 3) Drive the harvest: offense × ORI
+# This may take a while; to speed up, parallelize (future.apply) if you want.
+harvest <- function(agencies_tbl, offenses, y_from, y_to) {
+  combos <- tidyr::expand_grid(agencies_tbl, offense = offenses)
+
+  # Progress-friendly map
+  results <- purrr::pmap(
+    list(combos$ori, combos$offense),
+    ~ {
+      # Small random sleep to be kind to the API (rate limits)
+      Sys.sleep(runif(1, 0.05, 0.15))
+      out <- fetch_agency_offense(..1, ..2, y_from = y_from, y_to = y_to)
+      out
+    }
+  )
+
+  bind_rows(results) |>
+    left_join(agencies_tbl, by = "ori") |>
+    arrange(offense, ori, year)
+}
+
+mn <- harvest(mn_agencies, ucr_offenses, year_from, year_to)
+
+# Some agencies/years may be missing (non-participation years, NIBRS transition, etc.)
+# Keep as-is; you can filter later. Attach metadata so downstream code knows coverage.
+attr(mn, "years_requested") <- c(year_from, year_to)
+attr(mn, "offenses_requested") <- ucr_offenses
+attr(mn, "state") <- state_abbr
+
+# 4) Save
+readr::write_csv(mn, out_file, na = "")
+message("Wrote: ", normalizePath(out_file))
+
+# 5) Quick sanity peek
+print(dplyr::count(mn, offense, year, wt = value, name = "state_total") |>
+        arrange(offense, year) |>
+        dplyr::group_by(offense) |>
+        dplyr::slice_head(n = 5))
+
 ```
+
