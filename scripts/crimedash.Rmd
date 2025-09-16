@@ -26,8 +26,8 @@ library(scales)
 library(ggthemes)
 library(stringr)
 library(DT)
-library(knitr) #needed for making tables in markdown page
-library(htmltools)#this is needed for Rstudio to display kable and other html code
+library(knitr)
+library(htmltools)
 library(rmarkdown)
 library(kableExtra)
 library(formattable)

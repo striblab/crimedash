@@ -24,7 +24,7 @@
 "North Loop","Gunshot Wound Victims",2,2,3,6,4,4,1
 "Northeast Park","Gunshot Wound Victims",2,0,1,1,0,1,0
 "Phillips West","Gunshot Wound Victims",11,7,17,9,3,20,9
-"Powderhorn Park","Gunshot Wound Victims",2,26,16,19,6,6,7
+"Powderhorn Park","Gunshot Wound Victims",2,26,16,19,6,6,8
 "Prospect Park - East River Road","Gunshot Wound Victims",2,0,3,1,2,1,0
 "Seward","Gunshot Wound Victims",9,4,10,5,18,7,3
 "Sheridan","Gunshot Wound Victims",1,0,2,0,0,1,0
@@ -34,7 +34,7 @@
 "Waite Park","Gunshot Wound Victims",1,0,2,0,0,0,0
 "Webber - Camden","Gunshot Wound Victims",13,18,23,12,12,7,6
 "Whittier","Gunshot Wound Victims",3,10,14,18,20,31,18
-"Willard - Hay","Gunshot Wound Victims",21,23,31,13,19,17,8
+"Willard - Hay","Gunshot Wound Victims",21,23,31,13,19,17,9
 "Audubon Park","Gunshot Wound Victims",0,2,2,0,0,3,0
 "Bancroft","Gunshot Wound Victims",0,1,3,2,1,2,0
 "Bottineau","Gunshot Wound Victims",0,1,0,0,0,0,0
@@ -61,7 +61,7 @@ NA,"Gunshot Wound Victims",0,3,6,4,6,3,0
 "Cooper","Gunshot Wound Victims",0,0,1,1,1,0,0
 "Downtown East","Gunshot Wound Victims",0,0,3,3,1,1,0
 "Field","Gunshot Wound Victims",0,0,2,1,0,0,0
-"Marshall Terrace","Gunshot Wound Victims",0,0,2,0,0,4,1
+"Marshall Terrace","Gunshot Wound Victims",0,0,2,0,0,4,2
 "Nicollet Island - East Bank","Gunshot Wound Victims",0,0,2,1,1,0,0
 "St. Anthony West","Gunshot Wound Victims",0,0,2,7,3,0,6
 "Victory","Gunshot Wound Victims",0,0,4,2,4,2,1
@@ -103,7 +103,7 @@ NA,"Gunshot Wound Victims",0,3,6,4,6,3,0
 "North Loop","Total",2,2,3,6,4,4,1
 "Northeast Park","Total",2,0,1,1,0,1,0
 "Phillips West","Total",11,7,17,9,3,20,9
-"Powderhorn Park","Total",2,26,16,19,6,6,7
+"Powderhorn Park","Total",2,26,16,19,6,6,8
 "Prospect Park - East River Road","Total",2,0,3,1,2,1,0
 "Seward","Total",9,4,10,5,18,7,3
 "Sheridan","Total",1,0,2,0,0,1,0
@@ -113,7 +113,7 @@ NA,"Gunshot Wound Victims",0,3,6,4,6,3,0
 "Waite Park","Total",1,0,2,0,0,0,0
 "Webber - Camden","Total",13,18,23,12,12,7,6
 "Whittier","Total",3,10,14,18,20,31,18
-"Willard - Hay","Total",21,23,31,13,19,17,8
+"Willard - Hay","Total",21,23,31,13,19,17,9
 "Audubon Park","Total",0,2,2,0,0,3,0
 "Bancroft","Total",0,1,3,2,1,2,0
 "Bottineau","Total",0,1,0,0,0,0,0
@@ -140,7 +140,7 @@ NA,"Total",0,3,6,4,6,3,0
 "Cooper","Total",0,0,1,1,1,0,0
 "Downtown East","Total",0,0,3,3,1,1,0
 "Field","Total",0,0,2,1,0,0,0
-"Marshall Terrace","Total",0,0,2,0,0,4,1
+"Marshall Terrace","Total",0,0,2,0,0,4,2
 "Nicollet Island - East Bank","Total",0,0,2,1,1,0,0
 "St. Anthony West","Total",0,0,2,7,3,0,6
 "Victory","Total",0,0,4,2,4,2,1

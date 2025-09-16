@@ -6,7 +6,7 @@
 "Bryn - Mawr","Carjacking - Subset of Robbery",1,2,4,1,1,0
 "Cedar Riverside","Carjacking - Subset of Robbery",3,6,7,6,7,1
 "Central","Carjacking - Subset of Robbery",11,40,24,11,12,5
-"Cleveland","Carjacking - Subset of Robbery",1,6,3,3,4,0
+"Cleveland","Carjacking - Subset of Robbery",1,6,3,3,4,1
 "Como","Carjacking - Subset of Robbery",1,3,1,1,1,0
 "Corcoran","Carjacking - Subset of Robbery",3,8,3,3,1,6
 "Diamond Lake","Carjacking - Subset of Robbery",1,1,0,0,0,0
@@ -75,7 +75,7 @@ NA,"Carjacking - Subset of Robbery",2,3,2,2,1,2
 "Shingle Creek","Carjacking - Subset of Robbery",0,7,1,2,0,0
 "St. Anthony East","Carjacking - Subset of Robbery",0,1,1,2,0,0
 "St. Anthony West","Carjacking - Subset of Robbery",0,1,1,1,0,1
-"Steven's Square - Loring Heights","Carjacking - Subset of Robbery",0,2,15,13,4,0
+"Steven's Square - Loring Heights","Carjacking - Subset of Robbery",0,2,15,13,4,1
 "University of Minnesota","Carjacking - Subset of Robbery",0,1,0,0,0,0
 "Victory","Carjacking - Subset of Robbery",0,8,1,3,2,0
 "Waite Park","Carjacking - Subset of Robbery",0,1,1,1,0,0
@@ -93,7 +93,7 @@ NA,"Carjacking - Subset of Robbery",2,3,2,2,1,2
 "Bryn - Mawr","Total",1,2,4,1,1,0
 "Cedar Riverside","Total",3,6,7,6,7,1
 "Central","Total",11,40,24,11,12,5
-"Cleveland","Total",1,6,3,3,4,0
+"Cleveland","Total",1,6,3,3,4,1
 "Como","Total",1,3,1,1,1,0
 "Corcoran","Total",3,8,3,3,1,6
 "Diamond Lake","Total",1,1,0,0,0,0
@@ -162,7 +162,7 @@ NA,"Total",2,3,2,2,1,2
 "Shingle Creek","Total",0,7,1,2,0,0
 "St. Anthony East","Total",0,1,1,2,0,0
 "St. Anthony West","Total",0,1,1,1,0,1
-"Steven's Square - Loring Heights","Total",0,2,15,13,4,0
+"Steven's Square - Loring Heights","Total",0,2,15,13,4,1
 "University of Minnesota","Total",0,1,0,0,0,0
 "Victory","Total",0,8,1,3,2,0
 "Waite Park","Total",0,1,1,1,0,0
