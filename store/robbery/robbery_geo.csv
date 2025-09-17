@@ -22,7 +22,7 @@
 "East Harriet","Robbery",4,4,10,9,6,13,3
 "East Isles","Robbery",7,22,40,26,23,27,4
 "East Phillips","Robbery",58,50,68,65,47,49,30
-"Elliot Park","Robbery",23,18,27,31,34,22,25
+"Elliot Park","Robbery",23,18,27,31,34,22,27
 "Ericsson","Robbery",5,5,4,1,3,3,0
 "Field","Robbery",1,6,17,4,5,2,4
 "Folwell","Robbery",40,38,26,26,18,30,21
@@ -59,7 +59,7 @@
 "Northrop","Robbery",5,14,21,23,8,9,2
 "Page","Robbery",1,3,1,0,1,0,0
 "Phillips West","Robbery",39,42,32,38,40,36,20
-"Powderhorn Park","Robbery",34,77,100,94,44,54,36
+"Powderhorn Park","Robbery",34,77,100,94,44,54,37
 "Prospect Park - East River Road","Robbery",8,19,22,7,8,12,5
 "Regina","Robbery",2,3,9,16,5,7,6
 "Seward","Robbery",17,73,68,34,33,55,18
@@ -69,11 +69,11 @@
 "St. Anthony East","Robbery",5,1,4,7,6,2,1
 "St. Anthony West","Robbery",2,4,6,2,8,6,2
 "Standish","Robbery",4,21,25,12,14,8,2
-"Steven's Square - Loring Heights","Robbery",23,24,28,46,33,22,17
+"Steven's Square - Loring Heights","Robbery",23,24,28,46,33,22,16
 "Sumner - Glenwood","Robbery",10,8,20,6,6,14,2
 "Tangletown","Robbery",5,6,9,4,7,9,2
 "University of Minnesota","Robbery",2,3,8,4,6,0,3
-"Ventura Village","Robbery",65,122,92,75,51,70,46
+"Ventura Village","Robbery",65,122,92,75,51,70,47
 "Victory","Robbery",8,2,9,5,9,5,2
 "Waite Park","Robbery",5,5,3,3,3,1,1
 "Webber - Camden","Robbery",29,24,16,19,12,16,12
@@ -109,7 +109,7 @@ NA,"Robbery",6,9,8,11,8,10,7
 "East Harriet","Total",4,4,10,9,6,13,3
 "East Isles","Total",7,22,40,26,23,27,4
 "East Phillips","Total",58,50,68,65,47,49,30
-"Elliot Park","Total",23,18,27,31,34,22,25
+"Elliot Park","Total",23,18,27,31,34,22,27
 "Ericsson","Total",5,5,4,1,3,3,0
 "Field","Total",1,6,17,4,5,2,4
 "Folwell","Total",40,38,26,26,18,30,21
@@ -146,7 +146,7 @@ NA,"Robbery",6,9,8,11,8,10,7
 "Northrop","Total",5,14,21,23,8,9,2
 "Page","Total",1,3,1,0,1,0,0
 "Phillips West","Total",39,42,32,38,40,36,20
-"Powderhorn Park","Total",34,77,100,94,44,54,36
+"Powderhorn Park","Total",34,77,100,94,44,54,37
 "Prospect Park - East River Road","Total",8,19,22,7,8,12,5
 "Regina","Total",2,3,9,16,5,7,6
 "Seward","Total",17,73,68,34,33,55,18
@@ -156,11 +156,11 @@ NA,"Robbery",6,9,8,11,8,10,7
 "St. Anthony East","Total",5,1,4,7,6,2,1
 "St. Anthony West","Total",2,4,6,2,8,6,2
 "Standish","Total",4,21,25,12,14,8,2
-"Steven's Square - Loring Heights","Total",23,24,28,46,33,22,17
+"Steven's Square - Loring Heights","Total",23,24,28,46,33,22,16
 "Sumner - Glenwood","Total",10,8,20,6,6,14,2
 "Tangletown","Total",5,6,9,4,7,9,2
 "University of Minnesota","Total",2,3,8,4,6,0,3
-"Ventura Village","Total",65,122,92,75,51,70,46
+"Ventura Village","Total",65,122,92,75,51,70,47
 "Victory","Total",8,2,9,5,9,5,2
 "Waite Park","Total",5,5,3,3,3,1,1
 "Webber - Camden","Total",29,24,16,19,12,16,12
