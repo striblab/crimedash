@@ -10,14 +10,14 @@
 "Como","Carjacking - Subset of Robbery",1,3,1,1,1,0
 "Corcoran","Carjacking - Subset of Robbery",3,8,3,3,1,6
 "Diamond Lake","Carjacking - Subset of Robbery",1,1,0,0,0,0
-"Downtown West","Carjacking - Subset of Robbery",2,4,5,1,1,1
+"Downtown West","Carjacking - Subset of Robbery",2,4,5,1,1,2
 "East Isles","Carjacking - Subset of Robbery",5,16,13,3,4,1
 "East Phillips","Carjacking - Subset of Robbery",2,25,18,10,12,2
 "Elliot Park","Carjacking - Subset of Robbery",1,2,9,8,4,2
 "Field","Carjacking - Subset of Robbery",1,5,1,2,1,2
 "Folwell","Carjacking - Subset of Robbery",1,9,6,6,9,3
 "Fulton","Carjacking - Subset of Robbery",1,3,0,1,1,0
-"Harrison","Carjacking - Subset of Robbery",1,17,13,6,0,0
+"Harrison","Carjacking - Subset of Robbery",1,17,13,6,0,1
 "Hawthorne","Carjacking - Subset of Robbery",7,17,19,7,10,3
 "Hiawatha","Carjacking - Subset of Robbery",3,3,5,2,2,2
 "Holland","Carjacking - Subset of Robbery",1,11,4,6,4,2
@@ -29,7 +29,7 @@
 "Lowry Hill","Carjacking - Subset of Robbery",4,14,7,2,2,0
 "Lowry Hill East","Carjacking - Subset of Robbery",5,17,24,16,8,1
 "Lyndale","Carjacking - Subset of Robbery",3,10,9,6,12,1
-"Marcy Holmes","Carjacking - Subset of Robbery",3,13,22,5,5,0
+"Marcy Holmes","Carjacking - Subset of Robbery",3,13,22,5,5,1
 "McKinley","Carjacking - Subset of Robbery",2,10,2,5,3,2
 "Midtown Phillips","Carjacking - Subset of Robbery",10,20,27,8,7,6
 "Near - North","Carjacking - Subset of Robbery",4,23,14,9,7,3
@@ -38,7 +38,7 @@
 "Phillips West","Carjacking - Subset of Robbery",5,8,13,11,3,4
 "Powderhorn Park","Carjacking - Subset of Robbery",6,38,27,6,16,6
 "Prospect Park - East River Road","Carjacking - Subset of Robbery",2,5,1,0,0,0
-"Seward","Carjacking - Subset of Robbery",12,24,12,7,14,5
+"Seward","Carjacking - Subset of Robbery",12,24,12,7,14,6
 "Sheridan","Carjacking - Subset of Robbery",3,5,3,1,5,2
 "South Uptown","Carjacking - Subset of Robbery",7,9,8,3,10,3
 "Standish","Carjacking - Subset of Robbery",4,7,1,2,1,0
@@ -97,14 +97,14 @@ NA,"Carjacking - Subset of Robbery",2,3,2,2,1,2
 "Como","Total",1,3,1,1,1,0
 "Corcoran","Total",3,8,3,3,1,6
 "Diamond Lake","Total",1,1,0,0,0,0
-"Downtown West","Total",2,4,5,1,1,1
+"Downtown West","Total",2,4,5,1,1,2
 "East Isles","Total",5,16,13,3,4,1
 "East Phillips","Total",2,25,18,10,12,2
 "Elliot Park","Total",1,2,9,8,4,2
 "Field","Total",1,5,1,2,1,2
 "Folwell","Total",1,9,6,6,9,3
 "Fulton","Total",1,3,0,1,1,0
-"Harrison","Total",1,17,13,6,0,0
+"Harrison","Total",1,17,13,6,0,1
 "Hawthorne","Total",7,17,19,7,10,3
 "Hiawatha","Total",3,3,5,2,2,2
 "Holland","Total",1,11,4,6,4,2
@@ -116,7 +116,7 @@ NA,"Carjacking - Subset of Robbery",2,3,2,2,1,2
 "Lowry Hill","Total",4,14,7,2,2,0
 "Lowry Hill East","Total",5,17,24,16,8,1
 "Lyndale","Total",3,10,9,6,12,1
-"Marcy Holmes","Total",3,13,22,5,5,0
+"Marcy Holmes","Total",3,13,22,5,5,1
 "McKinley","Total",2,10,2,5,3,2
 "Midtown Phillips","Total",10,20,27,8,7,6
 "Near - North","Total",4,23,14,9,7,3
@@ -125,7 +125,7 @@ NA,"Carjacking - Subset of Robbery",2,3,2,2,1,2
 "Phillips West","Total",5,8,13,11,3,4
 "Powderhorn Park","Total",6,38,27,6,16,6
 "Prospect Park - East River Road","Total",2,5,1,0,0,0
-"Seward","Total",12,24,12,7,14,5
+"Seward","Total",12,24,12,7,14,6
 "Sheridan","Total",3,5,3,1,5,2
 "South Uptown","Total",7,9,8,3,10,3
 "Standish","Total",4,7,1,2,1,0

@@ -20,9 +20,9 @@
 "Sheridan","Murder and Nonnegligent Manslaughter",1,0,0,0,0,0,0
 "Steven's Square - Loring Heights","Murder and Nonnegligent Manslaughter",1,3,3,6,2,1,1
 "Sumner - Glenwood","Murder and Nonnegligent Manslaughter",2,1,1,0,0,0,0
-"Ventura Village","Murder and Nonnegligent Manslaughter",1,4,6,1,3,3,2
+"Ventura Village","Murder and Nonnegligent Manslaughter",1,4,6,1,3,3,3
 "Webber - Camden","Murder and Nonnegligent Manslaughter",3,4,2,0,3,1,0
-"Whittier","Murder and Nonnegligent Manslaughter",1,0,1,4,3,7,3
+"Whittier","Murder and Nonnegligent Manslaughter",1,0,1,4,3,7,4
 "Willard - Hay","Murder and Nonnegligent Manslaughter",2,2,3,5,3,6,2
 "Como","Murder and Nonnegligent Manslaughter",0,1,0,1,0,0,0
 "Corcoran","Murder and Nonnegligent Manslaughter",0,1,0,1,1,0,0
@@ -30,7 +30,7 @@
 "Folwell","Murder and Nonnegligent Manslaughter",0,2,6,2,4,7,1
 "Hiawatha","Murder and Nonnegligent Manslaughter",0,2,1,1,0,3,0
 "Logan Park","Murder and Nonnegligent Manslaughter",0,1,0,0,0,0,0
-"Longfellow","Murder and Nonnegligent Manslaughter",0,1,2,0,1,0,0
+"Longfellow","Murder and Nonnegligent Manslaughter",0,1,2,0,1,0,1
 "Loring Park","Murder and Nonnegligent Manslaughter",0,1,2,4,4,0,1
 "Lowry Hill East","Murder and Nonnegligent Manslaughter",0,2,2,2,3,0,1
 "Marshall Terrace","Murder and Nonnegligent Manslaughter",0,1,1,0,0,1,0
@@ -79,9 +79,9 @@
 "Sheridan","Total",1,0,0,0,0,0,0
 "Steven's Square - Loring Heights","Total",1,3,3,6,2,1,1
 "Sumner - Glenwood","Total",2,1,1,0,0,0,0
-"Ventura Village","Total",1,4,6,1,3,3,2
+"Ventura Village","Total",1,4,6,1,3,3,3
 "Webber - Camden","Total",3,4,2,0,3,1,0
-"Whittier","Total",1,0,1,4,3,7,3
+"Whittier","Total",1,0,1,4,3,7,4
 "Willard - Hay","Total",2,2,3,5,3,6,2
 "Como","Total",0,1,0,1,0,0,0
 "Corcoran","Total",0,1,0,1,1,0,0
@@ -89,7 +89,7 @@
 "Folwell","Total",0,2,6,2,4,7,1
 "Hiawatha","Total",0,2,1,1,0,3,0
 "Logan Park","Total",0,1,0,0,0,0,0
-"Longfellow","Total",0,1,2,0,1,0,0
+"Longfellow","Total",0,1,2,0,1,0,1
 "Loring Park","Total",0,1,2,4,4,0,1
 "Lowry Hill East","Total",0,2,2,2,3,0,1
 "Marshall Terrace","Total",0,1,1,0,0,1,0
