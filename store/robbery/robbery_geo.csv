@@ -4,12 +4,12 @@
 "Bancroft","Robbery",6,22,16,16,12,6,3
 "Beltrami","Robbery",2,1,2,2,0,0,0
 "Bottineau","Robbery",6,9,3,3,5,8,1
-"Bryant","Robbery",1,14,17,12,9,6,3
+"Bryant","Robbery",1,14,17,12,9,6,4
 "Bryn - Mawr","Robbery",2,5,12,6,3,2,1
 "Camden Industrial","Robbery",2,1,3,1,1,1,2
 "Cedar - Isles - Dean","Robbery",1,4,3,2,7,8,2
 "Cedar Riverside","Robbery",29,50,28,32,22,30,10
-"Central","Robbery",29,80,84,60,51,56,20
+"Central","Robbery",29,80,84,60,51,56,21
 "Cleveland","Robbery",13,8,18,13,8,8,4
 "Columbia Park","Robbery",6,2,1,2,2,2,2
 "Como","Robbery",3,9,12,9,3,16,1
@@ -34,14 +34,14 @@
 "Holland","Robbery",13,20,32,15,17,24,10
 "Howe","Robbery",2,5,10,7,10,18,3
 "Jordan","Robbery",42,51,51,37,29,30,30
-"Keewaydin","Robbery",3,1,5,5,5,1,4
+"Keewaydin","Robbery",3,1,5,5,5,1,5
 "Kenny","Robbery",3,0,0,0,1,3,0
 "Kenwood","Robbery",1,2,2,2,5,2,1
 "King Field","Robbery",14,18,31,7,17,29,7
 "Lind - Bohanon","Robbery",12,11,13,11,12,8,9
 "Linden Hills","Robbery",1,5,6,4,6,1,3
 "Logan Park","Robbery",1,9,8,8,8,9,4
-"Longfellow","Robbery",21,33,30,30,22,37,19
+"Longfellow","Robbery",21,33,30,30,22,37,20
 "Loring Park","Robbery",32,39,49,38,39,39,32
 "Lowry Hill","Robbery",3,24,31,23,11,23,1
 "Lowry Hill East","Robbery",36,55,78,95,52,84,19
@@ -51,7 +51,7 @@
 "Marshall Terrace","Robbery",2,1,3,6,2,4,2
 "McKinley","Robbery",19,21,26,10,7,9,9
 "Mid - City Industrial","Robbery",1,1,4,5,1,1,0
-"Midtown Phillips","Robbery",38,81,79,73,52,50,26
+"Midtown Phillips","Robbery",38,81,79,73,52,50,27
 "Minnehaha","Robbery",2,6,5,6,7,5,2
 "Near - North","Robbery",48,44,53,39,30,36,20
 "North Loop","Robbery",21,9,34,23,18,8,14
@@ -91,12 +91,12 @@ NA,"Robbery",6,9,8,11,8,10,6
 "Bancroft","Total",6,22,16,16,12,6,3
 "Beltrami","Total",2,1,2,2,0,0,0
 "Bottineau","Total",6,9,3,3,5,8,1
-"Bryant","Total",1,14,17,12,9,6,3
+"Bryant","Total",1,14,17,12,9,6,4
 "Bryn - Mawr","Total",2,5,12,6,3,2,1
 "Camden Industrial","Total",2,1,3,1,1,1,2
 "Cedar - Isles - Dean","Total",1,4,3,2,7,8,2
 "Cedar Riverside","Total",29,50,28,32,22,30,10
-"Central","Total",29,80,84,60,51,56,20
+"Central","Total",29,80,84,60,51,56,21
 "Cleveland","Total",13,8,18,13,8,8,4
 "Columbia Park","Total",6,2,1,2,2,2,2
 "Como","Total",3,9,12,9,3,16,1
@@ -121,14 +121,14 @@ NA,"Robbery",6,9,8,11,8,10,6
 "Holland","Total",13,20,32,15,17,24,10
 "Howe","Total",2,5,10,7,10,18,3
 "Jordan","Total",42,51,51,37,29,30,30
-"Keewaydin","Total",3,1,5,5,5,1,4
+"Keewaydin","Total",3,1,5,5,5,1,5
 "Kenny","Total",3,0,0,0,1,3,0
 "Kenwood","Total",1,2,2,2,5,2,1
 "King Field","Total",14,18,31,7,17,29,7
 "Lind - Bohanon","Total",12,11,13,11,12,8,9
 "Linden Hills","Total",1,5,6,4,6,1,3
 "Logan Park","Total",1,9,8,8,8,9,4
-"Longfellow","Total",21,33,30,30,22,37,19
+"Longfellow","Total",21,33,30,30,22,37,20
 "Loring Park","Total",32,39,49,38,39,39,32
 "Lowry Hill","Total",3,24,31,23,11,23,1
 "Lowry Hill East","Total",36,55,78,95,52,84,19
@@ -138,7 +138,7 @@ NA,"Robbery",6,9,8,11,8,10,6
 "Marshall Terrace","Total",2,1,3,6,2,4,2
 "McKinley","Total",19,21,26,10,7,9,9
 "Mid - City Industrial","Total",1,1,4,5,1,1,0
-"Midtown Phillips","Total",38,81,79,73,52,50,26
+"Midtown Phillips","Total",38,81,79,73,52,50,27
 "Minnehaha","Total",2,6,5,6,7,5,2
 "Near - North","Total",48,44,53,39,30,36,20
 "North Loop","Total",21,9,34,23,18,8,14
