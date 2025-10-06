@@ -549,7 +549,7 @@
     "Year": 2025,
     "Month": 7,
     "Offense": "Drug/Narcotic Violations",
-    "IncidentCount": 87,
+    "IncidentCount": 86,
     "Date": "2025-07-01"
   },
   {
@@ -563,7 +563,14 @@
     "Year": 2025,
     "Month": 9,
     "Offense": "Drug/Narcotic Violations",
-    "IncidentCount": 90,
+    "IncidentCount": 104,
     "Date": "2025-09-01"
+  },
+  {
+    "Year": 2025,
+    "Month": 10,
+    "Offense": "Drug/Narcotic Violations",
+    "IncidentCount": 19,
+    "Date": "2025-10-01"
   }
 ]

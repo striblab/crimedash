@@ -563,8 +563,15 @@
     "Year": 2025,
     "Month": 9,
     "Offense": "All Other Larceny",
-    "IncidentCount": 453,
+    "IncidentCount": 545,
     "Date": "2025-09-01"
+  },
+  {
+    "Year": 2025,
+    "Month": 10,
+    "Offense": "All Other Larceny",
+    "IncidentCount": 40,
+    "Date": "2025-10-01"
   },
   {
     "Year": 2019,
@@ -1130,8 +1137,15 @@
     "Year": 2025,
     "Month": 9,
     "Offense": "Theft From Motor Vehicle",
-    "IncidentCount": 273,
+    "IncidentCount": 343,
     "Date": "2025-09-01"
+  },
+  {
+    "Year": 2025,
+    "Month": 10,
+    "Offense": "Theft From Motor Vehicle",
+    "IncidentCount": 31,
+    "Date": "2025-10-01"
   },
   {
     "Year": 2019,
@@ -1865,8 +1879,15 @@
     "Year": 2025,
     "Month": 9,
     "Offense": "Purse-snatching",
-    "IncidentCount": 11,
+    "IncidentCount": 12,
     "Date": "2025-09-01"
+  },
+  {
+    "Year": 2025,
+    "Month": 10,
+    "Offense": "Purse-snatching",
+    "IncidentCount": 1,
+    "Date": "2025-10-01"
   },
   {
     "Year": 2019,
@@ -2425,15 +2446,22 @@
     "Year": 2025,
     "Month": 8,
     "Offense": "Shoplifting",
-    "IncidentCount": 116,
+    "IncidentCount": 117,
     "Date": "2025-08-01"
   },
   {
     "Year": 2025,
     "Month": 9,
     "Offense": "Shoplifting",
-    "IncidentCount": 132,
+    "IncidentCount": 145,
     "Date": "2025-09-01"
+  },
+  {
+    "Year": 2025,
+    "Month": 10,
+    "Offense": "Shoplifting",
+    "IncidentCount": 7,
+    "Date": "2025-10-01"
   },
   {
     "Year": 2019,
@@ -2999,7 +3027,7 @@
     "Year": 2025,
     "Month": 9,
     "Offense": "Theft From Building",
-    "IncidentCount": 12,
+    "IncidentCount": 15,
     "Date": "2025-09-01"
   },
   {
@@ -3657,7 +3685,14 @@
     "Year": 2025,
     "Month": 9,
     "Offense": "Theft of Motor Vehicle Parts or Accessories",
-    "IncidentCount": 78,
+    "IncidentCount": 96,
     "Date": "2025-09-01"
+  },
+  {
+    "Year": 2025,
+    "Month": 10,
+    "Offense": "Theft of Motor Vehicle Parts or Accessories",
+    "IncidentCount": 8,
+    "Date": "2025-10-01"
   }
 ]

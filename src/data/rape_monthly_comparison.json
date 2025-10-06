@@ -528,7 +528,7 @@
     "Year": 2025,
     "Month": 4,
     "Offense": "Sex Offenses",
-    "IncidentCount": 78,
+    "IncidentCount": 79,
     "Date": "2025-04-01"
   },
   {
@@ -563,7 +563,14 @@
     "Year": 2025,
     "Month": 9,
     "Offense": "Sex Offenses",
-    "IncidentCount": 60,
+    "IncidentCount": 69,
     "Date": "2025-09-01"
+  },
+  {
+    "Year": 2025,
+    "Month": 10,
+    "Offense": "Sex Offenses",
+    "IncidentCount": 18,
+    "Date": "2025-10-01"
   }
 ]
