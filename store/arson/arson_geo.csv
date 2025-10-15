@@ -27,7 +27,7 @@
 "Steven's Square - Loring Heights","Arson",2,1,0,4,5,3,0
 "Sumner - Glenwood","Arson",2,0,0,1,0,0,0
 "University of Minnesota","Arson",1,1,1,0,0,0,0
-"Ventura Village","Arson",2,2,6,6,6,4,2
+"Ventura Village","Arson",2,2,6,6,6,4,3
 "Victory","Arson",2,3,0,2,0,2,0
 "Webber - Camden","Arson",4,5,2,4,1,4,1
 "Whittier","Arson",1,5,4,1,6,7,2
@@ -52,7 +52,7 @@
 "Sheridan","Arson",0,1,0,1,0,0,0
 "Shingle Creek","Arson",0,1,1,1,2,0,0
 "St. Anthony West","Arson",0,2,1,0,0,0,3
-"Wenonah","Arson",0,2,1,0,2,0,0
+"Wenonah","Arson",0,2,1,0,2,0,1
 NA,"Arson",0,2,1,1,1,0,0
 "Kenny","Arson",0,0,1,0,0,0,0
 "Lowry Hill","Arson",0,0,3,1,0,0,0
@@ -106,7 +106,7 @@ NA,"Arson",0,2,1,1,1,0,0
 "Steven's Square - Loring Heights","Total",2,1,0,4,5,3,0
 "Sumner - Glenwood","Total",2,0,0,1,0,0,0
 "University of Minnesota","Total",1,1,1,0,0,0,0
-"Ventura Village","Total",2,2,6,6,6,4,2
+"Ventura Village","Total",2,2,6,6,6,4,3
 "Victory","Total",2,3,0,2,0,2,0
 "Webber - Camden","Total",4,5,2,4,1,4,1
 "Whittier","Total",1,5,4,1,6,7,2
@@ -131,7 +131,7 @@ NA,"Arson",0,2,1,1,1,0,0
 "Sheridan","Total",0,1,0,1,0,0,0
 "Shingle Creek","Total",0,1,1,1,2,0,0
 "St. Anthony West","Total",0,2,1,0,0,0,3
-"Wenonah","Total",0,2,1,0,2,0,0
+"Wenonah","Total",0,2,1,0,2,0,1
 NA,"Total",0,2,1,1,1,0,0
 "Kenny","Total",0,0,1,0,0,0,0
 "Lowry Hill","Total",0,0,3,1,0,0,0
