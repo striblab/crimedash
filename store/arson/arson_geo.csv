@@ -11,7 +11,7 @@
 "Harrison","Arson",1,1,3,0,2,1,2
 "Hawthorne","Arson",4,6,4,8,7,7,1
 "Howe","Arson",1,0,0,3,0,1,0
-"Jordan","Arson",9,6,8,4,4,10,4
+"Jordan","Arson",9,6,8,4,4,10,5
 "King Field","Arson",1,0,0,0,1,2,0
 "Lind - Bohanon","Arson",4,6,6,0,4,2,1
 "Linden Hills","Arson",1,0,0,0,0,0,0
@@ -39,7 +39,7 @@
 "Bryant","Arson",0,2,0,0,2,0,1
 "Camden Industrial","Arson",0,1,1,0,1,0,0
 "Cedar - Isles - Dean","Arson",0,1,0,0,1,1,0
-"Cleveland","Arson",0,4,1,1,3,1,1
+"Cleveland","Arson",0,4,1,1,3,1,2
 "Columbia Park","Arson",0,1,0,0,0,0,0
 "Corcoran","Arson",0,1,2,0,1,2,1
 "Downtown East","Arson",0,2,0,0,1,1,1
@@ -91,7 +91,7 @@ NA,"Arson",0,2,1,1,1,0,0
 "Harrison","Total",1,1,3,0,2,1,2
 "Hawthorne","Total",4,6,4,8,7,7,1
 "Howe","Total",1,0,0,3,0,1,0
-"Jordan","Total",9,6,8,4,4,10,4
+"Jordan","Total",9,6,8,4,4,10,5
 "King Field","Total",1,0,0,0,1,2,0
 "Lind - Bohanon","Total",4,6,6,0,4,2,1
 "Linden Hills","Total",1,0,0,0,0,0,0
@@ -119,7 +119,7 @@ NA,"Arson",0,2,1,1,1,0,0
 "Bryant","Total",0,2,0,0,2,0,1
 "Camden Industrial","Total",0,1,1,0,1,0,0
 "Cedar - Isles - Dean","Total",0,1,0,0,1,1,0
-"Cleveland","Total",0,4,1,1,3,1,1
+"Cleveland","Total",0,4,1,1,3,1,2
 "Columbia Park","Total",0,1,0,0,0,0,0
 "Corcoran","Total",0,1,2,0,1,2,1
 "Downtown East","Total",0,2,0,0,1,1,1
