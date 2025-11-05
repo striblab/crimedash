@@ -570,7 +570,14 @@
     "Year": 2025,
     "Month": 10,
     "Offense": "Robbery",
-    "IncidentCount": 90,
+    "IncidentCount": 97,
     "Date": "2025-10-01"
+  },
+  {
+    "Year": 2025,
+    "Month": 11,
+    "Offense": "Robbery",
+    "IncidentCount": 8,
+    "Date": "2025-11-01"
   }
 ]
