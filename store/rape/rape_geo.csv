@@ -9,7 +9,7 @@
 "Camden Industrial","Sex Offenses",2,0,1,0,1,0,0
 "Cedar - Isles - Dean","Sex Offenses",1,2,1,3,4,1,2
 "Cedar Riverside","Sex Offenses",13,15,21,8,19,14,19
-"Central","Sex Offenses",22,10,24,19,19,16,12
+"Central","Sex Offenses",22,10,24,19,19,16,14
 "Cleveland","Sex Offenses",7,5,2,9,13,8,7
 "Como","Sex Offenses",8,10,8,4,6,12,4
 "Cooper","Sex Offenses",2,1,2,3,4,0,0
@@ -29,7 +29,7 @@
 "Hiawatha","Sex Offenses",3,7,5,3,6,10,8
 "Holland","Sex Offenses",5,7,9,6,7,5,9
 "Howe","Sex Offenses",5,6,5,1,0,9,3
-"Jordan","Sex Offenses",37,34,29,28,39,37,26
+"Jordan","Sex Offenses",37,34,29,28,39,37,27
 "Keewaydin","Sex Offenses",1,3,0,0,4,3,5
 "Kenny","Sex Offenses",2,3,2,2,0,1,2
 "King Field","Sex Offenses",7,6,4,2,10,7,4
@@ -40,7 +40,7 @@
 "Loring Park","Sex Offenses",21,17,21,19,23,23,30
 "Lowry Hill","Sex Offenses",4,2,0,3,2,3,5
 "Lowry Hill East","Sex Offenses",16,12,21,13,18,19,14
-"Lyndale","Sex Offenses",19,16,15,11,13,21,14
+"Lyndale","Sex Offenses",19,16,15,11,13,21,15
 "Lynnhurst","Sex Offenses",7,3,2,1,0,2,1
 "Marcy Holmes","Sex Offenses",26,15,25,15,11,23,12
 "Marshall Terrace","Sex Offenses",6,0,6,3,4,2,0
@@ -51,7 +51,7 @@
 "Morris Park","Sex Offenses",3,2,5,1,1,1,6
 "Near - North","Sex Offenses",29,27,27,40,27,22,28
 "Nicollet Island - East Bank","Sex Offenses",2,4,2,5,1,5,4
-"North Loop","Sex Offenses",12,19,22,10,16,23,16
+"North Loop","Sex Offenses",12,19,22,10,16,23,17
 "Northeast Park","Sex Offenses",2,1,2,0,1,4,3
 "Northrop","Sex Offenses",3,2,6,5,7,1,1
 "Page","Sex Offenses",2,1,1,1,0,1,0
@@ -79,7 +79,7 @@
 "Willard - Hay","Sex Offenses",30,37,21,24,30,32,32
 "Windom","Sex Offenses",6,12,9,6,5,2,6
 "Windom Park","Sex Offenses",11,11,4,5,7,6,5
-NA,"Sex Offenses",36,29,63,66,40,41,67
+NA,"Sex Offenses",36,29,63,66,40,41,68
 "Columbia Park","Sex Offenses",0,8,1,3,1,1,2
 "East Bde Maka Ska","Sex Offenses",0,3,3,7,0,9,0
 "Field","Sex Offenses",0,4,1,5,7,3,0
@@ -96,7 +96,7 @@ NA,"Sex Offenses",36,29,63,66,40,41,67
 "Camden Industrial","Total",2,0,1,0,1,0,0
 "Cedar - Isles - Dean","Total",1,2,1,3,4,1,2
 "Cedar Riverside","Total",13,15,21,8,19,14,19
-"Central","Total",22,10,24,19,19,16,12
+"Central","Total",22,10,24,19,19,16,14
 "Cleveland","Total",7,5,2,9,13,8,7
 "Como","Total",8,10,8,4,6,12,4
 "Cooper","Total",2,1,2,3,4,0,0
@@ -116,7 +116,7 @@ NA,"Sex Offenses",36,29,63,66,40,41,67
 "Hiawatha","Total",3,7,5,3,6,10,8
 "Holland","Total",5,7,9,6,7,5,9
 "Howe","Total",5,6,5,1,0,9,3
-"Jordan","Total",37,34,29,28,39,37,26
+"Jordan","Total",37,34,29,28,39,37,27
 "Keewaydin","Total",1,3,0,0,4,3,5
 "Kenny","Total",2,3,2,2,0,1,2
 "King Field","Total",7,6,4,2,10,7,4
@@ -127,7 +127,7 @@ NA,"Sex Offenses",36,29,63,66,40,41,67
 "Loring Park","Total",21,17,21,19,23,23,30
 "Lowry Hill","Total",4,2,0,3,2,3,5
 "Lowry Hill East","Total",16,12,21,13,18,19,14
-"Lyndale","Total",19,16,15,11,13,21,14
+"Lyndale","Total",19,16,15,11,13,21,15
 "Lynnhurst","Total",7,3,2,1,0,2,1
 "Marcy Holmes","Total",26,15,25,15,11,23,12
 "Marshall Terrace","Total",6,0,6,3,4,2,0
@@ -138,7 +138,7 @@ NA,"Sex Offenses",36,29,63,66,40,41,67
 "Morris Park","Total",3,2,5,1,1,1,6
 "Near - North","Total",29,27,27,40,27,22,28
 "Nicollet Island - East Bank","Total",2,4,2,5,1,5,4
-"North Loop","Total",12,19,22,10,16,23,16
+"North Loop","Total",12,19,22,10,16,23,17
 "Northeast Park","Total",2,1,2,0,1,4,3
 "Northrop","Total",3,2,6,5,7,1,1
 "Page","Total",2,1,1,1,0,1,0
@@ -166,7 +166,7 @@ NA,"Sex Offenses",36,29,63,66,40,41,67
 "Willard - Hay","Total",30,37,21,24,30,32,32
 "Windom","Total",6,12,9,6,5,2,6
 "Windom Park","Total",11,11,4,5,7,6,5
-NA,"Total",36,29,63,66,40,41,67
+NA,"Total",36,29,63,66,40,41,68
 "Columbia Park","Total",0,8,1,3,1,1,2
 "East Bde Maka Ska","Total",0,3,3,7,0,9,0
 "Field","Total",0,4,1,5,7,3,0

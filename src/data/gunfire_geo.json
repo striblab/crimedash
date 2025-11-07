@@ -206,7 +206,7 @@
     "X2022": 10,
     "X2023": 12,
     "X2024": 11,
-    "X2025": 6
+    "X2025": 7
   },
   {
     "Neighborhood": "Audubon Park",
@@ -1628,7 +1628,7 @@
   {
     "Neighborhood": "Central",
     "Offense": "ShotSpotter Activation (P)",
-    "X2019": 14,
+    "X2019": 13,
     "X2020": 301,
     "X2021": 218,
     "X2022": 174,
@@ -1639,7 +1639,7 @@
   {
     "Neighborhood": "Cleveland",
     "Offense": "ShotSpotter Activation (P)",
-    "X2019": 12,
+    "X2019": 9,
     "X2020": 145,
     "X2021": 246,
     "X2022": 190,
@@ -1672,13 +1672,13 @@
   {
     "Neighborhood": "Folwell",
     "Offense": "ShotSpotter Activation (P)",
-    "X2019": 31,
+    "X2019": 30,
     "X2020": 486,
     "X2021": 657,
     "X2022": 381,
     "X2023": 304,
     "X2024": 263,
-    "X2025": 164
+    "X2025": 165
   },
   {
     "Neighborhood": "Harrison",
@@ -1694,7 +1694,7 @@
   {
     "Neighborhood": "Hawthorne",
     "Offense": "ShotSpotter Activation (P)",
-    "X2019": 36,
+    "X2019": 35,
     "X2020": 465,
     "X2021": 623,
     "X2022": 473,
@@ -1760,24 +1760,24 @@
   {
     "Neighborhood": "McKinley",
     "Offense": "ShotSpotter Activation (P)",
-    "X2019": 12,
+    "X2019": 10,
     "X2020": 246,
     "X2021": 347,
     "X2022": 213,
     "X2023": 142,
     "X2024": 84,
-    "X2025": 71
+    "X2025": 72
   },
   {
     "Neighborhood": "Midtown Phillips",
     "Offense": "ShotSpotter Activation (P)",
-    "X2019": 7,
+    "X2019": 6,
     "X2020": 115,
     "X2021": 150,
     "X2022": 168,
     "X2023": 91,
     "X2024": 124,
-    "X2025": 88
+    "X2025": 89
   },
   {
     "Neighborhood": "Near - North",
@@ -1837,7 +1837,7 @@
   {
     "Neighborhood": "Webber - Camden",
     "Offense": "ShotSpotter Activation (P)",
-    "X2019": 21,
+    "X2019": 20,
     "X2020": 252,
     "X2021": 339,
     "X2022": 277,
@@ -1953,7 +1953,7 @@
     "X2022": 0,
     "X2023": 0,
     "X2024": 7,
-    "X2025": 54
+    "X2025": 55
   },
   {
     "Neighborhood": "Victory",
@@ -2216,7 +2216,7 @@
     "X2022": 88,
     "X2023": 69,
     "X2024": 71,
-    "X2025": 65
+    "X2025": 67
   },
   {
     "Neighborhood": "Cleveland",
@@ -2403,7 +2403,7 @@
     "X2022": 32,
     "X2023": 31,
     "X2024": 41,
-    "X2025": 37
+    "X2025": 39
   },
   {
     "Neighborhood": "Humboldt Industrial Area",
@@ -2485,7 +2485,7 @@
   {
     "Neighborhood": "Loring Park",
     "Offense": "Sound of Shots Fired (P)",
-    "X2019": 3,
+    "X2019": 2,
     "X2020": 83,
     "X2021": 139,
     "X2022": 141,
@@ -2524,7 +2524,7 @@
     "X2022": 50,
     "X2023": 47,
     "X2024": 44,
-    "X2025": 51
+    "X2025": 52
   },
   {
     "Neighborhood": "McKinley",
@@ -2535,7 +2535,7 @@
     "X2022": 55,
     "X2023": 41,
     "X2024": 29,
-    "X2025": 23
+    "X2025": 24
   },
   {
     "Neighborhood": "Midtown Phillips",
@@ -2546,7 +2546,7 @@
     "X2022": 161,
     "X2023": 49,
     "X2024": 109,
-    "X2025": 64
+    "X2025": 66
   },
   {
     "Neighborhood": "Morris Park",
@@ -2727,13 +2727,13 @@
   {
     "Neighborhood": "Ventura Village",
     "Offense": "Sound of Shots Fired (P)",
-    "X2019": 11,
+    "X2019": 10,
     "X2020": 120,
     "X2021": 117,
     "X2022": 102,
     "X2023": 88,
     "X2024": 101,
-    "X2025": 76
+    "X2025": 79
   },
   {
     "Neighborhood": "Victory",
@@ -2760,7 +2760,7 @@
   {
     "Neighborhood": "Webber - Camden",
     "Offense": "Sound of Shots Fired (P)",
-    "X2019": 7,
+    "X2019": 6,
     "X2020": 193,
     "X2021": 157,
     "X2022": 120,
@@ -2975,7 +2975,7 @@
     "X2022": 98,
     "X2023": 92,
     "X2024": 76,
-    "X2025": 41
+    "X2025": 42
   },
   {
     "Neighborhood": "Lynnhurst",
@@ -3199,18 +3199,18 @@
   {
     "Neighborhood": "Central",
     "Offense": "Total",
-    "X2019": 22,
+    "X2019": 21,
     "X2020": 479,
     "X2021": 365,
     "X2022": 273,
     "X2023": 217,
     "X2024": 206,
-    "X2025": 155
+    "X2025": 157
   },
   {
     "Neighborhood": "Cleveland",
     "Offense": "Total",
-    "X2019": 18,
+    "X2019": 15,
     "X2020": 240,
     "X2021": 361,
     "X2022": 254,
@@ -3320,13 +3320,13 @@
   {
     "Neighborhood": "Folwell",
     "Offense": "Total",
-    "X2019": 39,
+    "X2019": 38,
     "X2020": 752,
     "X2021": 946,
     "X2022": 555,
     "X2023": 405,
     "X2024": 383,
-    "X2025": 225
+    "X2025": 226
   },
   {
     "Neighborhood": "Hale",
@@ -3353,7 +3353,7 @@
   {
     "Neighborhood": "Hawthorne",
     "Offense": "Total",
-    "X2019": 49,
+    "X2019": 48,
     "X2020": 875,
     "X2021": 1066,
     "X2022": 765,
@@ -3392,7 +3392,7 @@
     "X2022": 33,
     "X2023": 31,
     "X2024": 43,
-    "X2025": 37
+    "X2025": 39
   },
   {
     "Neighborhood": "Humboldt Industrial Area",
@@ -3485,7 +3485,7 @@
   {
     "Neighborhood": "Loring Park",
     "Offense": "Total",
-    "X2019": 3,
+    "X2019": 2,
     "X2020": 90,
     "X2021": 149,
     "X2022": 161,
@@ -3535,29 +3535,29 @@
     "X2022": 54,
     "X2023": 49,
     "X2024": 48,
-    "X2025": 61
+    "X2025": 62
   },
   {
     "Neighborhood": "McKinley",
     "Offense": "Total",
-    "X2019": 19,
+    "X2019": 17,
     "X2020": 355,
     "X2021": 457,
     "X2022": 281,
     "X2023": 189,
     "X2024": 117,
-    "X2025": 97
+    "X2025": 99
   },
   {
     "Neighborhood": "Midtown Phillips",
     "Offense": "Total",
-    "X2019": 14,
+    "X2019": 13,
     "X2020": 262,
     "X2021": 342,
     "X2022": 359,
     "X2023": 161,
     "X2024": 263,
-    "X2025": 171
+    "X2025": 174
   },
   {
     "Neighborhood": "Morris Park",
@@ -3722,7 +3722,7 @@
     "X2022": 171,
     "X2023": 105,
     "X2024": 95,
-    "X2025": 109
+    "X2025": 110
   },
   {
     "Neighborhood": "Sumner - Glenwood",
@@ -3749,13 +3749,13 @@
   {
     "Neighborhood": "Ventura Village",
     "Offense": "Total",
-    "X2019": 20,
+    "X2019": 19,
     "X2020": 267,
     "X2021": 251,
     "X2022": 196,
     "X2023": 212,
     "X2024": 204,
-    "X2025": 157
+    "X2025": 160
   },
   {
     "Neighborhood": "Victory",
@@ -3782,7 +3782,7 @@
   {
     "Neighborhood": "Webber - Camden",
     "Offense": "Total",
-    "X2019": 28,
+    "X2019": 26,
     "X2020": 465,
     "X2021": 516,
     "X2022": 408,
@@ -3821,7 +3821,7 @@
     "X2022": 755,
     "X2023": 528,
     "X2024": 452,
-    "X2025": 329
+    "X2025": 330
   },
   {
     "Neighborhood": "Windom",
@@ -3964,7 +3964,7 @@
     "X2022": 111,
     "X2023": 109,
     "X2024": 87,
-    "X2025": 43
+    "X2025": 44
   },
   {
     "Neighborhood": "Marshall Terrace",
