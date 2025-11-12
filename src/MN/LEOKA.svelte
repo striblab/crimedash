@@ -108,7 +108,7 @@ onMount(() => {
 <div class="chart-container">
   <canvas id="assaultChart"></canvas>
 </div>
-<div class="download"><a href="../store/leoka/mn_leo_assaults.csv">Download Minnesota LEO assault incidents 1970-2023</a></div>
+<div class="download"><a href="../store/leoka/mn_leo_assaults.csv">Download Minnesota LEO assault incidents 1970-2024</a></div>
 
 <p>&nbsp;</p>
 
