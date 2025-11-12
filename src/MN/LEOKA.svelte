@@ -103,7 +103,7 @@ onMount(() => {
 
 <h4 class="source">Data sources: Minnesota Bureau of Criminal Apprehension, FBI</h4>
 
-<p>Assault incidents against police in Minnesota are up about <strong>160%</strong> since 2010, the spike starting in 2020.</p>
+<p>Assault incidents against police in Minnesota are up about <strong>160%</strong> from a decade ago, the spike starting in 2020.</p>
 
 <div class="chart-container">
   <canvas id="assaultChart"></canvas>
