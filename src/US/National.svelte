@@ -57,7 +57,7 @@
     <canvas id="ushomicideChart"></canvas>
   </div>
   <div class="download"><a href="../store/national/fbi_national_homicide_rate.csv">Download national homicide rate data</a></div>
-  <div class="download"><a href="../store/national/SHR65_23.csv.zip">Download national FBI Supplementary Homicide Report, 1965-2023</a></div>
+  <div class="download"><a href="../store/national/SHR65_23.csv.zip">Download national FBI Supplementary Homicide Report, 1965-2024</a></div>
 
 <p>&nbsp;</p>
 

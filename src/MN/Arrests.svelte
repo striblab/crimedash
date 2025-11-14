@@ -48,7 +48,7 @@
 <div class="chart-container">
   <canvas id="arrestsChart"></canvas>
 </div>
-<div class="download"><a href="../store/arrests/arrests.xlsx">Download Minnesota arrests data, 2004-2023</a></div>
+<div class="download"><a href="../store/arrests/arrests.xlsx">Download Minnesota arrests data, 2004-2025</a></div>
 
 <p>&nbsp;</p>
 
