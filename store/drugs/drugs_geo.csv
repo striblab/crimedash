@@ -2,7 +2,7 @@
 "Audubon Park","Drug/Narcotic Violations",12,7,2,3,3,2,1
 "Bancroft","Drug/Narcotic Violations",6,2,3,2,1,3,1
 "Beltrami","Drug/Narcotic Violations",9,3,2,3,1,1,1
-"Bottineau","Drug/Narcotic Violations",3,2,1,5,2,0,0
+"Bottineau","Drug/Narcotic Violations",3,2,1,5,2,0,1
 "Bryant","Drug/Narcotic Violations",3,3,1,1,0,1,1
 "Bryn - Mawr","Drug/Narcotic Violations",4,6,2,2,2,1,3
 "Camden Industrial","Drug/Narcotic Violations",6,3,4,3,1,3,1
@@ -15,16 +15,16 @@
 "Cooper","Drug/Narcotic Violations",3,3,1,0,1,1,0
 "Corcoran","Drug/Narcotic Violations",14,5,6,8,9,7,8
 "Diamond Lake","Drug/Narcotic Violations",2,2,0,0,0,1,2
-"Downtown East","Drug/Narcotic Violations",32,18,16,20,27,11,8
+"Downtown East","Drug/Narcotic Violations",32,18,16,20,27,11,9
 "Downtown West","Drug/Narcotic Violations",244,114,61,117,146,98,52
 "East Bde Maka Ska","Drug/Narcotic Violations",1,3,0,0,4,7,4
 "East Harriet","Drug/Narcotic Violations",4,0,3,2,4,1,3
 "East Isles","Drug/Narcotic Violations",11,2,7,3,16,8,11
 "East Phillips","Drug/Narcotic Violations",78,44,33,43,81,51,38
-"Elliot Park","Drug/Narcotic Violations",56,29,29,46,51,77,76
+"Elliot Park","Drug/Narcotic Violations",56,29,29,46,51,77,78
 "Ericsson","Drug/Narcotic Violations",4,5,2,0,3,3,3
 "Field","Drug/Narcotic Violations",1,3,1,0,0,2,0
-"Folwell","Drug/Narcotic Violations",36,41,25,20,42,27,24
+"Folwell","Drug/Narcotic Violations",36,41,25,20,42,27,25
 "Fulton","Drug/Narcotic Violations",4,1,2,0,1,0,0
 "Harrison","Drug/Narcotic Violations",22,15,5,5,4,3,7
 "Hawthorne","Drug/Narcotic Violations",142,133,67,74,55,24,18
@@ -73,14 +73,14 @@
 "Ventura Village","Drug/Narcotic Violations",67,55,28,33,60,49,69
 "Victory","Drug/Narcotic Violations",5,5,4,0,3,4,0
 "Waite Park","Drug/Narcotic Violations",8,4,6,1,1,0,1
-"Webber - Camden","Drug/Narcotic Violations",36,27,12,20,32,17,16
+"Webber - Camden","Drug/Narcotic Violations",36,27,12,20,32,17,17
 "Wenonah","Drug/Narcotic Violations",4,4,7,3,1,1,3
 "West Maka Ska","Drug/Narcotic Violations",1,1,0,0,0,2,1
 "Whittier","Drug/Narcotic Violations",69,46,38,62,83,78,95
-"Willard - Hay","Drug/Narcotic Violations",27,43,11,8,18,19,13
+"Willard - Hay","Drug/Narcotic Violations",27,43,11,8,18,19,14
 "Windom","Drug/Narcotic Violations",8,8,2,1,3,1,1
 "Windom Park","Drug/Narcotic Violations",27,10,5,8,3,3,3
-NA,"Drug/Narcotic Violations",69,47,34,31,19,21,17
+NA,"Drug/Narcotic Violations",69,47,34,31,19,21,18
 "Armatage","Drug/Narcotic Violations",0,3,1,2,2,1,2
 "Hale","Drug/Narcotic Violations",0,2,0,1,0,0,0
 "Lynnhurst","Drug/Narcotic Violations",0,1,0,0,2,1,0
@@ -89,7 +89,7 @@ NA,"Drug/Narcotic Violations",69,47,34,31,19,21,17
 "Audubon Park","Total",12,7,2,3,3,2,1
 "Bancroft","Total",6,2,3,2,1,3,1
 "Beltrami","Total",9,3,2,3,1,1,1
-"Bottineau","Total",3,2,1,5,2,0,0
+"Bottineau","Total",3,2,1,5,2,0,1
 "Bryant","Total",3,3,1,1,0,1,1
 "Bryn - Mawr","Total",4,6,2,2,2,1,3
 "Camden Industrial","Total",6,3,4,3,1,3,1
@@ -102,16 +102,16 @@ NA,"Drug/Narcotic Violations",69,47,34,31,19,21,17
 "Cooper","Total",3,3,1,0,1,1,0
 "Corcoran","Total",14,5,6,8,9,7,8
 "Diamond Lake","Total",2,2,0,0,0,1,2
-"Downtown East","Total",32,18,16,20,27,11,8
+"Downtown East","Total",32,18,16,20,27,11,9
 "Downtown West","Total",244,114,61,117,146,98,52
 "East Bde Maka Ska","Total",1,3,0,0,4,7,4
 "East Harriet","Total",4,0,3,2,4,1,3
 "East Isles","Total",11,2,7,3,16,8,11
 "East Phillips","Total",78,44,33,43,81,51,38
-"Elliot Park","Total",56,29,29,46,51,77,76
+"Elliot Park","Total",56,29,29,46,51,77,78
 "Ericsson","Total",4,5,2,0,3,3,3
 "Field","Total",1,3,1,0,0,2,0
-"Folwell","Total",36,41,25,20,42,27,24
+"Folwell","Total",36,41,25,20,42,27,25
 "Fulton","Total",4,1,2,0,1,0,0
 "Harrison","Total",22,15,5,5,4,3,7
 "Hawthorne","Total",142,133,67,74,55,24,18
@@ -160,14 +160,14 @@ NA,"Drug/Narcotic Violations",69,47,34,31,19,21,17
 "Ventura Village","Total",67,55,28,33,60,49,69
 "Victory","Total",5,5,4,0,3,4,0
 "Waite Park","Total",8,4,6,1,1,0,1
-"Webber - Camden","Total",36,27,12,20,32,17,16
+"Webber - Camden","Total",36,27,12,20,32,17,17
 "Wenonah","Total",4,4,7,3,1,1,3
 "West Maka Ska","Total",1,1,0,0,0,2,1
 "Whittier","Total",69,46,38,62,83,78,95
-"Willard - Hay","Total",27,43,11,8,18,19,13
+"Willard - Hay","Total",27,43,11,8,18,19,14
 "Windom","Total",8,8,2,1,3,1,1
 "Windom Park","Total",27,10,5,8,3,3,3
-NA,"Total",69,47,34,31,19,21,17
+NA,"Total",69,47,34,31,19,21,18
 "Armatage","Total",0,3,1,2,2,1,2
 "Hale","Total",0,2,0,1,0,0,0
 "Lynnhurst","Total",0,1,0,0,2,1,0
