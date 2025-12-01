@@ -70,6 +70,7 @@
   <ul>
     <li><a href="https://publicsafety.umn.edu/">UMN Department of Public Safety</a></li>
     <li><a href="https://dps-dashboard.umn.edu/dashboard/">UMPD Incidents Dashboard</a></li>
+    <li><a href="https://safe-campus.umn.edu/university-clery-geography">UMPD Clery Jurisdiction Map</a></li>
   </ul>
   
   <style>

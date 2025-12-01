@@ -14,7 +14,7 @@
 "Columbia Park","Robbery",6,2,1,2,2,2,2
 "Como","Robbery",3,9,12,9,3,16,2
 "Cooper","Robbery",2,2,6,3,6,4,2
-"Corcoran","Robbery",10,17,30,20,18,15,19
+"Corcoran","Robbery",10,17,30,20,18,15,20
 "Diamond Lake","Robbery",2,7,2,2,6,4,2
 "Downtown East","Robbery",5,9,9,7,17,6,6
 "Downtown West","Robbery",207,117,159,152,88,50,51
@@ -44,7 +44,7 @@
 "Longfellow","Robbery",21,33,30,30,22,37,20
 "Loring Park","Robbery",32,39,49,38,39,39,37
 "Lowry Hill","Robbery",3,24,31,23,11,23,1
-"Lowry Hill East","Robbery",36,55,78,95,52,84,19
+"Lowry Hill East","Robbery",36,55,78,95,52,84,20
 "Lyndale","Robbery",15,34,44,19,41,53,17
 "Lynnhurst","Robbery",1,4,4,0,2,5,3
 "Marcy Holmes","Robbery",31,42,99,64,33,37,31
@@ -76,7 +76,7 @@
 "Ventura Village","Robbery",65,122,92,75,51,70,58
 "Victory","Robbery",8,2,9,5,9,5,3
 "Waite Park","Robbery",5,5,3,3,3,1,1
-"Webber - Camden","Robbery",29,24,16,19,12,16,13
+"Webber - Camden","Robbery",29,24,16,19,12,16,14
 "Wenonah","Robbery",2,5,6,7,2,3,0
 "West Maka Ska","Robbery",1,4,5,0,2,1,1
 "Whittier","Robbery",63,112,159,127,103,147,71
@@ -101,7 +101,7 @@ NA,"Robbery",6,9,8,11,8,10,10
 "Columbia Park","Total",6,2,1,2,2,2,2
 "Como","Total",3,9,12,9,3,16,2
 "Cooper","Total",2,2,6,3,6,4,2
-"Corcoran","Total",10,17,30,20,18,15,19
+"Corcoran","Total",10,17,30,20,18,15,20
 "Diamond Lake","Total",2,7,2,2,6,4,2
 "Downtown East","Total",5,9,9,7,17,6,6
 "Downtown West","Total",207,117,159,152,88,50,51
@@ -131,7 +131,7 @@ NA,"Robbery",6,9,8,11,8,10,10
 "Longfellow","Total",21,33,30,30,22,37,20
 "Loring Park","Total",32,39,49,38,39,39,37
 "Lowry Hill","Total",3,24,31,23,11,23,1
-"Lowry Hill East","Total",36,55,78,95,52,84,19
+"Lowry Hill East","Total",36,55,78,95,52,84,20
 "Lyndale","Total",15,34,44,19,41,53,17
 "Lynnhurst","Total",1,4,4,0,2,5,3
 "Marcy Holmes","Total",31,42,99,64,33,37,31
@@ -163,7 +163,7 @@ NA,"Robbery",6,9,8,11,8,10,10
 "Ventura Village","Total",65,122,92,75,51,70,58
 "Victory","Total",8,2,9,5,9,5,3
 "Waite Park","Total",5,5,3,3,3,1,1
-"Webber - Camden","Total",29,24,16,19,12,16,13
+"Webber - Camden","Total",29,24,16,19,12,16,14
 "Wenonah","Total",2,5,6,7,2,3,0
 "West Maka Ska","Total",1,4,5,0,2,1,1
 "Whittier","Total",63,112,159,127,103,147,71
