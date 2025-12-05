@@ -4,7 +4,7 @@
 "Central","Arson",1,3,1,2,6,2,0
 "Como","Arson",1,0,0,1,1,0,0
 "Downtown West","Arson",5,3,2,2,6,6,1
-"East Phillips","Arson",2,5,0,2,9,3,5
+"East Phillips","Arson",2,5,0,2,9,3,6
 "Elliot Park","Arson",3,1,2,2,4,5,3
 "Folwell","Arson",2,5,7,4,4,7,2
 "Hale","Arson",1,1,0,1,0,0,0
@@ -68,7 +68,7 @@ NA,"Arson",0,2,1,1,1,0,0
 "East Bde Maka Ska","Arson",0,0,0,1,3,0,0
 "Keewaydin","Arson",0,0,0,1,0,0,0
 "Kenwood","Arson",0,0,0,1,1,2,0
-"Marshall Terrace","Arson",0,0,0,2,0,0,0
+"Marshall Terrace","Arson",0,0,0,2,0,0,1
 "Northeast Park","Arson",0,0,0,1,0,0,1
 "Regina","Arson",0,0,0,1,1,1,0
 "Bottineau","Arson",0,0,0,0,1,0,0
@@ -85,7 +85,7 @@ NA,"Arson",0,2,1,1,1,0,0
 "Central","Total",1,3,1,2,6,2,0
 "Como","Total",1,0,0,1,1,0,0
 "Downtown West","Total",5,3,2,2,6,6,1
-"East Phillips","Total",2,5,0,2,9,3,5
+"East Phillips","Total",2,5,0,2,9,3,6
 "Elliot Park","Total",3,1,2,2,4,5,3
 "Folwell","Total",2,5,7,4,4,7,2
 "Hale","Total",1,1,0,1,0,0,0
@@ -149,7 +149,7 @@ NA,"Total",0,2,1,1,1,0,0
 "East Bde Maka Ska","Total",0,0,0,1,3,0,0
 "Keewaydin","Total",0,0,0,1,0,0,0
 "Kenwood","Total",0,0,0,1,1,2,0
-"Marshall Terrace","Total",0,0,0,2,0,0,0
+"Marshall Terrace","Total",0,0,0,2,0,0,1
 "Northeast Park","Total",0,0,0,1,0,0,1
 "Regina","Total",0,0,0,1,1,1,0
 "Bottineau","Total",0,0,0,0,1,0,0

@@ -105,6 +105,8 @@
 <div class="download"><a href="../store/activity/mpd_2023_a.zip">Download Minneapolis police dispatch data, Jan-Jun 2023</a></div>
 <div class="download"><a href="../store/activity/mpd_2023_b.zip">Download Minneapolis police dispatch data, July-Dec 2023</a></div>
 <div class="download"><a href="../store/activity/mpd_2024_a.zip">Download Minneapolis police dispatch data, Jan-Jun 2024</a></div>
+<div class="download"><a href="../store/activity/mpd_2024_b.zip">Download Minneapolis police dispatch data, Jul-Dec 2024</a></div>
+<div class="download"><a href="../store/activity/mpd_2025_a.zip">Download Minneapolis police dispatch data, Jan-Jun 2025</a></div>
 <p>&nbsp;</p>
 
 <p>Minneapolis police have also gradually reduced their number of traffic stops in recent years.</p>
