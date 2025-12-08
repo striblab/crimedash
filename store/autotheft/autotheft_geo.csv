@@ -17,19 +17,19 @@
 "Corcoran","Motor Vehicle Theft",41,53,50,76,114,79,66
 "Diamond Lake","Motor Vehicle Theft",21,21,28,32,49,27,27
 "Downtown East","Motor Vehicle Theft",22,30,39,41,41,48,36
-"Downtown West","Motor Vehicle Theft",127,95,110,163,167,217,128
+"Downtown West","Motor Vehicle Theft",127,95,110,163,167,217,129
 "East Bde Maka Ska","Motor Vehicle Theft",12,14,22,42,47,35,23
 "East Harriet","Motor Vehicle Theft",11,22,13,29,56,41,26
 "East Isles","Motor Vehicle Theft",29,34,42,59,108,71,46
-"East Phillips","Motor Vehicle Theft",82,115,111,99,136,114,104
-"Elliot Park","Motor Vehicle Theft",69,70,65,92,118,148,84
+"East Phillips","Motor Vehicle Theft",82,115,111,99,136,114,105
+"Elliot Park","Motor Vehicle Theft",69,70,65,92,118,148,85
 "Ericsson","Motor Vehicle Theft",15,25,19,32,60,34,29
 "Field","Motor Vehicle Theft",10,19,19,27,34,28,21
 "Folwell","Motor Vehicle Theft",81,79,71,105,128,90,78
 "Fulton","Motor Vehicle Theft",4,15,10,20,23,26,12
 "Hale","Motor Vehicle Theft",8,10,9,16,26,15,12
 "Harrison","Motor Vehicle Theft",26,49,54,89,72,76,33
-"Hawthorne","Motor Vehicle Theft",92,93,98,141,143,141,104
+"Hawthorne","Motor Vehicle Theft",92,93,98,141,143,141,105
 "Hiawatha","Motor Vehicle Theft",34,42,48,106,122,94,81
 "Holland","Motor Vehicle Theft",26,54,49,79,99,96,79
 "Howe","Motor Vehicle Theft",31,53,52,108,79,83,61
@@ -45,7 +45,7 @@
 "Longfellow","Motor Vehicle Theft",73,95,89,147,167,120,97
 "Loring Park","Motor Vehicle Theft",45,58,99,124,145,150,95
 "Lowry Hill","Motor Vehicle Theft",22,24,43,67,83,65,30
-"Lowry Hill East","Motor Vehicle Theft",78,94,133,229,300,221,132
+"Lowry Hill East","Motor Vehicle Theft",78,94,133,229,300,221,133
 "Lyndale","Motor Vehicle Theft",54,68,100,175,261,215,117
 "Lynnhurst","Motor Vehicle Theft",7,19,8,18,25,24,27
 "Marcy Holmes","Motor Vehicle Theft",127,223,228,202,273,224,154
@@ -62,21 +62,21 @@
 "Northrop","Motor Vehicle Theft",19,27,29,60,61,40,41
 "Page","Motor Vehicle Theft",2,9,9,9,11,6,5
 "Phillips West","Motor Vehicle Theft",61,80,70,80,149,103,68
-"Powderhorn Park","Motor Vehicle Theft",89,143,147,175,182,153,140
+"Powderhorn Park","Motor Vehicle Theft",89,143,147,175,182,153,141
 "Prospect Park - East River Road","Motor Vehicle Theft",45,67,86,133,138,80,90
 "Regina","Motor Vehicle Theft",11,26,19,26,49,18,23
 "Seward","Motor Vehicle Theft",82,135,109,139,192,144,101
-"Sheridan","Motor Vehicle Theft",11,18,34,33,68,57,46
+"Sheridan","Motor Vehicle Theft",11,18,34,33,68,57,47
 "Shingle Creek","Motor Vehicle Theft",21,32,18,42,30,25,21
 "South Uptown","Motor Vehicle Theft",36,50,59,125,141,133,70
 "St. Anthony East","Motor Vehicle Theft",7,9,10,17,45,25,27
 "St. Anthony West","Motor Vehicle Theft",14,14,31,44,74,63,41
 "Standish","Motor Vehicle Theft",29,57,60,82,113,75,65
-"Steven's Square - Loring Heights","Motor Vehicle Theft",29,46,59,96,123,128,80
+"Steven's Square - Loring Heights","Motor Vehicle Theft",29,46,59,96,123,128,81
 "Sumner - Glenwood","Motor Vehicle Theft",15,15,18,31,42,27,23
 "Tangletown","Motor Vehicle Theft",17,24,17,31,44,37,30
 "University of Minnesota","Motor Vehicle Theft",12,22,26,12,16,16,6
-"Ventura Village","Motor Vehicle Theft",131,153,93,146,173,152,123
+"Ventura Village","Motor Vehicle Theft",131,153,93,146,173,152,124
 "Victory","Motor Vehicle Theft",24,38,35,77,63,62,38
 "Waite Park","Motor Vehicle Theft",10,17,20,25,43,24,29
 "Webber - Camden","Motor Vehicle Theft",56,67,54,80,104,78,52
@@ -105,19 +105,19 @@ NA,"Motor Vehicle Theft",5,4,18,15,13,11,11
 "Corcoran","Total",41,53,50,76,114,79,66
 "Diamond Lake","Total",21,21,28,32,49,27,27
 "Downtown East","Total",22,30,39,41,41,48,36
-"Downtown West","Total",127,95,110,163,167,217,128
+"Downtown West","Total",127,95,110,163,167,217,129
 "East Bde Maka Ska","Total",12,14,22,42,47,35,23
 "East Harriet","Total",11,22,13,29,56,41,26
 "East Isles","Total",29,34,42,59,108,71,46
-"East Phillips","Total",82,115,111,99,136,114,104
-"Elliot Park","Total",69,70,65,92,118,148,84
+"East Phillips","Total",82,115,111,99,136,114,105
+"Elliot Park","Total",69,70,65,92,118,148,85
 "Ericsson","Total",15,25,19,32,60,34,29
 "Field","Total",10,19,19,27,34,28,21
 "Folwell","Total",81,79,71,105,128,90,78
 "Fulton","Total",4,15,10,20,23,26,12
 "Hale","Total",8,10,9,16,26,15,12
 "Harrison","Total",26,49,54,89,72,76,33
-"Hawthorne","Total",92,93,98,141,143,141,104
+"Hawthorne","Total",92,93,98,141,143,141,105
 "Hiawatha","Total",34,42,48,106,122,94,81
 "Holland","Total",26,54,49,79,99,96,79
 "Howe","Total",31,53,52,108,79,83,61
@@ -133,7 +133,7 @@ NA,"Motor Vehicle Theft",5,4,18,15,13,11,11
 "Longfellow","Total",73,95,89,147,167,120,97
 "Loring Park","Total",45,58,99,124,145,150,95
 "Lowry Hill","Total",22,24,43,67,83,65,30
-"Lowry Hill East","Total",78,94,133,229,300,221,132
+"Lowry Hill East","Total",78,94,133,229,300,221,133
 "Lyndale","Total",54,68,100,175,261,215,117
 "Lynnhurst","Total",7,19,8,18,25,24,27
 "Marcy Holmes","Total",127,223,228,202,273,224,154
@@ -150,21 +150,21 @@ NA,"Motor Vehicle Theft",5,4,18,15,13,11,11
 "Northrop","Total",19,27,29,60,61,40,41
 "Page","Total",2,9,9,9,11,6,5
 "Phillips West","Total",61,80,70,80,149,103,68
-"Powderhorn Park","Total",89,143,147,175,182,153,140
+"Powderhorn Park","Total",89,143,147,175,182,153,141
 "Prospect Park - East River Road","Total",45,67,86,133,138,80,90
 "Regina","Total",11,26,19,26,49,18,23
 "Seward","Total",82,135,109,139,192,144,101
-"Sheridan","Total",11,18,34,33,68,57,46
+"Sheridan","Total",11,18,34,33,68,57,47
 "Shingle Creek","Total",21,32,18,42,30,25,21
 "South Uptown","Total",36,50,59,125,141,133,70
 "St. Anthony East","Total",7,9,10,17,45,25,27
 "St. Anthony West","Total",14,14,31,44,74,63,41
 "Standish","Total",29,57,60,82,113,75,65
-"Steven's Square - Loring Heights","Total",29,46,59,96,123,128,80
+"Steven's Square - Loring Heights","Total",29,46,59,96,123,128,81
 "Sumner - Glenwood","Total",15,15,18,31,42,27,23
 "Tangletown","Total",17,24,17,31,44,37,30
 "University of Minnesota","Total",12,22,26,12,16,16,6
-"Ventura Village","Total",131,153,93,146,173,152,123
+"Ventura Village","Total",131,153,93,146,173,152,124
 "Victory","Total",24,38,35,77,63,62,38
 "Waite Park","Total",10,17,20,25,43,24,29
 "Webber - Camden","Total",56,67,54,80,104,78,52
