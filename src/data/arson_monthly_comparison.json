@@ -577,7 +577,14 @@
     "Year": 2025,
     "Month": 11,
     "Offense": "Arson",
-    "IncidentCount": 6,
+    "IncidentCount": 5,
     "Date": "2025-11-01"
+  },
+  {
+    "Year": 2025,
+    "Month": 12,
+    "Offense": "Arson",
+    "IncidentCount": 1,
+    "Date": "2025-12-01"
   }
 ]

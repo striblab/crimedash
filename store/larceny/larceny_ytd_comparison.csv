@@ -1,46 +1,46 @@
 "YTDCount","Year","Offense","PrevYTDCount","YTDPercentageChange"
-6402,2019,"All Other Larceny",NA,NA
-4897,2020,"All Other Larceny",6402,-23.5082786629178
-5196,2021,"All Other Larceny",4897,6.10577904839698
-5634,2022,"All Other Larceny",5196,8.4295612009238
-5427,2023,"All Other Larceny",5634,-3.6741214057508
-6264,2024,"All Other Larceny",5427,15.4228855721393
-5440,2025,"All Other Larceny",6264,-13.154533844189
-4253,2019,"Theft From Motor Vehicle",NA,NA
-3847,2020,"Theft From Motor Vehicle",4253,-9.54620268046085
-3012,2021,"Theft From Motor Vehicle",3847,-21.7052248505329
-3531,2022,"Theft From Motor Vehicle",3012,17.2310756972112
-3508,2023,"Theft From Motor Vehicle",3531,-0.651373548569811
-4055,2024,"Theft From Motor Vehicle",3508,15.5929304446978
-3945,2025,"Theft From Motor Vehicle",4055,-2.71270036991369
-17,2019,"Pocket-picking",NA,NA
-5,2020,"Pocket-picking",17,-70.5882352941176
+6457,2019,"All Other Larceny",NA,NA
+4933,2020,"All Other Larceny",6457,-23.6022920861081
+5239,2021,"All Other Larceny",4933,6.20312183255625
+5677,2022,"All Other Larceny",5239,8.36037411719794
+5462,2023,"All Other Larceny",5677,-3.78721155539898
+6317,2024,"All Other Larceny",5462,15.6536067374588
+5495,2025,"All Other Larceny",6317,-13.0125059363622
+4305,2019,"Theft From Motor Vehicle",NA,NA
+3898,2020,"Theft From Motor Vehicle",4305,-9.4541231126597
+3039,2021,"Theft From Motor Vehicle",3898,-22.0369420215495
+3559,2022,"Theft From Motor Vehicle",3039,17.1108917407042
+3527,2023,"Theft From Motor Vehicle",3559,-0.899128968811469
+4084,2024,"Theft From Motor Vehicle",3527,15.7924581797562
+3973,2025,"Theft From Motor Vehicle",4084,-2.7179236043095
+18,2019,"Pocket-picking",NA,NA
+5,2020,"Pocket-picking",18,-72.2222222222222
 5,2021,"Pocket-picking",5,0
 3,2022,"Pocket-picking",5,-40
 3,2023,"Pocket-picking",3,0
 1,2024,"Pocket-picking",3,-66.6666666666667
 1,2025,"Pocket-picking",1,0
-338,2019,"Purse-snatching",NA,NA
-268,2020,"Purse-snatching",338,-20.7100591715976
-210,2021,"Purse-snatching",268,-21.6417910447761
+342,2019,"Purse-snatching",NA,NA
+270,2020,"Purse-snatching",342,-21.0526315789474
+210,2021,"Purse-snatching",270,-22.2222222222222
 151,2022,"Purse-snatching",210,-28.0952380952381
 91,2023,"Purse-snatching",151,-39.7350993377483
 80,2024,"Purse-snatching",91,-12.0879120879121
 64,2025,"Purse-snatching",80,-20
-1096,2019,"Shoplifting",NA,NA
-593,2020,"Shoplifting",1096,-45.8941605839416
-330,2021,"Shoplifting",593,-44.3507588532884
-659,2022,"Shoplifting",330,99.6969696969697
-575,2023,"Shoplifting",659,-12.7465857359636
-779,2024,"Shoplifting",575,35.4782608695652
-1009,2025,"Shoplifting",779,29.5250320924262
-230,2019,"Theft From Building",NA,NA
-96,2020,"Theft From Building",230,-58.2608695652174
+1100,2019,"Shoplifting",NA,NA
+598,2020,"Shoplifting",1100,-45.6363636363636
+333,2021,"Shoplifting",598,-44.314381270903
+666,2022,"Shoplifting",333,100
+577,2023,"Shoplifting",666,-13.3633633633634
+792,2024,"Shoplifting",577,37.261698440208
+1017,2025,"Shoplifting",792,28.4090909090909
+231,2019,"Theft From Building",NA,NA
+96,2020,"Theft From Building",231,-58.4415584415584
 88,2021,"Theft From Building",96,-8.33333333333334
-99,2022,"Theft From Building",88,12.5
-87,2023,"Theft From Building",99,-12.1212121212121
-150,2024,"Theft From Building",87,72.4137931034483
-180,2025,"Theft From Building",150,20
+100,2022,"Theft From Building",88,13.6363636363636
+87,2023,"Theft From Building",100,-13
+155,2024,"Theft From Building",87,78.1609195402299
+183,2025,"Theft From Building",155,18.0645161290323
 7,2019,"Theft From Coin-Operated Machine or Device",NA,NA
 0,2020,"Theft From Coin-Operated Machine or Device",7,-100
 0,2021,"Theft From Coin-Operated Machine or Device",NA,NA
@@ -48,10 +48,10 @@
 2,2023,"Theft From Coin-Operated Machine or Device",1,100
 4,2024,"Theft From Coin-Operated Machine or Device",2,100
 1,2025,"Theft From Coin-Operated Machine or Device",4,-75
-191,2019,"Theft of Motor Vehicle Parts or Accessories",NA,NA
-1769,2020,"Theft of Motor Vehicle Parts or Accessories",191,826.178010471204
-2184,2021,"Theft of Motor Vehicle Parts or Accessories",1769,23.4595816845675
-3159,2022,"Theft of Motor Vehicle Parts or Accessories",2184,44.6428571428571
-1710,2023,"Theft of Motor Vehicle Parts or Accessories",3159,-45.8689458689459
-847,2024,"Theft of Motor Vehicle Parts or Accessories",1710,-50.4678362573099
-844,2025,"Theft of Motor Vehicle Parts or Accessories",847,-0.354191263282178
+195,2019,"Theft of Motor Vehicle Parts or Accessories",NA,NA
+1793,2020,"Theft of Motor Vehicle Parts or Accessories",195,819.48717948718
+2211,2021,"Theft of Motor Vehicle Parts or Accessories",1793,23.3128834355828
+3171,2022,"Theft of Motor Vehicle Parts or Accessories",2211,43.4192672998643
+1718,2023,"Theft of Motor Vehicle Parts or Accessories",3171,-45.8215074109114
+862,2024,"Theft of Motor Vehicle Parts or Accessories",1718,-49.825378346915
+855,2025,"Theft of Motor Vehicle Parts or Accessories",862,-0.812064965197212

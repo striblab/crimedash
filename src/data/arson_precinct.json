@@ -215,7 +215,7 @@
     "Year": 2025,
     "Precinct": 3,
     "Offense": "Arson",
-    "OffenseCount": 33
+    "OffenseCount": 32
   },
   {
     "Year": 2025,
@@ -228,5 +228,10 @@
     "Precinct": 5,
     "Offense": "Arson",
     "OffenseCount": 4
+  },
+  {
+    "Year": 2025,
+    "Offense": "Arson",
+    "OffenseCount": 1
   }
 ]
