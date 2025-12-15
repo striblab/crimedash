@@ -8,10 +8,10 @@
 "East Harriet","Gunshot Wound Victims",1,0,2,0,1,0,0
 "East Isles","Gunshot Wound Victims",2,0,4,0,2,0,2
 "East Phillips","Gunshot Wound Victims",9,35,46,28,18,22,9
-"Elliot Park","Gunshot Wound Victims",8,14,14,6,9,7,6
+"Elliot Park","Gunshot Wound Victims",8,14,14,6,9,7,7
 "Folwell","Gunshot Wound Victims",18,28,33,35,23,33,9
 "Harrison","Gunshot Wound Victims",2,7,10,4,4,5,2
-"Hawthorne","Gunshot Wound Victims",34,71,65,57,33,15,15
+"Hawthorne","Gunshot Wound Victims",34,71,65,57,33,15,16
 "Holland","Gunshot Wound Victims",2,0,2,7,0,5,1
 "Jordan","Gunshot Wound Victims",18,62,51,33,29,21,10
 "Lind - Bohanon","Gunshot Wound Victims",9,11,20,9,3,3,8
@@ -30,11 +30,11 @@
 "Sheridan","Gunshot Wound Victims",1,0,2,0,0,1,0
 "Steven's Square - Loring Heights","Gunshot Wound Victims",1,5,10,11,6,5,7
 "Sumner - Glenwood","Gunshot Wound Victims",6,3,5,3,1,0,0
-"Ventura Village","Gunshot Wound Victims",11,24,33,21,40,22,10
+"Ventura Village","Gunshot Wound Victims",11,24,33,21,40,22,11
 "Waite Park","Gunshot Wound Victims",1,0,2,0,0,0,0
 "Webber - Camden","Gunshot Wound Victims",13,18,23,12,12,7,8
 "Whittier","Gunshot Wound Victims",3,10,14,18,20,31,23
-"Willard - Hay","Gunshot Wound Victims",21,23,31,13,19,17,11
+"Willard - Hay","Gunshot Wound Victims",21,23,31,13,19,17,13
 "Audubon Park","Gunshot Wound Victims",0,2,2,0,0,3,0
 "Bancroft","Gunshot Wound Victims",0,1,3,2,1,2,0
 "Bottineau","Gunshot Wound Victims",0,1,0,0,0,0,0
@@ -87,10 +87,10 @@ NA,"Gunshot Wound Victims",0,3,6,4,6,3,2
 "East Harriet","Total",1,0,2,0,1,0,0
 "East Isles","Total",2,0,4,0,2,0,2
 "East Phillips","Total",9,35,46,28,18,22,9
-"Elliot Park","Total",8,14,14,6,9,7,6
+"Elliot Park","Total",8,14,14,6,9,7,7
 "Folwell","Total",18,28,33,35,23,33,9
 "Harrison","Total",2,7,10,4,4,5,2
-"Hawthorne","Total",34,71,65,57,33,15,15
+"Hawthorne","Total",34,71,65,57,33,15,16
 "Holland","Total",2,0,2,7,0,5,1
 "Jordan","Total",18,62,51,33,29,21,10
 "Lind - Bohanon","Total",9,11,20,9,3,3,8
@@ -109,11 +109,11 @@ NA,"Gunshot Wound Victims",0,3,6,4,6,3,2
 "Sheridan","Total",1,0,2,0,0,1,0
 "Steven's Square - Loring Heights","Total",1,5,10,11,6,5,7
 "Sumner - Glenwood","Total",6,3,5,3,1,0,0
-"Ventura Village","Total",11,24,33,21,40,22,10
+"Ventura Village","Total",11,24,33,21,40,22,11
 "Waite Park","Total",1,0,2,0,0,0,0
 "Webber - Camden","Total",13,18,23,12,12,7,8
 "Whittier","Total",3,10,14,18,20,31,23
-"Willard - Hay","Total",21,23,31,13,19,17,11
+"Willard - Hay","Total",21,23,31,13,19,17,13
 "Audubon Park","Total",0,2,2,0,0,3,0
 "Bancroft","Total",0,1,3,2,1,2,0
 "Bottineau","Total",0,1,0,0,0,0,0
