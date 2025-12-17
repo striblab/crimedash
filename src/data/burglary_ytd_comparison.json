@@ -1,49 +1,49 @@
 [
   {
-    "YTDCount": 3201,
+    "YTDCount": 3069,
     "Year": 2019,
     "Offense": "Burglary/Breaking & Entering"
   },
   {
-    "YTDCount": 3831,
+    "YTDCount": 3849,
     "Year": 2020,
     "Offense": "Burglary/Breaking & Entering",
-    "PrevYTDCount": 3201,
-    "YTDPercentageChange": 19.6813
+    "PrevYTDCount": 3069,
+    "YTDPercentageChange": 25.4154
   },
   {
-    "YTDCount": 2451,
+    "YTDCount": 2459,
     "Year": 2021,
     "Offense": "Burglary/Breaking & Entering",
-    "PrevYTDCount": 3831,
-    "YTDPercentageChange": -36.0219
+    "PrevYTDCount": 3849,
+    "YTDPercentageChange": -36.1133
   },
   {
-    "YTDCount": 2531,
+    "YTDCount": 2548,
     "Year": 2022,
     "Offense": "Burglary/Breaking & Entering",
-    "PrevYTDCount": 2451,
-    "YTDPercentageChange": 3.264
+    "PrevYTDCount": 2459,
+    "YTDPercentageChange": 3.6194
   },
   {
-    "YTDCount": 2537,
+    "YTDCount": 2544,
     "Year": 2023,
     "Offense": "Burglary/Breaking & Entering",
-    "PrevYTDCount": 2531,
-    "YTDPercentageChange": 0.2371
+    "PrevYTDCount": 2548,
+    "YTDPercentageChange": -0.157
   },
   {
-    "YTDCount": 2515,
+    "YTDCount": 2533,
     "Year": 2024,
     "Offense": "Burglary/Breaking & Entering",
-    "PrevYTDCount": 2537,
-    "YTDPercentageChange": -0.8672
+    "PrevYTDCount": 2544,
+    "YTDPercentageChange": -0.4324
   },
   {
-    "YTDCount": 2293,
+    "YTDCount": 2310,
     "Year": 2025,
     "Offense": "Burglary/Breaking & Entering",
-    "PrevYTDCount": 2515,
-    "YTDPercentageChange": -8.827
+    "PrevYTDCount": 2533,
+    "YTDPercentageChange": -8.8038
   }
 ]
