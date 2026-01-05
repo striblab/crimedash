@@ -3,9 +3,10 @@
 "Central","Murder and Nonnegligent Manslaughter",1,2,3,1,1,2,1
 "Cleveland","Murder and Nonnegligent Manslaughter",1,1,1,0,1,3,0
 "Downtown West","Murder and Nonnegligent Manslaughter",7,6,6,5,1,5,3
+"East Phillips","Murder and Nonnegligent Manslaughter",1,4,6,3,4,6,3
 "Elliot Park","Murder and Nonnegligent Manslaughter",1,2,1,1,1,5,3
-"Hawthorne","Murder and Nonnegligent Manslaughter",5,6,10,5,5,3,4
-"Jordan","Murder and Nonnegligent Manslaughter",2,8,8,6,2,3,1
+"Hawthorne","Murder and Nonnegligent Manslaughter",6,6,10,5,5,3,4
+"Jordan","Murder and Nonnegligent Manslaughter",2,8,8,6,2,3,2
 "Lind - Bohanon","Murder and Nonnegligent Manslaughter",1,0,4,2,0,0,1
 "Lyndale","Murder and Nonnegligent Manslaughter",1,0,0,1,0,0,3
 "Marcy Holmes","Murder and Nonnegligent Manslaughter",4,0,1,0,3,0,1
@@ -21,11 +22,11 @@
 "Sumner - Glenwood","Murder and Nonnegligent Manslaughter",2,1,1,0,0,0,0
 "Ventura Village","Murder and Nonnegligent Manslaughter",1,4,6,1,3,3,4
 "Webber - Camden","Murder and Nonnegligent Manslaughter",3,4,2,0,3,1,0
-"Willard - Hay","Murder and Nonnegligent Manslaughter",2,2,3,5,3,6,3
+"Whittier","Murder and Nonnegligent Manslaughter",1,0,1,4,3,7,4
+"Willard - Hay","Murder and Nonnegligent Manslaughter",2,2,3,5,3,6,4
 "Como","Murder and Nonnegligent Manslaughter",0,1,0,1,0,0,0
 "Corcoran","Murder and Nonnegligent Manslaughter",0,1,0,1,1,0,0
 "Downtown East","Murder and Nonnegligent Manslaughter",0,1,0,1,1,0,0
-"East Phillips","Murder and Nonnegligent Manslaughter",0,4,6,3,4,6,3
 "Folwell","Murder and Nonnegligent Manslaughter",0,2,6,2,4,6,1
 "Hiawatha","Murder and Nonnegligent Manslaughter",0,2,1,1,0,3,0
 "Logan Park","Murder and Nonnegligent Manslaughter",0,1,0,0,0,0,0
@@ -41,7 +42,6 @@
 "Harrison","Murder and Nonnegligent Manslaughter",0,0,2,1,2,3,0
 "South Uptown","Murder and Nonnegligent Manslaughter",0,0,1,0,0,0,0
 "St. Anthony West","Murder and Nonnegligent Manslaughter",0,0,1,0,2,0,1
-"Whittier","Murder and Nonnegligent Manslaughter",0,0,1,4,3,7,4
 "Bancroft","Murder and Nonnegligent Manslaughter",0,0,0,1,0,1,0
 "Bryant","Murder and Nonnegligent Manslaughter",0,0,0,2,0,0,0
 "King Field","Murder and Nonnegligent Manslaughter",0,0,0,1,0,0,0
@@ -64,9 +64,10 @@
 "Central","Total",1,2,3,1,1,2,1
 "Cleveland","Total",1,1,1,0,1,3,0
 "Downtown West","Total",7,6,6,5,1,5,3
+"East Phillips","Total",1,4,6,3,4,6,3
 "Elliot Park","Total",1,2,1,1,1,5,3
-"Hawthorne","Total",5,6,10,5,5,3,4
-"Jordan","Total",2,8,8,6,2,3,1
+"Hawthorne","Total",6,6,10,5,5,3,4
+"Jordan","Total",2,8,8,6,2,3,2
 "Lind - Bohanon","Total",1,0,4,2,0,0,1
 "Lyndale","Total",1,0,0,1,0,0,3
 "Marcy Holmes","Total",4,0,1,0,3,0,1
@@ -82,11 +83,11 @@
 "Sumner - Glenwood","Total",2,1,1,0,0,0,0
 "Ventura Village","Total",1,4,6,1,3,3,4
 "Webber - Camden","Total",3,4,2,0,3,1,0
-"Willard - Hay","Total",2,2,3,5,3,6,3
+"Whittier","Total",1,0,1,4,3,7,4
+"Willard - Hay","Total",2,2,3,5,3,6,4
 "Como","Total",0,1,0,1,0,0,0
 "Corcoran","Total",0,1,0,1,1,0,0
 "Downtown East","Total",0,1,0,1,1,0,0
-"East Phillips","Total",0,4,6,3,4,6,3
 "Folwell","Total",0,2,6,2,4,6,1
 "Hiawatha","Total",0,2,1,1,0,3,0
 "Logan Park","Total",0,1,0,0,0,0,0
@@ -102,7 +103,6 @@
 "Harrison","Total",0,0,2,1,2,3,0
 "South Uptown","Total",0,0,1,0,0,0,0
 "St. Anthony West","Total",0,0,1,0,2,0,1
-"Whittier","Total",0,0,1,4,3,7,4
 "Bancroft","Total",0,0,0,1,0,1,0
 "Bryant","Total",0,0,0,2,0,0,0
 "King Field","Total",0,0,0,1,0,0,0

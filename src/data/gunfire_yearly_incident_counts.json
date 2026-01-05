@@ -1,10 +1,5 @@
 [
   {
-    "Year": 2019,
-    "Offense": "Shooting (PFE)",
-    "OffenseCount": 11
-  },
-  {
     "Year": 2020,
     "Offense": "Shooting (PFE)",
     "OffenseCount": 447
@@ -27,22 +22,17 @@
   {
     "Year": 2024,
     "Offense": "Shooting (PFE)",
-    "OffenseCount": 365
+    "OffenseCount": 354
   },
   {
     "Year": 2025,
     "Offense": "Shooting (PFE)",
-    "OffenseCount": 289
-  },
-  {
-    "Year": 2019,
-    "Offense": "Shooting Report Only (P)",
-    "OffenseCount": 3
+    "OffenseCount": 262
   },
   {
     "Year": 2020,
     "Offense": "Shooting Report Only (P)",
-    "OffenseCount": 231
+    "OffenseCount": 229
   },
   {
     "Year": 2021,
@@ -62,22 +52,17 @@
   {
     "Year": 2024,
     "Offense": "Shooting Report Only (P)",
-    "OffenseCount": 123
+    "OffenseCount": 122
   },
   {
     "Year": 2025,
     "Offense": "Shooting Report Only (P)",
-    "OffenseCount": 93
-  },
-  {
-    "Year": 2019,
-    "Offense": "ShotSpotter Activation (P)",
-    "OffenseCount": 72
+    "OffenseCount": 88
   },
   {
     "Year": 2020,
     "Offense": "ShotSpotter Activation (P)",
-    "OffenseCount": 4272
+    "OffenseCount": 4186
   },
   {
     "Year": 2021,
@@ -97,22 +82,22 @@
   {
     "Year": 2024,
     "Offense": "ShotSpotter Activation (P)",
-    "OffenseCount": 2669
+    "OffenseCount": 2614
   },
   {
     "Year": 2025,
     "Offense": "ShotSpotter Activation (P)",
-    "OffenseCount": 2425
+    "OffenseCount": 2182
   },
   {
-    "Year": 2019,
-    "Offense": "Sound of Shots Fired (P)",
-    "OffenseCount": 60
+    "Year": 2026,
+    "Offense": "ShotSpotter Activation (P)",
+    "OffenseCount": 35
   },
   {
     "Year": 2020,
     "Offense": "Sound of Shots Fired (P)",
-    "OffenseCount": 4665
+    "OffenseCount": 4648
   },
   {
     "Year": 2021,
@@ -132,11 +117,16 @@
   {
     "Year": 2024,
     "Offense": "Sound of Shots Fired (P)",
-    "OffenseCount": 3047
+    "OffenseCount": 3004
   },
   {
     "Year": 2025,
     "Offense": "Sound of Shots Fired (P)",
-    "OffenseCount": 2560
+    "OffenseCount": 2300
+  },
+  {
+    "Year": 2026,
+    "Offense": "Sound of Shots Fired (P)",
+    "OffenseCount": 28
   }
 ]

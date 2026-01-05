@@ -3,31 +3,31 @@
     "Year": 2019,
     "Precinct": 1,
     "Offense": "Robbery",
-    "OffenseCount": 293
+    "OffenseCount": 313
   },
   {
     "Year": 2019,
     "Precinct": 2,
     "Offense": "Robbery",
-    "OffenseCount": 106
+    "OffenseCount": 107
   },
   {
     "Year": 2019,
     "Precinct": 3,
     "Offense": "Robbery",
-    "OffenseCount": 339
+    "OffenseCount": 358
   },
   {
     "Year": 2019,
     "Precinct": 4,
     "Offense": "Robbery",
-    "OffenseCount": 316
+    "OffenseCount": 329
   },
   {
     "Year": 2019,
     "Precinct": 5,
     "Offense": "Robbery",
-    "OffenseCount": 201
+    "OffenseCount": 209
   },
   {
     "Year": 2019,
@@ -213,35 +213,47 @@
     "Year": 2025,
     "Precinct": 1,
     "Offense": "Robbery",
-    "OffenseCount": 159
+    "OffenseCount": 163
   },
   {
     "Year": 2025,
     "Precinct": 2,
     "Offense": "Robbery",
-    "OffenseCount": 98
+    "OffenseCount": 99
   },
   {
     "Year": 2025,
     "Precinct": 3,
     "Offense": "Robbery",
-    "OffenseCount": 356
+    "OffenseCount": 362
   },
   {
     "Year": 2025,
     "Precinct": 4,
     "Offense": "Robbery",
-    "OffenseCount": 237
+    "OffenseCount": 244
   },
   {
     "Year": 2025,
     "Precinct": 5,
     "Offense": "Robbery",
-    "OffenseCount": 192
+    "OffenseCount": 207
   },
   {
     "Year": 2025,
     "Offense": "Robbery",
     "OffenseCount": 8
+  },
+  {
+    "Year": 2026,
+    "Precinct": 1,
+    "Offense": "Robbery",
+    "OffenseCount": 2
+  },
+  {
+    "Year": 2026,
+    "Precinct": 3,
+    "Offense": "Robbery",
+    "OffenseCount": 1
   }
 ]

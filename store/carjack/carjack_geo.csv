@@ -11,11 +11,11 @@
 "Corcoran","Carjacking - Subset of Robbery",3,8,3,3,1,6
 "Diamond Lake","Carjacking - Subset of Robbery",1,1,0,0,0,0
 "Downtown West","Carjacking - Subset of Robbery",2,4,5,1,1,3
-"East Isles","Carjacking - Subset of Robbery",5,16,13,3,4,2
+"East Isles","Carjacking - Subset of Robbery",5,16,13,3,4,4
 "East Phillips","Carjacking - Subset of Robbery",2,25,18,10,12,5
 "Elliot Park","Carjacking - Subset of Robbery",1,2,9,8,4,2
 "Field","Carjacking - Subset of Robbery",1,5,1,2,1,2
-"Folwell","Carjacking - Subset of Robbery",1,9,6,6,9,3
+"Folwell","Carjacking - Subset of Robbery",1,9,6,6,9,4
 "Fulton","Carjacking - Subset of Robbery",1,3,0,1,1,0
 "Harrison","Carjacking - Subset of Robbery",1,17,13,6,0,2
 "Hawthorne","Carjacking - Subset of Robbery",7,17,19,7,10,3
@@ -30,23 +30,23 @@
 "Lowry Hill East","Carjacking - Subset of Robbery",5,17,24,16,8,1
 "Lyndale","Carjacking - Subset of Robbery",3,10,9,6,12,1
 "Marcy Holmes","Carjacking - Subset of Robbery",3,13,22,5,5,2
-"McKinley","Carjacking - Subset of Robbery",2,10,2,5,3,3
+"McKinley","Carjacking - Subset of Robbery",2,10,2,5,3,4
 "Midtown Phillips","Carjacking - Subset of Robbery",10,20,27,8,7,6
 "Near - North","Carjacking - Subset of Robbery",4,23,14,9,7,5
 "Northeast Park","Carjacking - Subset of Robbery",1,0,2,1,1,0
-"Northrop","Carjacking - Subset of Robbery",3,9,6,3,2,1
+"Northrop","Carjacking - Subset of Robbery",3,9,6,3,2,2
 "Phillips West","Carjacking - Subset of Robbery",5,8,13,11,3,4
 "Powderhorn Park","Carjacking - Subset of Robbery",6,38,27,6,16,9
 "Prospect Park - East River Road","Carjacking - Subset of Robbery",2,5,1,0,0,0
 "Seward","Carjacking - Subset of Robbery",12,24,12,7,14,7
 "Sheridan","Carjacking - Subset of Robbery",3,5,3,1,5,2
-"South Uptown","Carjacking - Subset of Robbery",7,9,8,3,10,4
+"South Uptown","Carjacking - Subset of Robbery",7,9,8,3,10,6
 "Standish","Carjacking - Subset of Robbery",4,7,1,2,1,0
 "Sumner - Glenwood","Carjacking - Subset of Robbery",1,12,6,3,8,0
 "Tangletown","Carjacking - Subset of Robbery",1,2,1,2,1,0
 "Ventura Village","Carjacking - Subset of Robbery",12,36,29,14,12,9
-"Webber - Camden","Carjacking - Subset of Robbery",1,6,5,4,3,2
-"Whittier","Carjacking - Subset of Robbery",13,46,41,25,14,6
+"Webber - Camden","Carjacking - Subset of Robbery",1,6,5,4,3,3
+"Whittier","Carjacking - Subset of Robbery",13,46,41,25,14,9
 "Willard - Hay","Carjacking - Subset of Robbery",4,9,17,13,5,2
 "Windom Park","Carjacking - Subset of Robbery",1,4,2,1,1,3
 NA,"Carjacking - Subset of Robbery",2,3,2,2,1,3
@@ -98,11 +98,11 @@ NA,"Carjacking - Subset of Robbery",2,3,2,2,1,3
 "Corcoran","Total",3,8,3,3,1,6
 "Diamond Lake","Total",1,1,0,0,0,0
 "Downtown West","Total",2,4,5,1,1,3
-"East Isles","Total",5,16,13,3,4,2
+"East Isles","Total",5,16,13,3,4,4
 "East Phillips","Total",2,25,18,10,12,5
 "Elliot Park","Total",1,2,9,8,4,2
 "Field","Total",1,5,1,2,1,2
-"Folwell","Total",1,9,6,6,9,3
+"Folwell","Total",1,9,6,6,9,4
 "Fulton","Total",1,3,0,1,1,0
 "Harrison","Total",1,17,13,6,0,2
 "Hawthorne","Total",7,17,19,7,10,3
@@ -117,23 +117,23 @@ NA,"Carjacking - Subset of Robbery",2,3,2,2,1,3
 "Lowry Hill East","Total",5,17,24,16,8,1
 "Lyndale","Total",3,10,9,6,12,1
 "Marcy Holmes","Total",3,13,22,5,5,2
-"McKinley","Total",2,10,2,5,3,3
+"McKinley","Total",2,10,2,5,3,4
 "Midtown Phillips","Total",10,20,27,8,7,6
 "Near - North","Total",4,23,14,9,7,5
 "Northeast Park","Total",1,0,2,1,1,0
-"Northrop","Total",3,9,6,3,2,1
+"Northrop","Total",3,9,6,3,2,2
 "Phillips West","Total",5,8,13,11,3,4
 "Powderhorn Park","Total",6,38,27,6,16,9
 "Prospect Park - East River Road","Total",2,5,1,0,0,0
 "Seward","Total",12,24,12,7,14,7
 "Sheridan","Total",3,5,3,1,5,2
-"South Uptown","Total",7,9,8,3,10,4
+"South Uptown","Total",7,9,8,3,10,6
 "Standish","Total",4,7,1,2,1,0
 "Sumner - Glenwood","Total",1,12,6,3,8,0
 "Tangletown","Total",1,2,1,2,1,0
 "Ventura Village","Total",12,36,29,14,12,9
-"Webber - Camden","Total",1,6,5,4,3,2
-"Whittier","Total",13,46,41,25,14,6
+"Webber - Camden","Total",1,6,5,4,3,3
+"Whittier","Total",13,46,41,25,14,9
 "Willard - Hay","Total",4,9,17,13,5,2
 "Windom Park","Total",1,4,2,1,1,3
 NA,"Total",2,3,2,2,1,3

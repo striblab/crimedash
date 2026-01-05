@@ -1,5 +1,4 @@
 "Year","Month","Offense","IncidentCount","Date"
-2019,12,"Shooting (PFE)",11,2019-12-01
 2020,1,"Shooting (PFE)",13,2020-01-01
 2020,2,"Shooting (PFE)",13,2020-02-01
 2020,3,"Shooting (PFE)",15,2020-03-01
@@ -56,24 +55,23 @@
 2024,6,"Shooting (PFE)",35,2024-06-01
 2024,7,"Shooting (PFE)",39,2024-07-01
 2024,8,"Shooting (PFE)",29,2024-08-01
-2024,9,"Shooting (PFE)",45,2024-09-01
-2024,10,"Shooting (PFE)",32,2024-10-01
-2024,11,"Shooting (PFE)",34,2024-11-01
+2024,9,"Shooting (PFE)",44,2024-09-01
+2024,10,"Shooting (PFE)",26,2024-10-01
+2024,11,"Shooting (PFE)",30,2024-11-01
 2024,12,"Shooting (PFE)",23,2024-12-01
 2025,1,"Shooting (PFE)",16,2025-01-01
 2025,2,"Shooting (PFE)",20,2025-02-01
-2025,3,"Shooting (PFE)",15,2025-03-01
-2025,4,"Shooting (PFE)",27,2025-04-01
-2025,5,"Shooting (PFE)",32,2025-05-01
-2025,6,"Shooting (PFE)",28,2025-06-01
-2025,7,"Shooting (PFE)",39,2025-07-01
-2025,8,"Shooting (PFE)",25,2025-08-01
-2025,9,"Shooting (PFE)",33,2025-09-01
-2025,10,"Shooting (PFE)",18,2025-10-01
-2025,11,"Shooting (PFE)",31,2025-11-01
-2025,12,"Shooting (PFE)",5,2025-12-01
-2019,12,"Shooting Report Only (P)",3,2019-12-01
-2020,1,"Shooting Report Only (P)",4,2020-01-01
+2025,3,"Shooting (PFE)",12,2025-03-01
+2025,4,"Shooting (PFE)",24,2025-04-01
+2025,5,"Shooting (PFE)",26,2025-05-01
+2025,6,"Shooting (PFE)",27,2025-06-01
+2025,7,"Shooting (PFE)",34,2025-07-01
+2025,8,"Shooting (PFE)",24,2025-08-01
+2025,9,"Shooting (PFE)",29,2025-09-01
+2025,10,"Shooting (PFE)",14,2025-10-01
+2025,11,"Shooting (PFE)",21,2025-11-01
+2025,12,"Shooting (PFE)",15,2025-12-01
+2020,1,"Shooting Report Only (P)",2,2020-01-01
 2020,2,"Shooting Report Only (P)",6,2020-02-01
 2020,3,"Shooting Report Only (P)",7,2020-03-01
 2020,4,"Shooting Report Only (P)",6,2020-04-01
@@ -130,23 +128,22 @@
 2024,7,"Shooting Report Only (P)",11,2024-07-01
 2024,8,"Shooting Report Only (P)",22,2024-08-01
 2024,9,"Shooting Report Only (P)",11,2024-09-01
-2024,10,"Shooting Report Only (P)",12,2024-10-01
+2024,10,"Shooting Report Only (P)",11,2024-10-01
 2024,11,"Shooting Report Only (P)",2,2024-11-01
 2024,12,"Shooting Report Only (P)",9,2024-12-01
 2025,1,"Shooting Report Only (P)",6,2025-01-01
 2025,2,"Shooting Report Only (P)",4,2025-02-01
 2025,3,"Shooting Report Only (P)",6,2025-03-01
-2025,4,"Shooting Report Only (P)",12,2025-04-01
-2025,5,"Shooting Report Only (P)",10,2025-05-01
+2025,4,"Shooting Report Only (P)",10,2025-04-01
+2025,5,"Shooting Report Only (P)",9,2025-05-01
 2025,6,"Shooting Report Only (P)",9,2025-06-01
-2025,7,"Shooting Report Only (P)",11,2025-07-01
-2025,8,"Shooting Report Only (P)",10,2025-08-01
-2025,9,"Shooting Report Only (P)",10,2025-09-01
+2025,7,"Shooting Report Only (P)",9,2025-07-01
+2025,8,"Shooting Report Only (P)",8,2025-08-01
+2025,9,"Shooting Report Only (P)",8,2025-09-01
 2025,10,"Shooting Report Only (P)",7,2025-10-01
-2025,11,"Shooting Report Only (P)",5,2025-11-01
-2025,12,"Shooting Report Only (P)",3,2025-12-01
-2019,12,"ShotSpotter Activation (P)",72,2019-12-01
-2020,1,"ShotSpotter Activation (P)",183,2020-01-01
+2025,11,"Shooting Report Only (P)",4,2025-11-01
+2025,12,"Shooting Report Only (P)",8,2025-12-01
+2020,1,"ShotSpotter Activation (P)",97,2020-01-01
 2020,2,"ShotSpotter Activation (P)",84,2020-02-01
 2020,3,"ShotSpotter Activation (P)",155,2020-03-01
 2020,4,"ShotSpotter Activation (P)",179,2020-04-01
@@ -202,24 +199,24 @@
 2024,6,"ShotSpotter Activation (P)",271,2024-06-01
 2024,7,"ShotSpotter Activation (P)",268,2024-07-01
 2024,8,"ShotSpotter Activation (P)",172,2024-08-01
-2024,9,"ShotSpotter Activation (P)",243,2024-09-01
-2024,10,"ShotSpotter Activation (P)",290,2024-10-01
-2024,11,"ShotSpotter Activation (P)",249,2024-11-01
+2024,9,"ShotSpotter Activation (P)",242,2024-09-01
+2024,10,"ShotSpotter Activation (P)",259,2024-10-01
+2024,11,"ShotSpotter Activation (P)",226,2024-11-01
 2024,12,"ShotSpotter Activation (P)",203,2024-12-01
 2025,1,"ShotSpotter Activation (P)",177,2025-01-01
 2025,2,"ShotSpotter Activation (P)",118,2025-02-01
-2025,3,"ShotSpotter Activation (P)",185,2025-03-01
-2025,4,"ShotSpotter Activation (P)",228,2025-04-01
-2025,5,"ShotSpotter Activation (P)",235,2025-05-01
-2025,6,"ShotSpotter Activation (P)",195,2025-06-01
-2025,7,"ShotSpotter Activation (P)",284,2025-07-01
-2025,8,"ShotSpotter Activation (P)",210,2025-08-01
-2025,9,"ShotSpotter Activation (P)",224,2025-09-01
-2025,10,"ShotSpotter Activation (P)",218,2025-10-01
-2025,11,"ShotSpotter Activation (P)",227,2025-11-01
-2025,12,"ShotSpotter Activation (P)",124,2025-12-01
-2019,12,"Sound of Shots Fired (P)",60,2019-12-01
-2020,1,"Sound of Shots Fired (P)",100,2020-01-01
+2025,3,"ShotSpotter Activation (P)",175,2025-03-01
+2025,4,"ShotSpotter Activation (P)",207,2025-04-01
+2025,5,"ShotSpotter Activation (P)",202,2025-05-01
+2025,6,"ShotSpotter Activation (P)",178,2025-06-01
+2025,7,"ShotSpotter Activation (P)",242,2025-07-01
+2025,8,"ShotSpotter Activation (P)",189,2025-08-01
+2025,9,"ShotSpotter Activation (P)",192,2025-09-01
+2025,10,"ShotSpotter Activation (P)",178,2025-10-01
+2025,11,"ShotSpotter Activation (P)",170,2025-11-01
+2025,12,"ShotSpotter Activation (P)",154,2025-12-01
+2026,1,"ShotSpotter Activation (P)",35,2026-01-01
+2020,1,"Sound of Shots Fired (P)",83,2020-01-01
 2020,2,"Sound of Shots Fired (P)",73,2020-02-01
 2020,3,"Sound of Shots Fired (P)",188,2020-03-01
 2020,4,"Sound of Shots Fired (P)",202,2020-04-01
@@ -275,19 +272,20 @@
 2024,6,"Sound of Shots Fired (P)",338,2024-06-01
 2024,7,"Sound of Shots Fired (P)",333,2024-07-01
 2024,8,"Sound of Shots Fired (P)",279,2024-08-01
-2024,9,"Sound of Shots Fired (P)",323,2024-09-01
-2024,10,"Sound of Shots Fired (P)",275,2024-10-01
-2024,11,"Sound of Shots Fired (P)",244,2024-11-01
+2024,9,"Sound of Shots Fired (P)",320,2024-09-01
+2024,10,"Sound of Shots Fired (P)",246,2024-10-01
+2024,11,"Sound of Shots Fired (P)",233,2024-11-01
 2024,12,"Sound of Shots Fired (P)",178,2024-12-01
 2025,1,"Sound of Shots Fired (P)",182,2025-01-01
 2025,2,"Sound of Shots Fired (P)",127,2025-02-01
-2025,3,"Sound of Shots Fired (P)",171,2025-03-01
-2025,4,"Sound of Shots Fired (P)",155,2025-04-01
-2025,5,"Sound of Shots Fired (P)",232,2025-05-01
-2025,6,"Sound of Shots Fired (P)",312,2025-06-01
-2025,7,"Sound of Shots Fired (P)",262,2025-07-01
-2025,8,"Sound of Shots Fired (P)",268,2025-08-01
-2025,9,"Sound of Shots Fired (P)",286,2025-09-01
-2025,10,"Sound of Shots Fired (P)",245,2025-10-01
-2025,11,"Sound of Shots Fired (P)",257,2025-11-01
-2025,12,"Sound of Shots Fired (P)",63,2025-12-01
+2025,3,"Sound of Shots Fired (P)",154,2025-03-01
+2025,4,"Sound of Shots Fired (P)",138,2025-04-01
+2025,5,"Sound of Shots Fired (P)",210,2025-05-01
+2025,6,"Sound of Shots Fired (P)",282,2025-06-01
+2025,7,"Sound of Shots Fired (P)",228,2025-07-01
+2025,8,"Sound of Shots Fired (P)",232,2025-08-01
+2025,9,"Sound of Shots Fired (P)",242,2025-09-01
+2025,10,"Sound of Shots Fired (P)",197,2025-10-01
+2025,11,"Sound of Shots Fired (P)",195,2025-11-01
+2025,12,"Sound of Shots Fired (P)",113,2025-12-01
+2026,1,"Sound of Shots Fired (P)",28,2026-01-01

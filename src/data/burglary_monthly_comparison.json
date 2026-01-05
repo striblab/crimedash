@@ -3,21 +3,21 @@
     "Year": 2019,
     "Month": 1,
     "Offense": "Burglary/Breaking & Entering",
-    "IncidentCount": 224,
+    "IncidentCount": 220,
     "Date": "2019-01-01"
   },
   {
     "Year": 2019,
     "Month": 2,
     "Offense": "Burglary/Breaking & Entering",
-    "IncidentCount": 136,
+    "IncidentCount": 143,
     "Date": "2019-02-01"
   },
   {
     "Year": 2019,
     "Month": 3,
     "Offense": "Burglary/Breaking & Entering",
-    "IncidentCount": 154,
+    "IncidentCount": 183,
     "Date": "2019-03-01"
   },
   {
@@ -31,21 +31,21 @@
     "Year": 2019,
     "Month": 5,
     "Offense": "Burglary/Breaking & Entering",
-    "IncidentCount": 247,
+    "IncidentCount": 265,
     "Date": "2019-05-01"
   },
   {
     "Year": 2019,
     "Month": 6,
     "Offense": "Burglary/Breaking & Entering",
-    "IncidentCount": 252,
+    "IncidentCount": 345,
     "Date": "2019-06-01"
   },
   {
     "Year": 2019,
     "Month": 7,
     "Offense": "Burglary/Breaking & Entering",
-    "IncidentCount": 295,
+    "IncidentCount": 310,
     "Date": "2019-07-01"
   },
   {
@@ -479,42 +479,42 @@
     "Year": 2024,
     "Month": 9,
     "Offense": "Burglary/Breaking & Entering",
-    "IncidentCount": 298,
+    "IncidentCount": 297,
     "Date": "2024-09-01"
   },
   {
     "Year": 2024,
     "Month": 10,
     "Offense": "Burglary/Breaking & Entering",
-    "IncidentCount": 272,
+    "IncidentCount": 269,
     "Date": "2024-10-01"
   },
   {
     "Year": 2024,
     "Month": 11,
     "Offense": "Burglary/Breaking & Entering",
-    "IncidentCount": 205,
+    "IncidentCount": 203,
     "Date": "2024-11-01"
   },
   {
     "Year": 2024,
     "Month": 12,
     "Offense": "Burglary/Breaking & Entering",
-    "IncidentCount": 196,
+    "IncidentCount": 193,
     "Date": "2024-12-01"
   },
   {
     "Year": 2025,
     "Month": 1,
     "Offense": "Burglary/Breaking & Entering",
-    "IncidentCount": 191,
+    "IncidentCount": 184,
     "Date": "2025-01-01"
   },
   {
     "Year": 2025,
     "Month": 2,
     "Offense": "Burglary/Breaking & Entering",
-    "IncidentCount": 155,
+    "IncidentCount": 152,
     "Date": "2025-02-01"
   },
   {
@@ -577,14 +577,21 @@
     "Year": 2025,
     "Month": 11,
     "Offense": "Burglary/Breaking & Entering",
-    "IncidentCount": 210,
+    "IncidentCount": 215,
     "Date": "2025-11-01"
   },
   {
     "Year": 2025,
     "Month": 12,
     "Offense": "Burglary/Breaking & Entering",
-    "IncidentCount": 55,
+    "IncidentCount": 145,
     "Date": "2025-12-01"
+  },
+  {
+    "Year": 2026,
+    "Month": 1,
+    "Offense": "Burglary/Breaking & Entering",
+    "IncidentCount": 8,
+    "Date": "2026-01-01"
   }
 ]

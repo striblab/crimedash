@@ -3,36 +3,36 @@
     "Year": 2019,
     "Precinct": 1,
     "Offense": "Sex Offenses",
-    "OffenseCount": 161
+    "OffenseCount": 169
   },
   {
     "Year": 2019,
     "Precinct": 2,
     "Offense": "Sex Offenses",
-    "OffenseCount": 118
+    "OffenseCount": 123
   },
   {
     "Year": 2019,
     "Precinct": 3,
     "Offense": "Sex Offenses",
-    "OffenseCount": 235
+    "OffenseCount": 248
   },
   {
     "Year": 2019,
     "Precinct": 4,
     "Offense": "Sex Offenses",
-    "OffenseCount": 252
+    "OffenseCount": 259
   },
   {
     "Year": 2019,
     "Precinct": 5,
     "Offense": "Sex Offenses",
-    "OffenseCount": 140
+    "OffenseCount": 148
   },
   {
     "Year": 2019,
     "Offense": "Sex Offenses",
-    "OffenseCount": 31
+    "OffenseCount": 33
   },
   {
     "Year": 2020,
@@ -213,35 +213,58 @@
     "Year": 2025,
     "Precinct": 1,
     "Offense": "Sex Offenses",
-    "OffenseCount": 153
+    "OffenseCount": 155
   },
   {
     "Year": 2025,
     "Precinct": 2,
     "Offense": "Sex Offenses",
-    "OffenseCount": 71
+    "OffenseCount": 73
   },
   {
     "Year": 2025,
     "Precinct": 3,
     "Offense": "Sex Offenses",
-    "OffenseCount": 213
+    "OffenseCount": 220
   },
   {
     "Year": 2025,
     "Precinct": 4,
     "Offense": "Sex Offenses",
-    "OffenseCount": 204
+    "OffenseCount": 209
   },
   {
     "Year": 2025,
     "Precinct": 5,
     "Offense": "Sex Offenses",
-    "OffenseCount": 130
+    "OffenseCount": 132
   },
   {
     "Year": 2025,
     "Offense": "Sex Offenses",
-    "OffenseCount": 70
+    "OffenseCount": 75
+  },
+  {
+    "Year": 2026,
+    "Precinct": 1,
+    "Offense": "Sex Offenses",
+    "OffenseCount": 2
+  },
+  {
+    "Year": 2026,
+    "Precinct": 3,
+    "Offense": "Sex Offenses",
+    "OffenseCount": 2
+  },
+  {
+    "Year": 2026,
+    "Precinct": 5,
+    "Offense": "Sex Offenses",
+    "OffenseCount": 3
+  },
+  {
+    "Year": 2026,
+    "Offense": "Sex Offenses",
+    "OffenseCount": 2
   }
 ]

@@ -3,56 +3,56 @@
     "Year": 2019,
     "Month": 1,
     "Offense": "Domestic Aggravated Assault - Subset of Assault",
-    "IncidentCount": 98,
+    "IncidentCount": 90,
     "Date": "2019-01-01"
   },
   {
     "Year": 2019,
     "Month": 2,
     "Offense": "Domestic Aggravated Assault - Subset of Assault",
-    "IncidentCount": 104,
+    "IncidentCount": 79,
     "Date": "2019-02-01"
   },
   {
     "Year": 2019,
     "Month": 3,
     "Offense": "Domestic Aggravated Assault - Subset of Assault",
-    "IncidentCount": 97,
+    "IncidentCount": 67,
     "Date": "2019-03-01"
   },
   {
     "Year": 2019,
     "Month": 4,
     "Offense": "Domestic Aggravated Assault - Subset of Assault",
-    "IncidentCount": 111,
+    "IncidentCount": 86,
     "Date": "2019-04-01"
   },
   {
     "Year": 2019,
     "Month": 5,
     "Offense": "Domestic Aggravated Assault - Subset of Assault",
-    "IncidentCount": 78,
+    "IncidentCount": 66,
     "Date": "2019-05-01"
   },
   {
     "Year": 2019,
     "Month": 6,
     "Offense": "Domestic Aggravated Assault - Subset of Assault",
-    "IncidentCount": 112,
+    "IncidentCount": 90,
     "Date": "2019-06-01"
   },
   {
     "Year": 2019,
     "Month": 7,
     "Offense": "Domestic Aggravated Assault - Subset of Assault",
-    "IncidentCount": 117,
+    "IncidentCount": 103,
     "Date": "2019-07-01"
   },
   {
     "Year": 2019,
     "Month": 8,
     "Offense": "Domestic Aggravated Assault - Subset of Assault",
-    "IncidentCount": 83,
+    "IncidentCount": 74,
     "Date": "2019-08-01"
   },
   {
@@ -584,7 +584,14 @@
     "Year": 2025,
     "Month": 12,
     "Offense": "Domestic Aggravated Assault - Subset of Assault",
-    "IncidentCount": 46,
+    "IncidentCount": 105,
     "Date": "2025-12-01"
+  },
+  {
+    "Year": 2026,
+    "Month": 1,
+    "Offense": "Domestic Aggravated Assault - Subset of Assault",
+    "IncidentCount": 12,
+    "Date": "2026-01-01"
   }
 ]

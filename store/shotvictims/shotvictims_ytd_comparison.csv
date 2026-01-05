@@ -1,8 +1,9 @@
 "YTDCount","Year","Offense","PrevYTDCount","YTDPercentageChange"
-256,2019,"Gunshot Wound Victims",NA,NA
-535,2020,"Gunshot Wound Victims",256,108.984375
-641,2021,"Gunshot Wound Victims",535,19.8130841121495
-535,2022,"Gunshot Wound Victims",641,-16.5366614664587
-399,2023,"Gunshot Wound Victims",535,-25.4205607476636
-364,2024,"Gunshot Wound Victims",399,-8.77192982456141
-301,2025,"Gunshot Wound Victims",364,-17.3076923076923
+1,2019,"Gunshot Wound Victims",NA,NA
+3,2020,"Gunshot Wound Victims",1,200
+6,2021,"Gunshot Wound Victims",3,100
+2,2022,"Gunshot Wound Victims",6,-66.6666666666667
+7,2023,"Gunshot Wound Victims",2,250
+4,2024,"Gunshot Wound Victims",7,-42.8571428571429
+1,2025,"Gunshot Wound Victims",4,-75
+0,2026,"Gunshot Wound Victims",1,-100

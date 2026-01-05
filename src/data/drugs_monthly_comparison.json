@@ -3,21 +3,21 @@
     "Year": 2019,
     "Month": 1,
     "Offense": "Drug/Narcotic Violations",
-    "IncidentCount": 156,
+    "IncidentCount": 151,
     "Date": "2019-01-01"
   },
   {
     "Year": 2019,
     "Month": 2,
     "Offense": "Drug/Narcotic Violations",
-    "IncidentCount": 110,
+    "IncidentCount": 115,
     "Date": "2019-02-01"
   },
   {
     "Year": 2019,
     "Month": 3,
     "Offense": "Drug/Narcotic Violations",
-    "IncidentCount": 147,
+    "IncidentCount": 182,
     "Date": "2019-03-01"
   },
   {
@@ -31,21 +31,21 @@
     "Year": 2019,
     "Month": 5,
     "Offense": "Drug/Narcotic Violations",
-    "IncidentCount": 147,
+    "IncidentCount": 153,
     "Date": "2019-05-01"
   },
   {
     "Year": 2019,
     "Month": 6,
     "Offense": "Drug/Narcotic Violations",
-    "IncidentCount": 116,
+    "IncidentCount": 143,
     "Date": "2019-06-01"
   },
   {
     "Year": 2019,
     "Month": 7,
     "Offense": "Drug/Narcotic Violations",
-    "IncidentCount": 194,
+    "IncidentCount": 200,
     "Date": "2019-07-01"
   },
   {
@@ -507,14 +507,14 @@
     "Year": 2025,
     "Month": 1,
     "Offense": "Drug/Narcotic Violations",
-    "IncidentCount": 71,
+    "IncidentCount": 70,
     "Date": "2025-01-01"
   },
   {
     "Year": 2025,
     "Month": 2,
     "Offense": "Drug/Narcotic Violations",
-    "IncidentCount": 73,
+    "IncidentCount": 69,
     "Date": "2025-02-01"
   },
   {
@@ -584,7 +584,14 @@
     "Year": 2025,
     "Month": 12,
     "Offense": "Drug/Narcotic Violations",
-    "IncidentCount": 34,
+    "IncidentCount": 71,
     "Date": "2025-12-01"
+  },
+  {
+    "Year": 2026,
+    "Month": 1,
+    "Offense": "Drug/Narcotic Violations",
+    "IncidentCount": 7,
+    "Date": "2026-01-01"
   }
 ]

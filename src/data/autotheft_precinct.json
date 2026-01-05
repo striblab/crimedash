@@ -3,31 +3,31 @@
     "Year": 2019,
     "Precinct": 1,
     "Offense": "Motor Vehicle Theft",
-    "OffenseCount": 371
+    "OffenseCount": 391
   },
   {
     "Year": 2019,
     "Precinct": 2,
     "Offense": "Motor Vehicle Theft",
-    "OffenseCount": 399
+    "OffenseCount": 416
   },
   {
     "Year": 2019,
     "Precinct": 3,
     "Offense": "Motor Vehicle Theft",
-    "OffenseCount": 973
+    "OffenseCount": 997
   },
   {
     "Year": 2019,
     "Precinct": 4,
     "Offense": "Motor Vehicle Theft",
-    "OffenseCount": 631
+    "OffenseCount": 653
   },
   {
     "Year": 2019,
     "Precinct": 5,
     "Offense": "Motor Vehicle Theft",
-    "OffenseCount": 513
+    "OffenseCount": 530
   },
   {
     "Year": 2019,
@@ -213,34 +213,64 @@
     "Year": 2025,
     "Precinct": 1,
     "Offense": "Motor Vehicle Theft",
-    "OffenseCount": 513
+    "OffenseCount": 532
   },
   {
     "Year": 2025,
     "Precinct": 2,
     "Offense": "Motor Vehicle Theft",
-    "OffenseCount": 881
+    "OffenseCount": 919
   },
   {
     "Year": 2025,
     "Precinct": 3,
     "Offense": "Motor Vehicle Theft",
-    "OffenseCount": 1510
+    "OffenseCount": 1570
   },
   {
     "Year": 2025,
     "Precinct": 4,
     "Offense": "Motor Vehicle Theft",
-    "OffenseCount": 818
+    "OffenseCount": 850
   },
   {
     "Year": 2025,
     "Precinct": 5,
     "Offense": "Motor Vehicle Theft",
-    "OffenseCount": 1069
+    "OffenseCount": 1104
   },
   {
     "Year": 2025,
+    "Offense": "Motor Vehicle Theft",
+    "OffenseCount": 5
+  },
+  {
+    "Year": 2026,
+    "Precinct": 1,
+    "Offense": "Motor Vehicle Theft",
+    "OffenseCount": 3
+  },
+  {
+    "Year": 2026,
+    "Precinct": 2,
+    "Offense": "Motor Vehicle Theft",
+    "OffenseCount": 4
+  },
+  {
+    "Year": 2026,
+    "Precinct": 3,
+    "Offense": "Motor Vehicle Theft",
+    "OffenseCount": 5
+  },
+  {
+    "Year": 2026,
+    "Precinct": 4,
+    "Offense": "Motor Vehicle Theft",
+    "OffenseCount": 8
+  },
+  {
+    "Year": 2026,
+    "Precinct": 5,
     "Offense": "Motor Vehicle Theft",
     "OffenseCount": 4
   }

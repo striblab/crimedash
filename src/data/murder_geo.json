@@ -44,6 +44,17 @@
     "X2025": 3
   },
   {
+    "Neighborhood": "East Phillips",
+    "Offense": "Murder and Nonnegligent Manslaughter",
+    "X2019": 1,
+    "X2020": 4,
+    "X2021": 6,
+    "X2022": 3,
+    "X2023": 4,
+    "X2024": 6,
+    "X2025": 3
+  },
+  {
     "Neighborhood": "Elliot Park",
     "Offense": "Murder and Nonnegligent Manslaughter",
     "X2019": 1,
@@ -57,7 +68,7 @@
   {
     "Neighborhood": "Hawthorne",
     "Offense": "Murder and Nonnegligent Manslaughter",
-    "X2019": 5,
+    "X2019": 6,
     "X2020": 6,
     "X2021": 10,
     "X2022": 5,
@@ -74,7 +85,7 @@
     "X2022": 6,
     "X2023": 2,
     "X2024": 3,
-    "X2025": 1
+    "X2025": 2
   },
   {
     "Neighborhood": "Lind - Bohanon",
@@ -242,6 +253,17 @@
     "X2025": 0
   },
   {
+    "Neighborhood": "Whittier",
+    "Offense": "Murder and Nonnegligent Manslaughter",
+    "X2019": 1,
+    "X2020": 0,
+    "X2021": 1,
+    "X2022": 4,
+    "X2023": 3,
+    "X2024": 7,
+    "X2025": 4
+  },
+  {
     "Neighborhood": "Willard - Hay",
     "Offense": "Murder and Nonnegligent Manslaughter",
     "X2019": 2,
@@ -250,7 +272,7 @@
     "X2022": 5,
     "X2023": 3,
     "X2024": 6,
-    "X2025": 3
+    "X2025": 4
   },
   {
     "Neighborhood": "Como",
@@ -284,17 +306,6 @@
     "X2023": 1,
     "X2024": 0,
     "X2025": 0
-  },
-  {
-    "Neighborhood": "East Phillips",
-    "Offense": "Murder and Nonnegligent Manslaughter",
-    "X2019": 0,
-    "X2020": 4,
-    "X2021": 6,
-    "X2022": 3,
-    "X2023": 4,
-    "X2024": 6,
-    "X2025": 3
   },
   {
     "Neighborhood": "Folwell",
@@ -460,17 +471,6 @@
     "X2023": 2,
     "X2024": 0,
     "X2025": 1
-  },
-  {
-    "Neighborhood": "Whittier",
-    "Offense": "Murder and Nonnegligent Manslaughter",
-    "X2019": 0,
-    "X2020": 0,
-    "X2021": 1,
-    "X2022": 4,
-    "X2023": 3,
-    "X2024": 7,
-    "X2025": 4
   },
   {
     "Neighborhood": "Bancroft",
@@ -715,6 +715,17 @@
     "X2025": 3
   },
   {
+    "Neighborhood": "East Phillips",
+    "Offense": "Total",
+    "X2019": 1,
+    "X2020": 4,
+    "X2021": 6,
+    "X2022": 3,
+    "X2023": 4,
+    "X2024": 6,
+    "X2025": 3
+  },
+  {
     "Neighborhood": "Elliot Park",
     "Offense": "Total",
     "X2019": 1,
@@ -728,7 +739,7 @@
   {
     "Neighborhood": "Hawthorne",
     "Offense": "Total",
-    "X2019": 5,
+    "X2019": 6,
     "X2020": 6,
     "X2021": 10,
     "X2022": 5,
@@ -745,7 +756,7 @@
     "X2022": 6,
     "X2023": 2,
     "X2024": 3,
-    "X2025": 1
+    "X2025": 2
   },
   {
     "Neighborhood": "Lind - Bohanon",
@@ -913,6 +924,17 @@
     "X2025": 0
   },
   {
+    "Neighborhood": "Whittier",
+    "Offense": "Total",
+    "X2019": 1,
+    "X2020": 0,
+    "X2021": 1,
+    "X2022": 4,
+    "X2023": 3,
+    "X2024": 7,
+    "X2025": 4
+  },
+  {
     "Neighborhood": "Willard - Hay",
     "Offense": "Total",
     "X2019": 2,
@@ -921,7 +943,7 @@
     "X2022": 5,
     "X2023": 3,
     "X2024": 6,
-    "X2025": 3
+    "X2025": 4
   },
   {
     "Neighborhood": "Como",
@@ -955,17 +977,6 @@
     "X2023": 1,
     "X2024": 0,
     "X2025": 0
-  },
-  {
-    "Neighborhood": "East Phillips",
-    "Offense": "Total",
-    "X2019": 0,
-    "X2020": 4,
-    "X2021": 6,
-    "X2022": 3,
-    "X2023": 4,
-    "X2024": 6,
-    "X2025": 3
   },
   {
     "Neighborhood": "Folwell",
@@ -1131,17 +1142,6 @@
     "X2023": 2,
     "X2024": 0,
     "X2025": 1
-  },
-  {
-    "Neighborhood": "Whittier",
-    "Offense": "Total",
-    "X2019": 0,
-    "X2020": 0,
-    "X2021": 1,
-    "X2022": 4,
-    "X2023": 3,
-    "X2024": 7,
-    "X2025": 4
   },
   {
     "Neighborhood": "Bancroft",

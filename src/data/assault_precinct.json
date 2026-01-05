@@ -3,31 +3,31 @@
     "Year": 2019,
     "Precinct": 1,
     "Offense": "Aggravated Assault",
-    "OffenseCount": 303
+    "OffenseCount": 318
   },
   {
     "Year": 2019,
     "Precinct": 2,
     "Offense": "Aggravated Assault",
-    "OffenseCount": 192
+    "OffenseCount": 196
   },
   {
     "Year": 2019,
     "Precinct": 3,
     "Offense": "Aggravated Assault",
-    "OffenseCount": 503
+    "OffenseCount": 525
   },
   {
     "Year": 2019,
     "Precinct": 4,
     "Offense": "Aggravated Assault",
-    "OffenseCount": 927
+    "OffenseCount": 977
   },
   {
     "Year": 2019,
     "Precinct": 5,
     "Offense": "Aggravated Assault",
-    "OffenseCount": 244
+    "OffenseCount": 253
   },
   {
     "Year": 2019,
@@ -213,35 +213,65 @@
     "Year": 2025,
     "Precinct": 1,
     "Offense": "Aggravated Assault",
-    "OffenseCount": 380
+    "OffenseCount": 395
   },
   {
     "Year": 2025,
     "Precinct": 2,
     "Offense": "Aggravated Assault",
-    "OffenseCount": 254
+    "OffenseCount": 259
   },
   {
     "Year": 2025,
     "Precinct": 3,
     "Offense": "Aggravated Assault",
-    "OffenseCount": 657
+    "OffenseCount": 690
   },
   {
     "Year": 2025,
     "Precinct": 4,
     "Offense": "Aggravated Assault",
-    "OffenseCount": 942
+    "OffenseCount": 987
   },
   {
     "Year": 2025,
     "Precinct": 5,
     "Offense": "Aggravated Assault",
-    "OffenseCount": 479
+    "OffenseCount": 487
   },
   {
     "Year": 2025,
     "Offense": "Aggravated Assault",
-    "OffenseCount": 14
+    "OffenseCount": 13
+  },
+  {
+    "Year": 2026,
+    "Precinct": 1,
+    "Offense": "Aggravated Assault",
+    "OffenseCount": 6
+  },
+  {
+    "Year": 2026,
+    "Precinct": 2,
+    "Offense": "Aggravated Assault",
+    "OffenseCount": 2
+  },
+  {
+    "Year": 2026,
+    "Precinct": 3,
+    "Offense": "Aggravated Assault",
+    "OffenseCount": 7
+  },
+  {
+    "Year": 2026,
+    "Precinct": 4,
+    "Offense": "Aggravated Assault",
+    "OffenseCount": 5
+  },
+  {
+    "Year": 2026,
+    "Precinct": 5,
+    "Offense": "Aggravated Assault",
+    "OffenseCount": 4
   }
 ]
