@@ -703,6 +703,7 @@ writeLines(formatted_timestamp, file_path)
 download_arrest_reports <- function() {
   base_path <- "/Users/hargaja/Desktop/workspace/redboard/STRIBSUITE/20240428-crimedash/store/arrests"
   urls <- c(
+    "https://cde.state.mn.us/DownloadData/ArrestsByJudicialDistrictDownloadData?ReportYear=2026",
     "https://cde.state.mn.us/DownloadData/ArrestsByJudicialDistrictDownloadData?ReportYear=2025",
     "https://cde.state.mn.us/DownloadData/ArrestsByJudicialDistrictDownloadData?ReportYear=2024",
     "https://cde.state.mn.us/DownloadData/ArrestsByJudicialDistrictDownloadData?ReportYear=2023",
@@ -717,36 +718,43 @@ download_arrest_reports <- function() {
     "https://cde.state.mn.us/DownloadData/ArrestsDrugByCountyDownloadData?ReportYear=2023",
     "https://cde.state.mn.us/DownloadData/ArrestsDrugByCountyDownloadData?ReportYear=2024",
     "https://cde.state.mn.us/DownloadData/ArrestsDrugByCountyDownloadData?ReportYear=2025",
+    "https://cde.state.mn.us/DownloadData/ArrestsDrugByCountyDownloadData?ReportYear=2026",
     "https://cde.state.mn.us/DownloadData/ArrestsGroupAByAgeSexDownloadData?ReportYear=2021",
     "https://cde.state.mn.us/DownloadData/ArrestsGroupAByAgeSexDownloadData?ReportYear=2022",
     "https://cde.state.mn.us/DownloadData/ArrestsGroupAByAgeSexDownloadData?ReportYear=2023",
     "https://cde.state.mn.us/DownloadData/ArrestsGroupAByAgeSexDownloadData?ReportYear=2024",
     "https://cde.state.mn.us/DownloadData/ArrestsGroupAByAgeSexDownloadData?ReportYear=2025",
+    "https://cde.state.mn.us/DownloadData/ArrestsGroupAByAgeSexDownloadData?ReportYear=2026",
     "https://cde.state.mn.us/DownloadData/ArrestsGroupAByAgeSexCountyDownloadData?ReportYear=2021",
     "https://cde.state.mn.us/DownloadData/ArrestsGroupAByAgeSexCountyDownloadData?ReportYear=2022",
     "https://cde.state.mn.us/DownloadData/ArrestsGroupAByAgeSexCountyDownloadData?ReportYear=2023",
     "https://cde.state.mn.us/DownloadData/ArrestsGroupAByAgeSexCountyDownloadData?ReportYear=2024",
     "https://cde.state.mn.us/DownloadData/ArrestsGroupAByAgeSexCountyDownloadData?ReportYear=2025",
+    "https://cde.state.mn.us/DownloadData/ArrestsGroupAByAgeSexCountyDownloadData?ReportYear=2026",
     "https://cde.state.mn.us/DownloadData/ArrestsAdultJuvenileGroupAByAgeRaceDownloadData?ReportYear=2021",
     "https://cde.state.mn.us/DownloadData/ArrestsAdultJuvenileGroupAByAgeRaceDownloadData?ReportYear=2022",
     "https://cde.state.mn.us/DownloadData/ArrestsAdultJuvenileGroupAByAgeRaceDownloadData?ReportYear=2023",
     "https://cde.state.mn.us/DownloadData/ArrestsAdultJuvenileGroupAByAgeRaceDownloadData?ReportYear=2024",
     "https://cde.state.mn.us/DownloadData/ArrestsAdultJuvenileGroupAByAgeRaceDownloadData?ReportYear=2025",
+      "https://cde.state.mn.us/DownloadData/ArrestsAdultJuvenileGroupAByAgeRaceDownloadData?ReportYear=2026",
     "https://cde.state.mn.us/DownloadData/ArrestsGroupBByAgeSexDownloadData?ReportYear=2021",
     "https://cde.state.mn.us/DownloadData/ArrestsGroupBByAgeSexDownloadData?ReportYear=2022",
     "https://cde.state.mn.us/DownloadData/ArrestsGroupBByAgeSexDownloadData?ReportYear=2023",
     "https://cde.state.mn.us/DownloadData/ArrestsGroupBByAgeSexDownloadData?ReportYear=2024",
     "https://cde.state.mn.us/DownloadData/ArrestsGroupBByAgeSexDownloadData?ReportYear=2025",
+      "https://cde.state.mn.us/DownloadData/ArrestsGroupBByAgeSexDownloadData?ReportYear=2026",
     "https://cde.state.mn.us/DownloadData/ArrestsGroupBByAgeSexCountyDownloadData?ReportYear=2021",
     "https://cde.state.mn.us/DownloadData/ArrestsGroupBByAgeSexCountyDownloadData?ReportYear=2022",
     "https://cde.state.mn.us/DownloadData/ArrestsGroupBByAgeSexCountyDownloadData?ReportYear=2023",
     "https://cde.state.mn.us/DownloadData/ArrestsGroupBByAgeSexCountyDownloadData?ReportYear=2024",
     "https://cde.state.mn.us/DownloadData/ArrestsGroupBByAgeSexCountyDownloadData?ReportYear=2025",
+    "https://cde.state.mn.us/DownloadData/ArrestsGroupBByAgeSexCountyDownloadData?ReportYear=2026",
     "https://cde.state.mn.us/DownloadData/ArrestsAdultJuvenileGroupBByAgeRaceDownloadData?ReportYear=2021",
     "https://cde.state.mn.us/DownloadData/ArrestsAdultJuvenileGroupBByAgeRaceDownloadData?ReportYear=2022",
     "https://cde.state.mn.us/DownloadData/ArrestsAdultJuvenileGroupBByAgeRaceDownloadData?ReportYear=2023",
     "https://cde.state.mn.us/DownloadData/ArrestsAdultJuvenileGroupBByAgeRaceDownloadData?ReportYear=2024",
-    "https://cde.state.mn.us/DownloadData/ArrestsAdultJuvenileGroupBByAgeRaceDownloadData?ReportYear=2025"
+    "https://cde.state.mn.us/DownloadData/ArrestsAdultJuvenileGroupBByAgeRaceDownloadData?ReportYear=2025",
+    "https://cde.state.mn.us/DownloadData/ArrestsAdultJuvenileGroupBByAgeRaceDownloadData?ReportYear=2026"
   )
   
  map(urls, function(url) {
