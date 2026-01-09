@@ -248,12 +248,24 @@
     "Year": 2026,
     "Precinct": 1,
     "Offense": "Robbery",
-    "OffenseCount": 2
+    "OffenseCount": 6
   },
   {
     "Year": 2026,
     "Precinct": 3,
     "Offense": "Robbery",
+    "OffenseCount": 4
+  },
+  {
+    "Year": 2026,
+    "Precinct": 4,
+    "Offense": "Robbery",
     "OffenseCount": 1
+  },
+  {
+    "Year": 2026,
+    "Precinct": 5,
+    "Offense": "Robbery",
+    "OffenseCount": 2
   }
 ]

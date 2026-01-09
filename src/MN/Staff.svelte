@@ -123,6 +123,7 @@
 
 <h4>Links</h4>
 <ul>
+    <li><a href="https://mnitservices.my.site.com/POSTLicenseSearch/s/">Minnesota POST Board Licensing Lookup</a></li>
     <li><a href="https://cde.state.mn.us/LawEnforcementEmployeeInformation/LawEnforcementEmployeeInformation">Minnesota LEO employment dashboard</a></li>
     <li><a href="https://cde.ucr.cjis.gov/LATEST/webapp/#/pages/le/pe">FBI Law Enforcement Employment Statistics</a></li>
 </ul>
