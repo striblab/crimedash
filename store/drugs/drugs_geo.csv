@@ -16,11 +16,11 @@
 "Corcoran","Drug/Narcotic Violations",14,5,6,8,9,7,9,1
 "Diamond Lake","Drug/Narcotic Violations",2,2,0,0,0,1,2,0
 "Downtown East","Drug/Narcotic Violations",32,18,16,20,27,11,10,0
-"Downtown West","Drug/Narcotic Violations",244,114,61,117,146,98,57,0
+"Downtown West","Drug/Narcotic Violations",244,114,61,117,146,98,57,1
 "East Bde Maka Ska","Drug/Narcotic Violations",1,3,0,0,4,7,4,0
 "East Harriet","Drug/Narcotic Violations",4,0,3,2,4,1,3,0
-"East Isles","Drug/Narcotic Violations",11,2,7,3,16,8,16,1
-"East Phillips","Drug/Narcotic Violations",78,44,33,43,81,51,41,1
+"East Isles","Drug/Narcotic Violations",11,2,7,3,16,8,16,2
+"East Phillips","Drug/Narcotic Violations",78,44,33,43,81,51,41,2
 "Elliot Park","Drug/Narcotic Violations",56,29,29,46,51,77,91,2
 "Ericsson","Drug/Narcotic Violations",4,5,2,0,3,3,3,0
 "Field","Drug/Narcotic Violations",1,3,1,0,0,2,0,0
@@ -66,7 +66,7 @@
 "St. Anthony East","Drug/Narcotic Violations",7,1,0,2,3,3,0,0
 "St. Anthony West","Drug/Narcotic Violations",11,1,5,5,2,0,1,0
 "Standish","Drug/Narcotic Violations",5,8,2,4,6,2,9,0
-"Steven's Square - Loring Heights","Drug/Narcotic Violations",19,28,27,39,26,30,45,0
+"Steven's Square - Loring Heights","Drug/Narcotic Violations",19,28,27,39,26,30,45,1
 "Sumner - Glenwood","Drug/Narcotic Violations",7,8,2,4,3,4,1,0
 "Tangletown","Drug/Narcotic Violations",9,6,0,0,1,1,1,0
 "University of Minnesota","Drug/Narcotic Violations",4,2,4,1,1,0,1,0
@@ -76,7 +76,7 @@
 "Webber - Camden","Drug/Narcotic Violations",36,27,12,20,32,17,18,0
 "Wenonah","Drug/Narcotic Violations",4,4,7,3,1,1,3,0
 "West Maka Ska","Drug/Narcotic Violations",1,1,0,0,0,2,1,0
-"Whittier","Drug/Narcotic Violations",69,46,38,62,83,78,101,2
+"Whittier","Drug/Narcotic Violations",69,46,38,62,83,78,101,3
 "Willard - Hay","Drug/Narcotic Violations",27,43,11,8,18,19,15,0
 "Windom","Drug/Narcotic Violations",8,8,2,1,3,1,2,0
 "Windom Park","Drug/Narcotic Violations",27,10,5,8,3,3,5,0
@@ -103,11 +103,11 @@ NA,"Drug/Narcotic Violations",69,47,34,31,19,21,20,0
 "Corcoran","Total",14,5,6,8,9,7,9,1
 "Diamond Lake","Total",2,2,0,0,0,1,2,0
 "Downtown East","Total",32,18,16,20,27,11,10,0
-"Downtown West","Total",244,114,61,117,146,98,57,0
+"Downtown West","Total",244,114,61,117,146,98,57,1
 "East Bde Maka Ska","Total",1,3,0,0,4,7,4,0
 "East Harriet","Total",4,0,3,2,4,1,3,0
-"East Isles","Total",11,2,7,3,16,8,16,1
-"East Phillips","Total",78,44,33,43,81,51,41,1
+"East Isles","Total",11,2,7,3,16,8,16,2
+"East Phillips","Total",78,44,33,43,81,51,41,2
 "Elliot Park","Total",56,29,29,46,51,77,91,2
 "Ericsson","Total",4,5,2,0,3,3,3,0
 "Field","Total",1,3,1,0,0,2,0,0
@@ -153,7 +153,7 @@ NA,"Drug/Narcotic Violations",69,47,34,31,19,21,20,0
 "St. Anthony East","Total",7,1,0,2,3,3,0,0
 "St. Anthony West","Total",11,1,5,5,2,0,1,0
 "Standish","Total",5,8,2,4,6,2,9,0
-"Steven's Square - Loring Heights","Total",19,28,27,39,26,30,45,0
+"Steven's Square - Loring Heights","Total",19,28,27,39,26,30,45,1
 "Sumner - Glenwood","Total",7,8,2,4,3,4,1,0
 "Tangletown","Total",9,6,0,0,1,1,1,0
 "University of Minnesota","Total",4,2,4,1,1,0,1,0
@@ -163,7 +163,7 @@ NA,"Drug/Narcotic Violations",69,47,34,31,19,21,20,0
 "Webber - Camden","Total",36,27,12,20,32,17,18,0
 "Wenonah","Total",4,4,7,3,1,1,3,0
 "West Maka Ska","Total",1,1,0,0,0,2,1,0
-"Whittier","Total",69,46,38,62,83,78,101,2
+"Whittier","Total",69,46,38,62,83,78,101,3
 "Willard - Hay","Total",27,43,11,8,18,19,15,0
 "Windom","Total",8,8,2,1,3,1,2,0
 "Windom Park","Total",27,10,5,8,3,3,5,0

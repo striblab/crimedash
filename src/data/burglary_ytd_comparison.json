@@ -1,56 +1,56 @@
 [
   {
-    "YTDCount": 78,
+    "YTDCount": 93,
     "Year": 2019,
     "Offense": "Burglary/Breaking & Entering"
   },
   {
-    "YTDCount": 77,
+    "YTDCount": 87,
     "Year": 2020,
     "Offense": "Burglary/Breaking & Entering",
-    "PrevYTDCount": 78,
-    "YTDPercentageChange": -1.2821
+    "PrevYTDCount": 93,
+    "YTDPercentageChange": -6.4516
   },
   {
-    "YTDCount": 64,
+    "YTDCount": 79,
     "Year": 2021,
     "Offense": "Burglary/Breaking & Entering",
-    "PrevYTDCount": 77,
-    "YTDPercentageChange": -16.8831
-  },
-  {
-    "YTDCount": 51,
-    "Year": 2022,
-    "Offense": "Burglary/Breaking & Entering",
-    "PrevYTDCount": 64,
-    "YTDPercentageChange": -20.3125
-  },
-  {
-    "YTDCount": 52,
-    "Year": 2023,
-    "Offense": "Burglary/Breaking & Entering",
-    "PrevYTDCount": 51,
-    "YTDPercentageChange": 1.9608
-  },
-  {
-    "YTDCount": 60,
-    "Year": 2024,
-    "Offense": "Burglary/Breaking & Entering",
-    "PrevYTDCount": 52,
-    "YTDPercentageChange": 15.3846
+    "PrevYTDCount": 87,
+    "YTDPercentageChange": -9.1954
   },
   {
     "YTDCount": 62,
-    "Year": 2025,
+    "Year": 2022,
     "Offense": "Burglary/Breaking & Entering",
-    "PrevYTDCount": 60,
-    "YTDPercentageChange": 3.3333
+    "PrevYTDCount": 79,
+    "YTDPercentageChange": -21.519
   },
   {
-    "YTDCount": 33,
-    "Year": 2026,
+    "YTDCount": 74,
+    "Year": 2023,
     "Offense": "Burglary/Breaking & Entering",
     "PrevYTDCount": 62,
-    "YTDPercentageChange": -46.7742
+    "YTDPercentageChange": 19.3548
+  },
+  {
+    "YTDCount": 65,
+    "Year": 2024,
+    "Offense": "Burglary/Breaking & Entering",
+    "PrevYTDCount": 74,
+    "YTDPercentageChange": -12.1622
+  },
+  {
+    "YTDCount": 77,
+    "Year": 2025,
+    "Offense": "Burglary/Breaking & Entering",
+    "PrevYTDCount": 65,
+    "YTDPercentageChange": 18.4615
+  },
+  {
+    "YTDCount": 40,
+    "Year": 2026,
+    "Offense": "Burglary/Breaking & Entering",
+    "PrevYTDCount": 77,
+    "YTDPercentageChange": -48.0519
   }
 ]

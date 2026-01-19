@@ -24,7 +24,7 @@
 "East Phillips","Burglary/Breaking & Entering",47,73,58,37,32,44,28,0
 "Elliot Park","Burglary/Breaking & Entering",41,47,32,45,35,51,46,0
 "Ericsson","Burglary/Breaking & Entering",51,37,24,17,30,20,19,0
-"Field","Burglary/Breaking & Entering",26,18,13,15,15,26,23,0
+"Field","Burglary/Breaking & Entering",26,18,13,15,15,26,23,1
 "Folwell","Burglary/Breaking & Entering",39,37,25,56,66,74,48,2
 "Fulton","Burglary/Breaking & Entering",38,23,19,14,6,14,11,0
 "Hale","Burglary/Breaking & Entering",28,23,11,14,12,11,25,0
@@ -50,13 +50,13 @@
 "Lynnhurst","Burglary/Breaking & Entering",37,36,23,16,13,19,15,1
 "Marcy Holmes","Burglary/Breaking & Entering",87,147,132,78,57,54,46,2
 "Marshall Terrace","Burglary/Breaking & Entering",5,5,5,6,7,6,5,0
-"McKinley","Burglary/Breaking & Entering",33,34,18,30,31,24,22,0
+"McKinley","Burglary/Breaking & Entering",33,34,18,30,31,24,22,1
 "Mid - City Industrial","Burglary/Breaking & Entering",7,9,10,12,13,9,10,0
 "Midtown Phillips","Burglary/Breaking & Entering",56,115,64,60,36,50,31,0
 "Minnehaha","Burglary/Breaking & Entering",31,24,18,21,19,13,25,1
 "Morris Park","Burglary/Breaking & Entering",23,10,7,13,11,20,14,0
-"Near - North","Burglary/Breaking & Entering",51,43,49,57,52,41,33,2
-"Nicollet Island - East Bank","Burglary/Breaking & Entering",3,23,13,14,16,8,8,0
+"Near - North","Burglary/Breaking & Entering",51,43,49,57,52,41,33,3
+"Nicollet Island - East Bank","Burglary/Breaking & Entering",3,23,13,14,16,8,8,1
 "North Loop","Burglary/Breaking & Entering",46,103,67,47,38,33,41,1
 "Northeast Park","Burglary/Breaking & Entering",3,10,8,7,10,10,9,0
 "Northrop","Burglary/Breaking & Entering",68,58,21,35,28,42,38,0
@@ -76,14 +76,14 @@
 "Sumner - Glenwood","Burglary/Breaking & Entering",9,8,8,6,2,7,13,0
 "Tangletown","Burglary/Breaking & Entering",36,44,24,20,29,39,27,0
 "University of Minnesota","Burglary/Breaking & Entering",10,8,12,11,8,4,4,0
-"Ventura Village","Burglary/Breaking & Entering",47,64,40,34,34,38,46,3
+"Ventura Village","Burglary/Breaking & Entering",47,64,40,34,34,38,46,5
 "Victory","Burglary/Breaking & Entering",32,27,17,16,19,23,33,0
 "Waite Park","Burglary/Breaking & Entering",51,22,13,16,13,6,11,0
 "Webber - Camden","Burglary/Breaking & Entering",57,37,23,22,25,33,28,0
 "Wenonah","Burglary/Breaking & Entering",35,20,21,17,18,26,18,0
 "West Maka Ska","Burglary/Breaking & Entering",9,55,12,9,6,6,4,0
 "Whittier","Burglary/Breaking & Entering",147,218,110,118,115,116,73,1
-"Willard - Hay","Burglary/Breaking & Entering",39,46,32,38,45,31,44,0
+"Willard - Hay","Burglary/Breaking & Entering",39,46,32,38,45,31,44,1
 "Windom","Burglary/Breaking & Entering",32,39,24,28,26,40,20,0
 "Windom Park","Burglary/Breaking & Entering",34,24,15,14,11,19,16,0
 NA,"Burglary/Breaking & Entering",1,1,5,5,6,3,4,0
@@ -112,7 +112,7 @@ NA,"Burglary/Breaking & Entering",1,1,5,5,6,3,4,0
 "East Phillips","Total",47,73,58,37,32,44,28,0
 "Elliot Park","Total",41,47,32,45,35,51,46,0
 "Ericsson","Total",51,37,24,17,30,20,19,0
-"Field","Total",26,18,13,15,15,26,23,0
+"Field","Total",26,18,13,15,15,26,23,1
 "Folwell","Total",39,37,25,56,66,74,48,2
 "Fulton","Total",38,23,19,14,6,14,11,0
 "Hale","Total",28,23,11,14,12,11,25,0
@@ -138,13 +138,13 @@ NA,"Burglary/Breaking & Entering",1,1,5,5,6,3,4,0
 "Lynnhurst","Total",37,36,23,16,13,19,15,1
 "Marcy Holmes","Total",87,147,132,78,57,54,46,2
 "Marshall Terrace","Total",5,5,5,6,7,6,5,0
-"McKinley","Total",33,34,18,30,31,24,22,0
+"McKinley","Total",33,34,18,30,31,24,22,1
 "Mid - City Industrial","Total",7,9,10,12,13,9,10,0
 "Midtown Phillips","Total",56,115,64,60,36,50,31,0
 "Minnehaha","Total",31,24,18,21,19,13,25,1
 "Morris Park","Total",23,10,7,13,11,20,14,0
-"Near - North","Total",51,43,49,57,52,41,33,2
-"Nicollet Island - East Bank","Total",3,23,13,14,16,8,8,0
+"Near - North","Total",51,43,49,57,52,41,33,3
+"Nicollet Island - East Bank","Total",3,23,13,14,16,8,8,1
 "North Loop","Total",46,103,67,47,38,33,41,1
 "Northeast Park","Total",3,10,8,7,10,10,9,0
 "Northrop","Total",68,58,21,35,28,42,38,0
@@ -164,14 +164,14 @@ NA,"Burglary/Breaking & Entering",1,1,5,5,6,3,4,0
 "Sumner - Glenwood","Total",9,8,8,6,2,7,13,0
 "Tangletown","Total",36,44,24,20,29,39,27,0
 "University of Minnesota","Total",10,8,12,11,8,4,4,0
-"Ventura Village","Total",47,64,40,34,34,38,46,3
+"Ventura Village","Total",47,64,40,34,34,38,46,5
 "Victory","Total",32,27,17,16,19,23,33,0
 "Waite Park","Total",51,22,13,16,13,6,11,0
 "Webber - Camden","Total",57,37,23,22,25,33,28,0
 "Wenonah","Total",35,20,21,17,18,26,18,0
 "West Maka Ska","Total",9,55,12,9,6,6,4,0
 "Whittier","Total",147,218,110,118,115,116,73,1
-"Willard - Hay","Total",39,46,32,38,45,31,44,0
+"Willard - Hay","Total",39,46,32,38,45,31,44,1
 "Windom","Total",32,39,24,28,26,40,20,0
 "Windom Park","Total",34,24,15,14,11,19,16,0
 NA,"Total",1,1,5,5,6,3,4,0

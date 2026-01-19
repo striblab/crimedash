@@ -10,7 +10,7 @@
 "Cedar Riverside","Domestic Aggravated Assault - Subset of Assault",10,10,11,9,15,12,13,0
 "Central","Domestic Aggravated Assault - Subset of Assault",20,17,14,15,8,26,18,0
 "Cleveland","Domestic Aggravated Assault - Subset of Assault",14,9,15,13,7,9,12,0
-"Columbia Park","Domestic Aggravated Assault - Subset of Assault",3,1,8,5,3,2,2,0
+"Columbia Park","Domestic Aggravated Assault - Subset of Assault",3,1,8,5,3,2,2,1
 "Como","Domestic Aggravated Assault - Subset of Assault",7,10,16,15,13,7,15,1
 "Cooper","Domestic Aggravated Assault - Subset of Assault",4,1,2,2,2,1,1,0
 "Corcoran","Domestic Aggravated Assault - Subset of Assault",5,5,6,12,18,14,15,0
@@ -55,7 +55,7 @@
 "North Loop","Domestic Aggravated Assault - Subset of Assault",3,5,5,11,6,10,12,1
 "Northeast Park","Domestic Aggravated Assault - Subset of Assault",2,1,4,2,1,1,2,0
 "Northrop","Domestic Aggravated Assault - Subset of Assault",2,1,6,4,1,3,4,0
-"Phillips West","Domestic Aggravated Assault - Subset of Assault",13,13,6,23,19,16,13,0
+"Phillips West","Domestic Aggravated Assault - Subset of Assault",13,13,6,23,19,16,13,1
 "Powderhorn Park","Domestic Aggravated Assault - Subset of Assault",24,12,18,20,37,38,27,0
 "Prospect Park - East River Road","Domestic Aggravated Assault - Subset of Assault",6,8,9,6,12,16,15,0
 "Regina","Domestic Aggravated Assault - Subset of Assault",2,4,3,6,4,2,2,0
@@ -75,7 +75,7 @@
 "Webber - Camden","Domestic Aggravated Assault - Subset of Assault",46,38,20,21,31,29,19,0
 "Wenonah","Domestic Aggravated Assault - Subset of Assault",11,13,13,13,8,6,10,0
 "West Maka Ska","Domestic Aggravated Assault - Subset of Assault",7,3,1,3,3,6,4,0
-"Whittier","Domestic Aggravated Assault - Subset of Assault",48,45,40,65,53,57,66,2
+"Whittier","Domestic Aggravated Assault - Subset of Assault",48,45,40,65,53,57,66,3
 "Willard - Hay","Domestic Aggravated Assault - Subset of Assault",60,48,33,53,48,45,52,2
 "Windom","Domestic Aggravated Assault - Subset of Assault",8,12,14,8,11,11,9,0
 "Windom Park","Domestic Aggravated Assault - Subset of Assault",5,4,10,8,7,6,5,0
@@ -98,7 +98,7 @@ NA,"Domestic Aggravated Assault - Subset of Assault",3,4,4,4,7,4,3,0
 "Cedar Riverside","Total",10,10,11,9,15,12,13,0
 "Central","Total",20,17,14,15,8,26,18,0
 "Cleveland","Total",14,9,15,13,7,9,12,0
-"Columbia Park","Total",3,1,8,5,3,2,2,0
+"Columbia Park","Total",3,1,8,5,3,2,2,1
 "Como","Total",7,10,16,15,13,7,15,1
 "Cooper","Total",4,1,2,2,2,1,1,0
 "Corcoran","Total",5,5,6,12,18,14,15,0
@@ -143,7 +143,7 @@ NA,"Domestic Aggravated Assault - Subset of Assault",3,4,4,4,7,4,3,0
 "North Loop","Total",3,5,5,11,6,10,12,1
 "Northeast Park","Total",2,1,4,2,1,1,2,0
 "Northrop","Total",2,1,6,4,1,3,4,0
-"Phillips West","Total",13,13,6,23,19,16,13,0
+"Phillips West","Total",13,13,6,23,19,16,13,1
 "Powderhorn Park","Total",24,12,18,20,37,38,27,0
 "Prospect Park - East River Road","Total",6,8,9,6,12,16,15,0
 "Regina","Total",2,4,3,6,4,2,2,0
@@ -163,7 +163,7 @@ NA,"Domestic Aggravated Assault - Subset of Assault",3,4,4,4,7,4,3,0
 "Webber - Camden","Total",46,38,20,21,31,29,19,0
 "Wenonah","Total",11,13,13,13,8,6,10,0
 "West Maka Ska","Total",7,3,1,3,3,6,4,0
-"Whittier","Total",48,45,40,65,53,57,66,2
+"Whittier","Total",48,45,40,65,53,57,66,3
 "Willard - Hay","Total",60,48,33,53,48,45,52,2
 "Windom","Total",8,12,14,8,11,11,9,0
 "Windom Park","Total",5,4,10,8,7,6,5,0

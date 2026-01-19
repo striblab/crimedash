@@ -32,7 +32,7 @@
   {
     "Year": 2026,
     "Offense": "Shooting (PFE)",
-    "OffenseCount": 2
+    "OffenseCount": 4
   },
   {
     "Year": 2020,
@@ -67,7 +67,7 @@
   {
     "Year": 2020,
     "Offense": "ShotSpotter Activation (P)",
-    "OffenseCount": 4161
+    "OffenseCount": 4150
   },
   {
     "Year": 2021,
@@ -97,12 +97,12 @@
   {
     "Year": 2026,
     "Offense": "ShotSpotter Activation (P)",
-    "OffenseCount": 59
+    "OffenseCount": 67
   },
   {
     "Year": 2020,
     "Offense": "Sound of Shots Fired (P)",
-    "OffenseCount": 4617
+    "OffenseCount": 4612
   },
   {
     "Year": 2021,
@@ -132,6 +132,6 @@
   {
     "Year": 2026,
     "Offense": "Sound of Shots Fired (P)",
-    "OffenseCount": 59
+    "OffenseCount": 70
   }
 ]
