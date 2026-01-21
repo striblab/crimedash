@@ -211,9 +211,15 @@
   },
   {
     "Year": 2026,
-    "Precinct": 3,
+    "Precinct": 2,
     "Offense": "Carjacking - Subset of Robbery",
     "OffenseCount": 1
+  },
+  {
+    "Year": 2026,
+    "Precinct": 3,
+    "Offense": "Carjacking - Subset of Robbery",
+    "OffenseCount": 2
   },
   {
     "Year": 2026,
