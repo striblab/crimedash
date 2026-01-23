@@ -21,10 +21,10 @@
 "Hawthorne","Carjacking - Subset of Robbery",7,17,19,7,10,3,0
 "Hiawatha","Carjacking - Subset of Robbery",3,3,5,2,2,2,0
 "Holland","Carjacking - Subset of Robbery",1,11,4,6,4,3,1
-"Howe","Carjacking - Subset of Robbery",2,3,2,0,3,0,0
+"Howe","Carjacking - Subset of Robbery",2,3,2,0,3,0,1
 "Jordan","Carjacking - Subset of Robbery",6,18,7,8,7,12,0
 "King Field","Carjacking - Subset of Robbery",4,11,2,5,5,3,0
-"Longfellow","Carjacking - Subset of Robbery",1,9,3,5,4,5,0
+"Longfellow","Carjacking - Subset of Robbery",1,9,3,5,4,5,1
 "Loring Park","Carjacking - Subset of Robbery",1,7,8,7,7,5,0
 "Lowry Hill","Carjacking - Subset of Robbery",4,14,7,2,2,0,0
 "Lowry Hill East","Carjacking - Subset of Robbery",5,17,24,16,8,1,0
@@ -44,9 +44,9 @@
 "Standish","Carjacking - Subset of Robbery",4,7,1,2,1,0,0
 "Sumner - Glenwood","Carjacking - Subset of Robbery",1,12,6,3,8,0,0
 "Tangletown","Carjacking - Subset of Robbery",1,2,1,2,1,0,2
-"Ventura Village","Carjacking - Subset of Robbery",12,36,29,14,12,9,0
+"Ventura Village","Carjacking - Subset of Robbery",12,36,29,14,12,9,1
 "Webber - Camden","Carjacking - Subset of Robbery",1,6,5,4,3,3,0
-"Whittier","Carjacking - Subset of Robbery",13,46,41,25,14,9,0
+"Whittier","Carjacking - Subset of Robbery",13,46,41,25,14,9,1
 "Willard - Hay","Carjacking - Subset of Robbery",4,9,17,13,5,2,1
 "Windom Park","Carjacking - Subset of Robbery",1,4,2,1,1,3,0
 NA,"Carjacking - Subset of Robbery",2,3,2,2,1,3,0
@@ -54,7 +54,7 @@ NA,"Carjacking - Subset of Robbery",2,3,2,2,1,3,0
 "Audubon Park","Carjacking - Subset of Robbery",0,4,3,2,1,0,0
 "Camden Industrial","Carjacking - Subset of Robbery",0,1,0,0,0,1,0
 "Columbia Park","Carjacking - Subset of Robbery",0,1,0,1,0,0,0
-"Cooper","Carjacking - Subset of Robbery",0,2,1,2,0,2,0
+"Cooper","Carjacking - Subset of Robbery",0,2,1,2,0,2,1
 "Downtown East","Carjacking - Subset of Robbery",0,2,0,0,0,0,0
 "East Bde Maka Ska","Carjacking - Subset of Robbery",0,4,5,1,6,2,0
 "East Harriet","Carjacking - Subset of Robbery",0,5,4,3,2,3,0
@@ -108,10 +108,10 @@ NA,"Carjacking - Subset of Robbery",2,3,2,2,1,3,0
 "Hawthorne","Total",7,17,19,7,10,3,0
 "Hiawatha","Total",3,3,5,2,2,2,0
 "Holland","Total",1,11,4,6,4,3,1
-"Howe","Total",2,3,2,0,3,0,0
+"Howe","Total",2,3,2,0,3,0,1
 "Jordan","Total",6,18,7,8,7,12,0
 "King Field","Total",4,11,2,5,5,3,0
-"Longfellow","Total",1,9,3,5,4,5,0
+"Longfellow","Total",1,9,3,5,4,5,1
 "Loring Park","Total",1,7,8,7,7,5,0
 "Lowry Hill","Total",4,14,7,2,2,0,0
 "Lowry Hill East","Total",5,17,24,16,8,1,0
@@ -131,9 +131,9 @@ NA,"Carjacking - Subset of Robbery",2,3,2,2,1,3,0
 "Standish","Total",4,7,1,2,1,0,0
 "Sumner - Glenwood","Total",1,12,6,3,8,0,0
 "Tangletown","Total",1,2,1,2,1,0,2
-"Ventura Village","Total",12,36,29,14,12,9,0
+"Ventura Village","Total",12,36,29,14,12,9,1
 "Webber - Camden","Total",1,6,5,4,3,3,0
-"Whittier","Total",13,46,41,25,14,9,0
+"Whittier","Total",13,46,41,25,14,9,1
 "Willard - Hay","Total",4,9,17,13,5,2,1
 "Windom Park","Total",1,4,2,1,1,3,0
 NA,"Total",2,3,2,2,1,3,0
@@ -141,7 +141,7 @@ NA,"Total",2,3,2,2,1,3,0
 "Audubon Park","Total",0,4,3,2,1,0,0
 "Camden Industrial","Total",0,1,0,0,0,1,0
 "Columbia Park","Total",0,1,0,1,0,0,0
-"Cooper","Total",0,2,1,2,0,2,0
+"Cooper","Total",0,2,1,2,0,2,1
 "Downtown East","Total",0,2,0,0,0,0,0
 "East Bde Maka Ska","Total",0,4,5,1,6,2,0
 "East Harriet","Total",0,5,4,3,2,3,0

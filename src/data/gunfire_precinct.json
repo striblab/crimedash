@@ -15,7 +15,7 @@
     "Year": 2020,
     "Precinct": 3,
     "Offense": "Shooting (PFE)",
-    "OffenseCount": 143
+    "OffenseCount": 142
   },
   {
     "Year": 2020,
@@ -449,13 +449,13 @@
     "Year": 2020,
     "Precinct": 3,
     "Offense": "ShotSpotter Activation (P)",
-    "OffenseCount": 821
+    "OffenseCount": 819
   },
   {
     "Year": 2020,
     "Precinct": 4,
     "Offense": "ShotSpotter Activation (P)",
-    "OffenseCount": 3296
+    "OffenseCount": 3291
   },
   {
     "Year": 2020,
@@ -641,25 +641,25 @@
     "Year": 2026,
     "Precinct": 1,
     "Offense": "ShotSpotter Activation (P)",
-    "OffenseCount": 1
+    "OffenseCount": 2
   },
   {
     "Year": 2026,
     "Precinct": 3,
     "Offense": "ShotSpotter Activation (P)",
-    "OffenseCount": 28
+    "OffenseCount": 29
   },
   {
     "Year": 2026,
     "Precinct": 4,
     "Offense": "ShotSpotter Activation (P)",
-    "OffenseCount": 57
+    "OffenseCount": 65
   },
   {
     "Year": 2026,
     "Precinct": 5,
     "Offense": "ShotSpotter Activation (P)",
-    "OffenseCount": 11
+    "OffenseCount": 13
   },
   {
     "Year": 2020,
@@ -677,13 +677,13 @@
     "Year": 2020,
     "Precinct": 3,
     "Offense": "Sound of Shots Fired (P)",
-    "OffenseCount": 1488
+    "OffenseCount": 1484
   },
   {
     "Year": 2020,
     "Precinct": 4,
     "Offense": "Sound of Shots Fired (P)",
-    "OffenseCount": 2056
+    "OffenseCount": 2054
   },
   {
     "Year": 2020,
@@ -875,7 +875,7 @@
     "Year": 2026,
     "Precinct": 1,
     "Offense": "Sound of Shots Fired (P)",
-    "OffenseCount": 5
+    "OffenseCount": 6
   },
   {
     "Year": 2026,
@@ -887,18 +887,18 @@
     "Year": 2026,
     "Precinct": 3,
     "Offense": "Sound of Shots Fired (P)",
-    "OffenseCount": 36
+    "OffenseCount": 38
   },
   {
     "Year": 2026,
     "Precinct": 4,
     "Offense": "Sound of Shots Fired (P)",
-    "OffenseCount": 13
+    "OffenseCount": 14
   },
   {
     "Year": 2026,
     "Precinct": 5,
     "Offense": "Sound of Shots Fired (P)",
-    "OffenseCount": 20
+    "OffenseCount": 21
   }
 ]
