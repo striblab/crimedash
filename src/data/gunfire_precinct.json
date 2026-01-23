@@ -653,7 +653,7 @@
     "Year": 2026,
     "Precinct": 4,
     "Offense": "ShotSpotter Activation (P)",
-    "OffenseCount": 51
+    "OffenseCount": 57
   },
   {
     "Year": 2026,
@@ -665,7 +665,7 @@
     "Year": 2020,
     "Precinct": 1,
     "Offense": "Sound of Shots Fired (P)",
-    "OffenseCount": 264
+    "OffenseCount": 263
   },
   {
     "Year": 2020,
@@ -899,6 +899,6 @@
     "Year": 2026,
     "Precinct": 5,
     "Offense": "Sound of Shots Fired (P)",
-    "OffenseCount": 19
+    "OffenseCount": 20
   }
 ]

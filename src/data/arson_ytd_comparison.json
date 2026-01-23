@@ -1,13 +1,15 @@
 [
   {
-    "YTDCount": 0,
+    "YTDCount": 1,
     "Year": 2019,
     "Offense": "Arson"
   },
   {
     "YTDCount": 2,
     "Year": 2020,
-    "Offense": "Arson"
+    "Offense": "Arson",
+    "PrevYTDCount": 1,
+    "YTDPercentageChange": 100
   },
   {
     "YTDCount": 8,

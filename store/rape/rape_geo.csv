@@ -1,6 +1,6 @@
 "Neighborhood","Offense","2019","2020","2021","2022","2023","2024","2025","2026"
 "Armatage","Sex Offenses",3,8,2,0,2,1,0,0
-"Audubon Park","Sex Offenses",10,5,3,7,1,8,5,0
+"Audubon Park","Sex Offenses",10,5,3,7,1,8,5,1
 "Bancroft","Sex Offenses",4,7,6,2,3,4,4,0
 "Beltrami","Sex Offenses",2,1,2,0,0,3,1,0
 "Bottineau","Sex Offenses",2,3,2,4,3,5,1,0
@@ -22,8 +22,8 @@
 "East Phillips","Sex Offenses",29,16,19,19,16,27,24,0
 "Elliot Park","Sex Offenses",29,19,26,22,22,32,26,1
 "Ericsson","Sex Offenses",7,2,5,3,2,2,3,0
-"Folwell","Sex Offenses",23,42,20,16,24,21,13,2
-"Fulton","Sex Offenses",3,0,1,4,4,0,3,0
+"Folwell","Sex Offenses",23,42,20,16,24,21,13,3
+"Fulton","Sex Offenses",3,0,1,4,4,0,3,1
 "Harrison","Sex Offenses",14,9,9,8,10,8,10,0
 "Hawthorne","Sex Offenses",39,25,29,25,37,24,22,0
 "Hiawatha","Sex Offenses",3,7,5,3,6,10,8,0
@@ -72,7 +72,7 @@
 "Ventura Village","Sex Offenses",28,13,17,20,21,18,25,1
 "Victory","Sex Offenses",6,9,5,7,3,4,8,0
 "Waite Park","Sex Offenses",5,4,1,2,3,4,3,0
-"Webber - Camden","Sex Offenses",17,20,19,18,14,12,22,2
+"Webber - Camden","Sex Offenses",17,20,19,18,14,12,22,1
 "Wenonah","Sex Offenses",29,4,10,13,9,12,6,0
 "West Maka Ska","Sex Offenses",2,3,2,3,1,0,1,0
 "Whittier","Sex Offenses",49,32,31,37,41,43,40,1
@@ -87,7 +87,7 @@ NA,"Sex Offenses",36,29,63,66,40,41,78,6
 "Tangletown","Sex Offenses",0,2,2,1,3,3,0,0
 "Hale","Sex Offenses",0,0,1,2,4,1,1,0
 "Armatage","Total",3,8,2,0,2,1,0,0
-"Audubon Park","Total",10,5,3,7,1,8,5,0
+"Audubon Park","Total",10,5,3,7,1,8,5,1
 "Bancroft","Total",4,7,6,2,3,4,4,0
 "Beltrami","Total",2,1,2,0,0,3,1,0
 "Bottineau","Total",2,3,2,4,3,5,1,0
@@ -109,8 +109,8 @@ NA,"Sex Offenses",36,29,63,66,40,41,78,6
 "East Phillips","Total",29,16,19,19,16,27,24,0
 "Elliot Park","Total",29,19,26,22,22,32,26,1
 "Ericsson","Total",7,2,5,3,2,2,3,0
-"Folwell","Total",23,42,20,16,24,21,13,2
-"Fulton","Total",3,0,1,4,4,0,3,0
+"Folwell","Total",23,42,20,16,24,21,13,3
+"Fulton","Total",3,0,1,4,4,0,3,1
 "Harrison","Total",14,9,9,8,10,8,10,0
 "Hawthorne","Total",39,25,29,25,37,24,22,0
 "Hiawatha","Total",3,7,5,3,6,10,8,0
@@ -159,7 +159,7 @@ NA,"Sex Offenses",36,29,63,66,40,41,78,6
 "Ventura Village","Total",28,13,17,20,21,18,25,1
 "Victory","Total",6,9,5,7,3,4,8,0
 "Waite Park","Total",5,4,1,2,3,4,3,0
-"Webber - Camden","Total",17,20,19,18,14,12,22,2
+"Webber - Camden","Total",17,20,19,18,14,12,22,1
 "Wenonah","Total",29,4,10,13,9,12,6,0
 "West Maka Ska","Total",2,3,2,3,1,0,1,0
 "Whittier","Total",49,32,31,37,41,43,40,1
