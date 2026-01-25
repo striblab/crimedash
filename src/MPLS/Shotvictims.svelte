@@ -149,6 +149,7 @@
   <div class="chart-container">
     <canvas id="vyearlyChart"></canvas>
   </div>
+  <div class="download"><a href="../store/shotvictims/shotvictims_yearly_incident_counts.csv">Download Minneapolis shooting victims by year data</a></div>
   <div class="download"><a href="../store/shotvictims/mpls_victims.csv">Download historical Minneapolis shooting victims data, 2008-present</a></div>
   <div class="download"><a href="../store/shotvictims/gva_mn.zip">Download Gun Violence Archive Minnesota shooting victims data, 2014-2023</a></div>
   
