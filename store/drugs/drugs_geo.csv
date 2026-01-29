@@ -7,7 +7,7 @@
 "Bryn - Mawr","Drug/Narcotic Violations",4,6,2,2,2,1,3,0
 "Camden Industrial","Drug/Narcotic Violations",6,3,4,3,1,3,1,0
 "Cedar - Isles - Dean","Drug/Narcotic Violations",4,7,1,3,3,3,3,0
-"Cedar Riverside","Drug/Narcotic Violations",26,25,19,40,27,14,25,2
+"Cedar Riverside","Drug/Narcotic Violations",26,25,19,40,27,14,25,3
 "Central","Drug/Narcotic Violations",11,7,5,5,10,19,11,1
 "Cleveland","Drug/Narcotic Violations",9,10,6,6,12,7,11,1
 "Columbia Park","Drug/Narcotic Violations",9,7,3,1,1,1,1,0
@@ -42,8 +42,8 @@
 "Loring Park","Drug/Narcotic Violations",26,34,32,28,45,30,32,0
 "Lowry Hill","Drug/Narcotic Violations",3,3,1,3,2,11,4,0
 "Lowry Hill East","Drug/Narcotic Violations",43,16,22,29,36,37,35,2
-"Lyndale","Drug/Narcotic Violations",32,18,8,5,28,31,49,3
-"Marcy Holmes","Drug/Narcotic Violations",37,31,23,10,12,4,10,0
+"Lyndale","Drug/Narcotic Violations",32,18,8,5,28,31,49,4
+"Marcy Holmes","Drug/Narcotic Violations",37,31,23,10,12,4,10,1
 "Marshall Terrace","Drug/Narcotic Violations",14,9,7,6,3,1,2,0
 "McKinley","Drug/Narcotic Violations",36,31,8,7,15,6,4,0
 "Mid - City Industrial","Drug/Narcotic Violations",7,8,4,3,3,1,4,0
@@ -55,7 +55,7 @@
 "North Loop","Drug/Narcotic Violations",26,18,17,14,21,16,7,0
 "Northeast Park","Drug/Narcotic Violations",12,6,10,8,7,6,2,1
 "Northrop","Drug/Narcotic Violations",1,3,4,1,1,1,2,1
-"Phillips West","Drug/Narcotic Violations",26,8,9,14,27,18,18,1
+"Phillips West","Drug/Narcotic Violations",26,8,9,14,27,18,18,2
 "Powderhorn Park","Drug/Narcotic Violations",27,24,13,22,24,22,34,0
 "Prospect Park - East River Road","Drug/Narcotic Violations",10,12,10,4,6,4,3,0
 "Regina","Drug/Narcotic Violations",2,5,1,0,0,0,0,0
@@ -94,7 +94,7 @@ NA,"Drug/Narcotic Violations",69,47,34,31,19,21,20,0
 "Bryn - Mawr","Total",4,6,2,2,2,1,3,0
 "Camden Industrial","Total",6,3,4,3,1,3,1,0
 "Cedar - Isles - Dean","Total",4,7,1,3,3,3,3,0
-"Cedar Riverside","Total",26,25,19,40,27,14,25,2
+"Cedar Riverside","Total",26,25,19,40,27,14,25,3
 "Central","Total",11,7,5,5,10,19,11,1
 "Cleveland","Total",9,10,6,6,12,7,11,1
 "Columbia Park","Total",9,7,3,1,1,1,1,0
@@ -129,8 +129,8 @@ NA,"Drug/Narcotic Violations",69,47,34,31,19,21,20,0
 "Loring Park","Total",26,34,32,28,45,30,32,0
 "Lowry Hill","Total",3,3,1,3,2,11,4,0
 "Lowry Hill East","Total",43,16,22,29,36,37,35,2
-"Lyndale","Total",32,18,8,5,28,31,49,3
-"Marcy Holmes","Total",37,31,23,10,12,4,10,0
+"Lyndale","Total",32,18,8,5,28,31,49,4
+"Marcy Holmes","Total",37,31,23,10,12,4,10,1
 "Marshall Terrace","Total",14,9,7,6,3,1,2,0
 "McKinley","Total",36,31,8,7,15,6,4,0
 "Mid - City Industrial","Total",7,8,4,3,3,1,4,0
@@ -142,7 +142,7 @@ NA,"Drug/Narcotic Violations",69,47,34,31,19,21,20,0
 "North Loop","Total",26,18,17,14,21,16,7,0
 "Northeast Park","Total",12,6,10,8,7,6,2,1
 "Northrop","Total",1,3,4,1,1,1,2,1
-"Phillips West","Total",26,8,9,14,27,18,18,1
+"Phillips West","Total",26,8,9,14,27,18,18,2
 "Powderhorn Park","Total",27,24,13,22,24,22,34,0
 "Prospect Park - East River Road","Total",10,12,10,4,6,4,3,0
 "Regina","Total",2,5,1,0,0,0,0,0

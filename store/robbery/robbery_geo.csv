@@ -33,7 +33,7 @@
 "Hiawatha","Robbery",7,15,11,20,23,14,4,0
 "Holland","Robbery",13,20,32,15,17,24,14,1
 "Howe","Robbery",2,5,10,7,10,18,4,1
-"Jordan","Robbery",42,51,51,37,29,30,44,3
+"Jordan","Robbery",42,51,51,37,29,30,44,4
 "Keewaydin","Robbery",3,1,5,5,5,1,5,0
 "Kenny","Robbery",3,0,0,0,1,3,0,0
 "Kenwood","Robbery",1,2,2,2,5,2,2,0
@@ -47,7 +47,7 @@
 "Lowry Hill East","Robbery",36,55,78,95,52,84,21,3
 "Lyndale","Robbery",15,34,44,19,41,53,18,1
 "Lynnhurst","Robbery",1,4,4,0,2,5,3,0
-"Marcy Holmes","Robbery",31,42,99,64,33,37,31,0
+"Marcy Holmes","Robbery",31,42,99,64,33,37,31,1
 "Marshall Terrace","Robbery",2,1,3,6,2,4,2,0
 "McKinley","Robbery",19,21,26,10,7,9,17,0
 "Mid - City Industrial","Robbery",1,1,4,5,1,1,0,0
@@ -120,7 +120,7 @@ NA,"Robbery",6,9,8,11,8,10,10,0
 "Hiawatha","Total",7,15,11,20,23,14,4,0
 "Holland","Total",13,20,32,15,17,24,14,1
 "Howe","Total",2,5,10,7,10,18,4,1
-"Jordan","Total",42,51,51,37,29,30,44,3
+"Jordan","Total",42,51,51,37,29,30,44,4
 "Keewaydin","Total",3,1,5,5,5,1,5,0
 "Kenny","Total",3,0,0,0,1,3,0,0
 "Kenwood","Total",1,2,2,2,5,2,2,0
@@ -134,7 +134,7 @@ NA,"Robbery",6,9,8,11,8,10,10,0
 "Lowry Hill East","Total",36,55,78,95,52,84,21,3
 "Lyndale","Total",15,34,44,19,41,53,18,1
 "Lynnhurst","Total",1,4,4,0,2,5,3,0
-"Marcy Holmes","Total",31,42,99,64,33,37,31,0
+"Marcy Holmes","Total",31,42,99,64,33,37,31,1
 "Marshall Terrace","Total",2,1,3,6,2,4,2,0
 "McKinley","Total",19,21,26,10,7,9,17,0
 "Mid - City Industrial","Total",1,1,4,5,1,1,0,0

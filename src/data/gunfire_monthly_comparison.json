@@ -3,7 +3,7 @@
     "Year": 2020,
     "Month": 1,
     "Offense": "Shooting (PFE)",
-    "IncidentCount": 8,
+    "IncidentCount": 5,
     "Date": "2020-01-01"
   },
   {
@@ -507,7 +507,7 @@
     "Year": 2026,
     "Month": 1,
     "Offense": "Shooting (PFE)",
-    "IncidentCount": 9,
+    "IncidentCount": 14,
     "Date": "2026-01-01"
   },
   {
@@ -1015,10 +1015,17 @@
     "Date": "2025-12-01"
   },
   {
+    "Year": 2026,
+    "Month": 1,
+    "Offense": "Shooting Report Only (P)",
+    "IncidentCount": 2,
+    "Date": "2026-01-01"
+  },
+  {
     "Year": 2020,
     "Month": 1,
     "Offense": "ShotSpotter Activation (P)",
-    "IncidentCount": 41,
+    "IncidentCount": 27,
     "Date": "2020-01-01"
   },
   {
@@ -1522,14 +1529,14 @@
     "Year": 2026,
     "Month": 1,
     "Offense": "ShotSpotter Activation (P)",
-    "IncidentCount": 109,
+    "IncidentCount": 123,
     "Date": "2026-01-01"
   },
   {
     "Year": 2020,
     "Month": 1,
     "Offense": "Sound of Shots Fired (P)",
-    "IncidentCount": 28,
+    "IncidentCount": 20,
     "Date": "2020-01-01"
   },
   {
@@ -2033,7 +2040,7 @@
     "Year": 2026,
     "Month": 1,
     "Offense": "Sound of Shots Fired (P)",
-    "IncidentCount": 91,
+    "IncidentCount": 102,
     "Date": "2026-01-01"
   }
 ]
