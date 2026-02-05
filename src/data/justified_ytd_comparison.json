@@ -15,14 +15,16 @@
     "Offense": "Justifiable Homicide"
   },
   {
-    "YTDCount": 0,
+    "YTDCount": 1,
     "Year": 2022,
     "Offense": "Justifiable Homicide"
   },
   {
     "YTDCount": 0,
     "Year": 2023,
-    "Offense": "Justifiable Homicide"
+    "Offense": "Justifiable Homicide",
+    "PrevYTDCount": 1,
+    "YTDPercentageChange": -100
   },
   {
     "YTDCount": 0,

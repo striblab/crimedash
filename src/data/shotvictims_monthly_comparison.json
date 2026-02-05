@@ -591,7 +591,14 @@
     "Year": 2026,
     "Month": 1,
     "Offense": "Gunshot Wound Victims",
-    "IncidentCount": 3,
+    "IncidentCount": 4,
     "Date": "2026-01-01"
+  },
+  {
+    "Year": 2026,
+    "Month": 2,
+    "Offense": "Gunshot Wound Victims",
+    "IncidentCount": 1,
+    "Date": "2026-02-01"
   }
 ]

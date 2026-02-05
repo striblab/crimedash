@@ -1,6 +1,5 @@
 "Year","Month","Offense","IncidentCount","Date"
-2020,1,"Shooting (PFE)",5,2020-01-01
-2020,2,"Shooting (PFE)",13,2020-02-01
+2020,2,"Shooting (PFE)",12,2020-02-01
 2020,3,"Shooting (PFE)",15,2020-03-01
 2020,4,"Shooting (PFE)",14,2020-04-01
 2020,5,"Shooting (PFE)",41,2020-05-01
@@ -72,8 +71,8 @@
 2025,11,"Shooting (PFE)",21,2025-11-01
 2025,12,"Shooting (PFE)",15,2025-12-01
 2026,1,"Shooting (PFE)",14,2026-01-01
-2020,1,"Shooting Report Only (P)",1,2020-01-01
-2020,2,"Shooting Report Only (P)",6,2020-02-01
+2026,2,"Shooting (PFE)",2,2026-02-01
+2020,2,"Shooting Report Only (P)",5,2020-02-01
 2020,3,"Shooting Report Only (P)",7,2020-03-01
 2020,4,"Shooting Report Only (P)",6,2020-04-01
 2020,5,"Shooting Report Only (P)",17,2020-05-01
@@ -145,8 +144,8 @@
 2025,11,"Shooting Report Only (P)",4,2025-11-01
 2025,12,"Shooting Report Only (P)",8,2025-12-01
 2026,1,"Shooting Report Only (P)",2,2026-01-01
-2020,1,"ShotSpotter Activation (P)",27,2020-01-01
-2020,2,"ShotSpotter Activation (P)",84,2020-02-01
+2026,2,"Shooting Report Only (P)",1,2026-02-01
+2020,2,"ShotSpotter Activation (P)",78,2020-02-01
 2020,3,"ShotSpotter Activation (P)",155,2020-03-01
 2020,4,"ShotSpotter Activation (P)",179,2020-04-01
 2020,5,"ShotSpotter Activation (P)",394,2020-05-01
@@ -217,9 +216,9 @@
 2025,10,"ShotSpotter Activation (P)",178,2025-10-01
 2025,11,"ShotSpotter Activation (P)",170,2025-11-01
 2025,12,"ShotSpotter Activation (P)",154,2025-12-01
-2026,1,"ShotSpotter Activation (P)",123,2026-01-01
-2020,1,"Sound of Shots Fired (P)",20,2020-01-01
-2020,2,"Sound of Shots Fired (P)",73,2020-02-01
+2026,1,"ShotSpotter Activation (P)",160,2026-01-01
+2026,2,"ShotSpotter Activation (P)",17,2026-02-01
+2020,2,"Sound of Shots Fired (P)",60,2020-02-01
 2020,3,"Sound of Shots Fired (P)",188,2020-03-01
 2020,4,"Sound of Shots Fired (P)",202,2020-04-01
 2020,5,"Sound of Shots Fired (P)",536,2020-05-01
@@ -290,4 +289,5 @@
 2025,10,"Sound of Shots Fired (P)",197,2025-10-01
 2025,11,"Sound of Shots Fired (P)",195,2025-11-01
 2025,12,"Sound of Shots Fired (P)",113,2025-12-01
-2026,1,"Sound of Shots Fired (P)",102,2026-01-01
+2026,1,"Sound of Shots Fired (P)",121,2026-01-01
+2026,2,"Sound of Shots Fired (P)",10,2026-02-01

@@ -577,7 +577,7 @@
     "Year": 2025,
     "Month": 11,
     "Offense": "All Other Larceny",
-    "IncidentCount": 467,
+    "IncidentCount": 468,
     "Date": "2025-11-01"
   },
   {
@@ -591,8 +591,15 @@
     "Year": 2026,
     "Month": 1,
     "Offense": "All Other Larceny",
-    "IncidentCount": 249,
+    "IncidentCount": 331,
     "Date": "2026-01-01"
+  },
+  {
+    "Year": 2026,
+    "Month": 2,
+    "Offense": "All Other Larceny",
+    "IncidentCount": 3,
+    "Date": "2026-02-01"
   },
   {
     "Year": 2019,
@@ -1186,8 +1193,15 @@
     "Year": 2026,
     "Month": 1,
     "Offense": "Theft From Motor Vehicle",
-    "IncidentCount": 223,
+    "IncidentCount": 304,
     "Date": "2026-01-01"
+  },
+  {
+    "Year": 2026,
+    "Month": 2,
+    "Offense": "Theft From Motor Vehicle",
+    "IncidentCount": 3,
+    "Date": "2026-02-01"
   },
   {
     "Year": 2019,
@@ -2544,7 +2558,7 @@
     "Year": 2026,
     "Month": 1,
     "Offense": "Shoplifting",
-    "IncidentCount": 68,
+    "IncidentCount": 79,
     "Date": "2026-01-01"
   },
   {
@@ -3139,7 +3153,7 @@
     "Year": 2026,
     "Month": 1,
     "Offense": "Theft From Building",
-    "IncidentCount": 14,
+    "IncidentCount": 21,
     "Date": "2026-01-01"
   },
   {
@@ -3741,7 +3755,7 @@
     "Year": 2025,
     "Month": 1,
     "Offense": "Theft of Motor Vehicle Parts or Accessories",
-    "IncidentCount": 88,
+    "IncidentCount": 89,
     "Date": "2025-01-01"
   },
   {
@@ -3825,7 +3839,14 @@
     "Year": 2026,
     "Month": 1,
     "Offense": "Theft of Motor Vehicle Parts or Accessories",
-    "IncidentCount": 55,
+    "IncidentCount": 81,
     "Date": "2026-01-01"
+  },
+  {
+    "Year": 2026,
+    "Month": 2,
+    "Offense": "Theft of Motor Vehicle Parts or Accessories",
+    "IncidentCount": 2,
+    "Date": "2026-02-01"
   }
 ]

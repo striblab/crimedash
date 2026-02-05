@@ -231,6 +231,12 @@
   },
   {
     "Year": 2026,
+    "Precinct": 1,
+    "Offense": "Arson",
+    "OffenseCount": 1
+  },
+  {
+    "Year": 2026,
     "Precinct": 3,
     "Offense": "Arson",
     "OffenseCount": 2

@@ -1,7 +1,7 @@
 "Neighborhood","Offense","2019","2020","2021","2022","2023","2024","2025","2026"
 "Bryn - Mawr","Gunshot Wound Victims",1,1,1,0,0,0,2,0
 "Cedar - Isles - Dean","Gunshot Wound Victims",1,0,0,0,0,1,1,0
-"Cedar Riverside","Gunshot Wound Victims",6,6,13,20,5,4,2,0
+"Cedar Riverside","Gunshot Wound Victims",6,6,13,20,5,4,2,1
 "Central","Gunshot Wound Victims",10,14,10,7,5,7,5,0
 "Cleveland","Gunshot Wound Victims",4,3,6,6,2,7,5,1
 "Downtown West","Gunshot Wound Victims",20,33,30,44,19,24,16,0
@@ -40,7 +40,7 @@
 "Bottineau","Gunshot Wound Victims",0,1,0,0,0,0,0,0
 "Corcoran","Gunshot Wound Victims",0,6,1,2,2,0,3,0
 "Hiawatha","Gunshot Wound Victims",0,4,1,3,1,3,0,0
-"Howe","Gunshot Wound Victims",0,2,2,0,1,3,0,0
+"Howe","Gunshot Wound Victims",0,2,2,0,1,3,0,1
 "Keewaydin","Gunshot Wound Victims",0,2,0,0,0,0,1,0
 "Linden Hills","Gunshot Wound Victims",0,2,0,0,1,0,0,0
 "Loring Park","Gunshot Wound Victims",0,4,10,15,12,5,10,1
@@ -80,7 +80,7 @@ NA,"Gunshot Wound Victims",0,3,6,4,6,3,2,0
 "East Bde Maka Ska","Gunshot Wound Victims",0,0,0,0,0,0,1,0
 "Bryn - Mawr","Total",1,1,1,0,0,0,2,0
 "Cedar - Isles - Dean","Total",1,0,0,0,0,1,1,0
-"Cedar Riverside","Total",6,6,13,20,5,4,2,0
+"Cedar Riverside","Total",6,6,13,20,5,4,2,1
 "Central","Total",10,14,10,7,5,7,5,0
 "Cleveland","Total",4,3,6,6,2,7,5,1
 "Downtown West","Total",20,33,30,44,19,24,16,0
@@ -119,7 +119,7 @@ NA,"Gunshot Wound Victims",0,3,6,4,6,3,2,0
 "Bottineau","Total",0,1,0,0,0,0,0,0
 "Corcoran","Total",0,6,1,2,2,0,3,0
 "Hiawatha","Total",0,4,1,3,1,3,0,0
-"Howe","Total",0,2,2,0,1,3,0,0
+"Howe","Total",0,2,2,0,1,3,0,1
 "Keewaydin","Total",0,2,0,0,0,0,1,0
 "Linden Hills","Total",0,2,0,0,1,0,0,0
 "Loring Park","Total",0,4,10,15,12,5,10,1
