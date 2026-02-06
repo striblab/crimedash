@@ -1,56 +1,56 @@
 [
   {
-    "YTDCount": 103,
+    "YTDCount": 109,
     "Year": 2019,
     "Offense": "Domestic Aggravated Assault - Subset of Assault"
   },
   {
-    "YTDCount": 80,
+    "YTDCount": 81,
     "Year": 2020,
     "Offense": "Domestic Aggravated Assault - Subset of Assault",
-    "PrevYTDCount": 103,
-    "YTDPercentageChange": -22.3301
+    "PrevYTDCount": 109,
+    "YTDPercentageChange": -25.6881
   },
   {
-    "YTDCount": 55,
+    "YTDCount": 56,
     "Year": 2021,
     "Offense": "Domestic Aggravated Assault - Subset of Assault",
-    "PrevYTDCount": 80,
-    "YTDPercentageChange": -31.25
+    "PrevYTDCount": 81,
+    "YTDPercentageChange": -30.8642
   },
   {
-    "YTDCount": 83,
+    "YTDCount": 88,
     "Year": 2022,
     "Offense": "Domestic Aggravated Assault - Subset of Assault",
-    "PrevYTDCount": 55,
-    "YTDPercentageChange": 50.9091
-  },
-  {
-    "YTDCount": 91,
-    "Year": 2023,
-    "Offense": "Domestic Aggravated Assault - Subset of Assault",
-    "PrevYTDCount": 83,
-    "YTDPercentageChange": 9.6386
+    "PrevYTDCount": 56,
+    "YTDPercentageChange": 57.1429
   },
   {
     "YTDCount": 93,
+    "Year": 2023,
+    "Offense": "Domestic Aggravated Assault - Subset of Assault",
+    "PrevYTDCount": 88,
+    "YTDPercentageChange": 5.6818
+  },
+  {
+    "YTDCount": 96,
     "Year": 2024,
     "Offense": "Domestic Aggravated Assault - Subset of Assault",
-    "PrevYTDCount": 91,
-    "YTDPercentageChange": 2.1978
+    "PrevYTDCount": 93,
+    "YTDPercentageChange": 3.2258
   },
   {
-    "YTDCount": 79,
+    "YTDCount": 80,
     "Year": 2025,
     "Offense": "Domestic Aggravated Assault - Subset of Assault",
-    "PrevYTDCount": 93,
-    "YTDPercentageChange": -15.0538
+    "PrevYTDCount": 96,
+    "YTDPercentageChange": -16.6667
   },
   {
-    "YTDCount": 103,
+    "YTDCount": 109,
     "Year": 2026,
     "Offense": "Domestic Aggravated Assault - Subset of Assault",
-    "PrevYTDCount": 79,
-    "YTDPercentageChange": 30.3797
+    "PrevYTDCount": 80,
+    "YTDPercentageChange": 36.25
   }
 ]
