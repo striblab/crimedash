@@ -1,56 +1,56 @@
 [
   {
-    "YTDCount": 109,
+    "YTDCount": 112,
     "Year": 2019,
     "Offense": "Domestic Aggravated Assault - Subset of Assault"
   },
   {
-    "YTDCount": 81,
+    "YTDCount": 84,
     "Year": 2020,
     "Offense": "Domestic Aggravated Assault - Subset of Assault",
-    "PrevYTDCount": 109,
-    "YTDPercentageChange": -25.6881
+    "PrevYTDCount": 112,
+    "YTDPercentageChange": -25
   },
   {
-    "YTDCount": 56,
+    "YTDCount": 58,
     "Year": 2021,
     "Offense": "Domestic Aggravated Assault - Subset of Assault",
-    "PrevYTDCount": 81,
-    "YTDPercentageChange": -30.8642
-  },
-  {
-    "YTDCount": 88,
-    "Year": 2022,
-    "Offense": "Domestic Aggravated Assault - Subset of Assault",
-    "PrevYTDCount": 56,
-    "YTDPercentageChange": 57.1429
-  },
-  {
-    "YTDCount": 93,
-    "Year": 2023,
-    "Offense": "Domestic Aggravated Assault - Subset of Assault",
-    "PrevYTDCount": 88,
-    "YTDPercentageChange": 5.6818
+    "PrevYTDCount": 84,
+    "YTDPercentageChange": -30.9524
   },
   {
     "YTDCount": 96,
-    "Year": 2024,
+    "Year": 2022,
     "Offense": "Domestic Aggravated Assault - Subset of Assault",
-    "PrevYTDCount": 93,
-    "YTDPercentageChange": 3.2258
+    "PrevYTDCount": 58,
+    "YTDPercentageChange": 65.5172
   },
   {
-    "YTDCount": 80,
-    "Year": 2025,
+    "YTDCount": 96,
+    "Year": 2023,
     "Offense": "Domestic Aggravated Assault - Subset of Assault",
     "PrevYTDCount": 96,
-    "YTDPercentageChange": -16.6667
+    "YTDPercentageChange": 0
   },
   {
-    "YTDCount": 109,
+    "YTDCount": 97,
+    "Year": 2024,
+    "Offense": "Domestic Aggravated Assault - Subset of Assault",
+    "PrevYTDCount": 96,
+    "YTDPercentageChange": 1.0417
+  },
+  {
+    "YTDCount": 82,
+    "Year": 2025,
+    "Offense": "Domestic Aggravated Assault - Subset of Assault",
+    "PrevYTDCount": 97,
+    "YTDPercentageChange": -15.4639
+  },
+  {
+    "YTDCount": 112,
     "Year": 2026,
     "Offense": "Domestic Aggravated Assault - Subset of Assault",
-    "PrevYTDCount": 80,
-    "YTDPercentageChange": 36.25
+    "PrevYTDCount": 82,
+    "YTDPercentageChange": 36.5854
   }
 ]

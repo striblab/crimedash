@@ -24,7 +24,7 @@
 "Elliot Park","Domestic Aggravated Assault - Subset of Assault",26,26,21,37,30,22,31,2
 "Ericsson","Domestic Aggravated Assault - Subset of Assault",2,2,0,0,2,2,2,0
 "Field","Domestic Aggravated Assault - Subset of Assault",1,4,3,6,2,2,2,0
-"Folwell","Domestic Aggravated Assault - Subset of Assault",54,44,35,41,29,35,44,4
+"Folwell","Domestic Aggravated Assault - Subset of Assault",54,44,35,41,29,35,44,5
 "Fulton","Domestic Aggravated Assault - Subset of Assault",2,2,0,1,0,2,1,0
 "Harrison","Domestic Aggravated Assault - Subset of Assault",10,10,14,18,13,18,28,0
 "Hawthorne","Domestic Aggravated Assault - Subset of Assault",47,53,29,42,33,43,50,4
@@ -44,7 +44,7 @@
 "Lyndale","Domestic Aggravated Assault - Subset of Assault",10,15,11,12,20,18,19,3
 "Lynnhurst","Domestic Aggravated Assault - Subset of Assault",1,0,0,0,0,1,1,0
 "Marcy Holmes","Domestic Aggravated Assault - Subset of Assault",12,15,16,19,19,19,23,4
-"Marshall Terrace","Domestic Aggravated Assault - Subset of Assault",1,5,1,2,2,3,2,0
+"Marshall Terrace","Domestic Aggravated Assault - Subset of Assault",1,5,1,2,2,3,2,1
 "McKinley","Domestic Aggravated Assault - Subset of Assault",26,24,16,17,17,13,13,4
 "Mid - City Industrial","Domestic Aggravated Assault - Subset of Assault",1,0,1,1,0,1,2,0
 "Midtown Phillips","Domestic Aggravated Assault - Subset of Assault",26,8,8,21,11,18,26,2
@@ -55,7 +55,7 @@
 "North Loop","Domestic Aggravated Assault - Subset of Assault",3,5,5,11,6,10,12,2
 "Northeast Park","Domestic Aggravated Assault - Subset of Assault",2,1,4,2,1,1,2,0
 "Northrop","Domestic Aggravated Assault - Subset of Assault",2,1,6,4,1,3,4,0
-"Phillips West","Domestic Aggravated Assault - Subset of Assault",13,13,6,23,19,16,13,2
+"Phillips West","Domestic Aggravated Assault - Subset of Assault",13,13,6,23,19,16,13,3
 "Powderhorn Park","Domestic Aggravated Assault - Subset of Assault",24,12,18,20,37,38,27,3
 "Prospect Park - East River Road","Domestic Aggravated Assault - Subset of Assault",6,8,9,6,12,16,15,1
 "Regina","Domestic Aggravated Assault - Subset of Assault",2,4,3,6,4,2,2,1
@@ -112,7 +112,7 @@ NA,"Domestic Aggravated Assault - Subset of Assault",3,4,4,4,7,4,3,0
 "Elliot Park","Total",26,26,21,37,30,22,31,2
 "Ericsson","Total",2,2,0,0,2,2,2,0
 "Field","Total",1,4,3,6,2,2,2,0
-"Folwell","Total",54,44,35,41,29,35,44,4
+"Folwell","Total",54,44,35,41,29,35,44,5
 "Fulton","Total",2,2,0,1,0,2,1,0
 "Harrison","Total",10,10,14,18,13,18,28,0
 "Hawthorne","Total",47,53,29,42,33,43,50,4
@@ -132,7 +132,7 @@ NA,"Domestic Aggravated Assault - Subset of Assault",3,4,4,4,7,4,3,0
 "Lyndale","Total",10,15,11,12,20,18,19,3
 "Lynnhurst","Total",1,0,0,0,0,1,1,0
 "Marcy Holmes","Total",12,15,16,19,19,19,23,4
-"Marshall Terrace","Total",1,5,1,2,2,3,2,0
+"Marshall Terrace","Total",1,5,1,2,2,3,2,1
 "McKinley","Total",26,24,16,17,17,13,13,4
 "Mid - City Industrial","Total",1,0,1,1,0,1,2,0
 "Midtown Phillips","Total",26,8,8,21,11,18,26,2
@@ -143,7 +143,7 @@ NA,"Domestic Aggravated Assault - Subset of Assault",3,4,4,4,7,4,3,0
 "North Loop","Total",3,5,5,11,6,10,12,2
 "Northeast Park","Total",2,1,4,2,1,1,2,0
 "Northrop","Total",2,1,6,4,1,3,4,0
-"Phillips West","Total",13,13,6,23,19,16,13,2
+"Phillips West","Total",13,13,6,23,19,16,13,3
 "Powderhorn Park","Total",24,12,18,20,37,38,27,3
 "Prospect Park - East River Road","Total",6,8,9,6,12,16,15,1
 "Regina","Total",2,4,3,6,4,2,2,1

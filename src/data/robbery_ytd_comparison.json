@@ -1,56 +1,56 @@
 [
   {
-    "YTDCount": 79,
+    "YTDCount": 80,
     "Year": 2019,
     "Offense": "Robbery"
   },
   {
-    "YTDCount": 119,
+    "YTDCount": 124,
     "Year": 2020,
     "Offense": "Robbery",
-    "PrevYTDCount": 79,
-    "YTDPercentageChange": 50.6329
+    "PrevYTDCount": 80,
+    "YTDPercentageChange": 55
   },
   {
-    "YTDCount": 191,
+    "YTDCount": 195,
     "Year": 2021,
     "Offense": "Robbery",
-    "PrevYTDCount": 119,
-    "YTDPercentageChange": 60.5042
+    "PrevYTDCount": 124,
+    "YTDPercentageChange": 57.2581
   },
   {
-    "YTDCount": 166,
+    "YTDCount": 175,
     "Year": 2022,
     "Offense": "Robbery",
-    "PrevYTDCount": 191,
-    "YTDPercentageChange": -13.089
+    "PrevYTDCount": 195,
+    "YTDPercentageChange": -10.2564
   },
   {
-    "YTDCount": 121,
+    "YTDCount": 122,
     "Year": 2023,
     "Offense": "Robbery",
-    "PrevYTDCount": 166,
-    "YTDPercentageChange": -27.1084
+    "PrevYTDCount": 175,
+    "YTDPercentageChange": -30.2857
   },
   {
-    "YTDCount": 143,
+    "YTDCount": 144,
     "Year": 2024,
     "Offense": "Robbery",
-    "PrevYTDCount": 121,
-    "YTDPercentageChange": 18.1818
+    "PrevYTDCount": 122,
+    "YTDPercentageChange": 18.0328
   },
   {
-    "YTDCount": 97,
+    "YTDCount": 98,
     "Year": 2025,
     "Offense": "Robbery",
-    "PrevYTDCount": 143,
-    "YTDPercentageChange": -32.1678
+    "PrevYTDCount": 144,
+    "YTDPercentageChange": -31.9444
   },
   {
-    "YTDCount": 71,
+    "YTDCount": 75,
     "Year": 2026,
     "Offense": "Robbery",
-    "PrevYTDCount": 97,
-    "YTDPercentageChange": -26.8041
+    "PrevYTDCount": 98,
+    "YTDPercentageChange": -23.4694
   }
 ]

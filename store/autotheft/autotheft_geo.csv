@@ -11,18 +11,18 @@
 "Cedar Riverside","Motor Vehicle Theft",79,80,75,99,183,118,88,9
 "Central","Motor Vehicle Theft",64,92,123,123,189,165,134,15
 "Cleveland","Motor Vehicle Theft",28,38,29,59,46,45,32,0
-"Columbia Park","Motor Vehicle Theft",5,5,9,16,19,13,10,4
+"Columbia Park","Motor Vehicle Theft",5,5,9,16,19,13,10,5
 "Como","Motor Vehicle Theft",47,65,79,87,76,102,113,20
 "Cooper","Motor Vehicle Theft",19,26,28,36,48,51,28,2
 "Corcoran","Motor Vehicle Theft",41,53,50,76,114,79,72,8
-"Diamond Lake","Motor Vehicle Theft",21,21,28,32,49,27,28,3
-"Downtown East","Motor Vehicle Theft",22,30,39,41,41,48,39,3
+"Diamond Lake","Motor Vehicle Theft",21,21,28,32,49,27,28,4
+"Downtown East","Motor Vehicle Theft",22,30,39,41,41,48,39,4
 "Downtown West","Motor Vehicle Theft",127,95,110,163,167,217,136,20
 "East Bde Maka Ska","Motor Vehicle Theft",12,14,22,42,47,35,25,3
 "East Harriet","Motor Vehicle Theft",11,22,13,29,56,41,28,4
 "East Isles","Motor Vehicle Theft",29,34,42,59,108,71,52,10
 "East Phillips","Motor Vehicle Theft",82,115,111,99,136,114,116,15
-"Elliot Park","Motor Vehicle Theft",69,70,65,92,118,148,88,12
+"Elliot Park","Motor Vehicle Theft",69,70,65,92,118,148,88,13
 "Ericsson","Motor Vehicle Theft",15,25,19,32,60,34,30,1
 "Field","Motor Vehicle Theft",10,19,19,27,34,28,21,5
 "Folwell","Motor Vehicle Theft",81,79,71,105,128,90,81,7
@@ -46,47 +46,47 @@
 "Loring Park","Motor Vehicle Theft",45,58,99,124,145,150,97,10
 "Lowry Hill","Motor Vehicle Theft",22,24,43,67,83,65,32,6
 "Lowry Hill East","Motor Vehicle Theft",78,94,133,229,300,221,138,20
-"Lyndale","Motor Vehicle Theft",54,68,100,175,261,215,122,9
+"Lyndale","Motor Vehicle Theft",54,68,100,175,261,215,122,10
 "Lynnhurst","Motor Vehicle Theft",7,19,8,18,25,24,27,1
 "Marcy Holmes","Motor Vehicle Theft",127,223,228,202,273,224,169,28
 "Marshall Terrace","Motor Vehicle Theft",11,18,20,18,32,51,29,3
 "McKinley","Motor Vehicle Theft",44,52,34,63,88,62,40,5
 "Mid - City Industrial","Motor Vehicle Theft",6,13,25,30,31,33,36,5
-"Midtown Phillips","Motor Vehicle Theft",81,128,103,116,165,152,92,10
+"Midtown Phillips","Motor Vehicle Theft",81,128,103,116,165,152,92,13
 "Minnehaha","Motor Vehicle Theft",14,31,24,30,40,29,33,2
 "Morris Park","Motor Vehicle Theft",5,14,8,18,22,9,20,0
-"Near - North","Motor Vehicle Theft",65,101,74,124,168,148,92,15
+"Near - North","Motor Vehicle Theft",65,101,74,124,168,148,92,16
 "Nicollet Island - East Bank","Motor Vehicle Theft",6,13,21,27,25,32,24,6
-"North Loop","Motor Vehicle Theft",50,49,79,127,96,124,84,11
+"North Loop","Motor Vehicle Theft",50,49,79,127,96,124,84,12
 "Northeast Park","Motor Vehicle Theft",2,13,16,21,43,29,27,8
 "Northrop","Motor Vehicle Theft",19,27,29,60,61,40,44,5
 "Page","Motor Vehicle Theft",2,9,9,9,11,6,5,3
-"Phillips West","Motor Vehicle Theft",61,80,70,80,149,103,73,5
+"Phillips West","Motor Vehicle Theft",61,80,70,80,149,103,73,6
 "Powderhorn Park","Motor Vehicle Theft",89,143,147,175,182,153,153,14
 "Prospect Park - East River Road","Motor Vehicle Theft",45,67,86,133,138,80,97,8
 "Regina","Motor Vehicle Theft",11,26,19,26,49,18,23,5
 "Seward","Motor Vehicle Theft",82,135,109,139,192,144,113,28
-"Sheridan","Motor Vehicle Theft",11,18,34,33,68,57,48,9
+"Sheridan","Motor Vehicle Theft",11,18,34,33,68,57,48,10
 "Shingle Creek","Motor Vehicle Theft",21,32,18,42,30,25,22,2
 "South Uptown","Motor Vehicle Theft",36,50,59,125,141,133,73,11
-"St. Anthony East","Motor Vehicle Theft",7,9,10,17,45,25,27,5
-"St. Anthony West","Motor Vehicle Theft",14,14,31,44,74,63,47,12
+"St. Anthony East","Motor Vehicle Theft",7,9,10,17,45,25,27,6
+"St. Anthony West","Motor Vehicle Theft",14,14,31,44,74,63,47,13
 "Standish","Motor Vehicle Theft",29,57,60,82,113,75,67,7
 "Steven's Square - Loring Heights","Motor Vehicle Theft",29,46,59,96,123,128,87,7
 "Sumner - Glenwood","Motor Vehicle Theft",15,15,18,31,42,27,24,1
 "Tangletown","Motor Vehicle Theft",17,24,17,31,44,37,32,5
 "University of Minnesota","Motor Vehicle Theft",12,22,26,12,16,16,7,3
-"Ventura Village","Motor Vehicle Theft",131,153,93,146,173,152,132,9
+"Ventura Village","Motor Vehicle Theft",131,153,93,146,173,152,132,10
 "Victory","Motor Vehicle Theft",24,38,35,77,63,62,40,4
 "Waite Park","Motor Vehicle Theft",10,17,20,25,43,24,30,1
-"Webber - Camden","Motor Vehicle Theft",56,67,54,80,104,78,53,5
+"Webber - Camden","Motor Vehicle Theft",56,67,54,80,104,78,53,6
 "Wenonah","Motor Vehicle Theft",22,28,22,31,38,35,18,4
 "West Maka Ska","Motor Vehicle Theft",5,18,31,19,36,36,30,2
 "Whittier","Motor Vehicle Theft",138,196,243,547,560,467,258,36
 "Willard - Hay","Motor Vehicle Theft",52,89,69,139,173,123,108,8
 "Windom","Motor Vehicle Theft",20,35,39,42,72,66,33,0
 "Windom Park","Motor Vehicle Theft",30,28,37,52,74,55,38,7
-NA,"Motor Vehicle Theft",5,4,18,15,13,11,12,3
+NA,"Motor Vehicle Theft",5,4,18,15,13,11,12,4
 "Armatage","Total",5,8,13,14,16,15,23,1
 "Audubon Park","Total",27,22,21,35,49,64,42,4
 "Bancroft","Total",21,34,52,55,72,36,47,4
@@ -99,18 +99,18 @@ NA,"Motor Vehicle Theft",5,4,18,15,13,11,12,3
 "Cedar Riverside","Total",79,80,75,99,183,118,88,9
 "Central","Total",64,92,123,123,189,165,134,15
 "Cleveland","Total",28,38,29,59,46,45,32,0
-"Columbia Park","Total",5,5,9,16,19,13,10,4
+"Columbia Park","Total",5,5,9,16,19,13,10,5
 "Como","Total",47,65,79,87,76,102,113,20
 "Cooper","Total",19,26,28,36,48,51,28,2
 "Corcoran","Total",41,53,50,76,114,79,72,8
-"Diamond Lake","Total",21,21,28,32,49,27,28,3
-"Downtown East","Total",22,30,39,41,41,48,39,3
+"Diamond Lake","Total",21,21,28,32,49,27,28,4
+"Downtown East","Total",22,30,39,41,41,48,39,4
 "Downtown West","Total",127,95,110,163,167,217,136,20
 "East Bde Maka Ska","Total",12,14,22,42,47,35,25,3
 "East Harriet","Total",11,22,13,29,56,41,28,4
 "East Isles","Total",29,34,42,59,108,71,52,10
 "East Phillips","Total",82,115,111,99,136,114,116,15
-"Elliot Park","Total",69,70,65,92,118,148,88,12
+"Elliot Park","Total",69,70,65,92,118,148,88,13
 "Ericsson","Total",15,25,19,32,60,34,30,1
 "Field","Total",10,19,19,27,34,28,21,5
 "Folwell","Total",81,79,71,105,128,90,81,7
@@ -134,44 +134,44 @@ NA,"Motor Vehicle Theft",5,4,18,15,13,11,12,3
 "Loring Park","Total",45,58,99,124,145,150,97,10
 "Lowry Hill","Total",22,24,43,67,83,65,32,6
 "Lowry Hill East","Total",78,94,133,229,300,221,138,20
-"Lyndale","Total",54,68,100,175,261,215,122,9
+"Lyndale","Total",54,68,100,175,261,215,122,10
 "Lynnhurst","Total",7,19,8,18,25,24,27,1
 "Marcy Holmes","Total",127,223,228,202,273,224,169,28
 "Marshall Terrace","Total",11,18,20,18,32,51,29,3
 "McKinley","Total",44,52,34,63,88,62,40,5
 "Mid - City Industrial","Total",6,13,25,30,31,33,36,5
-"Midtown Phillips","Total",81,128,103,116,165,152,92,10
+"Midtown Phillips","Total",81,128,103,116,165,152,92,13
 "Minnehaha","Total",14,31,24,30,40,29,33,2
 "Morris Park","Total",5,14,8,18,22,9,20,0
-"Near - North","Total",65,101,74,124,168,148,92,15
+"Near - North","Total",65,101,74,124,168,148,92,16
 "Nicollet Island - East Bank","Total",6,13,21,27,25,32,24,6
-"North Loop","Total",50,49,79,127,96,124,84,11
+"North Loop","Total",50,49,79,127,96,124,84,12
 "Northeast Park","Total",2,13,16,21,43,29,27,8
 "Northrop","Total",19,27,29,60,61,40,44,5
 "Page","Total",2,9,9,9,11,6,5,3
-"Phillips West","Total",61,80,70,80,149,103,73,5
+"Phillips West","Total",61,80,70,80,149,103,73,6
 "Powderhorn Park","Total",89,143,147,175,182,153,153,14
 "Prospect Park - East River Road","Total",45,67,86,133,138,80,97,8
 "Regina","Total",11,26,19,26,49,18,23,5
 "Seward","Total",82,135,109,139,192,144,113,28
-"Sheridan","Total",11,18,34,33,68,57,48,9
+"Sheridan","Total",11,18,34,33,68,57,48,10
 "Shingle Creek","Total",21,32,18,42,30,25,22,2
 "South Uptown","Total",36,50,59,125,141,133,73,11
-"St. Anthony East","Total",7,9,10,17,45,25,27,5
-"St. Anthony West","Total",14,14,31,44,74,63,47,12
+"St. Anthony East","Total",7,9,10,17,45,25,27,6
+"St. Anthony West","Total",14,14,31,44,74,63,47,13
 "Standish","Total",29,57,60,82,113,75,67,7
 "Steven's Square - Loring Heights","Total",29,46,59,96,123,128,87,7
 "Sumner - Glenwood","Total",15,15,18,31,42,27,24,1
 "Tangletown","Total",17,24,17,31,44,37,32,5
 "University of Minnesota","Total",12,22,26,12,16,16,7,3
-"Ventura Village","Total",131,153,93,146,173,152,132,9
+"Ventura Village","Total",131,153,93,146,173,152,132,10
 "Victory","Total",24,38,35,77,63,62,40,4
 "Waite Park","Total",10,17,20,25,43,24,30,1
-"Webber - Camden","Total",56,67,54,80,104,78,53,5
+"Webber - Camden","Total",56,67,54,80,104,78,53,6
 "Wenonah","Total",22,28,22,31,38,35,18,4
 "West Maka Ska","Total",5,18,31,19,36,36,30,2
 "Whittier","Total",138,196,243,547,560,467,258,36
 "Willard - Hay","Total",52,89,69,139,173,123,108,8
 "Windom","Total",20,35,39,42,72,66,33,0
 "Windom Park","Total",30,28,37,52,74,55,38,7
-NA,"Total",5,4,18,15,13,11,12,3
+NA,"Total",5,4,18,15,13,11,12,4
