@@ -1,33 +1,33 @@
 "YTDCount","Year","Offense","PrevYTDCount","YTDPercentageChange"
 0,2019,"Shooting (PFE)",NA,NA
-0,2020,"Shooting (PFE)",NA,NA
-40,2021,"Shooting (PFE)",NA,NA
-58,2022,"Shooting (PFE)",40,45
-45,2023,"Shooting (PFE)",58,-22.4137931034483
-37,2024,"Shooting (PFE)",45,-17.7777777777778
-32,2025,"Shooting (PFE)",37,-13.5135135135135
-27,2026,"Shooting (PFE)",32,-15.625
+3,2020,"Shooting (PFE)",NA,NA
+45,2021,"Shooting (PFE)",3,1400
+63,2022,"Shooting (PFE)",45,40
+46,2023,"Shooting (PFE)",63,-26.984126984127
+44,2024,"Shooting (PFE)",46,-4.34782608695652
+36,2025,"Shooting (PFE)",44,-18.1818181818182
+28,2026,"Shooting (PFE)",36,-22.2222222222222
 0,2019,"Shooting Report Only (P)",NA,NA
 0,2020,"Shooting Report Only (P)",NA,NA
 20,2021,"Shooting Report Only (P)",NA,NA
-33,2022,"Shooting Report Only (P)",20,65
-12,2023,"Shooting Report Only (P)",33,-63.6363636363636
-13,2024,"Shooting Report Only (P)",12,8.33333333333333
-9,2025,"Shooting Report Only (P)",13,-30.7692307692308
-5,2026,"Shooting Report Only (P)",9,-44.4444444444444
+34,2022,"Shooting Report Only (P)",20,70
+12,2023,"Shooting Report Only (P)",34,-64.7058823529412
+18,2024,"Shooting Report Only (P)",12,50
+10,2025,"Shooting Report Only (P)",18,-44.4444444444444
+7,2026,"Shooting Report Only (P)",10,-30
 0,2019,"ShotSpotter Activation (P)",NA,NA
-1,2020,"ShotSpotter Activation (P)",NA,NA
-550,2021,"ShotSpotter Activation (P)",1,54900
-677,2022,"ShotSpotter Activation (P)",550,23.0909090909091
-521,2023,"ShotSpotter Activation (P)",677,-23.0428360413589
-314,2024,"ShotSpotter Activation (P)",521,-39.7312859884837
-278,2025,"ShotSpotter Activation (P)",314,-11.4649681528662
-290,2026,"ShotSpotter Activation (P)",278,4.31654676258992
+2,2020,"ShotSpotter Activation (P)",NA,NA
+604,2021,"ShotSpotter Activation (P)",2,30100
+725,2022,"ShotSpotter Activation (P)",604,20.0331125827815
+561,2023,"ShotSpotter Activation (P)",725,-22.6206896551724
+351,2024,"ShotSpotter Activation (P)",561,-37.4331550802139
+299,2025,"ShotSpotter Activation (P)",351,-14.8148148148148
+307,2026,"ShotSpotter Activation (P)",299,2.67558528428093
 0,2019,"Sound of Shots Fired (P)",NA,NA
-2,2020,"Sound of Shots Fired (P)",NA,NA
-366,2021,"Sound of Shots Fired (P)",2,18200
-491,2022,"Sound of Shots Fired (P)",366,34.1530054644809
-319,2023,"Sound of Shots Fired (P)",491,-35.030549898167
-342,2024,"Sound of Shots Fired (P)",319,7.21003134796239
-289,2025,"Sound of Shots Fired (P)",342,-15.4970760233918
-241,2026,"Sound of Shots Fired (P)",289,-16.6089965397924
+3,2020,"Sound of Shots Fired (P)",NA,NA
+398,2021,"Sound of Shots Fired (P)",3,13166.6666666667
+539,2022,"Sound of Shots Fired (P)",398,35.427135678392
+339,2023,"Sound of Shots Fired (P)",539,-37.1057513914657
+385,2024,"Sound of Shots Fired (P)",339,13.5693215339233
+313,2025,"Sound of Shots Fired (P)",385,-18.7012987012987
+265,2026,"Sound of Shots Fired (P)",313,-15.3354632587859

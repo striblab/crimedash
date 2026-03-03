@@ -10,7 +10,7 @@
     "Year": 2020,
     "Month": 3,
     "Offense": "Shooting (PFE)",
-    "IncidentCount": 15,
+    "IncidentCount": 13,
     "Date": "2020-03-01"
   },
   {
@@ -511,11 +511,11 @@
     "Date": "2026-02-01"
   },
   {
-    "Year": 2020,
-    "Month": 2,
-    "Offense": "Shooting Report Only (P)",
+    "Year": 2026,
+    "Month": 3,
+    "Offense": "Shooting (PFE)",
     "IncidentCount": 1,
-    "Date": "2020-02-01"
+    "Date": "2026-03-01"
   },
   {
     "Year": 2020,
@@ -1018,21 +1018,28 @@
     "Year": 2026,
     "Month": 2,
     "Offense": "Shooting Report Only (P)",
-    "IncidentCount": 3,
+    "IncidentCount": 4,
     "Date": "2026-02-01"
+  },
+  {
+    "Year": 2026,
+    "Month": 3,
+    "Offense": "Shooting Report Only (P)",
+    "IncidentCount": 1,
+    "Date": "2026-03-01"
   },
   {
     "Year": 2020,
     "Month": 2,
     "Offense": "ShotSpotter Activation (P)",
-    "IncidentCount": 13,
+    "IncidentCount": 2,
     "Date": "2020-02-01"
   },
   {
     "Year": 2020,
     "Month": 3,
     "Offense": "ShotSpotter Activation (P)",
-    "IncidentCount": 155,
+    "IncidentCount": 145,
     "Date": "2020-03-01"
   },
   {
@@ -1529,21 +1536,28 @@
     "Year": 2026,
     "Month": 2,
     "Offense": "ShotSpotter Activation (P)",
-    "IncidentCount": 130,
+    "IncidentCount": 144,
     "Date": "2026-02-01"
+  },
+  {
+    "Year": 2026,
+    "Month": 3,
+    "Offense": "ShotSpotter Activation (P)",
+    "IncidentCount": 3,
+    "Date": "2026-03-01"
   },
   {
     "Year": 2020,
     "Month": 2,
     "Offense": "Sound of Shots Fired (P)",
-    "IncidentCount": 9,
+    "IncidentCount": 2,
     "Date": "2020-02-01"
   },
   {
     "Year": 2020,
     "Month": 3,
     "Offense": "Sound of Shots Fired (P)",
-    "IncidentCount": 188,
+    "IncidentCount": 181,
     "Date": "2020-03-01"
   },
   {
@@ -2040,7 +2054,14 @@
     "Year": 2026,
     "Month": 2,
     "Offense": "Sound of Shots Fired (P)",
-    "IncidentCount": 120,
+    "IncidentCount": 137,
     "Date": "2026-02-01"
+  },
+  {
+    "Year": 2026,
+    "Month": 3,
+    "Offense": "Sound of Shots Fired (P)",
+    "IncidentCount": 7,
+    "Date": "2026-03-01"
   }
 ]

@@ -260,18 +260,23 @@
     "Year": 2026,
     "Precinct": 3,
     "Offense": "Drug/Narcotic Violations",
-    "OffenseCount": 30
+    "OffenseCount": 33
   },
   {
     "Year": 2026,
     "Precinct": 4,
     "Offense": "Drug/Narcotic Violations",
-    "OffenseCount": 26
+    "OffenseCount": 27
   },
   {
     "Year": 2026,
     "Precinct": 5,
     "Offense": "Drug/Narcotic Violations",
-    "OffenseCount": 40
+    "OffenseCount": 41
+  },
+  {
+    "Year": 2026,
+    "Offense": "Drug/Narcotic Violations",
+    "OffenseCount": 2
   }
 ]
