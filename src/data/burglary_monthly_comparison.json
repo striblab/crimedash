@@ -591,14 +591,21 @@
     "Year": 2026,
     "Month": 1,
     "Offense": "Burglary/Breaking & Entering",
-    "IncidentCount": 136,
+    "IncidentCount": 142,
     "Date": "2026-01-01"
   },
   {
     "Year": 2026,
     "Month": 2,
     "Offense": "Burglary/Breaking & Entering",
-    "IncidentCount": 94,
+    "IncidentCount": 108,
     "Date": "2026-02-01"
+  },
+  {
+    "Year": 2026,
+    "Month": 3,
+    "Offense": "Burglary/Breaking & Entering",
+    "IncidentCount": 16,
+    "Date": "2026-03-01"
   }
 ]
