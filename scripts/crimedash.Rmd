@@ -999,6 +999,66 @@ filter_actual(file_paths)
 
 ```
 
+# MPLS YTD SUMMARY
+```{r}
+library(dplyr)
+library(readr)
+library(tidyr)
+
+# Define file paths
+files <- c(
+  "/Users/hargaja/Desktop/workspace/redboard/STRIBSUITE/20240428-crimedash/store/autotheft/autotheft_ytd_comparison.csv",
+  "/Users/hargaja/Desktop/workspace/redboard/STRIBSUITE/20240428-crimedash/store/arson/arson_ytd_comparison.csv",
+  "/Users/hargaja/Desktop/workspace/redboard/STRIBSUITE/20240428-crimedash/store/burglary/burglary_ytd_comparison.csv",
+  "/Users/hargaja/Desktop/workspace/redboard/STRIBSUITE/20240428-crimedash/store/larceny/larceny_ytd_comparison.csv",
+  "/Users/hargaja/Desktop/workspace/redboard/STRIBSUITE/20240428-crimedash/store/murder/murder_ytd_comparison.csv",
+  "/Users/hargaja/Desktop/workspace/redboard/STRIBSUITE/20240428-crimedash/store/rape/rape_ytd_comparison.csv",
+  "/Users/hargaja/Desktop/workspace/redboard/STRIBSUITE/20240428-crimedash/store/robbery/robbery_ytd_comparison.csv",
+  "/Users/hargaja/Desktop/workspace/redboard/STRIBSUITE/20240428-crimedash/store/carjack/carjack_ytd_comparison.csv",
+  "/Users/hargaja/Desktop/workspace/redboard/STRIBSUITE/20240428-crimedash/store/shotvictims/shotvictims_ytd_comparison.csv"
+)
+
+# Read, select relevant columns, and combine
+crime_ytd <- bind_rows(lapply(files, function(f) {
+  read_csv(f, show_col_types = FALSE) %>%
+    select(YTDCount, Year, Offense)
+}))
+
+# Clean up offense labels for readable column names
+crime_ytd <- crime_ytd %>%
+  mutate(Offense = recode(Offense,
+    "Motor Vehicle Theft"                      = "Motor Vehicle Theft",
+    "Arson"                                    = "Arson",
+    "Burglary/Breaking & Entering"             = "Burglary/Breaking & Entering",
+    "Larceny-Theft"                            = "Larceny-Theft",
+    "Murder and Nonnegligent Manslaughter"     = "Murder",
+    "Rape"                                     = "Rape",
+    "Robbery"                                  = "Robbery",
+    "Carjacking"                               = "Carjacking",
+    "Shot Victims"                             = "Shot Victims"
+  ))
+
+# Pivot to wide format: one row per year, one column per crime category
+crime_ytd_wide <- crime_ytd %>%
+  pivot_wider(names_from = Offense, values_from = YTDCount) %>%
+  arrange(Year) %>%
+  mutate(LARCENY = rowSums(across(any_of(c(
+    "All Other Larceny",
+    "Theft From Motor Vehicle",
+    "Pocket-picking",
+    "Purse-snatching",
+    "Shoplifting",
+    "Theft From Building",
+    "Theft From Coin-Operated Machine or Device",
+    "Theft of Motor Vehicle Parts or Accessories"
+  ))), na.rm = TRUE))
+
+# Write combined output to local folder
+write_csv(crime_ytd_wide, "crime_ytd.csv")
+
+message("Done! crime_ytd.csv written to working directory.")
+
+```
 
 ```{r}
 
