@@ -23,7 +23,7 @@
 
 <h4>Links</h4>
 <ul>
-    <li><a href="https://www.startribune.com/every-police-involved-death-in-minnesota-since-2000/502088871/">Star Tribune: Fatal Police Encounters</a> | <a href="https://airtable.com/appGpBm9hQMAGxLyS/tbleKygJLfJml8HWV/viwT0a6Fo6HmNyQJK?blocks=hide">AIRTABLE</a> – <a href="https://ixfpjdoi5ptmnqsfk6gl25n36e0oeqpk.lambda-url.us-east-2.on.aws/?slug=fatal-encounters">UPDATE</a></li>
+    <li><a href="https://www.startribune.com/every-police-involved-death-in-minnesota-since-2000/502088871/">Star Tribune: Fatal Police Encounters</a></li>
     <li><a href="https://cde.state.mn.us/UseOfForce/UseOfForce">Minnesota Use-of-Force Data</a> | <a href="https://cde.state.mn.us/DownloadData/UseOfForceDownload">DATA</a></li>
     <li><a href="https://dps.mn.gov/divisions/msp/dashboard/Pages/use-of-force-pursuits.aspx">Minnesota State Patrol Use-of-Force</a></li>
     <li><a href="https://cde.ucr.cjis.gov/LATEST/webapp/#/pages/le/uof">FBI Use-of-Force Data Collection</a></li>
