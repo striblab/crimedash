@@ -12,7 +12,7 @@
 "Cleveland","Domestic Aggravated Assault - Subset of Assault",14,9,15,13,7,9,12,4
 "Columbia Park","Domestic Aggravated Assault - Subset of Assault",3,1,8,5,3,2,2,1
 "Como","Domestic Aggravated Assault - Subset of Assault",7,10,16,15,13,7,15,2
-"Cooper","Domestic Aggravated Assault - Subset of Assault",4,1,2,2,2,1,1,1
+"Cooper","Domestic Aggravated Assault - Subset of Assault",4,1,2,2,2,1,1,2
 "Corcoran","Domestic Aggravated Assault - Subset of Assault",5,5,6,12,18,14,15,1
 "Diamond Lake","Domestic Aggravated Assault - Subset of Assault",7,2,3,1,3,2,3,1
 "Downtown East","Domestic Aggravated Assault - Subset of Assault",3,1,4,6,13,2,4,2
@@ -54,8 +54,8 @@
 "Nicollet Island - East Bank","Domestic Aggravated Assault - Subset of Assault",3,4,3,2,7,3,2,0
 "North Loop","Domestic Aggravated Assault - Subset of Assault",3,5,5,11,6,10,12,5
 "Northeast Park","Domestic Aggravated Assault - Subset of Assault",2,1,4,2,1,1,2,0
-"Northrop","Domestic Aggravated Assault - Subset of Assault",2,1,6,4,1,3,4,0
-"Phillips West","Domestic Aggravated Assault - Subset of Assault",13,13,6,23,19,16,13,5
+"Northrop","Domestic Aggravated Assault - Subset of Assault",2,1,6,4,1,3,4,1
+"Phillips West","Domestic Aggravated Assault - Subset of Assault",13,13,6,23,19,16,13,6
 "Powderhorn Park","Domestic Aggravated Assault - Subset of Assault",24,12,18,20,37,38,27,4
 "Prospect Park - East River Road","Domestic Aggravated Assault - Subset of Assault",6,8,9,6,12,16,15,1
 "Regina","Domestic Aggravated Assault - Subset of Assault",2,4,3,6,4,2,2,2
@@ -100,7 +100,7 @@ NA,"Domestic Aggravated Assault - Subset of Assault",3,4,4,4,7,4,3,1
 "Cleveland","Total",14,9,15,13,7,9,12,4
 "Columbia Park","Total",3,1,8,5,3,2,2,1
 "Como","Total",7,10,16,15,13,7,15,2
-"Cooper","Total",4,1,2,2,2,1,1,1
+"Cooper","Total",4,1,2,2,2,1,1,2
 "Corcoran","Total",5,5,6,12,18,14,15,1
 "Diamond Lake","Total",7,2,3,1,3,2,3,1
 "Downtown East","Total",3,1,4,6,13,2,4,2
@@ -142,8 +142,8 @@ NA,"Domestic Aggravated Assault - Subset of Assault",3,4,4,4,7,4,3,1
 "Nicollet Island - East Bank","Total",3,4,3,2,7,3,2,0
 "North Loop","Total",3,5,5,11,6,10,12,5
 "Northeast Park","Total",2,1,4,2,1,1,2,0
-"Northrop","Total",2,1,6,4,1,3,4,0
-"Phillips West","Total",13,13,6,23,19,16,13,5
+"Northrop","Total",2,1,6,4,1,3,4,1
+"Phillips West","Total",13,13,6,23,19,16,13,6
 "Powderhorn Park","Total",24,12,18,20,37,38,27,4
 "Prospect Park - East River Road","Total",6,8,9,6,12,16,15,1
 "Regina","Total",2,4,3,6,4,2,2,2

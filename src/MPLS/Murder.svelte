@@ -106,7 +106,7 @@
 
 <div class="def">
   <p>The following data reflects murders investigated by MPD.</p>
-  <p>For crime trend stories, the Star Tribune uses a speciaized calculation for its historical Minneapolis homicide rates that combines murder cases investigated by MPD, officer-involved deaths and self-defense killings.</p></div>
+  <p>For crime trend stories, the Star Tribune uses a specific calculation for its historical Minneapolis homicide rates that combines murder cases investigated by MPD, officer-involved deaths and self-defense killings.</p></div>
 
 {#if murderYTDComparison && murderYTDComparison.length > 0}
 <p>
