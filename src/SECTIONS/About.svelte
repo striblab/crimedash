@@ -42,7 +42,7 @@
   
 <p>The Star Tribune's <a href="https://www.startribune.com/every-police-involved-death-in-minnesota-since-2000/502088871/">Fatal Police Encounters</a> database details officer-involved killings since 2000.</p>
 
-<div class="disclaimer"><p>DISCLAIMER: This isn't meant for external use outside the Star Tribune newsroom. All provided statistics should be double-checked in case of data ingestion errors.</p></div>
+<div class="disclaimer"><p>DISCLAIMER: This isn't meant for use outside the Star Tribune newsroom. All provided statistics should be double-checked in case of data ingestion errors.</p></div>
 
 <style>
 .byline {

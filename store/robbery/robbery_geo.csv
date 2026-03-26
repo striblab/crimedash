@@ -8,19 +8,19 @@
 "Bryn - Mawr","Robbery",2,5,12,6,3,2,1,0
 "Camden Industrial","Robbery",2,1,3,1,1,1,2,0
 "Cedar - Isles - Dean","Robbery",1,4,3,2,7,8,3,0
-"Cedar Riverside","Robbery",29,50,28,32,22,30,16,4
-"Central","Robbery",29,80,84,60,51,56,28,1
+"Cedar Riverside","Robbery",29,50,28,32,22,30,16,5
+"Central","Robbery",29,80,84,60,51,56,28,2
 "Cleveland","Robbery",13,8,18,13,8,8,7,0
 "Columbia Park","Robbery",6,2,1,2,2,2,2,0
 "Como","Robbery",3,9,12,9,3,16,2,1
 "Cooper","Robbery",2,2,6,3,6,4,3,1
 "Corcoran","Robbery",10,17,30,20,18,15,22,1
 "Diamond Lake","Robbery",2,7,2,2,6,4,3,0
-"Downtown East","Robbery",5,9,9,7,17,6,7,1
+"Downtown East","Robbery",5,9,9,7,17,6,7,2
 "Downtown West","Robbery",207,117,159,152,88,50,54,16
 "East Bde Maka Ska","Robbery",1,7,11,10,10,15,3,0
 "East Harriet","Robbery",4,4,10,9,6,13,4,0
-"East Isles","Robbery",7,22,40,26,23,27,9,0
+"East Isles","Robbery",7,22,40,26,23,27,9,1
 "East Phillips","Robbery",58,50,68,65,47,49,42,7
 "Elliot Park","Robbery",23,18,27,31,34,22,30,2
 "Ericsson","Robbery",5,5,4,1,3,3,0,0
@@ -45,13 +45,13 @@
 "Loring Park","Robbery",32,39,49,38,39,39,38,10
 "Lowry Hill","Robbery",3,24,31,23,11,23,2,2
 "Lowry Hill East","Robbery",36,55,78,95,52,84,21,6
-"Lyndale","Robbery",15,34,44,19,41,53,18,3
+"Lyndale","Robbery",15,34,44,19,41,53,18,4
 "Lynnhurst","Robbery",1,4,4,0,2,5,3,0
-"Marcy Holmes","Robbery",31,42,99,64,33,37,31,4
+"Marcy Holmes","Robbery",31,42,99,64,33,37,31,5
 "Marshall Terrace","Robbery",2,1,3,6,2,4,2,1
 "McKinley","Robbery",19,21,26,10,7,9,17,2
 "Mid - City Industrial","Robbery",1,1,4,5,1,1,0,0
-"Midtown Phillips","Robbery",38,81,79,73,52,50,40,4
+"Midtown Phillips","Robbery",38,81,79,73,52,50,40,5
 "Minnehaha","Robbery",2,6,5,6,7,5,3,0
 "Near - North","Robbery",48,44,53,39,30,36,33,8
 "North Loop","Robbery",21,9,34,23,18,8,17,2
@@ -67,20 +67,20 @@
 "Shingle Creek","Robbery",2,8,12,3,3,2,0,0
 "South Uptown","Robbery",13,26,36,30,19,51,20,4
 "St. Anthony East","Robbery",5,1,4,7,6,2,1,0
-"St. Anthony West","Robbery",2,4,6,2,8,6,2,0
-"Standish","Robbery",4,21,25,12,14,8,5,2
+"St. Anthony West","Robbery",2,4,6,2,8,6,2,1
+"Standish","Robbery",4,21,25,12,14,8,5,3
 "Steven's Square - Loring Heights","Robbery",23,24,28,46,33,22,22,2
 "Sumner - Glenwood","Robbery",10,8,20,6,6,14,2,0
 "Tangletown","Robbery",5,6,9,4,7,9,3,2
 "University of Minnesota","Robbery",2,3,8,4,6,0,4,1
-"Ventura Village","Robbery",65,122,92,75,51,70,62,5
+"Ventura Village","Robbery",65,122,92,75,51,70,62,6
 "Victory","Robbery",8,2,9,5,9,5,3,0
 "Waite Park","Robbery",5,5,3,3,3,1,1,0
 "Webber - Camden","Robbery",29,24,16,19,12,16,17,1
 "Wenonah","Robbery",2,5,6,7,2,3,0,1
 "West Maka Ska","Robbery",1,4,5,0,2,1,1,0
-"Whittier","Robbery",63,112,159,127,103,147,79,17
-"Willard - Hay","Robbery",32,25,35,31,40,20,21,4
+"Whittier","Robbery",63,112,159,127,103,147,79,20
+"Willard - Hay","Robbery",32,25,35,31,40,20,21,5
 "Windom","Robbery",8,11,9,2,7,6,3,0
 "Windom Park","Robbery",8,9,13,13,6,15,10,1
 NA,"Robbery",6,9,8,11,8,10,10,1
@@ -95,19 +95,19 @@ NA,"Robbery",6,9,8,11,8,10,10,1
 "Bryn - Mawr","Total",2,5,12,6,3,2,1,0
 "Camden Industrial","Total",2,1,3,1,1,1,2,0
 "Cedar - Isles - Dean","Total",1,4,3,2,7,8,3,0
-"Cedar Riverside","Total",29,50,28,32,22,30,16,4
-"Central","Total",29,80,84,60,51,56,28,1
+"Cedar Riverside","Total",29,50,28,32,22,30,16,5
+"Central","Total",29,80,84,60,51,56,28,2
 "Cleveland","Total",13,8,18,13,8,8,7,0
 "Columbia Park","Total",6,2,1,2,2,2,2,0
 "Como","Total",3,9,12,9,3,16,2,1
 "Cooper","Total",2,2,6,3,6,4,3,1
 "Corcoran","Total",10,17,30,20,18,15,22,1
 "Diamond Lake","Total",2,7,2,2,6,4,3,0
-"Downtown East","Total",5,9,9,7,17,6,7,1
+"Downtown East","Total",5,9,9,7,17,6,7,2
 "Downtown West","Total",207,117,159,152,88,50,54,16
 "East Bde Maka Ska","Total",1,7,11,10,10,15,3,0
 "East Harriet","Total",4,4,10,9,6,13,4,0
-"East Isles","Total",7,22,40,26,23,27,9,0
+"East Isles","Total",7,22,40,26,23,27,9,1
 "East Phillips","Total",58,50,68,65,47,49,42,7
 "Elliot Park","Total",23,18,27,31,34,22,30,2
 "Ericsson","Total",5,5,4,1,3,3,0,0
@@ -132,13 +132,13 @@ NA,"Robbery",6,9,8,11,8,10,10,1
 "Loring Park","Total",32,39,49,38,39,39,38,10
 "Lowry Hill","Total",3,24,31,23,11,23,2,2
 "Lowry Hill East","Total",36,55,78,95,52,84,21,6
-"Lyndale","Total",15,34,44,19,41,53,18,3
+"Lyndale","Total",15,34,44,19,41,53,18,4
 "Lynnhurst","Total",1,4,4,0,2,5,3,0
-"Marcy Holmes","Total",31,42,99,64,33,37,31,4
+"Marcy Holmes","Total",31,42,99,64,33,37,31,5
 "Marshall Terrace","Total",2,1,3,6,2,4,2,1
 "McKinley","Total",19,21,26,10,7,9,17,2
 "Mid - City Industrial","Total",1,1,4,5,1,1,0,0
-"Midtown Phillips","Total",38,81,79,73,52,50,40,4
+"Midtown Phillips","Total",38,81,79,73,52,50,40,5
 "Minnehaha","Total",2,6,5,6,7,5,3,0
 "Near - North","Total",48,44,53,39,30,36,33,8
 "North Loop","Total",21,9,34,23,18,8,17,2
@@ -154,20 +154,20 @@ NA,"Robbery",6,9,8,11,8,10,10,1
 "Shingle Creek","Total",2,8,12,3,3,2,0,0
 "South Uptown","Total",13,26,36,30,19,51,20,4
 "St. Anthony East","Total",5,1,4,7,6,2,1,0
-"St. Anthony West","Total",2,4,6,2,8,6,2,0
-"Standish","Total",4,21,25,12,14,8,5,2
+"St. Anthony West","Total",2,4,6,2,8,6,2,1
+"Standish","Total",4,21,25,12,14,8,5,3
 "Steven's Square - Loring Heights","Total",23,24,28,46,33,22,22,2
 "Sumner - Glenwood","Total",10,8,20,6,6,14,2,0
 "Tangletown","Total",5,6,9,4,7,9,3,2
 "University of Minnesota","Total",2,3,8,4,6,0,4,1
-"Ventura Village","Total",65,122,92,75,51,70,62,5
+"Ventura Village","Total",65,122,92,75,51,70,62,6
 "Victory","Total",8,2,9,5,9,5,3,0
 "Waite Park","Total",5,5,3,3,3,1,1,0
 "Webber - Camden","Total",29,24,16,19,12,16,17,1
 "Wenonah","Total",2,5,6,7,2,3,0,1
 "West Maka Ska","Total",1,4,5,0,2,1,1,0
-"Whittier","Total",63,112,159,127,103,147,79,17
-"Willard - Hay","Total",32,25,35,31,40,20,21,4
+"Whittier","Total",63,112,159,127,103,147,79,20
+"Willard - Hay","Total",32,25,35,31,40,20,21,5
 "Windom","Total",8,11,9,2,7,6,3,0
 "Windom Park","Total",8,9,13,13,6,15,10,1
 NA,"Total",6,9,8,11,8,10,10,1
