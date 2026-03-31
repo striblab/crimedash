@@ -1,56 +1,56 @@
 [
   {
-    "YTDCount": 406,
+    "YTDCount": 438,
     "Year": 2019,
     "Offense": "Drug/Narcotic Violations"
   },
   {
-    "YTDCount": 453,
+    "YTDCount": 471,
     "Year": 2020,
     "Offense": "Drug/Narcotic Violations",
-    "PrevYTDCount": 406,
-    "YTDPercentageChange": 11.5764
+    "PrevYTDCount": 438,
+    "YTDPercentageChange": 7.5342
+  },
+  {
+    "YTDCount": 240,
+    "Year": 2021,
+    "Offense": "Drug/Narcotic Violations",
+    "PrevYTDCount": 471,
+    "YTDPercentageChange": -49.0446
+  },
+  {
+    "YTDCount": 188,
+    "Year": 2022,
+    "Offense": "Drug/Narcotic Violations",
+    "PrevYTDCount": 240,
+    "YTDPercentageChange": -21.6667
+  },
+  {
+    "YTDCount": 287,
+    "Year": 2023,
+    "Offense": "Drug/Narcotic Violations",
+    "PrevYTDCount": 188,
+    "YTDPercentageChange": 52.6596
+  },
+  {
+    "YTDCount": 242,
+    "Year": 2024,
+    "Offense": "Drug/Narcotic Violations",
+    "PrevYTDCount": 287,
+    "YTDPercentageChange": -15.6794
   },
   {
     "YTDCount": 230,
-    "Year": 2021,
-    "Offense": "Drug/Narcotic Violations",
-    "PrevYTDCount": 453,
-    "YTDPercentageChange": -49.2274
-  },
-  {
-    "YTDCount": 183,
-    "Year": 2022,
-    "Offense": "Drug/Narcotic Violations",
-    "PrevYTDCount": 230,
-    "YTDPercentageChange": -20.4348
-  },
-  {
-    "YTDCount": 272,
-    "Year": 2023,
-    "Offense": "Drug/Narcotic Violations",
-    "PrevYTDCount": 183,
-    "YTDPercentageChange": 48.6339
-  },
-  {
-    "YTDCount": 227,
-    "Year": 2024,
-    "Offense": "Drug/Narcotic Violations",
-    "PrevYTDCount": 272,
-    "YTDPercentageChange": -16.5441
-  },
-  {
-    "YTDCount": 215,
     "Year": 2025,
     "Offense": "Drug/Narcotic Violations",
-    "PrevYTDCount": 227,
-    "YTDPercentageChange": -5.2863
+    "PrevYTDCount": 242,
+    "YTDPercentageChange": -4.9587
   },
   {
-    "YTDCount": 238,
+    "YTDCount": 254,
     "Year": 2026,
     "Offense": "Drug/Narcotic Violations",
-    "PrevYTDCount": 215,
-    "YTDPercentageChange": 10.6977
+    "PrevYTDCount": 230,
+    "YTDPercentageChange": 10.4348
   }
 ]
