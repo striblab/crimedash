@@ -227,7 +227,7 @@
     "Year": 2021,
     "Month": 9,
     "Offense": "Domestic Aggravated Assault - Subset of Assault",
-    "IncidentCount": 80,
+    "IncidentCount": 75,
     "Date": "2021-09-01"
   },
   {
@@ -304,14 +304,14 @@
     "Year": 2022,
     "Month": 8,
     "Offense": "Domestic Aggravated Assault - Subset of Assault",
-    "IncidentCount": 97,
+    "IncidentCount": 95,
     "Date": "2022-08-01"
   },
   {
     "Year": 2022,
     "Month": 9,
     "Offense": "Domestic Aggravated Assault - Subset of Assault",
-    "IncidentCount": 73,
+    "IncidentCount": 71,
     "Date": "2022-09-01"
   },
   {
@@ -605,7 +605,14 @@
     "Year": 2026,
     "Month": 3,
     "Offense": "Domestic Aggravated Assault - Subset of Assault",
-    "IncidentCount": 89,
+    "IncidentCount": 96,
     "Date": "2026-03-01"
+  },
+  {
+    "Year": 2026,
+    "Month": 4,
+    "Offense": "Domestic Aggravated Assault - Subset of Assault",
+    "IncidentCount": 12,
+    "Date": "2026-04-01"
   }
 ]
