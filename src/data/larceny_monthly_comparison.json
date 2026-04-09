@@ -3,7 +3,7 @@
     "Year": 2019,
     "Month": 1,
     "Offense": "All Other Larceny",
-    "IncidentCount": 438,
+    "IncidentCount": 439,
     "Date": "2019-01-01"
   },
   {
@@ -605,14 +605,14 @@
     "Year": 2026,
     "Month": 3,
     "Offense": "All Other Larceny",
-    "IncidentCount": 437,
+    "IncidentCount": 438,
     "Date": "2026-03-01"
   },
   {
     "Year": 2026,
     "Month": 4,
     "Offense": "All Other Larceny",
-    "IncidentCount": 50,
+    "IncidentCount": 95,
     "Date": "2026-04-01"
   },
   {
@@ -1221,14 +1221,14 @@
     "Year": 2026,
     "Month": 3,
     "Offense": "Theft From Motor Vehicle",
-    "IncidentCount": 292,
+    "IncidentCount": 293,
     "Date": "2026-03-01"
   },
   {
     "Year": 2026,
     "Month": 4,
     "Offense": "Theft From Motor Vehicle",
-    "IncidentCount": 33,
+    "IncidentCount": 72,
     "Date": "2026-04-01"
   },
   {
@@ -2012,14 +2012,14 @@
     "Year": 2026,
     "Month": 4,
     "Offense": "Purse-snatching",
-    "IncidentCount": 1,
+    "IncidentCount": 2,
     "Date": "2026-04-01"
   },
   {
     "Year": 2019,
     "Month": 1,
     "Offense": "Shoplifting",
-    "IncidentCount": 64,
+    "IncidentCount": 65,
     "Date": "2019-01-01"
   },
   {
@@ -2628,7 +2628,7 @@
     "Year": 2026,
     "Month": 4,
     "Offense": "Shoplifting",
-    "IncidentCount": 8,
+    "IncidentCount": 11,
     "Date": "2026-04-01"
   },
   {
@@ -3239,6 +3239,13 @@
     "Offense": "Theft From Building",
     "IncidentCount": 19,
     "Date": "2026-03-01"
+  },
+  {
+    "Year": 2026,
+    "Month": 4,
+    "Offense": "Theft From Building",
+    "IncidentCount": 5,
+    "Date": "2026-04-01"
   },
   {
     "Year": 2019,
@@ -3937,14 +3944,14 @@
     "Year": 2026,
     "Month": 3,
     "Offense": "Theft of Motor Vehicle Parts or Accessories",
-    "IncidentCount": 109,
+    "IncidentCount": 110,
     "Date": "2026-03-01"
   },
   {
     "Year": 2026,
     "Month": 4,
     "Offense": "Theft of Motor Vehicle Parts or Accessories",
-    "IncidentCount": 7,
+    "IncidentCount": 22,
     "Date": "2026-04-01"
   }
 ]

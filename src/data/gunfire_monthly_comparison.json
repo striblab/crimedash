@@ -507,7 +507,7 @@
     "Year": 2026,
     "Month": 4,
     "Offense": "Shooting (PFE)",
-    "IncidentCount": 2,
+    "IncidentCount": 3,
     "Date": "2026-04-01"
   },
   {
@@ -1025,7 +1025,7 @@
     "Year": 2020,
     "Month": 4,
     "Offense": "ShotSpotter Activation (P)",
-    "IncidentCount": 162,
+    "IncidentCount": 145,
     "Date": "2020-04-01"
   },
   {
@@ -1529,14 +1529,14 @@
     "Year": 2026,
     "Month": 4,
     "Offense": "ShotSpotter Activation (P)",
-    "IncidentCount": 20,
+    "IncidentCount": 27,
     "Date": "2026-04-01"
   },
   {
     "Year": 2020,
     "Month": 4,
     "Offense": "Sound of Shots Fired (P)",
-    "IncidentCount": 175,
+    "IncidentCount": 159,
     "Date": "2020-04-01"
   },
   {
@@ -2040,7 +2040,7 @@
     "Year": 2026,
     "Month": 4,
     "Offense": "Sound of Shots Fired (P)",
-    "IncidentCount": 29,
+    "IncidentCount": 39,
     "Date": "2026-04-01"
   }
 ]

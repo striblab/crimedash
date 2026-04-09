@@ -12,7 +12,7 @@
 "Central","Robbery",29,80,84,60,51,56,28,4
 "Cleveland","Robbery",13,8,18,13,8,8,7,1
 "Columbia Park","Robbery",6,2,1,2,2,2,2,0
-"Como","Robbery",3,9,12,9,3,16,2,1
+"Como","Robbery",3,9,12,9,3,16,2,2
 "Cooper","Robbery",2,2,6,3,6,4,3,1
 "Corcoran","Robbery",10,17,30,20,18,15,22,1
 "Diamond Lake","Robbery",2,7,2,2,6,4,3,0
@@ -51,9 +51,9 @@
 "Marshall Terrace","Robbery",2,1,3,6,2,4,2,1
 "McKinley","Robbery",19,21,26,10,7,9,17,2
 "Mid - City Industrial","Robbery",1,1,4,5,1,1,0,0
-"Midtown Phillips","Robbery",38,81,79,73,52,50,40,6
+"Midtown Phillips","Robbery",38,81,79,73,52,50,40,7
 "Minnehaha","Robbery",2,6,5,6,7,5,3,0
-"Near - North","Robbery",48,44,53,39,30,36,33,8
+"Near - North","Robbery",48,44,53,39,30,36,33,9
 "North Loop","Robbery",21,9,34,23,18,8,17,2
 "Northeast Park","Robbery",1,7,8,8,5,6,0,1
 "Northrop","Robbery",5,14,21,23,8,9,3,0
@@ -99,7 +99,7 @@ NA,"Robbery",6,9,8,11,8,10,10,1
 "Central","Total",29,80,84,60,51,56,28,4
 "Cleveland","Total",13,8,18,13,8,8,7,1
 "Columbia Park","Total",6,2,1,2,2,2,2,0
-"Como","Total",3,9,12,9,3,16,2,1
+"Como","Total",3,9,12,9,3,16,2,2
 "Cooper","Total",2,2,6,3,6,4,3,1
 "Corcoran","Total",10,17,30,20,18,15,22,1
 "Diamond Lake","Total",2,7,2,2,6,4,3,0
@@ -138,9 +138,9 @@ NA,"Robbery",6,9,8,11,8,10,10,1
 "Marshall Terrace","Total",2,1,3,6,2,4,2,1
 "McKinley","Total",19,21,26,10,7,9,17,2
 "Mid - City Industrial","Total",1,1,4,5,1,1,0,0
-"Midtown Phillips","Total",38,81,79,73,52,50,40,6
+"Midtown Phillips","Total",38,81,79,73,52,50,40,7
 "Minnehaha","Total",2,6,5,6,7,5,3,0
-"Near - North","Total",48,44,53,39,30,36,33,8
+"Near - North","Total",48,44,53,39,30,36,33,9
 "North Loop","Total",21,9,34,23,18,8,17,2
 "Northeast Park","Total",1,7,8,8,5,6,0,1
 "Northrop","Total",5,14,21,23,8,9,3,0
