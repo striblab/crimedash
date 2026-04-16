@@ -65,7 +65,7 @@ cleanup()
 ```{r, include=FALSE}
 # DOWNLOAD NEW CRIME DATA
 # Specify the URL of the file you want to download
-file_url <- "https://opendata.arcgis.com/api/v3/datasets/441d4c0410854e3da692b24347ab6b0d_0/downloads/data?format=csv&spatialRefId=4326&where=1%3D1"
+file_url <- "https://hub.arcgis.com/api/v3/datasets/441d4c0410854e3da692b24347ab6b0d_0/downloads/data?format=csv&spatialRefId=3857&where=1%3D1"
 
 # Specify the local destination where you want to save the file
 local_destination <- "/Users/hargaja/Desktop/workspace/redboard/STRIBSUITE/20240428-crimedash/scripts/Crime_Data.csv"
