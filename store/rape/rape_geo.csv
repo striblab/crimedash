@@ -15,7 +15,7 @@
 "Cooper","Sex Offenses",2,1,2,3,4,0,2,1
 "Corcoran","Sex Offenses",7,5,8,8,6,9,9,9
 "Diamond Lake","Sex Offenses",2,2,5,4,4,4,3,0
-"Downtown East","Sex Offenses",10,15,5,12,6,9,6,3
+"Downtown East","Sex Offenses",10,15,5,12,6,9,6,4
 "Downtown West","Sex Offenses",84,52,41,59,63,45,48,13
 "East Harriet","Sex Offenses",2,6,1,6,3,4,6,1
 "East Isles","Sex Offenses",2,0,6,1,3,2,2,2
@@ -29,7 +29,7 @@
 "Hiawatha","Sex Offenses",3,7,5,3,6,10,8,1
 "Holland","Sex Offenses",5,7,9,6,7,5,9,4
 "Howe","Sex Offenses",5,6,5,1,0,9,4,1
-"Jordan","Sex Offenses",37,34,29,28,39,37,36,6
+"Jordan","Sex Offenses",37,34,29,28,39,37,36,7
 "Keewaydin","Sex Offenses",1,3,0,0,4,3,5,1
 "Kenny","Sex Offenses",2,3,2,2,0,1,2,0
 "King Field","Sex Offenses",7,6,4,2,10,7,4,2
@@ -75,11 +75,11 @@
 "Webber - Camden","Sex Offenses",17,20,19,18,14,12,23,7
 "Wenonah","Sex Offenses",29,4,10,13,9,12,6,0
 "West Maka Ska","Sex Offenses",2,3,2,3,1,0,1,0
-"Whittier","Sex Offenses",49,32,31,37,41,43,40,8
+"Whittier","Sex Offenses",49,32,31,37,41,43,40,10
 "Willard - Hay","Sex Offenses",30,37,21,24,30,32,35,8
 "Windom","Sex Offenses",6,12,9,6,5,2,8,0
 "Windom Park","Sex Offenses",11,11,4,5,7,6,5,2
-NA,"Sex Offenses",36,29,63,66,40,41,78,43
+NA,"Sex Offenses",36,29,63,66,40,41,78,44
 "Columbia Park","Sex Offenses",0,8,1,3,1,1,2,0
 "East Bde Maka Ska","Sex Offenses",0,3,3,7,0,9,0,1
 "Field","Sex Offenses",0,3,1,5,7,3,0,0
@@ -102,7 +102,7 @@ NA,"Sex Offenses",36,29,63,66,40,41,78,43
 "Cooper","Total",2,1,2,3,4,0,2,1
 "Corcoran","Total",7,5,8,8,6,9,9,9
 "Diamond Lake","Total",2,2,5,4,4,4,3,0
-"Downtown East","Total",10,15,5,12,6,9,6,3
+"Downtown East","Total",10,15,5,12,6,9,6,4
 "Downtown West","Total",84,52,41,59,63,45,48,13
 "East Harriet","Total",2,6,1,6,3,4,6,1
 "East Isles","Total",2,0,6,1,3,2,2,2
@@ -116,7 +116,7 @@ NA,"Sex Offenses",36,29,63,66,40,41,78,43
 "Hiawatha","Total",3,7,5,3,6,10,8,1
 "Holland","Total",5,7,9,6,7,5,9,4
 "Howe","Total",5,6,5,1,0,9,4,1
-"Jordan","Total",37,34,29,28,39,37,36,6
+"Jordan","Total",37,34,29,28,39,37,36,7
 "Keewaydin","Total",1,3,0,0,4,3,5,1
 "Kenny","Total",2,3,2,2,0,1,2,0
 "King Field","Total",7,6,4,2,10,7,4,2
@@ -162,11 +162,11 @@ NA,"Sex Offenses",36,29,63,66,40,41,78,43
 "Webber - Camden","Total",17,20,19,18,14,12,23,7
 "Wenonah","Total",29,4,10,13,9,12,6,0
 "West Maka Ska","Total",2,3,2,3,1,0,1,0
-"Whittier","Total",49,32,31,37,41,43,40,8
+"Whittier","Total",49,32,31,37,41,43,40,10
 "Willard - Hay","Total",30,37,21,24,30,32,35,8
 "Windom","Total",6,12,9,6,5,2,8,0
 "Windom Park","Total",11,11,4,5,7,6,5,2
-NA,"Total",36,29,63,66,40,41,78,43
+NA,"Total",36,29,63,66,40,41,78,44
 "Columbia Park","Total",0,8,1,3,1,1,2,0
 "East Bde Maka Ska","Total",0,3,3,7,0,9,0,1
 "Field","Total",0,3,1,5,7,3,0,0
