@@ -18,11 +18,11 @@
 "Downtown East","Sex Offenses",10,15,5,12,6,9,6,4
 "Downtown West","Sex Offenses",84,52,41,59,63,45,48,13
 "East Harriet","Sex Offenses",2,6,1,6,3,4,6,1
-"East Isles","Sex Offenses",2,0,6,1,3,2,2,3
+"East Isles","Sex Offenses",2,0,6,1,3,2,2,4
 "East Phillips","Sex Offenses",29,16,19,19,16,27,24,1
 "Elliot Park","Sex Offenses",29,19,26,22,22,32,26,8
 "Ericsson","Sex Offenses",7,2,5,3,2,2,3,1
-"Folwell","Sex Offenses",23,42,20,16,24,21,13,10
+"Folwell","Sex Offenses",23,42,20,16,24,21,13,13
 "Fulton","Sex Offenses",3,0,1,4,4,0,3,1
 "Harrison","Sex Offenses",14,9,9,8,10,8,11,3
 "Hawthorne","Sex Offenses",39,25,29,25,37,24,22,1
@@ -59,7 +59,7 @@
 "Powderhorn Park","Sex Offenses",19,23,14,14,16,5,17,6
 "Prospect Park - East River Road","Sex Offenses",16,8,6,9,11,13,6,3
 "Regina","Sex Offenses",3,1,3,3,0,5,4,1
-"Seward","Sex Offenses",7,9,14,5,20,14,22,7
+"Seward","Sex Offenses",7,9,14,5,20,14,22,8
 "Sheridan","Sex Offenses",5,2,3,3,4,6,3,0
 "Shingle Creek","Sex Offenses",12,8,5,6,4,3,5,1
 "South Uptown","Sex Offenses",11,5,4,5,6,4,7,2
@@ -105,11 +105,11 @@ NA,"Sex Offenses",36,29,63,66,40,41,78,50
 "Downtown East","Total",10,15,5,12,6,9,6,4
 "Downtown West","Total",84,52,41,59,63,45,48,13
 "East Harriet","Total",2,6,1,6,3,4,6,1
-"East Isles","Total",2,0,6,1,3,2,2,3
+"East Isles","Total",2,0,6,1,3,2,2,4
 "East Phillips","Total",29,16,19,19,16,27,24,1
 "Elliot Park","Total",29,19,26,22,22,32,26,8
 "Ericsson","Total",7,2,5,3,2,2,3,1
-"Folwell","Total",23,42,20,16,24,21,13,10
+"Folwell","Total",23,42,20,16,24,21,13,13
 "Fulton","Total",3,0,1,4,4,0,3,1
 "Harrison","Total",14,9,9,8,10,8,11,3
 "Hawthorne","Total",39,25,29,25,37,24,22,1
@@ -146,7 +146,7 @@ NA,"Sex Offenses",36,29,63,66,40,41,78,50
 "Powderhorn Park","Total",19,23,14,14,16,5,17,6
 "Prospect Park - East River Road","Total",16,8,6,9,11,13,6,3
 "Regina","Total",3,1,3,3,0,5,4,1
-"Seward","Total",7,9,14,5,20,14,22,7
+"Seward","Total",7,9,14,5,20,14,22,8
 "Sheridan","Total",5,2,3,3,4,6,3,0
 "Shingle Creek","Total",12,8,5,6,4,3,5,1
 "South Uptown","Total",11,5,4,5,6,4,7,2

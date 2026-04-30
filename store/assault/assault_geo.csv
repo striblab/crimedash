@@ -8,10 +8,10 @@
 "Bryn - Mawr","Aggravated Assault",7,5,3,3,1,6,7,2
 "Camden Industrial","Aggravated Assault",5,4,3,4,4,2,1,0
 "Cedar - Isles - Dean","Aggravated Assault",4,5,2,1,4,3,5,1
-"Cedar Riverside","Aggravated Assault",33,36,49,73,39,41,29,15
+"Cedar Riverside","Aggravated Assault",33,36,49,73,39,41,29,16
 "Central","Aggravated Assault",62,52,74,67,56,62,54,18
 "Cleveland","Aggravated Assault",24,26,28,34,21,37,33,9
-"Columbia Park","Aggravated Assault",3,4,12,8,4,6,10,1
+"Columbia Park","Aggravated Assault",3,4,12,8,4,6,10,2
 "Como","Aggravated Assault",16,14,27,28,39,17,27,5
 "Cooper","Aggravated Assault",6,6,6,4,5,2,2,3
 "Corcoran","Aggravated Assault",10,21,16,28,36,23,35,8
@@ -25,7 +25,7 @@
 "Elliot Park","Aggravated Assault",60,74,79,74,100,70,90,20
 "Ericsson","Aggravated Assault",5,6,4,5,5,16,3,0
 "Field","Aggravated Assault",1,7,7,7,3,3,4,0
-"Folwell","Aggravated Assault",128,155,138,154,115,128,107,22
+"Folwell","Aggravated Assault",128,155,138,154,115,128,107,23
 "Fulton","Aggravated Assault",2,2,1,2,0,4,1,1
 "Harrison","Aggravated Assault",22,34,37,37,41,34,60,41
 "Hawthorne","Aggravated Assault",172,221,198,181,159,126,143,30
@@ -40,10 +40,10 @@
 "Lind - Bohanon","Aggravated Assault",49,65,75,47,29,55,54,7
 "Linden Hills","Aggravated Assault",6,6,4,6,2,4,4,2
 "Logan Park","Aggravated Assault",2,8,5,13,11,16,16,3
-"Longfellow","Aggravated Assault",32,34,27,32,45,37,38,9
+"Longfellow","Aggravated Assault",32,34,27,32,45,37,38,10
 "Loring Park","Aggravated Assault",42,83,91,82,70,74,85,29
 "Lowry Hill","Aggravated Assault",6,3,8,8,15,9,3,3
-"Lowry Hill East","Aggravated Assault",32,55,59,75,83,69,61,19
+"Lowry Hill East","Aggravated Assault",32,55,59,75,83,69,61,22
 "Lyndale","Aggravated Assault",17,35,32,40,48,80,56,19
 "Lynnhurst","Aggravated Assault",3,0,0,2,0,2,1,2
 "Marcy Holmes","Aggravated Assault",54,54,54,51,49,50,51,20
@@ -81,7 +81,7 @@
 "West Maka Ska","Aggravated Assault",8,4,1,8,5,10,4,2
 "Whittier","Aggravated Assault",99,114,123,168,156,200,166,76
 "Willard - Hay","Aggravated Assault",128,116,121,101,124,139,119,73
-"Windom","Aggravated Assault",9,18,25,14,16,14,48,12
+"Windom","Aggravated Assault",9,18,25,14,16,14,48,13
 "Windom Park","Aggravated Assault",12,11,19,13,11,18,11,4
 NA,"Aggravated Assault",9,14,20,23,21,14,13,8
 "Hale","Aggravated Assault",0,1,1,2,1,2,1,1
@@ -96,10 +96,10 @@ NA,"Aggravated Assault",9,14,20,23,21,14,13,8
 "Bryn - Mawr","Total",7,5,3,3,1,6,7,2
 "Camden Industrial","Total",5,4,3,4,4,2,1,0
 "Cedar - Isles - Dean","Total",4,5,2,1,4,3,5,1
-"Cedar Riverside","Total",33,36,49,73,39,41,29,15
+"Cedar Riverside","Total",33,36,49,73,39,41,29,16
 "Central","Total",62,52,74,67,56,62,54,18
 "Cleveland","Total",24,26,28,34,21,37,33,9
-"Columbia Park","Total",3,4,12,8,4,6,10,1
+"Columbia Park","Total",3,4,12,8,4,6,10,2
 "Como","Total",16,14,27,28,39,17,27,5
 "Cooper","Total",6,6,6,4,5,2,2,3
 "Corcoran","Total",10,21,16,28,36,23,35,8
@@ -113,7 +113,7 @@ NA,"Aggravated Assault",9,14,20,23,21,14,13,8
 "Elliot Park","Total",60,74,79,74,100,70,90,20
 "Ericsson","Total",5,6,4,5,5,16,3,0
 "Field","Total",1,7,7,7,3,3,4,0
-"Folwell","Total",128,155,138,154,115,128,107,22
+"Folwell","Total",128,155,138,154,115,128,107,23
 "Fulton","Total",2,2,1,2,0,4,1,1
 "Harrison","Total",22,34,37,37,41,34,60,41
 "Hawthorne","Total",172,221,198,181,159,126,143,30
@@ -128,10 +128,10 @@ NA,"Aggravated Assault",9,14,20,23,21,14,13,8
 "Lind - Bohanon","Total",49,65,75,47,29,55,54,7
 "Linden Hills","Total",6,6,4,6,2,4,4,2
 "Logan Park","Total",2,8,5,13,11,16,16,3
-"Longfellow","Total",32,34,27,32,45,37,38,9
+"Longfellow","Total",32,34,27,32,45,37,38,10
 "Loring Park","Total",42,83,91,82,70,74,85,29
 "Lowry Hill","Total",6,3,8,8,15,9,3,3
-"Lowry Hill East","Total",32,55,59,75,83,69,61,19
+"Lowry Hill East","Total",32,55,59,75,83,69,61,22
 "Lyndale","Total",17,35,32,40,48,80,56,19
 "Lynnhurst","Total",3,0,0,2,0,2,1,2
 "Marcy Holmes","Total",54,54,54,51,49,50,51,20
@@ -169,7 +169,7 @@ NA,"Aggravated Assault",9,14,20,23,21,14,13,8
 "West Maka Ska","Total",8,4,1,8,5,10,4,2
 "Whittier","Total",99,114,123,168,156,200,166,76
 "Willard - Hay","Total",128,116,121,101,124,139,119,73
-"Windom","Total",9,18,25,14,16,14,48,12
+"Windom","Total",9,18,25,14,16,14,48,13
 "Windom Park","Total",12,11,19,13,11,18,11,4
 NA,"Total",9,14,20,23,21,14,13,8
 "Hale","Total",0,1,1,2,1,2,1,1
