@@ -28,8 +28,8 @@
 "Loring Park","Carjacking - Subset of Robbery",1,7,8,7,7,5,3
 "Lowry Hill","Carjacking - Subset of Robbery",4,14,7,2,2,0,1
 "Lowry Hill East","Carjacking - Subset of Robbery",5,17,24,16,8,1,1
-"Lyndale","Carjacking - Subset of Robbery",3,10,9,6,12,1,2
-"Marcy Holmes","Carjacking - Subset of Robbery",3,13,22,5,5,2,2
+"Lyndale","Carjacking - Subset of Robbery",3,10,9,6,12,1,3
+"Marcy Holmes","Carjacking - Subset of Robbery",3,13,22,5,5,2,1
 "McKinley","Carjacking - Subset of Robbery",2,10,2,5,3,4,1
 "Midtown Phillips","Carjacking - Subset of Robbery",10,20,27,8,7,6,4
 "Near - North","Carjacking - Subset of Robbery",4,23,14,9,7,5,1
@@ -44,7 +44,7 @@
 "Standish","Carjacking - Subset of Robbery",4,7,1,2,1,0,0
 "Sumner - Glenwood","Carjacking - Subset of Robbery",1,12,6,3,8,0,0
 "Tangletown","Carjacking - Subset of Robbery",1,2,1,2,1,0,2
-"Ventura Village","Carjacking - Subset of Robbery",12,36,29,14,12,9,2
+"Ventura Village","Carjacking - Subset of Robbery",12,36,29,14,12,9,3
 "Webber - Camden","Carjacking - Subset of Robbery",1,6,5,4,3,3,0
 "Whittier","Carjacking - Subset of Robbery",13,46,41,25,14,9,4
 "Willard - Hay","Carjacking - Subset of Robbery",4,9,17,13,5,2,2
@@ -70,7 +70,7 @@ NA,"Carjacking - Subset of Robbery",2,3,2,2,1,3,0
 "Mid - City Industrial","Carjacking - Subset of Robbery",0,3,2,0,0,0,0
 "Minnehaha","Carjacking - Subset of Robbery",0,3,1,0,0,1,0
 "Nicollet Island - East Bank","Carjacking - Subset of Robbery",0,1,3,0,1,1,0
-"North Loop","Carjacking - Subset of Robbery",0,10,8,1,0,4,1
+"North Loop","Carjacking - Subset of Robbery",0,10,8,1,0,4,2
 "Regina","Carjacking - Subset of Robbery",0,4,3,1,1,5,0
 "Shingle Creek","Carjacking - Subset of Robbery",0,7,1,2,0,0,0
 "St. Anthony East","Carjacking - Subset of Robbery",0,1,1,2,0,0,0
@@ -115,8 +115,8 @@ NA,"Carjacking - Subset of Robbery",2,3,2,2,1,3,0
 "Loring Park","Total",1,7,8,7,7,5,3
 "Lowry Hill","Total",4,14,7,2,2,0,1
 "Lowry Hill East","Total",5,17,24,16,8,1,1
-"Lyndale","Total",3,10,9,6,12,1,2
-"Marcy Holmes","Total",3,13,22,5,5,2,2
+"Lyndale","Total",3,10,9,6,12,1,3
+"Marcy Holmes","Total",3,13,22,5,5,2,1
 "McKinley","Total",2,10,2,5,3,4,1
 "Midtown Phillips","Total",10,20,27,8,7,6,4
 "Near - North","Total",4,23,14,9,7,5,1
@@ -131,7 +131,7 @@ NA,"Carjacking - Subset of Robbery",2,3,2,2,1,3,0
 "Standish","Total",4,7,1,2,1,0,0
 "Sumner - Glenwood","Total",1,12,6,3,8,0,0
 "Tangletown","Total",1,2,1,2,1,0,2
-"Ventura Village","Total",12,36,29,14,12,9,2
+"Ventura Village","Total",12,36,29,14,12,9,3
 "Webber - Camden","Total",1,6,5,4,3,3,0
 "Whittier","Total",13,46,41,25,14,9,4
 "Willard - Hay","Total",4,9,17,13,5,2,2
@@ -157,7 +157,7 @@ NA,"Total",2,3,2,2,1,3,0
 "Mid - City Industrial","Total",0,3,2,0,0,0,0
 "Minnehaha","Total",0,3,1,0,0,1,0
 "Nicollet Island - East Bank","Total",0,1,3,0,1,1,0
-"North Loop","Total",0,10,8,1,0,4,1
+"North Loop","Total",0,10,8,1,0,4,2
 "Regina","Total",0,4,3,1,1,5,0
 "Shingle Creek","Total",0,7,1,2,0,0,0
 "St. Anthony East","Total",0,1,1,2,0,0,0

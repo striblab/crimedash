@@ -37,6 +37,12 @@
   },
   {
     "Year": 2025,
+    "Precinct": 1,
+    "Offense": "Justifiable Homicide",
+    "OffenseCount": 1
+  },
+  {
+    "Year": 2025,
     "Precinct": 4,
     "Offense": "Justifiable Homicide",
     "OffenseCount": 1

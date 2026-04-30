@@ -15,7 +15,7 @@
     "Year": 2020,
     "Precinct": 3,
     "Offense": "Shooting (PFE)",
-    "OffenseCount": 132
+    "OffenseCount": 129
   },
   {
     "Year": 2020,
@@ -27,7 +27,7 @@
     "Year": 2020,
     "Precinct": 5,
     "Offense": "Shooting (PFE)",
-    "OffenseCount": 31
+    "OffenseCount": 30
   },
   {
     "Year": 2020,
@@ -215,13 +215,13 @@
     "Year": 2026,
     "Precinct": 3,
     "Offense": "Shooting (PFE)",
-    "OffenseCount": 12
+    "OffenseCount": 14
   },
   {
     "Year": 2026,
     "Precinct": 4,
     "Offense": "Shooting (PFE)",
-    "OffenseCount": 17
+    "OffenseCount": 18
   },
   {
     "Year": 2026,
@@ -233,7 +233,7 @@
     "Year": 2020,
     "Precinct": 1,
     "Offense": "Shooting Report Only (P)",
-    "OffenseCount": 62
+    "OffenseCount": 60
   },
   {
     "Year": 2020,
@@ -245,13 +245,13 @@
     "Year": 2020,
     "Precinct": 3,
     "Offense": "Shooting Report Only (P)",
-    "OffenseCount": 48
+    "OffenseCount": 47
   },
   {
     "Year": 2020,
     "Precinct": 4,
     "Offense": "Shooting Report Only (P)",
-    "OffenseCount": 91
+    "OffenseCount": 90
   },
   {
     "Year": 2020,
@@ -443,13 +443,13 @@
     "Year": 2026,
     "Precinct": 1,
     "Offense": "Shooting Report Only (P)",
-    "OffenseCount": 6
+    "OffenseCount": 7
   },
   {
     "Year": 2026,
     "Precinct": 3,
     "Offense": "Shooting Report Only (P)",
-    "OffenseCount": 2
+    "OffenseCount": 3
   },
   {
     "Year": 2026,
@@ -458,22 +458,28 @@
     "OffenseCount": 7
   },
   {
+    "Year": 2026,
+    "Precinct": 5,
+    "Offense": "Shooting Report Only (P)",
+    "OffenseCount": 1
+  },
+  {
     "Year": 2020,
     "Precinct": 1,
     "Offense": "ShotSpotter Activation (P)",
-    "OffenseCount": 6
+    "OffenseCount": 5
   },
   {
     "Year": 2020,
     "Precinct": 3,
     "Offense": "ShotSpotter Activation (P)",
-    "OffenseCount": 760
+    "OffenseCount": 752
   },
   {
     "Year": 2020,
     "Precinct": 4,
     "Offense": "ShotSpotter Activation (P)",
-    "OffenseCount": 2965
+    "OffenseCount": 2913
   },
   {
     "Year": 2020,
@@ -659,25 +665,25 @@
     "Year": 2026,
     "Precinct": 1,
     "Offense": "ShotSpotter Activation (P)",
-    "OffenseCount": 6
+    "OffenseCount": 7
   },
   {
     "Year": 2026,
     "Precinct": 3,
     "Offense": "ShotSpotter Activation (P)",
-    "OffenseCount": 112
+    "OffenseCount": 119
   },
   {
     "Year": 2026,
     "Precinct": 4,
     "Offense": "ShotSpotter Activation (P)",
-    "OffenseCount": 381
+    "OffenseCount": 410
   },
   {
     "Year": 2026,
     "Precinct": 5,
     "Offense": "ShotSpotter Activation (P)",
-    "OffenseCount": 58
+    "OffenseCount": 61
   },
   {
     "Year": 2026,
@@ -694,25 +700,25 @@
     "Year": 2020,
     "Precinct": 2,
     "Offense": "Sound of Shots Fired (P)",
-    "OffenseCount": 237
+    "OffenseCount": 235
   },
   {
     "Year": 2020,
     "Precinct": 3,
     "Offense": "Sound of Shots Fired (P)",
-    "OffenseCount": 1333
+    "OffenseCount": 1318
   },
   {
     "Year": 2020,
     "Precinct": 4,
     "Offense": "Sound of Shots Fired (P)",
-    "OffenseCount": 1871
+    "OffenseCount": 1844
   },
   {
     "Year": 2020,
     "Precinct": 5,
     "Offense": "Sound of Shots Fired (P)",
-    "OffenseCount": 481
+    "OffenseCount": 473
   },
   {
     "Year": 2020,
@@ -898,31 +904,31 @@
     "Year": 2026,
     "Precinct": 1,
     "Offense": "Sound of Shots Fired (P)",
-    "OffenseCount": 37
+    "OffenseCount": 39
   },
   {
     "Year": 2026,
     "Precinct": 2,
     "Offense": "Sound of Shots Fired (P)",
-    "OffenseCount": 71
+    "OffenseCount": 75
   },
   {
     "Year": 2026,
     "Precinct": 3,
     "Offense": "Sound of Shots Fired (P)",
-    "OffenseCount": 167
+    "OffenseCount": 178
   },
   {
     "Year": 2026,
     "Precinct": 4,
     "Offense": "Sound of Shots Fired (P)",
-    "OffenseCount": 139
+    "OffenseCount": 147
   },
   {
     "Year": 2026,
     "Precinct": 5,
     "Offense": "Sound of Shots Fired (P)",
-    "OffenseCount": 102
+    "OffenseCount": 106
   },
   {
     "Year": 2026,
