@@ -393,7 +393,7 @@
     "X2023": 15,
     "X2024": 9,
     "X2025": 6,
-    "X2026": 2
+    "X2026": 3
   },
   {
     "Neighborhood": "Shingle Creek",
@@ -1129,7 +1129,7 @@
     "X2023": 14,
     "X2024": 10,
     "X2025": 8,
-    "X2026": 1
+    "X2026": 2
   },
   {
     "Neighborhood": "Morris Park",
@@ -1650,7 +1650,7 @@
   {
     "Neighborhood": "Cleveland",
     "Offense": "ShotSpotter Activation (P)",
-    "X2020": 133,
+    "X2020": 132,
     "X2021": 246,
     "X2022": 190,
     "X2023": 113,
@@ -1694,13 +1694,13 @@
   {
     "Neighborhood": "Folwell",
     "Offense": "ShotSpotter Activation (P)",
-    "X2020": 411,
+    "X2020": 410,
     "X2021": 657,
     "X2022": 381,
     "X2023": 304,
     "X2024": 263,
     "X2025": 195,
-    "X2026": 55
+    "X2026": 56
   },
   {
     "Neighborhood": "Harrison",
@@ -1716,13 +1716,13 @@
   {
     "Neighborhood": "Hawthorne",
     "Offense": "ShotSpotter Activation (P)",
-    "X2020": 407,
+    "X2020": 406,
     "X2021": 623,
     "X2022": 473,
     "X2023": 270,
     "X2024": 244,
     "X2025": 213,
-    "X2026": 66
+    "X2026": 67
   },
   {
     "Neighborhood": "Humboldt Industrial Area",
@@ -1755,7 +1755,7 @@
     "X2023": 156,
     "X2024": 156,
     "X2025": 106,
-    "X2026": 23
+    "X2026": 25
   },
   {
     "Neighborhood": "Longfellow",
@@ -1782,7 +1782,7 @@
   {
     "Neighborhood": "McKinley",
     "Offense": "ShotSpotter Activation (P)",
-    "X2020": 206,
+    "X2020": 205,
     "X2021": 347,
     "X2022": 213,
     "X2023": 142,
@@ -1914,7 +1914,7 @@
   {
     "Neighborhood": "Webber - Camden",
     "Offense": "ShotSpotter Activation (P)",
-    "X2020": 214,
+    "X2020": 213,
     "X2021": 339,
     "X2022": 277,
     "X2023": 200,
@@ -2166,7 +2166,7 @@
   {
     "Neighborhood": "Bryant",
     "Offense": "Sound of Shots Fired (P)",
-    "X2020": 72,
+    "X2020": 71,
     "X2021": 68,
     "X2022": 38,
     "X2023": 29,
@@ -2298,7 +2298,7 @@
   {
     "Neighborhood": "Downtown East",
     "Offense": "Sound of Shots Fired (P)",
-    "X2020": 15,
+    "X2020": 14,
     "X2021": 7,
     "X2022": 12,
     "X2023": 15,
@@ -2364,7 +2364,7 @@
   {
     "Neighborhood": "Elliot Park",
     "Offense": "Sound of Shots Fired (P)",
-    "X2020": 44,
+    "X2020": 43,
     "X2021": 78,
     "X2022": 58,
     "X2023": 49,
@@ -2474,7 +2474,7 @@
   {
     "Neighborhood": "Howe",
     "Offense": "Sound of Shots Fired (P)",
-    "X2020": 37,
+    "X2020": 36,
     "X2021": 21,
     "X2022": 32,
     "X2023": 31,
@@ -2485,7 +2485,7 @@
   {
     "Neighborhood": "Humboldt Industrial Area",
     "Offense": "Sound of Shots Fired (P)",
-    "X2020": 6,
+    "X2020": 5,
     "X2021": 6,
     "X2022": 1,
     "X2023": 2,
@@ -2590,7 +2590,7 @@
     "X2023": 28,
     "X2024": 49,
     "X2025": 39,
-    "X2026": 4
+    "X2026": 6
   },
   {
     "Neighborhood": "Loring Park",
@@ -2859,7 +2859,7 @@
   {
     "Neighborhood": "Shingle Creek",
     "Offense": "Sound of Shots Fired (P)",
-    "X2020": 47,
+    "X2020": 46,
     "X2021": 45,
     "X2022": 27,
     "X2023": 22,
@@ -3041,7 +3041,7 @@
     "X2023": 122,
     "X2024": 147,
     "X2025": 106,
-    "X2026": 16
+    "X2026": 17
   },
   {
     "Neighborhood": "Windom",
@@ -3133,7 +3133,7 @@
   {
     "Neighborhood": "Bryant",
     "Offense": "Total",
-    "X2020": 101,
+    "X2020": 100,
     "X2021": 107,
     "X2022": 56,
     "X2023": 47,
@@ -3199,7 +3199,7 @@
   {
     "Neighborhood": "Cleveland",
     "Offense": "Total",
-    "X2020": 217,
+    "X2020": 216,
     "X2021": 361,
     "X2022": 254,
     "X2023": 146,
@@ -3265,7 +3265,7 @@
   {
     "Neighborhood": "Downtown East",
     "Offense": "Total",
-    "X2020": 15,
+    "X2020": 14,
     "X2021": 12,
     "X2022": 15,
     "X2023": 16,
@@ -3331,7 +3331,7 @@
   {
     "Neighborhood": "Elliot Park",
     "Offense": "Total",
-    "X2020": 94,
+    "X2020": 93,
     "X2021": 165,
     "X2022": 110,
     "X2023": 100,
@@ -3364,13 +3364,13 @@
   {
     "Neighborhood": "Folwell",
     "Offense": "Total",
-    "X2020": 652,
+    "X2020": 651,
     "X2021": 946,
     "X2022": 555,
     "X2023": 405,
     "X2024": 383,
     "X2025": 268,
-    "X2026": 72
+    "X2026": 73
   },
   {
     "Neighborhood": "Fulton",
@@ -3408,13 +3408,13 @@
   {
     "Neighborhood": "Hawthorne",
     "Offense": "Total",
-    "X2020": 768,
+    "X2020": 767,
     "X2021": 1066,
     "X2022": 765,
     "X2023": 461,
     "X2024": 386,
     "X2025": 305,
-    "X2026": 94
+    "X2026": 95
   },
   {
     "Neighborhood": "Hiawatha",
@@ -3441,7 +3441,7 @@
   {
     "Neighborhood": "Howe",
     "Offense": "Total",
-    "X2020": 40,
+    "X2020": 39,
     "X2021": 26,
     "X2022": 33,
     "X2023": 31,
@@ -3452,7 +3452,7 @@
   {
     "Neighborhood": "Humboldt Industrial Area",
     "Offense": "Total",
-    "X2020": 13,
+    "X2020": 12,
     "X2021": 12,
     "X2022": 10,
     "X2023": 7,
@@ -3524,7 +3524,7 @@
     "X2023": 220,
     "X2024": 225,
     "X2025": 167,
-    "X2026": 35
+    "X2026": 37
   },
   {
     "Neighborhood": "Linden Hills",
@@ -3557,7 +3557,7 @@
     "X2023": 35,
     "X2024": 57,
     "X2025": 42,
-    "X2026": 5
+    "X2026": 7
   },
   {
     "Neighborhood": "Loring Park",
@@ -3639,7 +3639,7 @@
   {
     "Neighborhood": "McKinley",
     "Offense": "Total",
-    "X2020": 295,
+    "X2020": 294,
     "X2021": 457,
     "X2022": 281,
     "X2023": 189,
@@ -3667,7 +3667,7 @@
     "X2023": 161,
     "X2024": 263,
     "X2025": 204,
-    "X2026": 38
+    "X2026": 39
   },
   {
     "Neighborhood": "Minnehaha",
@@ -3810,7 +3810,7 @@
     "X2023": 89,
     "X2024": 64,
     "X2025": 68,
-    "X2026": 13
+    "X2026": 14
   },
   {
     "Neighborhood": "Sheridan",
@@ -3826,7 +3826,7 @@
   {
     "Neighborhood": "Shingle Creek",
     "Offense": "Total",
-    "X2020": 54,
+    "X2020": 53,
     "X2021": 62,
     "X2022": 35,
     "X2023": 26,
@@ -3958,7 +3958,7 @@
   {
     "Neighborhood": "Webber - Camden",
     "Offense": "Total",
-    "X2020": 405,
+    "X2020": 404,
     "X2021": 516,
     "X2022": 408,
     "X2023": 298,
@@ -4008,7 +4008,7 @@
     "X2023": 528,
     "X2024": 452,
     "X2025": 392,
-    "X2026": 80
+    "X2026": 81
   },
   {
     "Neighborhood": "Windom",

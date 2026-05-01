@@ -1,7 +1,7 @@
 "Neighborhood","Offense","2019","2020","2021","2022","2023","2024","2025","2026"
 "Armatage","Aggravated Assault",5,5,6,6,12,3,3,1
-"Audubon Park","Aggravated Assault",12,10,8,7,4,12,14,3
-"Bancroft","Aggravated Assault",4,13,7,16,4,7,4,1
+"Audubon Park","Aggravated Assault",12,10,8,7,4,12,14,4
+"Bancroft","Aggravated Assault",4,13,7,16,4,7,4,2
 "Beltrami","Aggravated Assault",4,4,11,4,5,8,2,5
 "Bottineau","Aggravated Assault",2,5,5,12,6,15,13,2
 "Bryant","Aggravated Assault",7,10,10,8,4,10,7,6
@@ -32,7 +32,7 @@
 "Hiawatha","Aggravated Assault",16,16,13,16,21,24,15,9
 "Holland","Aggravated Assault",24,32,39,28,40,34,22,10
 "Howe","Aggravated Assault",11,19,10,12,17,17,20,7
-"Jordan","Aggravated Assault",132,220,229,199,197,190,221,25
+"Jordan","Aggravated Assault",132,220,229,199,197,190,221,26
 "Keewaydin","Aggravated Assault",2,6,2,4,1,2,11,3
 "Kenny","Aggravated Assault",1,2,1,0,1,1,1,0
 "Kenwood","Aggravated Assault",1,4,3,4,1,2,3,1
@@ -56,13 +56,13 @@
 "Near - North","Aggravated Assault",117,157,134,175,135,118,126,35
 "Nicollet Island - East Bank","Aggravated Assault",8,8,13,10,13,17,8,1
 "North Loop","Aggravated Assault",16,26,44,50,49,31,42,22
-"Northeast Park","Aggravated Assault",5,4,9,9,6,6,5,1
+"Northeast Park","Aggravated Assault",5,4,9,9,6,6,5,2
 "Northrop","Aggravated Assault",3,9,15,9,1,10,6,3
 "Phillips West","Aggravated Assault",33,56,49,54,46,61,48,13
 "Powderhorn Park","Aggravated Assault",48,74,81,78,69,88,72,18
 "Prospect Park - East River Road","Aggravated Assault",9,14,29,15,26,39,29,12
 "Regina","Aggravated Assault",6,6,7,10,5,5,3,6
-"Seward","Aggravated Assault",32,42,37,47,48,44,64,12
+"Seward","Aggravated Assault",32,42,37,47,48,44,64,13
 "Sheridan","Aggravated Assault",4,13,12,15,5,6,14,8
 "Shingle Creek","Aggravated Assault",21,36,19,11,12,23,18,8
 "South Uptown","Aggravated Assault",8,14,26,19,16,37,20,3
@@ -88,8 +88,8 @@ NA,"Aggravated Assault",9,14,20,23,21,14,13,8
 "Page","Aggravated Assault",0,1,1,0,0,3,0,0
 "Humboldt Industrial Area","Aggravated Assault",0,0,0,1,1,0,1,0
 "Armatage","Total",5,5,6,6,12,3,3,1
-"Audubon Park","Total",12,10,8,7,4,12,14,3
-"Bancroft","Total",4,13,7,16,4,7,4,1
+"Audubon Park","Total",12,10,8,7,4,12,14,4
+"Bancroft","Total",4,13,7,16,4,7,4,2
 "Beltrami","Total",4,4,11,4,5,8,2,5
 "Bottineau","Total",2,5,5,12,6,15,13,2
 "Bryant","Total",7,10,10,8,4,10,7,6
@@ -120,7 +120,7 @@ NA,"Aggravated Assault",9,14,20,23,21,14,13,8
 "Hiawatha","Total",16,16,13,16,21,24,15,9
 "Holland","Total",24,32,39,28,40,34,22,10
 "Howe","Total",11,19,10,12,17,17,20,7
-"Jordan","Total",132,220,229,199,197,190,221,25
+"Jordan","Total",132,220,229,199,197,190,221,26
 "Keewaydin","Total",2,6,2,4,1,2,11,3
 "Kenny","Total",1,2,1,0,1,1,1,0
 "Kenwood","Total",1,4,3,4,1,2,3,1
@@ -144,13 +144,13 @@ NA,"Aggravated Assault",9,14,20,23,21,14,13,8
 "Near - North","Total",117,157,134,175,135,118,126,35
 "Nicollet Island - East Bank","Total",8,8,13,10,13,17,8,1
 "North Loop","Total",16,26,44,50,49,31,42,22
-"Northeast Park","Total",5,4,9,9,6,6,5,1
+"Northeast Park","Total",5,4,9,9,6,6,5,2
 "Northrop","Total",3,9,15,9,1,10,6,3
 "Phillips West","Total",33,56,49,54,46,61,48,13
 "Powderhorn Park","Total",48,74,81,78,69,88,72,18
 "Prospect Park - East River Road","Total",9,14,29,15,26,39,29,12
 "Regina","Total",6,6,7,10,5,5,3,6
-"Seward","Total",32,42,37,47,48,44,64,12
+"Seward","Total",32,42,37,47,48,44,64,13
 "Sheridan","Total",4,13,12,15,5,6,14,8
 "Shingle Creek","Total",21,36,19,11,12,23,18,8
 "South Uptown","Total",8,14,26,19,16,37,20,3
