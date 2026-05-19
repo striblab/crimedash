@@ -37,7 +37,7 @@
   {
     "Year": 2026,
     "Offense": "All Other Larceny",
-    "OffenseCount": 1865
+    "OffenseCount": 1926
   },
   {
     "Year": 2019,
@@ -77,7 +77,7 @@
   {
     "Year": 2026,
     "Offense": "Theft From Motor Vehicle",
-    "OffenseCount": 1431
+    "OffenseCount": 1478
   },
   {
     "Year": 2019,
@@ -111,6 +111,11 @@
   },
   {
     "Year": 2025,
+    "Offense": "Pocket-picking",
+    "OffenseCount": 1
+  },
+  {
+    "Year": 2026,
     "Offense": "Pocket-picking",
     "OffenseCount": 1
   },
@@ -192,7 +197,7 @@
   {
     "Year": 2026,
     "Offense": "Shoplifting",
-    "OffenseCount": 409
+    "OffenseCount": 420
   },
   {
     "Year": 2019,
@@ -297,6 +302,6 @@
   {
     "Year": 2026,
     "Offense": "Theft of Motor Vehicle Parts or Accessories",
-    "OffenseCount": 460
+    "OffenseCount": 473
   }
 ]

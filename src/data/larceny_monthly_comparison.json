@@ -619,7 +619,7 @@
     "Year": 2026,
     "Month": 5,
     "Offense": "All Other Larceny",
-    "IncidentCount": 216,
+    "IncidentCount": 277,
     "Date": "2026-05-01"
   },
   {
@@ -1242,7 +1242,7 @@
     "Year": 2026,
     "Month": 5,
     "Offense": "Theft From Motor Vehicle",
-    "IncidentCount": 177,
+    "IncidentCount": 224,
     "Date": "2026-05-01"
   },
   {
@@ -1412,6 +1412,13 @@
     "Offense": "Pocket-picking",
     "IncidentCount": 1,
     "Date": "2025-07-01"
+  },
+  {
+    "Year": 2026,
+    "Month": 5,
+    "Offense": "Pocket-picking",
+    "IncidentCount": 1,
+    "Date": "2026-05-01"
   },
   {
     "Year": 2019,
@@ -2656,7 +2663,7 @@
     "Year": 2026,
     "Month": 5,
     "Offense": "Shoplifting",
-    "IncidentCount": 37,
+    "IncidentCount": 48,
     "Date": "2026-05-01"
   },
   {
@@ -3986,14 +3993,14 @@
     "Year": 2026,
     "Month": 4,
     "Offense": "Theft of Motor Vehicle Parts or Accessories",
-    "IncidentCount": 116,
+    "IncidentCount": 117,
     "Date": "2026-04-01"
   },
   {
     "Year": 2026,
     "Month": 5,
     "Offense": "Theft of Motor Vehicle Parts or Accessories",
-    "IncidentCount": 43,
+    "IncidentCount": 55,
     "Date": "2026-05-01"
   }
 ]
