@@ -20,7 +20,7 @@
 "Marcy Holmes","Gunshot Wound Victims",4,3,17,7,5,5,8,0
 "McKinley","Gunshot Wound Victims",5,20,15,11,10,5,2,2
 "Midtown Phillips","Gunshot Wound Victims",9,19,30,20,12,17,19,0
-"Near - North","Gunshot Wound Victims",13,40,38,36,20,16,10,4
+"Near - North","Gunshot Wound Victims",13,40,38,36,20,16,10,6
 "North Loop","Gunshot Wound Victims",2,2,3,6,4,4,1,0
 "Northeast Park","Gunshot Wound Victims",2,0,1,1,0,1,0,0
 "Phillips West","Gunshot Wound Victims",11,7,17,9,3,20,9,0
@@ -30,7 +30,7 @@
 "Sheridan","Gunshot Wound Victims",1,0,2,0,0,1,0,0
 "Steven's Square - Loring Heights","Gunshot Wound Victims",1,5,10,11,6,5,7,4
 "Sumner - Glenwood","Gunshot Wound Victims",6,3,5,3,1,0,1,0
-"Ventura Village","Gunshot Wound Victims",11,24,33,21,40,22,13,7
+"Ventura Village","Gunshot Wound Victims",11,24,33,21,40,22,13,8
 "Waite Park","Gunshot Wound Victims",1,0,2,0,0,0,0,0
 "Webber - Camden","Gunshot Wound Victims",13,18,23,12,12,7,8,2
 "Whittier","Gunshot Wound Victims",3,10,14,18,20,31,23,8
@@ -64,7 +64,7 @@ NA,"Gunshot Wound Victims",0,3,6,4,6,3,2,0
 "Marshall Terrace","Gunshot Wound Victims",0,0,2,0,0,4,3,0
 "Nicollet Island - East Bank","Gunshot Wound Victims",0,0,2,1,1,0,0,0
 "St. Anthony West","Gunshot Wound Victims",0,0,2,7,3,0,6,0
-"Victory","Gunshot Wound Victims",0,0,4,2,4,2,1,0
+"Victory","Gunshot Wound Victims",0,0,4,2,4,2,1,1
 "Windom Park","Gunshot Wound Victims",0,0,2,0,0,0,2,0
 "Diamond Lake","Gunshot Wound Victims",0,0,0,1,1,0,0,0
 "Ericsson","Gunshot Wound Victims",0,0,0,1,0,1,0,0
@@ -99,7 +99,7 @@ NA,"Gunshot Wound Victims",0,3,6,4,6,3,2,0
 "Marcy Holmes","Total",4,3,17,7,5,5,8,0
 "McKinley","Total",5,20,15,11,10,5,2,2
 "Midtown Phillips","Total",9,19,30,20,12,17,19,0
-"Near - North","Total",13,40,38,36,20,16,10,4
+"Near - North","Total",13,40,38,36,20,16,10,6
 "North Loop","Total",2,2,3,6,4,4,1,0
 "Northeast Park","Total",2,0,1,1,0,1,0,0
 "Phillips West","Total",11,7,17,9,3,20,9,0
@@ -109,7 +109,7 @@ NA,"Gunshot Wound Victims",0,3,6,4,6,3,2,0
 "Sheridan","Total",1,0,2,0,0,1,0,0
 "Steven's Square - Loring Heights","Total",1,5,10,11,6,5,7,4
 "Sumner - Glenwood","Total",6,3,5,3,1,0,1,0
-"Ventura Village","Total",11,24,33,21,40,22,13,7
+"Ventura Village","Total",11,24,33,21,40,22,13,8
 "Waite Park","Total",1,0,2,0,0,0,0,0
 "Webber - Camden","Total",13,18,23,12,12,7,8,2
 "Whittier","Total",3,10,14,18,20,31,23,8
@@ -143,7 +143,7 @@ NA,"Total",0,3,6,4,6,3,2,0
 "Marshall Terrace","Total",0,0,2,0,0,4,3,0
 "Nicollet Island - East Bank","Total",0,0,2,1,1,0,0,0
 "St. Anthony West","Total",0,0,2,7,3,0,6,0
-"Victory","Total",0,0,4,2,4,2,1,0
+"Victory","Total",0,0,4,2,4,2,1,1
 "Windom Park","Total",0,0,2,0,0,0,2,0
 "Diamond Lake","Total",0,0,0,1,1,0,0,0
 "Ericsson","Total",0,0,0,1,0,1,0,0
