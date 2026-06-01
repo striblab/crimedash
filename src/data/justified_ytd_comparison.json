@@ -27,14 +27,16 @@
     "YTDPercentageChange": -100
   },
   {
-    "YTDCount": 0,
+    "YTDCount": 1,
     "Year": 2024,
     "Offense": "Justifiable Homicide"
   },
   {
     "YTDCount": 3,
     "Year": 2025,
-    "Offense": "Justifiable Homicide"
+    "Offense": "Justifiable Homicide",
+    "PrevYTDCount": 1,
+    "YTDPercentageChange": 200
   },
   {
     "YTDCount": 1,
