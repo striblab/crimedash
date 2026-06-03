@@ -13,7 +13,7 @@
 "Cleveland","Sex Offenses",7,5,2,9,13,8,9,2
 "Como","Sex Offenses",7,10,8,4,6,12,5,3
 "Cooper","Sex Offenses",2,1,2,3,4,0,2,1
-"Corcoran","Sex Offenses",7,5,8,8,6,9,9,10
+"Corcoran","Sex Offenses",7,5,8,8,6,9,9,11
 "Diamond Lake","Sex Offenses",2,2,5,4,4,4,3,0
 "Downtown East","Sex Offenses",10,15,5,12,6,9,6,6
 "Downtown West","Sex Offenses",84,52,41,59,63,45,48,14
@@ -22,7 +22,7 @@
 "East Phillips","Sex Offenses",29,16,19,19,16,27,24,3
 "Elliot Park","Sex Offenses",29,19,26,22,22,32,26,10
 "Ericsson","Sex Offenses",7,2,5,3,2,2,3,1
-"Folwell","Sex Offenses",23,42,20,16,24,21,13,14
+"Folwell","Sex Offenses",23,42,20,16,24,21,13,15
 "Fulton","Sex Offenses",3,0,1,4,4,0,3,2
 "Harrison","Sex Offenses",14,9,9,8,10,8,13,3
 "Hawthorne","Sex Offenses",39,25,29,25,37,24,22,3
@@ -61,7 +61,7 @@
 "Regina","Sex Offenses",3,1,3,3,0,5,4,1
 "Seward","Sex Offenses",7,9,14,5,20,14,22,9
 "Sheridan","Sex Offenses",5,2,3,3,4,6,3,1
-"Shingle Creek","Sex Offenses",12,8,5,6,4,3,5,2
+"Shingle Creek","Sex Offenses",12,8,5,6,4,3,5,1
 "South Uptown","Sex Offenses",11,5,4,5,6,4,7,2
 "St. Anthony East","Sex Offenses",6,4,2,2,5,0,3,1
 "St. Anthony West","Sex Offenses",6,1,3,1,3,1,1,0
@@ -100,7 +100,7 @@ NA,"Sex Offenses",36,29,63,66,40,41,77,48
 "Cleveland","Total",7,5,2,9,13,8,9,2
 "Como","Total",7,10,8,4,6,12,5,3
 "Cooper","Total",2,1,2,3,4,0,2,1
-"Corcoran","Total",7,5,8,8,6,9,9,10
+"Corcoran","Total",7,5,8,8,6,9,9,11
 "Diamond Lake","Total",2,2,5,4,4,4,3,0
 "Downtown East","Total",10,15,5,12,6,9,6,6
 "Downtown West","Total",84,52,41,59,63,45,48,14
@@ -109,7 +109,7 @@ NA,"Sex Offenses",36,29,63,66,40,41,77,48
 "East Phillips","Total",29,16,19,19,16,27,24,3
 "Elliot Park","Total",29,19,26,22,22,32,26,10
 "Ericsson","Total",7,2,5,3,2,2,3,1
-"Folwell","Total",23,42,20,16,24,21,13,14
+"Folwell","Total",23,42,20,16,24,21,13,15
 "Fulton","Total",3,0,1,4,4,0,3,2
 "Harrison","Total",14,9,9,8,10,8,13,3
 "Hawthorne","Total",39,25,29,25,37,24,22,3
@@ -148,7 +148,7 @@ NA,"Sex Offenses",36,29,63,66,40,41,77,48
 "Regina","Total",3,1,3,3,0,5,4,1
 "Seward","Total",7,9,14,5,20,14,22,9
 "Sheridan","Total",5,2,3,3,4,6,3,1
-"Shingle Creek","Total",12,8,5,6,4,3,5,2
+"Shingle Creek","Total",12,8,5,6,4,3,5,1
 "South Uptown","Total",11,5,4,5,6,4,7,2
 "St. Anthony East","Total",6,4,2,2,5,0,3,1
 "St. Anthony West","Total",6,1,3,1,3,1,1,0
