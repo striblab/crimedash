@@ -619,14 +619,14 @@
     "Year": 2026,
     "Month": 5,
     "Offense": "All Other Larceny",
-    "IncidentCount": 491,
+    "IncidentCount": 494,
     "Date": "2026-05-01"
   },
   {
     "Year": 2026,
     "Month": 6,
     "Offense": "All Other Larceny",
-    "IncidentCount": 9,
+    "IncidentCount": 107,
     "Date": "2026-06-01"
   },
   {
@@ -1249,14 +1249,14 @@
     "Year": 2026,
     "Month": 5,
     "Offense": "Theft From Motor Vehicle",
-    "IncidentCount": 402,
+    "IncidentCount": 419,
     "Date": "2026-05-01"
   },
   {
     "Year": 2026,
     "Month": 6,
     "Offense": "Theft From Motor Vehicle",
-    "IncidentCount": 4,
+    "IncidentCount": 51,
     "Date": "2026-06-01"
   },
   {
@@ -2058,6 +2058,13 @@
     "Date": "2026-05-01"
   },
   {
+    "Year": 2026,
+    "Month": 6,
+    "Offense": "Purse-snatching",
+    "IncidentCount": 2,
+    "Date": "2026-06-01"
+  },
+  {
     "Year": 2019,
     "Month": 1,
     "Offense": "Shoplifting",
@@ -2670,21 +2677,21 @@
     "Year": 2026,
     "Month": 4,
     "Offense": "Shoplifting",
-    "IncidentCount": 90,
+    "IncidentCount": 91,
     "Date": "2026-04-01"
   },
   {
     "Year": 2026,
     "Month": 5,
     "Offense": "Shoplifting",
-    "IncidentCount": 85,
+    "IncidentCount": 86,
     "Date": "2026-05-01"
   },
   {
     "Year": 2026,
     "Month": 6,
     "Offense": "Shoplifting",
-    "IncidentCount": 2,
+    "IncidentCount": 15,
     "Date": "2026-06-01"
   },
   {
@@ -3314,7 +3321,7 @@
     "Year": 2026,
     "Month": 6,
     "Offense": "Theft From Building",
-    "IncidentCount": 2,
+    "IncidentCount": 6,
     "Date": "2026-06-01"
   },
   {
@@ -4028,7 +4035,7 @@
     "Year": 2026,
     "Month": 4,
     "Offense": "Theft of Motor Vehicle Parts or Accessories",
-    "IncidentCount": 117,
+    "IncidentCount": 118,
     "Date": "2026-04-01"
   },
   {
@@ -4042,7 +4049,7 @@
     "Year": 2026,
     "Month": 6,
     "Offense": "Theft of Motor Vehicle Parts or Accessories",
-    "IncidentCount": 4,
+    "IncidentCount": 26,
     "Date": "2026-06-01"
   }
 ]
