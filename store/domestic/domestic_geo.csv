@@ -6,7 +6,7 @@
 "Bottineau","Domestic Aggravated Assault - Subset of Assault",1,5,4,11,4,12,12,4
 "Bryant","Domestic Aggravated Assault - Subset of Assault",3,5,3,5,3,8,4,6
 "Bryn - Mawr","Domestic Aggravated Assault - Subset of Assault",1,2,2,1,1,5,3,0
-"Cedar - Isles - Dean","Domestic Aggravated Assault - Subset of Assault",1,2,0,1,3,0,0,0
+"Cedar - Isles - Dean","Domestic Aggravated Assault - Subset of Assault",1,2,0,1,3,0,0,1
 "Cedar Riverside","Domestic Aggravated Assault - Subset of Assault",10,10,11,9,15,12,13,9
 "Central","Domestic Aggravated Assault - Subset of Assault",20,17,14,15,8,26,18,7
 "Cleveland","Domestic Aggravated Assault - Subset of Assault",14,9,15,13,7,9,12,7
@@ -24,7 +24,7 @@
 "Elliot Park","Domestic Aggravated Assault - Subset of Assault",26,26,21,37,30,22,31,10
 "Ericsson","Domestic Aggravated Assault - Subset of Assault",2,2,0,0,2,2,2,0
 "Field","Domestic Aggravated Assault - Subset of Assault",1,4,3,6,2,2,2,0
-"Folwell","Domestic Aggravated Assault - Subset of Assault",54,44,35,41,29,35,44,16
+"Folwell","Domestic Aggravated Assault - Subset of Assault",54,44,35,41,29,35,44,17
 "Fulton","Domestic Aggravated Assault - Subset of Assault",2,2,0,1,0,2,1,1
 "Harrison","Domestic Aggravated Assault - Subset of Assault",10,10,14,18,13,18,28,12
 "Hawthorne","Domestic Aggravated Assault - Subset of Assault",47,53,29,42,33,43,50,12
@@ -40,7 +40,7 @@
 "Longfellow","Domestic Aggravated Assault - Subset of Assault",17,5,10,14,15,11,13,3
 "Loring Park","Domestic Aggravated Assault - Subset of Assault",19,19,21,35,29,32,42,16
 "Lowry Hill","Domestic Aggravated Assault - Subset of Assault",3,0,1,3,7,6,1,2
-"Lowry Hill East","Domestic Aggravated Assault - Subset of Assault",8,12,15,28,23,26,24,12
+"Lowry Hill East","Domestic Aggravated Assault - Subset of Assault",8,12,15,28,23,26,24,11
 "Lyndale","Domestic Aggravated Assault - Subset of Assault",10,15,11,12,20,18,19,10
 "Lynnhurst","Domestic Aggravated Assault - Subset of Assault",1,0,0,0,0,1,1,2
 "Marcy Holmes","Domestic Aggravated Assault - Subset of Assault",12,15,16,19,19,19,23,16
@@ -50,7 +50,7 @@
 "Midtown Phillips","Domestic Aggravated Assault - Subset of Assault",26,8,8,21,11,18,26,14
 "Minnehaha","Domestic Aggravated Assault - Subset of Assault",3,8,3,5,8,4,2,2
 "Morris Park","Domestic Aggravated Assault - Subset of Assault",3,1,6,1,2,1,1,2
-"Near - North","Domestic Aggravated Assault - Subset of Assault",65,45,31,40,41,48,54,28
+"Near - North","Domestic Aggravated Assault - Subset of Assault",65,45,31,40,41,48,54,29
 "Nicollet Island - East Bank","Domestic Aggravated Assault - Subset of Assault",3,4,3,2,7,3,2,0
 "North Loop","Domestic Aggravated Assault - Subset of Assault",3,5,5,11,6,10,12,11
 "Northeast Park","Domestic Aggravated Assault - Subset of Assault",2,1,4,2,1,1,2,0
@@ -73,10 +73,10 @@
 "Victory","Domestic Aggravated Assault - Subset of Assault",3,9,9,3,8,10,10,2
 "Waite Park","Domestic Aggravated Assault - Subset of Assault",11,1,2,2,3,0,3,1
 "Webber - Camden","Domestic Aggravated Assault - Subset of Assault",46,38,20,21,31,29,19,15
-"Wenonah","Domestic Aggravated Assault - Subset of Assault",11,13,13,13,8,6,10,5
+"Wenonah","Domestic Aggravated Assault - Subset of Assault",11,13,13,13,8,6,10,6
 "West Maka Ska","Domestic Aggravated Assault - Subset of Assault",7,3,1,3,3,6,4,2
-"Whittier","Domestic Aggravated Assault - Subset of Assault",48,45,40,65,53,57,67,45
-"Willard - Hay","Domestic Aggravated Assault - Subset of Assault",60,48,33,53,48,45,52,32
+"Whittier","Domestic Aggravated Assault - Subset of Assault",48,45,40,65,53,57,67,46
+"Willard - Hay","Domestic Aggravated Assault - Subset of Assault",60,48,33,53,48,45,52,33
 "Windom","Domestic Aggravated Assault - Subset of Assault",8,12,14,8,11,11,9,6
 "Windom Park","Domestic Aggravated Assault - Subset of Assault",5,4,10,8,7,6,5,2
 NA,"Domestic Aggravated Assault - Subset of Assault",3,4,4,4,7,4,3,4
@@ -94,7 +94,7 @@ NA,"Domestic Aggravated Assault - Subset of Assault",3,4,4,4,7,4,3,4
 "Bottineau","Total",1,5,4,11,4,12,12,4
 "Bryant","Total",3,5,3,5,3,8,4,6
 "Bryn - Mawr","Total",1,2,2,1,1,5,3,0
-"Cedar - Isles - Dean","Total",1,2,0,1,3,0,0,0
+"Cedar - Isles - Dean","Total",1,2,0,1,3,0,0,1
 "Cedar Riverside","Total",10,10,11,9,15,12,13,9
 "Central","Total",20,17,14,15,8,26,18,7
 "Cleveland","Total",14,9,15,13,7,9,12,7
@@ -112,7 +112,7 @@ NA,"Domestic Aggravated Assault - Subset of Assault",3,4,4,4,7,4,3,4
 "Elliot Park","Total",26,26,21,37,30,22,31,10
 "Ericsson","Total",2,2,0,0,2,2,2,0
 "Field","Total",1,4,3,6,2,2,2,0
-"Folwell","Total",54,44,35,41,29,35,44,16
+"Folwell","Total",54,44,35,41,29,35,44,17
 "Fulton","Total",2,2,0,1,0,2,1,1
 "Harrison","Total",10,10,14,18,13,18,28,12
 "Hawthorne","Total",47,53,29,42,33,43,50,12
@@ -128,7 +128,7 @@ NA,"Domestic Aggravated Assault - Subset of Assault",3,4,4,4,7,4,3,4
 "Longfellow","Total",17,5,10,14,15,11,13,3
 "Loring Park","Total",19,19,21,35,29,32,42,16
 "Lowry Hill","Total",3,0,1,3,7,6,1,2
-"Lowry Hill East","Total",8,12,15,28,23,26,24,12
+"Lowry Hill East","Total",8,12,15,28,23,26,24,11
 "Lyndale","Total",10,15,11,12,20,18,19,10
 "Lynnhurst","Total",1,0,0,0,0,1,1,2
 "Marcy Holmes","Total",12,15,16,19,19,19,23,16
@@ -138,7 +138,7 @@ NA,"Domestic Aggravated Assault - Subset of Assault",3,4,4,4,7,4,3,4
 "Midtown Phillips","Total",26,8,8,21,11,18,26,14
 "Minnehaha","Total",3,8,3,5,8,4,2,2
 "Morris Park","Total",3,1,6,1,2,1,1,2
-"Near - North","Total",65,45,31,40,41,48,54,28
+"Near - North","Total",65,45,31,40,41,48,54,29
 "Nicollet Island - East Bank","Total",3,4,3,2,7,3,2,0
 "North Loop","Total",3,5,5,11,6,10,12,11
 "Northeast Park","Total",2,1,4,2,1,1,2,0
@@ -161,10 +161,10 @@ NA,"Domestic Aggravated Assault - Subset of Assault",3,4,4,4,7,4,3,4
 "Victory","Total",3,9,9,3,8,10,10,2
 "Waite Park","Total",11,1,2,2,3,0,3,1
 "Webber - Camden","Total",46,38,20,21,31,29,19,15
-"Wenonah","Total",11,13,13,13,8,6,10,5
+"Wenonah","Total",11,13,13,13,8,6,10,6
 "West Maka Ska","Total",7,3,1,3,3,6,4,2
-"Whittier","Total",48,45,40,65,53,57,67,45
-"Willard - Hay","Total",60,48,33,53,48,45,52,32
+"Whittier","Total",48,45,40,65,53,57,67,46
+"Willard - Hay","Total",60,48,33,53,48,45,52,33
 "Windom","Total",8,12,14,8,11,11,9,6
 "Windom Park","Total",5,4,10,8,7,6,5,2
 NA,"Total",3,4,4,4,7,4,3,4

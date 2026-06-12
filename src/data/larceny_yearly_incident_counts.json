@@ -22,12 +22,12 @@
   {
     "Year": 2023,
     "Offense": "All Other Larceny",
-    "OffenseCount": 5786
+    "OffenseCount": 693
   },
   {
     "Year": 2024,
     "Offense": "All Other Larceny",
-    "OffenseCount": 6645
+    "OffenseCount": 5006
   },
   {
     "Year": 2025,
@@ -37,7 +37,7 @@
   {
     "Year": 2026,
     "Offense": "All Other Larceny",
-    "OffenseCount": 2250
+    "OffenseCount": 2254
   },
   {
     "Year": 2019,
@@ -62,12 +62,12 @@
   {
     "Year": 2023,
     "Offense": "Theft From Motor Vehicle",
-    "OffenseCount": 3769
+    "OffenseCount": 555
   },
   {
     "Year": 2024,
     "Offense": "Theft From Motor Vehicle",
-    "OffenseCount": 4279
+    "OffenseCount": 3119
   },
   {
     "Year": 2025,
@@ -77,7 +77,7 @@
   {
     "Year": 2026,
     "Offense": "Theft From Motor Vehicle",
-    "OffenseCount": 1725
+    "OffenseCount": 1731
   },
   {
     "Year": 2019,
@@ -101,11 +101,6 @@
   },
   {
     "Year": 2023,
-    "Offense": "Pocket-picking",
-    "OffenseCount": 3
-  },
-  {
-    "Year": 2024,
     "Offense": "Pocket-picking",
     "OffenseCount": 1
   },
@@ -142,12 +137,12 @@
   {
     "Year": 2023,
     "Offense": "Purse-snatching",
-    "OffenseCount": 93
+    "OffenseCount": 42
   },
   {
     "Year": 2024,
     "Offense": "Purse-snatching",
-    "OffenseCount": 82
+    "OffenseCount": 2
   },
   {
     "Year": 2025,
@@ -182,12 +177,12 @@
   {
     "Year": 2023,
     "Offense": "Shoplifting",
-    "OffenseCount": 615
+    "OffenseCount": 112
   },
   {
     "Year": 2024,
     "Offense": "Shoplifting",
-    "OffenseCount": 832
+    "OffenseCount": 378
   },
   {
     "Year": 2025,
@@ -197,7 +192,7 @@
   {
     "Year": 2026,
     "Offense": "Shoplifting",
-    "OffenseCount": 475
+    "OffenseCount": 480
   },
   {
     "Year": 2019,
@@ -222,12 +217,12 @@
   {
     "Year": 2023,
     "Offense": "Theft From Building",
-    "OffenseCount": 97
+    "OffenseCount": 19
   },
   {
     "Year": 2024,
     "Offense": "Theft From Building",
-    "OffenseCount": 164
+    "OffenseCount": 118
   },
   {
     "Year": 2025,
@@ -252,12 +247,12 @@
   {
     "Year": 2023,
     "Offense": "Theft From Coin-Operated Machine or Device",
-    "OffenseCount": 2
+    "OffenseCount": 1
   },
   {
     "Year": 2024,
     "Offense": "Theft From Coin-Operated Machine or Device",
-    "OffenseCount": 5
+    "OffenseCount": 4
   },
   {
     "Year": 2025,
@@ -292,12 +287,12 @@
   {
     "Year": 2023,
     "Offense": "Theft of Motor Vehicle Parts or Accessories",
-    "OffenseCount": 1823
+    "OffenseCount": 462
   },
   {
     "Year": 2024,
     "Offense": "Theft of Motor Vehicle Parts or Accessories",
-    "OffenseCount": 911
+    "OffenseCount": 219
   },
   {
     "Year": 2025,
@@ -307,6 +302,6 @@
   {
     "Year": 2026,
     "Offense": "Theft of Motor Vehicle Parts or Accessories",
-    "OffenseCount": 565
+    "OffenseCount": 566
   }
 ]

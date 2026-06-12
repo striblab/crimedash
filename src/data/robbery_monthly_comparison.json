@@ -339,7 +339,7 @@
     "Year": 2023,
     "Month": 1,
     "Offense": "Robbery",
-    "IncidentCount": 108,
+    "IncidentCount": 103,
     "Date": "2023-01-01"
   },
   {
@@ -360,147 +360,63 @@
     "Year": 2023,
     "Month": 4,
     "Offense": "Robbery",
-    "IncidentCount": 112,
+    "IncidentCount": 110,
     "Date": "2023-04-01"
   },
   {
     "Year": 2023,
     "Month": 5,
     "Offense": "Robbery",
-    "IncidentCount": 144,
+    "IncidentCount": 136,
     "Date": "2023-05-01"
   },
   {
     "Year": 2023,
     "Month": 6,
     "Offense": "Robbery",
-    "IncidentCount": 126,
+    "IncidentCount": 89,
     "Date": "2023-06-01"
   },
   {
     "Year": 2023,
     "Month": 7,
     "Offense": "Robbery",
-    "IncidentCount": 143,
+    "IncidentCount": 7,
     "Date": "2023-07-01"
-  },
-  {
-    "Year": 2023,
-    "Month": 8,
-    "Offense": "Robbery",
-    "IncidentCount": 141,
-    "Date": "2023-08-01"
-  },
-  {
-    "Year": 2023,
-    "Month": 9,
-    "Offense": "Robbery",
-    "IncidentCount": 152,
-    "Date": "2023-09-01"
-  },
-  {
-    "Year": 2023,
-    "Month": 10,
-    "Offense": "Robbery",
-    "IncidentCount": 140,
-    "Date": "2023-10-01"
-  },
-  {
-    "Year": 2023,
-    "Month": 11,
-    "Offense": "Robbery",
-    "IncidentCount": 113,
-    "Date": "2023-11-01"
-  },
-  {
-    "Year": 2023,
-    "Month": 12,
-    "Offense": "Robbery",
-    "IncidentCount": 115,
-    "Date": "2023-12-01"
   },
   {
     "Year": 2024,
     "Month": 1,
     "Offense": "Robbery",
-    "IncidentCount": 126,
+    "IncidentCount": 1,
     "Date": "2024-01-01"
   },
   {
     "Year": 2024,
     "Month": 2,
     "Offense": "Robbery",
-    "IncidentCount": 152,
+    "IncidentCount": 2,
     "Date": "2024-02-01"
-  },
-  {
-    "Year": 2024,
-    "Month": 3,
-    "Offense": "Robbery",
-    "IncidentCount": 81,
-    "Date": "2024-03-01"
-  },
-  {
-    "Year": 2024,
-    "Month": 4,
-    "Offense": "Robbery",
-    "IncidentCount": 99,
-    "Date": "2024-04-01"
-  },
-  {
-    "Year": 2024,
-    "Month": 5,
-    "Offense": "Robbery",
-    "IncidentCount": 148,
-    "Date": "2024-05-01"
-  },
-  {
-    "Year": 2024,
-    "Month": 6,
-    "Offense": "Robbery",
-    "IncidentCount": 150,
-    "Date": "2024-06-01"
   },
   {
     "Year": 2024,
     "Month": 7,
     "Offense": "Robbery",
-    "IncidentCount": 193,
+    "IncidentCount": 1,
     "Date": "2024-07-01"
   },
   {
     "Year": 2024,
     "Month": 8,
     "Offense": "Robbery",
-    "IncidentCount": 149,
+    "IncidentCount": 2,
     "Date": "2024-08-01"
-  },
-  {
-    "Year": 2024,
-    "Month": 9,
-    "Offense": "Robbery",
-    "IncidentCount": 126,
-    "Date": "2024-09-01"
-  },
-  {
-    "Year": 2024,
-    "Month": 10,
-    "Offense": "Robbery",
-    "IncidentCount": 127,
-    "Date": "2024-10-01"
-  },
-  {
-    "Year": 2024,
-    "Month": 11,
-    "Offense": "Robbery",
-    "IncidentCount": 148,
-    "Date": "2024-11-01"
   },
   {
     "Year": 2024,
     "Month": 12,
     "Offense": "Robbery",
-    "IncidentCount": 102,
+    "IncidentCount": 32,
     "Date": "2024-12-01"
   },
   {
@@ -619,14 +535,14 @@
     "Year": 2026,
     "Month": 5,
     "Offense": "Robbery",
-    "IncidentCount": 80,
+    "IncidentCount": 79,
     "Date": "2026-05-01"
   },
   {
     "Year": 2026,
     "Month": 6,
     "Offense": "Robbery",
-    "IncidentCount": 14,
+    "IncidentCount": 20,
     "Date": "2026-06-01"
   }
 ]

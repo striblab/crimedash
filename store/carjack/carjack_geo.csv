@@ -27,7 +27,7 @@
 "Longfellow","Carjacking - Subset of Robbery",1,9,3,5,4,5,2
 "Loring Park","Carjacking - Subset of Robbery",1,7,8,7,7,5,3
 "Lowry Hill","Carjacking - Subset of Robbery",4,14,7,2,2,0,1
-"Lowry Hill East","Carjacking - Subset of Robbery",5,17,24,16,8,1,1
+"Lowry Hill East","Carjacking - Subset of Robbery",5,17,24,16,8,1,2
 "Lyndale","Carjacking - Subset of Robbery",3,10,9,6,12,1,3
 "Marcy Holmes","Carjacking - Subset of Robbery",3,13,22,5,5,2,2
 "McKinley","Carjacking - Subset of Robbery",2,10,2,5,3,4,1
@@ -44,7 +44,7 @@
 "Standish","Carjacking - Subset of Robbery",4,7,1,2,1,0,0
 "Sumner - Glenwood","Carjacking - Subset of Robbery",1,12,6,3,8,0,0
 "Tangletown","Carjacking - Subset of Robbery",1,2,1,2,1,0,2
-"Ventura Village","Carjacking - Subset of Robbery",12,36,29,14,12,9,3
+"Ventura Village","Carjacking - Subset of Robbery",12,36,29,14,12,9,4
 "Webber - Camden","Carjacking - Subset of Robbery",1,6,5,4,3,3,0
 "Whittier","Carjacking - Subset of Robbery",13,46,41,25,14,9,4
 "Willard - Hay","Carjacking - Subset of Robbery",4,9,17,13,5,2,2
@@ -60,7 +60,7 @@ NA,"Carjacking - Subset of Robbery",2,3,2,2,1,3,0
 "East Harriet","Carjacking - Subset of Robbery",0,5,4,3,2,3,0
 "Ericsson","Carjacking - Subset of Robbery",0,2,0,0,1,0,1
 "Hale","Carjacking - Subset of Robbery",0,2,0,1,0,0,0
-"Keewaydin","Carjacking - Subset of Robbery",0,2,1,2,0,3,0
+"Keewaydin","Carjacking - Subset of Robbery",0,2,1,2,0,3,1
 "Kenwood","Carjacking - Subset of Robbery",0,1,2,1,1,0,0
 "Lind - Bohanon","Carjacking - Subset of Robbery",0,5,4,2,2,0,1
 "Linden Hills","Carjacking - Subset of Robbery",0,2,4,1,0,0,0
@@ -114,7 +114,7 @@ NA,"Carjacking - Subset of Robbery",2,3,2,2,1,3,0
 "Longfellow","Total",1,9,3,5,4,5,2
 "Loring Park","Total",1,7,8,7,7,5,3
 "Lowry Hill","Total",4,14,7,2,2,0,1
-"Lowry Hill East","Total",5,17,24,16,8,1,1
+"Lowry Hill East","Total",5,17,24,16,8,1,2
 "Lyndale","Total",3,10,9,6,12,1,3
 "Marcy Holmes","Total",3,13,22,5,5,2,2
 "McKinley","Total",2,10,2,5,3,4,1
@@ -131,7 +131,7 @@ NA,"Carjacking - Subset of Robbery",2,3,2,2,1,3,0
 "Standish","Total",4,7,1,2,1,0,0
 "Sumner - Glenwood","Total",1,12,6,3,8,0,0
 "Tangletown","Total",1,2,1,2,1,0,2
-"Ventura Village","Total",12,36,29,14,12,9,3
+"Ventura Village","Total",12,36,29,14,12,9,4
 "Webber - Camden","Total",1,6,5,4,3,3,0
 "Whittier","Total",13,46,41,25,14,9,4
 "Willard - Hay","Total",4,9,17,13,5,2,2
@@ -147,7 +147,7 @@ NA,"Total",2,3,2,2,1,3,0
 "East Harriet","Total",0,5,4,3,2,3,0
 "Ericsson","Total",0,2,0,0,1,0,1
 "Hale","Total",0,2,0,1,0,0,0
-"Keewaydin","Total",0,2,1,2,0,3,0
+"Keewaydin","Total",0,2,1,2,0,3,1
 "Kenwood","Total",0,1,2,1,1,0,0
 "Lind - Bohanon","Total",0,5,4,2,2,0,1
 "Linden Hills","Total",0,2,4,1,0,0,0
