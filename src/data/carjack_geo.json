@@ -140,7 +140,7 @@
     "X2023": 3,
     "X2024": 4,
     "X2025": 4,
-    "X2026": 0
+    "X2026": 1
   },
   {
     "Neighborhood": "East Phillips",
@@ -360,7 +360,7 @@
     "X2023": 8,
     "X2024": 7,
     "X2025": 6,
-    "X2026": 5
+    "X2026": 7
   },
   {
     "Neighborhood": "Near - North",
@@ -678,7 +678,7 @@
     "X2023": 2,
     "X2024": 0,
     "X2025": 3,
-    "X2026": 1
+    "X2026": 0
   },
   {
     "Neighborhood": "Kenwood",
@@ -954,6 +954,17 @@
     "X2024": 0,
     "X2025": 0,
     "X2026": 0
+  },
+  {
+    "Neighborhood": "Humboldt Industrial Area",
+    "Offense": "Carjacking - Subset of Robbery",
+    "X2020": 0,
+    "X2021": 0,
+    "X2022": 0,
+    "X2023": 0,
+    "X2024": 0,
+    "X2025": 0,
+    "X2026": 1
   },
   {
     "Neighborhood": "Bancroft",
@@ -1096,7 +1107,7 @@
     "X2023": 3,
     "X2024": 4,
     "X2025": 4,
-    "X2026": 0
+    "X2026": 1
   },
   {
     "Neighborhood": "East Phillips",
@@ -1316,7 +1327,7 @@
     "X2023": 8,
     "X2024": 7,
     "X2025": 6,
-    "X2026": 5
+    "X2026": 7
   },
   {
     "Neighborhood": "Near - North",
@@ -1634,7 +1645,7 @@
     "X2023": 2,
     "X2024": 0,
     "X2025": 3,
-    "X2026": 1
+    "X2026": 0
   },
   {
     "Neighborhood": "Kenwood",
@@ -1910,5 +1921,16 @@
     "X2024": 0,
     "X2025": 0,
     "X2026": 0
+  },
+  {
+    "Neighborhood": "Humboldt Industrial Area",
+    "Offense": "Total",
+    "X2020": 0,
+    "X2021": 0,
+    "X2022": 0,
+    "X2023": 0,
+    "X2024": 0,
+    "X2025": 0,
+    "X2026": 1
   }
 ]
