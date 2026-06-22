@@ -86,9 +86,9 @@
 2026,1,"All Other Larceny",347,2026-01-01
 2026,2,"All Other Larceny",377,2026-02-01
 2026,3,"All Other Larceny",441,2026-03-01
-2026,4,"All Other Larceny",484,2026-04-01
+2026,4,"All Other Larceny",485,2026-04-01
 2026,5,"All Other Larceny",492,2026-05-01
-2026,6,"All Other Larceny",251,2026-06-01
+2026,6,"All Other Larceny",298,2026-06-01
 2019,1,"Theft From Motor Vehicle",282,2019-01-01
 2019,2,"Theft From Motor Vehicle",266,2019-02-01
 2019,3,"Theft From Motor Vehicle",257,2019-03-01
@@ -178,7 +178,7 @@
 2026,3,"Theft From Motor Vehicle",294,2026-03-01
 2026,4,"Theft From Motor Vehicle",345,2026-04-01
 2026,5,"Theft From Motor Vehicle",425,2026-05-01
-2026,6,"Theft From Motor Vehicle",183,2026-06-01
+2026,6,"Theft From Motor Vehicle",227,2026-06-01
 2019,1,"Pocket-picking",2,2019-01-01
 2019,4,"Pocket-picking",4,2019-04-01
 2019,5,"Pocket-picking",2,2019-05-01
@@ -383,7 +383,7 @@
 2026,3,"Shoplifting",123,2026-03-01
 2026,4,"Shoplifting",91,2026-04-01
 2026,5,"Shoplifting",86,2026-05-01
-2026,6,"Shoplifting",43,2026-06-01
+2026,6,"Shoplifting",51,2026-06-01
 2019,1,"Theft From Building",24,2019-01-01
 2019,2,"Theft From Building",19,2019-02-01
 2019,3,"Theft From Building",16,2019-03-01
@@ -473,7 +473,7 @@
 2026,3,"Theft From Building",19,2026-03-01
 2026,4,"Theft From Building",19,2026-04-01
 2026,5,"Theft From Building",16,2026-05-01
-2026,6,"Theft From Building",10,2026-06-01
+2026,6,"Theft From Building",15,2026-06-01
 2019,3,"Theft From Coin-Operated Machine or Device",2,2019-03-01
 2019,5,"Theft From Coin-Operated Machine or Device",1,2019-05-01
 2019,6,"Theft From Coin-Operated Machine or Device",1,2019-06-01
@@ -577,4 +577,4 @@
 2026,3,"Theft of Motor Vehicle Parts or Accessories",110,2026-03-01
 2026,4,"Theft of Motor Vehicle Parts or Accessories",118,2026-04-01
 2026,5,"Theft of Motor Vehicle Parts or Accessories",120,2026-05-01
-2026,6,"Theft of Motor Vehicle Parts or Accessories",61,2026-06-01
+2026,6,"Theft of Motor Vehicle Parts or Accessories",68,2026-06-01
