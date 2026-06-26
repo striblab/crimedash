@@ -310,7 +310,7 @@
   {
     "Neighborhood": "Near - North",
     "Offense": "Shooting (PFE)",
-    "X2020": 21,
+    "X2020": 20,
     "X2021": 21,
     "X2022": 26,
     "X2023": 15,
@@ -1650,18 +1650,18 @@
   {
     "Neighborhood": "Central",
     "Offense": "ShotSpotter Activation (P)",
-    "X2020": 209,
+    "X2020": 205,
     "X2021": 218,
     "X2022": 174,
     "X2023": 140,
     "X2024": 126,
     "X2025": 97,
-    "X2026": 54
+    "X2026": 55
   },
   {
     "Neighborhood": "Cleveland",
     "Offense": "ShotSpotter Activation (P)",
-    "X2020": 108,
+    "X2020": 106,
     "X2021": 246,
     "X2022": 190,
     "X2023": 113,
@@ -1705,7 +1705,7 @@
   {
     "Neighborhood": "Harrison",
     "Offense": "ShotSpotter Activation (P)",
-    "X2020": 52,
+    "X2020": 51,
     "X2021": 55,
     "X2022": 43,
     "X2023": 49,
@@ -1744,7 +1744,7 @@
     "X2023": 517,
     "X2024": 451,
     "X2025": 319,
-    "X2026": 125
+    "X2026": 126
   },
   {
     "Neighborhood": "Lind - Bohanon",
@@ -1755,7 +1755,7 @@
     "X2023": 156,
     "X2024": 156,
     "X2025": 106,
-    "X2026": 39
+    "X2026": 40
   },
   {
     "Neighborhood": "Longfellow",
@@ -1782,7 +1782,7 @@
   {
     "Neighborhood": "McKinley",
     "Offense": "ShotSpotter Activation (P)",
-    "X2020": 158,
+    "X2020": 157,
     "X2021": 347,
     "X2022": 213,
     "X2023": 142,
@@ -1804,7 +1804,7 @@
   {
     "Neighborhood": "Near - North",
     "Offense": "ShotSpotter Activation (P)",
-    "X2020": 228,
+    "X2020": 226,
     "X2021": 487,
     "X2022": 386,
     "X2023": 289,
@@ -1898,7 +1898,7 @@
     "X2023": 200,
     "X2024": 147,
     "X2025": 97,
-    "X2026": 65
+    "X2026": 66
   },
   {
     "Neighborhood": "Whittier",
@@ -1914,7 +1914,7 @@
   {
     "Neighborhood": "Willard - Hay",
     "Offense": "ShotSpotter Activation (P)",
-    "X2020": 315,
+    "X2020": 312,
     "X2021": 661,
     "X2022": 521,
     "X2023": 377,
@@ -2106,7 +2106,7 @@
     "X2023": 0,
     "X2024": 0,
     "X2025": 33,
-    "X2026": 9
+    "X2026": 10
   },
   {
     "Neighborhood": "Northeast Park",
@@ -2221,7 +2221,7 @@
   {
     "Neighborhood": "Cedar Riverside",
     "Offense": "Sound of Shots Fired (P)",
-    "X2020": 26,
+    "X2020": 25,
     "X2021": 52,
     "X2022": 65,
     "X2023": 46,
@@ -2243,7 +2243,7 @@
   {
     "Neighborhood": "Cleveland",
     "Offense": "Sound of Shots Fired (P)",
-    "X2020": 53,
+    "X2020": 52,
     "X2021": 108,
     "X2022": 60,
     "X2023": 31,
@@ -2265,7 +2265,7 @@
   {
     "Neighborhood": "Como",
     "Offense": "Sound of Shots Fired (P)",
-    "X2020": 18,
+    "X2020": 17,
     "X2021": 38,
     "X2022": 18,
     "X2023": 24,
@@ -2276,7 +2276,7 @@
   {
     "Neighborhood": "Cooper",
     "Offense": "Sound of Shots Fired (P)",
-    "X2020": 19,
+    "X2020": 18,
     "X2021": 18,
     "X2022": 14,
     "X2023": 9,
@@ -2326,7 +2326,7 @@
     "X2023": 47,
     "X2024": 43,
     "X2025": 39,
-    "X2026": 15
+    "X2026": 14
   },
   {
     "Neighborhood": "East Bde Maka Ska",
@@ -2375,13 +2375,13 @@
   {
     "Neighborhood": "Elliot Park",
     "Offense": "Sound of Shots Fired (P)",
-    "X2020": 34,
+    "X2020": 33,
     "X2021": 78,
     "X2022": 58,
     "X2023": 49,
     "X2024": 50,
     "X2025": 39,
-    "X2026": 17
+    "X2026": 18
   },
   {
     "Neighborhood": "Ericsson",
@@ -2408,7 +2408,7 @@
   {
     "Neighborhood": "Folwell",
     "Offense": "Sound of Shots Fired (P)",
-    "X2020": 156,
+    "X2020": 154,
     "X2021": 261,
     "X2022": 143,
     "X2023": 76,
@@ -2441,7 +2441,7 @@
   {
     "Neighborhood": "Harrison",
     "Offense": "Sound of Shots Fired (P)",
-    "X2020": 39,
+    "X2020": 38,
     "X2021": 88,
     "X2022": 60,
     "X2023": 39,
@@ -2507,7 +2507,7 @@
   {
     "Neighborhood": "Jordan",
     "Offense": "Sound of Shots Fired (P)",
-    "X2020": 188,
+    "X2020": 185,
     "X2021": 324,
     "X2022": 250,
     "X2023": 148,
@@ -2562,13 +2562,13 @@
   {
     "Neighborhood": "Lind - Bohanon",
     "Offense": "Sound of Shots Fired (P)",
-    "X2020": 71,
+    "X2020": 70,
     "X2021": 178,
     "X2022": 111,
     "X2023": 59,
     "X2024": 66,
     "X2025": 50,
-    "X2026": 18
+    "X2026": 19
   },
   {
     "Neighborhood": "Linden Hills",
@@ -2705,7 +2705,7 @@
   {
     "Neighborhood": "Midtown Phillips",
     "Offense": "Sound of Shots Fired (P)",
-    "X2020": 78,
+    "X2020": 77,
     "X2021": 153,
     "X2022": 161,
     "X2023": 49,
@@ -2733,12 +2733,12 @@
     "X2023": 4,
     "X2024": 2,
     "X2025": 5,
-    "X2026": 2
+    "X2026": 3
   },
   {
     "Neighborhood": "Near - North",
     "Offense": "Sound of Shots Fired (P)",
-    "X2020": 139,
+    "X2020": 138,
     "X2021": 209,
     "X2022": 220,
     "X2023": 116,
@@ -2766,7 +2766,7 @@
     "X2023": 12,
     "X2024": 16,
     "X2025": 13,
-    "X2026": 3
+    "X2026": 4
   },
   {
     "Neighborhood": "Northeast Park",
@@ -2815,7 +2815,7 @@
   {
     "Neighborhood": "Powderhorn Park",
     "Offense": "Sound of Shots Fired (P)",
-    "X2020": 209,
+    "X2020": 207,
     "X2021": 232,
     "X2022": 174,
     "X2023": 106,
@@ -2854,7 +2854,7 @@
     "X2023": 73,
     "X2024": 54,
     "X2025": 62,
-    "X2026": 16
+    "X2026": 17
   },
   {
     "Neighborhood": "Sheridan",
@@ -2870,7 +2870,7 @@
   {
     "Neighborhood": "Shingle Creek",
     "Offense": "Sound of Shots Fired (P)",
-    "X2020": 33,
+    "X2020": 32,
     "X2021": 45,
     "X2022": 27,
     "X2023": 22,
@@ -2898,12 +2898,12 @@
     "X2023": 2,
     "X2024": 12,
     "X2025": 15,
-    "X2026": 4
+    "X2026": 5
   },
   {
     "Neighborhood": "St. Anthony West",
     "Offense": "Sound of Shots Fired (P)",
-    "X2020": 11,
+    "X2020": 9,
     "X2021": 19,
     "X2022": 13,
     "X2023": 11,
@@ -3002,7 +3002,7 @@
   {
     "Neighborhood": "Webber - Camden",
     "Offense": "Sound of Shots Fired (P)",
-    "X2020": 132,
+    "X2020": 129,
     "X2021": 157,
     "X2022": 120,
     "X2023": 85,
@@ -3019,7 +3019,7 @@
     "X2023": 27,
     "X2024": 12,
     "X2025": 6,
-    "X2026": 5
+    "X2026": 6
   },
   {
     "Neighborhood": "West Maka Ska",
@@ -3035,7 +3035,7 @@
   {
     "Neighborhood": "Whittier",
     "Offense": "Sound of Shots Fired (P)",
-    "X2020": 81,
+    "X2020": 80,
     "X2021": 185,
     "X2022": 224,
     "X2023": 216,
@@ -3188,7 +3188,7 @@
   {
     "Neighborhood": "Cedar Riverside",
     "Offense": "Total",
-    "X2020": 32,
+    "X2020": 31,
     "X2021": 67,
     "X2022": 83,
     "X2023": 55,
@@ -3199,18 +3199,18 @@
   {
     "Neighborhood": "Central",
     "Offense": "Total",
-    "X2020": 336,
+    "X2020": 332,
     "X2021": 365,
     "X2022": 273,
     "X2023": 217,
     "X2024": 206,
     "X2025": 177,
-    "X2026": 88
+    "X2026": 89
   },
   {
     "Neighborhood": "Cleveland",
     "Offense": "Total",
-    "X2020": 163,
+    "X2020": 160,
     "X2021": 361,
     "X2022": 254,
     "X2023": 146,
@@ -3232,7 +3232,7 @@
   {
     "Neighborhood": "Como",
     "Offense": "Total",
-    "X2020": 18,
+    "X2020": 17,
     "X2021": 41,
     "X2022": 23,
     "X2023": 26,
@@ -3243,7 +3243,7 @@
   {
     "Neighborhood": "Cooper",
     "Offense": "Total",
-    "X2020": 19,
+    "X2020": 18,
     "X2021": 20,
     "X2022": 16,
     "X2023": 10,
@@ -3293,7 +3293,7 @@
     "X2023": 61,
     "X2024": 68,
     "X2025": 58,
-    "X2026": 17
+    "X2026": 16
   },
   {
     "Neighborhood": "East Bde Maka Ska",
@@ -3342,13 +3342,13 @@
   {
     "Neighborhood": "Elliot Park",
     "Offense": "Total",
-    "X2020": 71,
+    "X2020": 70,
     "X2021": 165,
     "X2022": 110,
     "X2023": 100,
     "X2024": 88,
     "X2025": 66,
-    "X2026": 26
+    "X2026": 27
   },
   {
     "Neighborhood": "Ericsson",
@@ -3375,7 +3375,7 @@
   {
     "Neighborhood": "Folwell",
     "Offense": "Total",
-    "X2020": 521,
+    "X2020": 519,
     "X2021": 946,
     "X2022": 555,
     "X2023": 405,
@@ -3408,7 +3408,7 @@
   {
     "Neighborhood": "Harrison",
     "Offense": "Total",
-    "X2020": 94,
+    "X2020": 92,
     "X2021": 152,
     "X2022": 110,
     "X2023": 93,
@@ -3474,13 +3474,13 @@
   {
     "Neighborhood": "Jordan",
     "Offense": "Total",
-    "X2020": 649,
+    "X2020": 646,
     "X2021": 1251,
     "X2022": 988,
     "X2023": 697,
     "X2024": 611,
     "X2025": 411,
-    "X2026": 164
+    "X2026": 165
   },
   {
     "Neighborhood": "Keewaydin",
@@ -3529,13 +3529,13 @@
   {
     "Neighborhood": "Lind - Bohanon",
     "Offense": "Total",
-    "X2020": 246,
+    "X2020": 245,
     "X2021": 598,
     "X2022": 351,
     "X2023": 220,
     "X2024": 225,
     "X2025": 167,
-    "X2026": 61
+    "X2026": 63
   },
   {
     "Neighborhood": "Linden Hills",
@@ -3579,7 +3579,7 @@
     "X2023": 77,
     "X2024": 73,
     "X2025": 97,
-    "X2026": 32
+    "X2026": 33
   },
   {
     "Neighborhood": "Lowry Hill",
@@ -3650,7 +3650,7 @@
   {
     "Neighborhood": "McKinley",
     "Offense": "Total",
-    "X2020": 215,
+    "X2020": 214,
     "X2021": 457,
     "X2022": 281,
     "X2023": 189,
@@ -3672,7 +3672,7 @@
   {
     "Neighborhood": "Midtown Phillips",
     "Offense": "Total",
-    "X2020": 170,
+    "X2020": 169,
     "X2021": 342,
     "X2022": 359,
     "X2023": 161,
@@ -3700,12 +3700,12 @@
     "X2023": 4,
     "X2024": 2,
     "X2025": 5,
-    "X2026": 2
+    "X2026": 3
   },
   {
     "Neighborhood": "Near - North",
     "Offense": "Total",
-    "X2020": 390,
+    "X2020": 386,
     "X2021": 733,
     "X2022": 641,
     "X2023": 427,
@@ -3733,7 +3733,7 @@
     "X2023": 17,
     "X2024": 19,
     "X2025": 15,
-    "X2026": 3
+    "X2026": 4
   },
   {
     "Neighborhood": "Northeast Park",
@@ -3782,7 +3782,7 @@
   {
     "Neighborhood": "Powderhorn Park",
     "Offense": "Total",
-    "X2020": 246,
+    "X2020": 244,
     "X2021": 269,
     "X2022": 219,
     "X2023": 126,
@@ -3821,7 +3821,7 @@
     "X2023": 89,
     "X2024": 64,
     "X2025": 68,
-    "X2026": 19
+    "X2026": 20
   },
   {
     "Neighborhood": "Sheridan",
@@ -3837,7 +3837,7 @@
   {
     "Neighborhood": "Shingle Creek",
     "Offense": "Total",
-    "X2020": 37,
+    "X2020": 36,
     "X2021": 62,
     "X2022": 35,
     "X2023": 26,
@@ -3865,12 +3865,12 @@
     "X2023": 4,
     "X2024": 14,
     "X2025": 16,
-    "X2026": 5
+    "X2026": 6
   },
   {
     "Neighborhood": "St. Anthony West",
     "Offense": "Total",
-    "X2020": 11,
+    "X2020": 9,
     "X2021": 20,
     "X2022": 18,
     "X2023": 15,
@@ -3969,13 +3969,13 @@
   {
     "Neighborhood": "Webber - Camden",
     "Offense": "Total",
-    "X2020": 331,
+    "X2020": 328,
     "X2021": 516,
     "X2022": 408,
     "X2023": 298,
     "X2024": 235,
     "X2025": 144,
-    "X2026": 83
+    "X2026": 84
   },
   {
     "Neighborhood": "Wenonah",
@@ -3986,7 +3986,7 @@
     "X2023": 31,
     "X2024": 14,
     "X2025": 6,
-    "X2026": 7
+    "X2026": 8
   },
   {
     "Neighborhood": "West Maka Ska",
@@ -4002,7 +4002,7 @@
   {
     "Neighborhood": "Whittier",
     "Offense": "Total",
-    "X2020": 93,
+    "X2020": 92,
     "X2021": 207,
     "X2022": 243,
     "X2023": 247,
@@ -4013,7 +4013,7 @@
   {
     "Neighborhood": "Willard - Hay",
     "Offense": "Total",
-    "X2020": 501,
+    "X2020": 498,
     "X2021": 1025,
     "X2022": 755,
     "X2023": 528,
