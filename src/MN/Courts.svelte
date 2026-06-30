@@ -10,6 +10,7 @@
 
 <h4>Links</h4>
 <ul>
+    <li><a href="https://chs.state.mn.us/Search/SubmitChsSearch">Minnesota Public Criminal History</a></li>
     <li><a href="https://www.mncourts.gov/dashboards">Minnesota District Court Dashboard</a></li>
     <li><a href="https://www.mncourts.gov/Help-Topics/Court-Statistics.aspx#tabRequest">MJB: Data Requests</a></li>
     <li><a href="https://www.mncourts.gov/access-case-records.aspx">MNCIS</a></li>
