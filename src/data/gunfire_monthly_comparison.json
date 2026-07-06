@@ -10,7 +10,7 @@
     "Year": 2020,
     "Month": 7,
     "Offense": "Shooting (PFE)",
-    "IncidentCount": 71,
+    "IncidentCount": 63,
     "Date": "2020-07-01"
   },
   {
@@ -511,10 +511,17 @@
     "Date": "2026-06-01"
   },
   {
+    "Year": 2026,
+    "Month": 7,
+    "Offense": "Shooting (PFE)",
+    "IncidentCount": 2,
+    "Date": "2026-07-01"
+  },
+  {
     "Year": 2020,
     "Month": 7,
     "Offense": "Shooting Report Only (P)",
-    "IncidentCount": 39,
+    "IncidentCount": 35,
     "Date": "2020-07-01"
   },
   {
@@ -1015,17 +1022,24 @@
     "Date": "2026-06-01"
   },
   {
+    "Year": 2026,
+    "Month": 7,
+    "Offense": "Shooting Report Only (P)",
+    "IncidentCount": 3,
+    "Date": "2026-07-01"
+  },
+  {
     "Year": 2020,
     "Month": 6,
     "Offense": "ShotSpotter Activation (P)",
-    "IncidentCount": 11,
+    "IncidentCount": 5,
     "Date": "2020-06-01"
   },
   {
     "Year": 2020,
     "Month": 7,
     "Offense": "ShotSpotter Activation (P)",
-    "IncidentCount": 563,
+    "IncidentCount": 477,
     "Date": "2020-07-01"
   },
   {
@@ -1522,21 +1536,28 @@
     "Year": 2026,
     "Month": 6,
     "Offense": "ShotSpotter Activation (P)",
-    "IncidentCount": 190,
+    "IncidentCount": 195,
     "Date": "2026-06-01"
+  },
+  {
+    "Year": 2026,
+    "Month": 7,
+    "Offense": "ShotSpotter Activation (P)",
+    "IncidentCount": 43,
+    "Date": "2026-07-01"
   },
   {
     "Year": 2020,
     "Month": 6,
     "Offense": "Sound of Shots Fired (P)",
-    "IncidentCount": 10,
+    "IncidentCount": 5,
     "Date": "2020-06-01"
   },
   {
     "Year": 2020,
     "Month": 7,
     "Offense": "Sound of Shots Fired (P)",
-    "IncidentCount": 528,
+    "IncidentCount": 457,
     "Date": "2020-07-01"
   },
   {
@@ -2033,7 +2054,14 @@
     "Year": 2026,
     "Month": 6,
     "Offense": "Sound of Shots Fired (P)",
-    "IncidentCount": 217,
+    "IncidentCount": 224,
     "Date": "2026-06-01"
+  },
+  {
+    "Year": 2026,
+    "Month": 7,
+    "Offense": "Sound of Shots Fired (P)",
+    "IncidentCount": 37,
+    "Date": "2026-07-01"
   }
 ]
