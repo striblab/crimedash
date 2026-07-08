@@ -22,7 +22,7 @@
 "East Harriet","Burglary/Breaking & Entering",18,20,9,7,21,33,17,13
 "East Isles","Burglary/Breaking & Entering",48,72,37,24,54,38,30,6
 "East Phillips","Burglary/Breaking & Entering",47,73,58,37,32,44,28,22
-"Elliot Park","Burglary/Breaking & Entering",41,47,32,45,35,51,46,25
+"Elliot Park","Burglary/Breaking & Entering",41,47,32,45,35,51,46,26
 "Ericsson","Burglary/Breaking & Entering",51,37,24,17,30,20,19,11
 "Field","Burglary/Breaking & Entering",26,18,13,15,15,26,23,12
 "Folwell","Burglary/Breaking & Entering",39,37,25,56,66,74,48,21
@@ -32,15 +32,15 @@
 "Hawthorne","Burglary/Breaking & Entering",48,52,32,57,53,48,50,19
 "Hiawatha","Burglary/Breaking & Entering",51,47,44,66,64,60,78,24
 "Holland","Burglary/Breaking & Entering",35,25,28,23,28,31,23,19
-"Howe","Burglary/Breaking & Entering",59,60,35,66,50,57,71,29
+"Howe","Burglary/Breaking & Entering",59,60,35,66,50,57,71,30
 "Humboldt Industrial Area","Burglary/Breaking & Entering",2,1,1,1,0,1,0,0
 "Jordan","Burglary/Breaking & Entering",66,68,57,82,101,83,79,48
 "Keewaydin","Burglary/Breaking & Entering",17,20,12,25,10,22,26,10
 "Kenny","Burglary/Breaking & Entering",28,24,14,9,8,6,5,4
 "Kenwood","Burglary/Breaking & Entering",6,9,6,5,4,4,3,0
 "King Field","Burglary/Breaking & Entering",83,72,50,45,80,89,55,24
-"Lind - Bohanon","Burglary/Breaking & Entering",70,45,18,20,22,17,21,12
-"Linden Hills","Burglary/Breaking & Entering",32,38,30,21,16,14,7,4
+"Lind - Bohanon","Burglary/Breaking & Entering",70,45,18,20,22,17,21,13
+"Linden Hills","Burglary/Breaking & Entering",32,38,30,21,16,14,7,5
 "Logan Park","Burglary/Breaking & Entering",10,22,21,11,19,16,15,19
 "Longfellow","Burglary/Breaking & Entering",64,88,44,63,67,66,82,28
 "Loring Park","Burglary/Breaking & Entering",55,96,49,51,43,47,34,29
@@ -110,7 +110,7 @@ NA,"Burglary/Breaking & Entering",1,1,5,5,6,3,4,4
 "East Harriet","Total",18,20,9,7,21,33,17,13
 "East Isles","Total",48,72,37,24,54,38,30,6
 "East Phillips","Total",47,73,58,37,32,44,28,22
-"Elliot Park","Total",41,47,32,45,35,51,46,25
+"Elliot Park","Total",41,47,32,45,35,51,46,26
 "Ericsson","Total",51,37,24,17,30,20,19,11
 "Field","Total",26,18,13,15,15,26,23,12
 "Folwell","Total",39,37,25,56,66,74,48,21
@@ -120,15 +120,15 @@ NA,"Burglary/Breaking & Entering",1,1,5,5,6,3,4,4
 "Hawthorne","Total",48,52,32,57,53,48,50,19
 "Hiawatha","Total",51,47,44,66,64,60,78,24
 "Holland","Total",35,25,28,23,28,31,23,19
-"Howe","Total",59,60,35,66,50,57,71,29
+"Howe","Total",59,60,35,66,50,57,71,30
 "Humboldt Industrial Area","Total",2,1,1,1,0,1,0,0
 "Jordan","Total",66,68,57,82,101,83,79,48
 "Keewaydin","Total",17,20,12,25,10,22,26,10
 "Kenny","Total",28,24,14,9,8,6,5,4
 "Kenwood","Total",6,9,6,5,4,4,3,0
 "King Field","Total",83,72,50,45,80,89,55,24
-"Lind - Bohanon","Total",70,45,18,20,22,17,21,12
-"Linden Hills","Total",32,38,30,21,16,14,7,4
+"Lind - Bohanon","Total",70,45,18,20,22,17,21,13
+"Linden Hills","Total",32,38,30,21,16,14,7,5
 "Logan Park","Total",10,22,21,11,19,16,15,19
 "Longfellow","Total",64,88,44,63,67,66,82,28
 "Loring Park","Total",55,96,49,51,43,47,34,29
