@@ -86,10 +86,10 @@
 2026,1,"All Other Larceny",347,2026-01-01
 2026,2,"All Other Larceny",377,2026-02-01
 2026,3,"All Other Larceny",441,2026-03-01
-2026,4,"All Other Larceny",485,2026-04-01
+2026,4,"All Other Larceny",484,2026-04-01
 2026,5,"All Other Larceny",493,2026-05-01
 2026,6,"All Other Larceny",520,2026-06-01
-2026,7,"All Other Larceny",39,2026-07-01
+2026,7,"All Other Larceny",212,2026-07-01
 2019,1,"Theft From Motor Vehicle",282,2019-01-01
 2019,2,"Theft From Motor Vehicle",266,2019-02-01
 2019,3,"Theft From Motor Vehicle",257,2019-03-01
@@ -180,7 +180,7 @@
 2026,4,"Theft From Motor Vehicle",345,2026-04-01
 2026,5,"Theft From Motor Vehicle",425,2026-05-01
 2026,6,"Theft From Motor Vehicle",372,2026-06-01
-2026,7,"Theft From Motor Vehicle",26,2026-07-01
+2026,7,"Theft From Motor Vehicle",120,2026-07-01
 2019,1,"Pocket-picking",2,2019-01-01
 2019,4,"Pocket-picking",4,2019-04-01
 2019,5,"Pocket-picking",2,2019-05-01
@@ -296,7 +296,7 @@
 2026,4,"Purse-snatching",7,2026-04-01
 2026,5,"Purse-snatching",5,2026-05-01
 2026,6,"Purse-snatching",8,2026-06-01
-2026,7,"Purse-snatching",2,2026-07-01
+2026,7,"Purse-snatching",10,2026-07-01
 2019,1,"Shoplifting",65,2019-01-01
 2019,2,"Shoplifting",85,2019-02-01
 2019,3,"Shoplifting",94,2019-03-01
@@ -386,8 +386,8 @@
 2026,3,"Shoplifting",123,2026-03-01
 2026,4,"Shoplifting",91,2026-04-01
 2026,5,"Shoplifting",85,2026-05-01
-2026,6,"Shoplifting",81,2026-06-01
-2026,7,"Shoplifting",10,2026-07-01
+2026,6,"Shoplifting",82,2026-06-01
+2026,7,"Shoplifting",47,2026-07-01
 2019,1,"Theft From Building",24,2019-01-01
 2019,2,"Theft From Building",19,2019-02-01
 2019,3,"Theft From Building",16,2019-03-01
@@ -478,7 +478,7 @@
 2026,4,"Theft From Building",19,2026-04-01
 2026,5,"Theft From Building",16,2026-05-01
 2026,6,"Theft From Building",24,2026-06-01
-2026,7,"Theft From Building",3,2026-07-01
+2026,7,"Theft From Building",12,2026-07-01
 2019,3,"Theft From Coin-Operated Machine or Device",2,2019-03-01
 2019,5,"Theft From Coin-Operated Machine or Device",1,2019-05-01
 2019,6,"Theft From Coin-Operated Machine or Device",1,2019-06-01
@@ -582,5 +582,5 @@
 2026,3,"Theft of Motor Vehicle Parts or Accessories",110,2026-03-01
 2026,4,"Theft of Motor Vehicle Parts or Accessories",118,2026-04-01
 2026,5,"Theft of Motor Vehicle Parts or Accessories",121,2026-05-01
-2026,6,"Theft of Motor Vehicle Parts or Accessories",130,2026-06-01
-2026,7,"Theft of Motor Vehicle Parts or Accessories",12,2026-07-01
+2026,6,"Theft of Motor Vehicle Parts or Accessories",131,2026-06-01
+2026,7,"Theft of Motor Vehicle Parts or Accessories",52,2026-07-01

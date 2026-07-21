@@ -5,16 +5,18 @@
     "Offense": "Negligent Manslaughter"
   },
   {
-    "YTDCount": 0,
+    "YTDCount": 1,
     "Year": 2020,
     "Offense": "Negligent Manslaughter",
     "PrevYTDCount": 2,
-    "YTDPercentageChange": -100
+    "YTDPercentageChange": -50
   },
   {
     "YTDCount": 5,
     "Year": 2021,
-    "Offense": "Negligent Manslaughter"
+    "Offense": "Negligent Manslaughter",
+    "PrevYTDCount": 1,
+    "YTDPercentageChange": 400
   },
   {
     "YTDCount": 0,
@@ -24,7 +26,7 @@
     "YTDPercentageChange": -100
   },
   {
-    "YTDCount": 8,
+    "YTDCount": 10,
     "Year": 2023,
     "Offense": "Negligent Manslaughter"
   },
@@ -32,8 +34,8 @@
     "YTDCount": 1,
     "Year": 2024,
     "Offense": "Negligent Manslaughter",
-    "PrevYTDCount": 8,
-    "YTDPercentageChange": -87.5
+    "PrevYTDCount": 10,
+    "YTDPercentageChange": -90
   },
   {
     "YTDCount": 0,
