@@ -269,7 +269,7 @@
     "Year": 2022,
     "Month": 3,
     "Offense": "Robbery",
-    "IncidentCount": 115,
+    "IncidentCount": 116,
     "Date": "2022-03-01"
   },
   {
@@ -633,7 +633,14 @@
     "Year": 2026,
     "Month": 7,
     "Offense": "Robbery",
-    "IncidentCount": 64,
+    "IncidentCount": 83,
     "Date": "2026-07-01"
+  },
+  {
+    "Year": 2026,
+    "Month": 8,
+    "Offense": "Robbery",
+    "IncidentCount": 8,
+    "Date": "2026-08-01"
   }
 ]

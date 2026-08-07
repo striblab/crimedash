@@ -626,14 +626,21 @@
     "Year": 2026,
     "Month": 6,
     "Offense": "Aggravated Assault",
-    "IncidentCount": 303,
+    "IncidentCount": 301,
     "Date": "2026-06-01"
   },
   {
     "Year": 2026,
     "Month": 7,
     "Offense": "Aggravated Assault",
-    "IncidentCount": 229,
+    "IncidentCount": 281,
     "Date": "2026-07-01"
+  },
+  {
+    "Year": 2026,
+    "Month": 8,
+    "Offense": "Aggravated Assault",
+    "IncidentCount": 48,
+    "Date": "2026-08-01"
   }
 ]

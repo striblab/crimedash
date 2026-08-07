@@ -535,7 +535,14 @@
     "Year": 2026,
     "Month": 7,
     "Offense": "Carjacking - Subset of Robbery",
-    "IncidentCount": 2,
+    "IncidentCount": 5,
     "Date": "2026-07-01"
+  },
+  {
+    "Year": 2026,
+    "Month": 8,
+    "Offense": "Carjacking - Subset of Robbery",
+    "IncidentCount": 1,
+    "Date": "2026-08-01"
   }
 ]

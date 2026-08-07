@@ -1,56 +1,56 @@
 [
   {
-    "YTDCount": 1302,
+    "YTDCount": 1377,
     "Year": 2019,
     "Offense": "Aggravated Assault"
   },
   {
-    "YTDCount": 1556,
+    "YTDCount": 1663,
     "Year": 2020,
     "Offense": "Aggravated Assault",
-    "PrevYTDCount": 1302,
-    "YTDPercentageChange": 19.5084
-  },
-  {
-    "YTDCount": 1635,
-    "Year": 2021,
-    "Offense": "Aggravated Assault",
-    "PrevYTDCount": 1556,
-    "YTDPercentageChange": 5.0771
-  },
-  {
-    "YTDCount": 1787,
-    "Year": 2022,
-    "Offense": "Aggravated Assault",
-    "PrevYTDCount": 1635,
-    "YTDPercentageChange": 9.2966
-  },
-  {
-    "YTDCount": 1660,
-    "Year": 2023,
-    "Offense": "Aggravated Assault",
-    "PrevYTDCount": 1787,
-    "YTDPercentageChange": -7.1069
-  },
-  {
-    "YTDCount": 1689,
-    "Year": 2024,
-    "Offense": "Aggravated Assault",
-    "PrevYTDCount": 1660,
-    "YTDPercentageChange": 1.747
-  },
-  {
-    "YTDCount": 1556,
-    "Year": 2025,
-    "Offense": "Aggravated Assault",
-    "PrevYTDCount": 1689,
-    "YTDPercentageChange": -7.8745
+    "PrevYTDCount": 1377,
+    "YTDPercentageChange": 20.7698
   },
   {
     "YTDCount": 1745,
+    "Year": 2021,
+    "Offense": "Aggravated Assault",
+    "PrevYTDCount": 1663,
+    "YTDPercentageChange": 4.9308
+  },
+  {
+    "YTDCount": 1906,
+    "Year": 2022,
+    "Offense": "Aggravated Assault",
+    "PrevYTDCount": 1745,
+    "YTDPercentageChange": 9.2264
+  },
+  {
+    "YTDCount": 1749,
+    "Year": 2023,
+    "Offense": "Aggravated Assault",
+    "PrevYTDCount": 1906,
+    "YTDPercentageChange": -8.2371
+  },
+  {
+    "YTDCount": 1779,
+    "Year": 2024,
+    "Offense": "Aggravated Assault",
+    "PrevYTDCount": 1749,
+    "YTDPercentageChange": 1.7153
+  },
+  {
+    "YTDCount": 1648,
+    "Year": 2025,
+    "Offense": "Aggravated Assault",
+    "PrevYTDCount": 1779,
+    "YTDPercentageChange": -7.3637
+  },
+  {
+    "YTDCount": 1843,
     "Year": 2026,
     "Offense": "Aggravated Assault",
-    "PrevYTDCount": 1556,
-    "YTDPercentageChange": 12.1465
+    "PrevYTDCount": 1648,
+    "YTDPercentageChange": 11.8325
   }
 ]
