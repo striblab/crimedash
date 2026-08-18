@@ -1,5 +1,5 @@
 "Year","Month","Offense","IncidentCount","Date"
-2020,8,"Shooting (PFE)",53,2020-08-01
+2020,8,"Shooting (PFE)",30,2020-08-01
 2020,9,"Shooting (PFE)",30,2020-09-01
 2020,10,"Shooting (PFE)",59,2020-10-01
 2020,11,"Shooting (PFE)",31,2020-11-01
@@ -71,8 +71,8 @@
 2026,5,"Shooting (PFE)",26,2026-05-01
 2026,6,"Shooting (PFE)",25,2026-06-01
 2026,7,"Shooting (PFE)",16,2026-07-01
-2026,8,"Shooting (PFE)",1,2026-08-01
-2020,8,"Shooting Report Only (P)",21,2020-08-01
+2026,8,"Shooting (PFE)",10,2026-08-01
+2020,8,"Shooting Report Only (P)",11,2020-08-01
 2020,9,"Shooting Report Only (P)",18,2020-09-01
 2020,10,"Shooting Report Only (P)",30,2020-10-01
 2020,11,"Shooting Report Only (P)",17,2020-11-01
@@ -144,8 +144,8 @@
 2026,5,"Shooting Report Only (P)",8,2026-05-01
 2026,6,"Shooting Report Only (P)",11,2026-06-01
 2026,7,"Shooting Report Only (P)",15,2026-07-01
-2026,8,"Shooting Report Only (P)",3,2026-08-01
-2020,8,"ShotSpotter Activation (P)",408,2020-08-01
+2026,8,"Shooting Report Only (P)",8,2026-08-01
+2020,8,"ShotSpotter Activation (P)",235,2020-08-01
 2020,9,"ShotSpotter Activation (P)",461,2020-09-01
 2020,10,"ShotSpotter Activation (P)",502,2020-10-01
 2020,11,"ShotSpotter Activation (P)",360,2020-11-01
@@ -217,8 +217,8 @@
 2026,5,"ShotSpotter Activation (P)",205,2026-05-01
 2026,6,"ShotSpotter Activation (P)",195,2026-06-01
 2026,7,"ShotSpotter Activation (P)",210,2026-07-01
-2026,8,"ShotSpotter Activation (P)",34,2026-08-01
-2020,8,"Sound of Shots Fired (P)",442,2020-08-01
+2026,8,"ShotSpotter Activation (P)",106,2026-08-01
+2020,8,"Sound of Shots Fired (P)",266,2020-08-01
 2020,9,"Sound of Shots Fired (P)",513,2020-09-01
 2020,10,"Sound of Shots Fired (P)",446,2020-10-01
 2020,11,"Sound of Shots Fired (P)",435,2020-11-01
@@ -290,4 +290,4 @@
 2026,5,"Sound of Shots Fired (P)",219,2026-05-01
 2026,6,"Sound of Shots Fired (P)",224,2026-06-01
 2026,7,"Sound of Shots Fired (P)",215,2026-07-01
-2026,8,"Sound of Shots Fired (P)",34,2026-08-01
+2026,8,"Sound of Shots Fired (P)",100,2026-08-01

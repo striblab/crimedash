@@ -15,7 +15,7 @@
 "East Phillips","Carjacking - Subset of Robbery",2,25,18,10,12,5,2
 "Elliot Park","Carjacking - Subset of Robbery",1,2,9,8,4,2,0
 "Field","Carjacking - Subset of Robbery",1,5,1,2,1,2,0
-"Folwell","Carjacking - Subset of Robbery",1,9,6,6,9,4,1
+"Folwell","Carjacking - Subset of Robbery",1,9,6,6,9,4,2
 "Fulton","Carjacking - Subset of Robbery",1,3,0,1,1,0,0
 "Harrison","Carjacking - Subset of Robbery",1,17,13,6,0,2,0
 "Hawthorne","Carjacking - Subset of Robbery",7,17,19,7,10,3,1
@@ -47,7 +47,7 @@
 "Ventura Village","Carjacking - Subset of Robbery",12,36,29,14,12,9,4
 "Webber - Camden","Carjacking - Subset of Robbery",1,6,5,4,3,3,0
 "Whittier","Carjacking - Subset of Robbery",13,46,41,25,14,9,5
-"Willard - Hay","Carjacking - Subset of Robbery",4,9,17,13,5,2,3
+"Willard - Hay","Carjacking - Subset of Robbery",4,9,17,13,5,2,4
 "Windom Park","Carjacking - Subset of Robbery",1,4,2,1,1,3,3
 NA,"Carjacking - Subset of Robbery",2,3,2,2,1,3,1
 "Armatage","Carjacking - Subset of Robbery",0,1,1,1,0,0,0
@@ -103,7 +103,7 @@ NA,"Carjacking - Subset of Robbery",2,3,2,2,1,3,1
 "East Phillips","Total",2,25,18,10,12,5,2
 "Elliot Park","Total",1,2,9,8,4,2,0
 "Field","Total",1,5,1,2,1,2,0
-"Folwell","Total",1,9,6,6,9,4,1
+"Folwell","Total",1,9,6,6,9,4,2
 "Fulton","Total",1,3,0,1,1,0,0
 "Harrison","Total",1,17,13,6,0,2,0
 "Hawthorne","Total",7,17,19,7,10,3,1
@@ -135,7 +135,7 @@ NA,"Carjacking - Subset of Robbery",2,3,2,2,1,3,1
 "Ventura Village","Total",12,36,29,14,12,9,4
 "Webber - Camden","Total",1,6,5,4,3,3,0
 "Whittier","Total",13,46,41,25,14,9,5
-"Willard - Hay","Total",4,9,17,13,5,2,3
+"Willard - Hay","Total",4,9,17,13,5,2,4
 "Windom Park","Total",1,4,2,1,1,3,3
 NA,"Total",2,3,2,2,1,3,1
 "Armatage","Total",0,1,1,1,0,0,0
