@@ -57,7 +57,7 @@
     "X2023": 4,
     "X2024": 6,
     "X2025": 3,
-    "X2026": 2
+    "X2026": 3
   },
   {
     "Neighborhood": "Elliot Park",
@@ -745,6 +745,18 @@
   },
   {
     "Neighborhood": "Morris Park",
+    "Offense": "Murder and Nonnegligent Manslaughter",
+    "X2019": 0,
+    "X2020": 0,
+    "X2021": 0,
+    "X2022": 0,
+    "X2023": 0,
+    "X2024": 0,
+    "X2025": 0,
+    "X2026": 1
+  },
+  {
+    "Neighborhood": "Regina",
     "Offense": "Murder and Nonnegligent Manslaughter",
     "X2019": 0,
     "X2020": 0,
@@ -813,7 +825,7 @@
     "X2023": 4,
     "X2024": 6,
     "X2025": 3,
-    "X2026": 2
+    "X2026": 3
   },
   {
     "Neighborhood": "Elliot Park",
@@ -1501,6 +1513,18 @@
   },
   {
     "Neighborhood": "Morris Park",
+    "Offense": "Total",
+    "X2019": 0,
+    "X2020": 0,
+    "X2021": 0,
+    "X2022": 0,
+    "X2023": 0,
+    "X2024": 0,
+    "X2025": 0,
+    "X2026": 1
+  },
+  {
+    "Neighborhood": "Regina",
     "Offense": "Total",
     "X2019": 0,
     "X2020": 0,
