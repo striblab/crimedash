@@ -598,7 +598,7 @@
     "Year": 2026,
     "Month": 2,
     "Offense": "Domestic Aggravated Assault - Subset of Assault",
-    "IncidentCount": 113,
+    "IncidentCount": 112,
     "Date": "2026-02-01"
   },
   {
@@ -640,7 +640,14 @@
     "Year": 2026,
     "Month": 8,
     "Offense": "Domestic Aggravated Assault - Subset of Assault",
-    "IncidentCount": 93,
+    "IncidentCount": 98,
     "Date": "2026-08-01"
+  },
+  {
+    "Year": 2026,
+    "Month": 9,
+    "Offense": "Domestic Aggravated Assault - Subset of Assault",
+    "IncidentCount": 58,
+    "Date": "2026-09-01"
   }
 ]

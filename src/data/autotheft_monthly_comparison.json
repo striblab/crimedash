@@ -633,14 +633,21 @@
     "Year": 2026,
     "Month": 7,
     "Offense": "Motor Vehicle Theft",
-    "IncidentCount": 406,
+    "IncidentCount": 405,
     "Date": "2026-07-01"
   },
   {
     "Year": 2026,
     "Month": 8,
     "Offense": "Motor Vehicle Theft",
-    "IncidentCount": 429,
+    "IncidentCount": 438,
     "Date": "2026-08-01"
+  },
+  {
+    "Year": 2026,
+    "Month": 9,
+    "Offense": "Motor Vehicle Theft",
+    "IncidentCount": 165,
+    "Date": "2026-09-01"
   }
 ]

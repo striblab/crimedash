@@ -612,7 +612,7 @@
     "Year": 2026,
     "Month": 4,
     "Offense": "Sex Offenses",
-    "IncidentCount": 89,
+    "IncidentCount": 95,
     "Date": "2026-04-01"
   },
   {
@@ -640,7 +640,14 @@
     "Year": 2026,
     "Month": 8,
     "Offense": "Sex Offenses",
-    "IncidentCount": 65,
+    "IncidentCount": 73,
     "Date": "2026-08-01"
+  },
+  {
+    "Year": 2026,
+    "Month": 9,
+    "Offense": "Sex Offenses",
+    "IncidentCount": 40,
+    "Date": "2026-09-01"
   }
 ]
