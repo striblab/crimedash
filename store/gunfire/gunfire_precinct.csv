@@ -1,9 +1,9 @@
 "Year","Precinct","Offense","OffenseCount"
 2020,1,"Shooting (PFE)",13
 2020,2,"Shooting (PFE)",1
-2020,3,"Shooting (PFE)",36
-2020,4,"Shooting (PFE)",64
-2020,5,"Shooting (PFE)",11
+2020,3,"Shooting (PFE)",35
+2020,4,"Shooting (PFE)",57
+2020,5,"Shooting (PFE)",10
 2020,NA,"Shooting (PFE)",1
 2021,1,"Shooting (PFE)",60
 2021,2,"Shooting (PFE)",39
@@ -34,13 +34,13 @@
 2025,4,"Shooting (PFE)",91
 2025,5,"Shooting (PFE)",38
 2026,1,"Shooting (PFE)",17
-2026,2,"Shooting (PFE)",21
+2026,2,"Shooting (PFE)",22
 2026,3,"Shooting (PFE)",41
 2026,4,"Shooting (PFE)",47
 2026,5,"Shooting (PFE)",33
-2020,1,"Shooting Report Only (P)",23
+2020,1,"Shooting Report Only (P)",22
 2020,3,"Shooting Report Only (P)",10
-2020,4,"Shooting Report Only (P)",35
+2020,4,"Shooting Report Only (P)",34
 2020,NA,"Shooting Report Only (P)",1
 2021,1,"Shooting Report Only (P)",78
 2021,2,"Shooting Report Only (P)",7
@@ -72,15 +72,14 @@
 2025,4,"Shooting Report Only (P)",33
 2025,5,"Shooting Report Only (P)",3
 2025,NA,"Shooting Report Only (P)",7
-2026,1,"Shooting Report Only (P)",24
-2026,2,"Shooting Report Only (P)",1
+2026,1,"Shooting Report Only (P)",23
+2026,2,"Shooting Report Only (P)",2
 2026,3,"Shooting Report Only (P)",12
 2026,4,"Shooting Report Only (P)",27
-2026,5,"Shooting Report Only (P)",3
+2026,5,"Shooting Report Only (P)",4
 2026,NA,"Shooting Report Only (P)",2
-2020,1,"ShotSpotter Activation (P)",1
-2020,3,"ShotSpotter Activation (P)",193
-2020,4,"ShotSpotter Activation (P)",1137
+2020,3,"ShotSpotter Activation (P)",183
+2020,4,"ShotSpotter Activation (P)",1064
 2020,5,"ShotSpotter Activation (P)",4
 2021,1,"ShotSpotter Activation (P)",5
 2021,3,"ShotSpotter Activation (P)",852
@@ -113,15 +112,15 @@
 2025,NA,"ShotSpotter Activation (P)",8
 2026,1,"ShotSpotter Activation (P)",18
 2026,2,"ShotSpotter Activation (P)",1
-2026,3,"ShotSpotter Activation (P)",276
-2026,4,"ShotSpotter Activation (P)",1089
-2026,5,"ShotSpotter Activation (P)",109
+2026,3,"ShotSpotter Activation (P)",282
+2026,4,"ShotSpotter Activation (P)",1108
+2026,5,"ShotSpotter Activation (P)",111
 2026,NA,"ShotSpotter Activation (P)",4
-2020,1,"Sound of Shots Fired (P)",79
-2020,2,"Sound of Shots Fired (P)",95
-2020,3,"Sound of Shots Fired (P)",384
-2020,4,"Sound of Shots Fired (P)",618
-2020,5,"Sound of Shots Fired (P)",136
+2020,1,"Sound of Shots Fired (P)",70
+2020,2,"Sound of Shots Fired (P)",90
+2020,3,"Sound of Shots Fired (P)",353
+2020,4,"Sound of Shots Fired (P)",560
+2020,5,"Sound of Shots Fired (P)",123
 2020,NA,"Sound of Shots Fired (P)",1
 2021,1,"Sound of Shots Fired (P)",409
 2021,2,"Sound of Shots Fired (P)",311
@@ -153,9 +152,9 @@
 2025,4,"Sound of Shots Fired (P)",626
 2025,5,"Sound of Shots Fired (P)",448
 2025,NA,"Sound of Shots Fired (P)",6
-2026,1,"Sound of Shots Fired (P)",109
-2026,2,"Sound of Shots Fired (P)",188
-2026,3,"Sound of Shots Fired (P)",458
-2026,4,"Sound of Shots Fired (P)",456
-2026,5,"Sound of Shots Fired (P)",302
+2026,1,"Sound of Shots Fired (P)",111
+2026,2,"Sound of Shots Fired (P)",193
+2026,3,"Sound of Shots Fired (P)",468
+2026,4,"Sound of Shots Fired (P)",461
+2026,5,"Sound of Shots Fired (P)",303
 2026,NA,"Sound of Shots Fired (P)",7

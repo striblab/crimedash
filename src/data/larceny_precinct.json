@@ -248,31 +248,31 @@
     "Year": 2026,
     "Precinct": 1,
     "Offense": "All Other Larceny",
-    "OffenseCount": 988
+    "OffenseCount": 1007
   },
   {
     "Year": 2026,
     "Precinct": 2,
     "Offense": "All Other Larceny",
-    "OffenseCount": 751
+    "OffenseCount": 772
   },
   {
     "Year": 2026,
     "Precinct": 3,
     "Offense": "All Other Larceny",
-    "OffenseCount": 995
+    "OffenseCount": 1027
   },
   {
     "Year": 2026,
     "Precinct": 4,
     "Offense": "All Other Larceny",
-    "OffenseCount": 643
+    "OffenseCount": 667
   },
   {
     "Year": 2026,
     "Precinct": 5,
     "Offense": "All Other Larceny",
-    "OffenseCount": 855
+    "OffenseCount": 886
   },
   {
     "Year": 2026,
@@ -528,31 +528,31 @@
     "Year": 2026,
     "Precinct": 1,
     "Offense": "Theft From Motor Vehicle",
-    "OffenseCount": 611
+    "OffenseCount": 625
   },
   {
     "Year": 2026,
     "Precinct": 2,
     "Offense": "Theft From Motor Vehicle",
-    "OffenseCount": 560
+    "OffenseCount": 569
   },
   {
     "Year": 2026,
     "Precinct": 3,
     "Offense": "Theft From Motor Vehicle",
-    "OffenseCount": 820
+    "OffenseCount": 837
   },
   {
     "Year": 2026,
     "Precinct": 4,
     "Offense": "Theft From Motor Vehicle",
-    "OffenseCount": 334
+    "OffenseCount": 343
   },
   {
     "Year": 2026,
     "Precinct": 5,
     "Offense": "Theft From Motor Vehicle",
-    "OffenseCount": 800
+    "OffenseCount": 816
   },
   {
     "Year": 2026,
@@ -907,7 +907,7 @@
     "Year": 2026,
     "Precinct": 3,
     "Offense": "Purse-snatching",
-    "OffenseCount": 17
+    "OffenseCount": 18
   },
   {
     "Year": 2026,
@@ -920,6 +920,11 @@
     "Precinct": 5,
     "Offense": "Purse-snatching",
     "OffenseCount": 6
+  },
+  {
+    "Year": 2026,
+    "Offense": "Purse-snatching",
+    "OffenseCount": 1
   },
   {
     "Year": 2019,
@@ -1145,19 +1150,19 @@
     "Year": 2026,
     "Precinct": 1,
     "Offense": "Shoplifting",
-    "OffenseCount": 191
+    "OffenseCount": 198
   },
   {
     "Year": 2026,
     "Precinct": 2,
     "Offense": "Shoplifting",
-    "OffenseCount": 211
+    "OffenseCount": 214
   },
   {
     "Year": 2026,
     "Precinct": 3,
     "Offense": "Shoplifting",
-    "OffenseCount": 203
+    "OffenseCount": 210
   },
   {
     "Year": 2026,
@@ -1169,7 +1174,12 @@
     "Year": 2026,
     "Precinct": 5,
     "Offense": "Shoplifting",
-    "OffenseCount": 119
+    "OffenseCount": 128
+  },
+  {
+    "Year": 2026,
+    "Offense": "Shoplifting",
+    "OffenseCount": 1
   },
   {
     "Year": 2019,
@@ -1402,7 +1412,7 @@
     "Year": 2026,
     "Precinct": 3,
     "Offense": "Theft From Building",
-    "OffenseCount": 34
+    "OffenseCount": 35
   },
   {
     "Year": 2026,
@@ -1486,7 +1496,7 @@
     "Year": 2026,
     "Precinct": 5,
     "Offense": "Theft From Coin-Operated Machine or Device",
-    "OffenseCount": 1
+    "OffenseCount": 2
   },
   {
     "Year": 2019,
@@ -1732,31 +1742,31 @@
     "Year": 2026,
     "Precinct": 1,
     "Offense": "Theft of Motor Vehicle Parts or Accessories",
-    "OffenseCount": 81
+    "OffenseCount": 80
   },
   {
     "Year": 2026,
     "Precinct": 2,
     "Offense": "Theft of Motor Vehicle Parts or Accessories",
-    "OffenseCount": 190
+    "OffenseCount": 197
   },
   {
     "Year": 2026,
     "Precinct": 3,
     "Offense": "Theft of Motor Vehicle Parts or Accessories",
-    "OffenseCount": 387
+    "OffenseCount": 388
   },
   {
     "Year": 2026,
     "Precinct": 4,
     "Offense": "Theft of Motor Vehicle Parts or Accessories",
-    "OffenseCount": 119
+    "OffenseCount": 122
   },
   {
     "Year": 2026,
     "Precinct": 5,
     "Offense": "Theft of Motor Vehicle Parts or Accessories",
-    "OffenseCount": 199
+    "OffenseCount": 206
   },
   {
     "Year": 2026,
