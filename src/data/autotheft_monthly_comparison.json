@@ -626,14 +626,14 @@
     "Year": 2026,
     "Month": 6,
     "Offense": "Motor Vehicle Theft",
-    "IncidentCount": 392,
+    "IncidentCount": 393,
     "Date": "2026-06-01"
   },
   {
     "Year": 2026,
     "Month": 7,
     "Offense": "Motor Vehicle Theft",
-    "IncidentCount": 406,
+    "IncidentCount": 407,
     "Date": "2026-07-01"
   },
   {
@@ -647,7 +647,14 @@
     "Year": 2026,
     "Month": 9,
     "Offense": "Motor Vehicle Theft",
-    "IncidentCount": 312,
+    "IncidentCount": 332,
     "Date": "2026-09-01"
+  },
+  {
+    "Year": 2026,
+    "Month": 10,
+    "Offense": "Motor Vehicle Theft",
+    "IncidentCount": 111,
+    "Date": "2026-10-01"
   }
 ]

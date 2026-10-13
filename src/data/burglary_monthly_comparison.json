@@ -633,7 +633,7 @@
     "Year": 2026,
     "Month": 7,
     "Offense": "Burglary/Breaking & Entering",
-    "IncidentCount": 210,
+    "IncidentCount": 211,
     "Date": "2026-07-01"
   },
   {
@@ -647,7 +647,14 @@
     "Year": 2026,
     "Month": 9,
     "Offense": "Burglary/Breaking & Entering",
-    "IncidentCount": 211,
+    "IncidentCount": 243,
     "Date": "2026-09-01"
+  },
+  {
+    "Year": 2026,
+    "Month": 10,
+    "Offense": "Burglary/Breaking & Entering",
+    "IncidentCount": 48,
+    "Date": "2026-10-01"
   }
 ]

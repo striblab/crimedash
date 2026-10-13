@@ -647,7 +647,14 @@
     "Year": 2026,
     "Month": 9,
     "Offense": "Robbery",
-    "IncidentCount": 80,
+    "IncidentCount": 84,
     "Date": "2026-09-01"
+  },
+  {
+    "Year": 2026,
+    "Month": 10,
+    "Offense": "Robbery",
+    "IncidentCount": 23,
+    "Date": "2026-10-01"
   }
 ]

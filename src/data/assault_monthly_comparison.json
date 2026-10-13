@@ -598,7 +598,7 @@
     "Year": 2026,
     "Month": 2,
     "Offense": "Aggravated Assault",
-    "IncidentCount": 219,
+    "IncidentCount": 220,
     "Date": "2026-02-01"
   },
   {
@@ -626,14 +626,14 @@
     "Year": 2026,
     "Month": 6,
     "Offense": "Aggravated Assault",
-    "IncidentCount": 300,
+    "IncidentCount": 299,
     "Date": "2026-06-01"
   },
   {
     "Year": 2026,
     "Month": 7,
     "Offense": "Aggravated Assault",
-    "IncidentCount": 307,
+    "IncidentCount": 306,
     "Date": "2026-07-01"
   },
   {
@@ -647,7 +647,14 @@
     "Year": 2026,
     "Month": 9,
     "Offense": "Aggravated Assault",
-    "IncidentCount": 231,
+    "IncidentCount": 253,
     "Date": "2026-09-01"
+  },
+  {
+    "Year": 2026,
+    "Month": 10,
+    "Offense": "Aggravated Assault",
+    "IncidentCount": 63,
+    "Date": "2026-10-01"
   }
 ]
